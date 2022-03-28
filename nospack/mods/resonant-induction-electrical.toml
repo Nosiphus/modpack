@@ -1,0 +1,8 @@
+name = "Resonant Induction Electrical"
+filename = "Resonant-Induction-0.3.1.369-electrical.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/resonant-induction/1.6.4/Resonant-Induction-0.3.1.369-electrical.jar"
+hash-format = "sha1"
+hash = "ba5139194d316e0bbf6e705d737be5391cc876bc"

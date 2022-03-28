@@ -1,0 +1,8 @@
+name = "Resonant Induction Archaic"
+filename = "Resonant-Induction-0.3.1.369-archaic.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/resonant-induction/1.6.4/Resonant-Induction-0.3.1.369-archaic.jar"
+hash-format = "sha1"
+hash = "d647203466551dd07245cb40e706c9b5c1eaebed"

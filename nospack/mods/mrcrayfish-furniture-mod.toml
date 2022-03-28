@@ -1,0 +1,8 @@
+name = "MrCrayfish's Furniture Mod"
+filename = "cfm-3.3.4-mc1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/cfm/1.6.4/cfm-3.3.4-mc1.6.4.jar"
+hash-format = "sha1"
+hash = "58eee85170d7aff783fdbf277734ee191cfd77c3"

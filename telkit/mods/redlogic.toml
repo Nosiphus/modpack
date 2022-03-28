@@ -1,0 +1,8 @@
+name = "RedLogic"
+filename = "redlogic-59.1.3.jar"
+side = "both"
+
+[download]
+url = "http://immibis.com/mcmoddl/files/redlogic-59.1.13.jar"
+hash-format = "sha1"
+hash = "ab0581fa909daa8e089ac4cf4b423b597175c589"

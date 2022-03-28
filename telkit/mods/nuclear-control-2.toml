@@ -1,0 +1,13 @@
+name = "Nuclear Control 2"
+filename = "IC2NuclearControl-2.4.3a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2464/673/IC2NuclearControl-2.4.3a.jar"
+hash-format = "sha1"
+hash = "4d915560d2ed2115bb6162200d3a1726c9c6d003"
+
+[update]
+[update.curseforge]
+file-id = 2464673
+project-id = 236813

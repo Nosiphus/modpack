@@ -1,0 +1,13 @@
+name = "The Five Nights at Freddy's Mod"
+filename = "Five Nights at Freddys Mod Update 2 Patch 2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3633/469/Five%20Nights%20at%20Freddy%27s%20Mod%20Update%202%20Patch%202.jar"
+hash-format = "sha1"
+hash = "cc0202503537f2ac0c085e38d548f4cefb7cb4c5"
+
+[update]
+[update.curseforge]
+file-id = 3633469
+project-id = 513493

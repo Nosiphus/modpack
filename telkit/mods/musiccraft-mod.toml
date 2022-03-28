@@ -1,0 +1,13 @@
+name = "MusicCraft mod"
+filename = "musiccraft-2.9.9.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2490/934/musiccraft-2.9.9.3.jar"
+hash-format = "sha1"
+hash = "a7cdb2a354fb731934c450c42ba08675abf5e04c"
+
+[update]
+[update.curseforge]
+file-id = 2490934
+project-id = 271228

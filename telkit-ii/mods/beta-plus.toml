@@ -1,0 +1,13 @@
+name = "Beta+"
+filename = "betaplus-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2683/738/betaplus-0.4.1.jar"
+hash-format = "sha1"
+hash = "595a13ada99a0b4ff39fe77dfa543333e4636e14"
+
+[update]
+[update.curseforge]
+file-id = 2683738
+project-id = 290960

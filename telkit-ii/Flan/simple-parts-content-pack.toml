@@ -1,0 +1,8 @@
+name = "Simple Parts Content Pack"
+filename = "Simple.Parts-Content.Pack-1.12.2-5.6.0-beta.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FlansMods/FlansMod/releases/download/v5.6-beta.10/Simple.Parts-Content.Pack-1.12.2-5.6.0-beta.10.jar"
+hash-format = "sha1"
+hash = "1bc4ed0d75bcee016e86b521f35e28ccbc9a4323"

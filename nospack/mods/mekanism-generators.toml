@@ -1,0 +1,8 @@
+name = "Mekanism Generators"
+filename = "MekanismGenerators-6.0.5.46.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/mekanism/1.6.4/MekanismGenerators-6.0.5.46.jar"
+hash-format = "sha1"
+hash = "580c46240a2c0f87f6470c3217a40a6a6808deb6"

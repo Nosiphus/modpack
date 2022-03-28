@@ -1,0 +1,13 @@
+name = "Resonant Engine"
+filename = "Resonant-Engine-1.2.0.349-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2251/709/Resonant-Engine-1.2.0.349-universal.jar"
+hash-format = "sha1"
+hash = "ed02644c3ca497371db18c2d00cfa31350ba34f1"
+
+[update]
+[update.curseforge]
+file-id = 2251709
+project-id = 225489

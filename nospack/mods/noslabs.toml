@@ -1,0 +1,8 @@
+name = "NosLabs"
+filename = "noslabs-1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://www.nosiphus.com/minecraft/mods/noslabs-custom-blocks/releases/noslabs-1.6.4.jar"
+hash-format = "sha1"
+hash = "909e571227ce8dcbe62b567553b1e864230abccd"

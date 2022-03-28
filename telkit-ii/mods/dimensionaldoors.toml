@@ -1,0 +1,8 @@
+name = "Dimensional Doors"
+filename = "DimensionalDoors-1.12.2-3.0.9-306.jar"
+side = "both"
+
+[download]
+url = "https://github.com/DimensionalDevelopment/DimDoors/releases/download/untagged-006689af32dd7475f546/DimensionalDoors-1.12.2-3.0.9-306.jar"
+hash-format = "sha1"
+hash = "827664ac788d129632d856b899fa3447658d437f"

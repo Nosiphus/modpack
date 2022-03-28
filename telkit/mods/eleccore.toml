@@ -1,0 +1,13 @@
+name = "ElecCore"
+filename = "ElecCore-1.7.10-1.4.294.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2309/856/ElecCore-1.7.10-1.4.294.jar"
+hash-format = "sha1"
+hash = "061ba8f143259508c6e75ecada6ea6720856e687"
+
+[update]
+[update.curseforge]
+file-id = 2309856
+project-id = 227391

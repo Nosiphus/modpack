@@ -1,0 +1,8 @@
+name = "Resonant Induction Core"
+filename = "Resonant-Induction-0.3.1.369-Resonant-Induction Core.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/resonant-induction/1.6.4/Resonant-Induction-0.3.1.369-Resonant-Induction%20Core.jar"
+hash-format = "sha1"
+hash = "627bf5d7c2ffb20622315add5fae012760ed7ac6"

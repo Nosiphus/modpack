@@ -1,0 +1,8 @@
+name = "Ye Olde Content Pack"
+filename = "Ye.Olde-Content.Pack-1.12.2-5.6.0-beta.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FlansMods/FlansMod/releases/download/v5.6-beta.10/Ye.Olde-Content.Pack-1.12.2-5.6.0-beta.10.jar"
+hash-format = "sha1"
+hash = "d32bcb252b6350ff836c629e5cf3774a75658227"

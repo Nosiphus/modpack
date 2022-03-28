@@ -1,0 +1,13 @@
+name = "AI Improvements"
+filename = "AIImprovements-1.12.1-0.0.1b1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2468/387/AIImprovements-1.12.1-0.0.1b1.jar"
+hash-format = "sha1"
+hash = "b49ed074fcf4cf3e332d10b0f057c25a26fa9fda"
+
+[update]
+[update.curseforge]
+file-id = 2468387
+project-id = 233019

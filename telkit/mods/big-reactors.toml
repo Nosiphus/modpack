@@ -1,0 +1,8 @@
+name = "Big Reactors"
+filename = "BigReactors-0.4.5B.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/big-reactors/1.7.10/BigReactors-0.4.5B.jar"
+hash-format = "sha1"
+hash = "308ee9abf4cb74ee2b39a740eeb6539a23f85985"

@@ -1,0 +1,8 @@
+name = "Carpenter's Blocks"
+filename = "Carpenter's Blocks v3.4.0-poc.6 - MC 1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://drive.google.com/uc?export=download&id=1tp02FEl4tEOYzkJTM8x_SMiFmyrEU2Ey"
+hash-format = "sha1"
+hash = "eef96daa067cec2bd8ea86e6054503e2894fc3ec"

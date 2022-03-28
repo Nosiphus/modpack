@@ -1,0 +1,16 @@
+name = "Telkit III"
+author = "Nosiphus"
+version = "2022.03.28"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b56be7635a57e95f9720b4840726cdc5766fecfdb7f5fa80b15eb027446476f2"
+
+[versions]
+forge = "36.2.33"
+minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16.2", "1.16.3", "1.16.4"]

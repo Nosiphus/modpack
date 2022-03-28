@@ -1,0 +1,8 @@
+name = "Resonant Induction Mechanical"
+filename = "Resonant-Induction-0.3.1.369-mechanical.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/resonant-induction/1.6.4/Resonant-Induction-0.3.1.369-mechanical.jar"
+hash-format = "sha1"
+hash = "58d20088ea7ae57f5f1254ce9336dee7ed4e19c7"

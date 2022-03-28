@@ -1,0 +1,8 @@
+name = "Nerf Content Pack"
+filename = "Nerf-Content.Pack-1.7.10-4.10.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FlansMods/FlansMod/releases/download/v4.10.0/Nerf-Content.Pack-1.7.10-4.10.0.jar"
+hash-format = "sha1"
+hash = "85c9732fbcd08ed59aa676ac023ef3c6d59b850b"

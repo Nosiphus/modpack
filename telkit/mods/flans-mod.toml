@@ -1,0 +1,8 @@
+name = "Flan's Mod"
+filename = "Flan.s.Mod-1.7.10-4.10.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FlansMods/FlansMod/releases/download/v4.10.0/Flan.s.Mod-1.7.10-4.10.0.jar"
+hash-format = "sha1"
+hash = "72b0f7cd4cd1a22e634ef2a36992e71781d2a6cb"

@@ -1,0 +1,13 @@
+name = "Sit"
+filename = "sit-1.16.5-v1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3235/524/sit-1.16.5-v1.3.1.jar"
+hash-format = "sha1"
+hash = "e4495a0dce0e7ddbbd5cfd34acc86a6d63955ab8"
+
+[update]
+[update.curseforge]
+file-id = 3235524
+project-id = 278717

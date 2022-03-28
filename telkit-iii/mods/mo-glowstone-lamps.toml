@@ -1,0 +1,13 @@
+name = "Mo' Glowstone Lamps"
+filename = "Mo-Glowstone-Lamps-1.16.4-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3106/409/Mo-Glowstone-Lamps-1.16.4-1.1.0.jar"
+hash-format = "sha1"
+hash = "7c17f132bda8952a94ecc3829830fd76c3d83e54"
+
+[update]
+[update.curseforge]
+file-id = 3106409
+project-id = 418299

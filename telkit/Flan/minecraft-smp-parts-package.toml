@@ -1,0 +1,8 @@
+name = "Minecraft SMP Parts Package"
+filename = "Minecraft SMP Parts Package 4.0-Content Pack-1.7.10-4.10.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/flans-mod-content-packs/1.7.10/Minecraft%20SMP%20Parts%20Package%204.0-Content%20Pack-1.7.10-4.10.0.jar"
+hash-format = "sha1"
+hash = "c127e5b6835f71c1d9a8d5dc98b57dc0bb119452"

@@ -1,0 +1,8 @@
+name = "ICBM Explosion"
+filename = "ICBM_Explosion_v1.2.1.172.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/icbm/1.5.2/ICBM_Explosion_v1.2.1.172.jar"
+hash-format = "sha1"
+hash = "0c504445015294af0f62ecd83315f7dfd55efc51"

@@ -1,0 +1,13 @@
+name = "Lucraft: Core"
+filename = "LucraftCore-1.12.2-2.4.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3380/490/LucraftCore-1.12.2-2.4.16.jar"
+hash-format = "sha1"
+hash = "79575ec2cda5d8687a125466c373804fb7045e32"
+
+[update]
+[update.curseforge]
+file-id = 3380490
+project-id = 230651

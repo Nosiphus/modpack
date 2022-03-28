@@ -1,0 +1,13 @@
+name = "ComputerCraft"
+filename = "ComputerCraft1.63.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/785/780/ComputerCraft1.63.jar"
+hash-format = "sha1"
+hash = "2bcd9ddba086a0df5ed7e59e2ef9933609554e02"
+
+[update]
+[update.curseforge]
+file-id = 785780
+project-id = 67504

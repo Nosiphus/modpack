@@ -1,0 +1,13 @@
+name = "CTD Core"
+filename = "CTD-Core-1.16.5-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3486/508/CTD-Core-1.16.5-2.1.1.jar"
+hash-format = "sha1"
+hash = "dcbcd0d0574243e612400a8a86ed383bc71058de"
+
+[update]
+[update.curseforge]
+file-id = 3486508
+project-id = 258186

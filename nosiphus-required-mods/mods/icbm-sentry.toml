@@ -1,0 +1,8 @@
+name = "ICBM Sentry"
+filename = "ICBM_Sentry_v1.2.1.172.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/icbm/1.5.2/ICBM_Sentry_v1.2.1.172.jar"
+hash-format = "sha1"
+hash = "8847f9eed291f9005ffa3801f5e4a1db8496495c"

@@ -1,0 +1,8 @@
+name = "IC2 Fixes"
+filename = "IC2Fixes.jar"
+side = "both"
+
+[download]
+url = "http://www.mirc.cz/IC2Fixes.jar"
+hash-format = "sha1"
+hash = "052fc05aaa6e5050cffcac0f390df7f92d3a6734"

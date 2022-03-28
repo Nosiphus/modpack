@@ -1,0 +1,8 @@
+name = "CodeChickenLib"
+filename = "CodeChickenLib-universal-1.6.4-1.0.0.62.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/codechickenlib/1.6.4/CodeChickenLib-universal-1.6.4-1.0.0.62.jar"
+hash-format = "sha1"
+hash = "e259a7b676fb18b14dc80787fe8655f44598a655"

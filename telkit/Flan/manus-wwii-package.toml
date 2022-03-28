@@ -1,0 +1,8 @@
+name = "Manus World War II Package"
+filename = "Manus WW2 Package 4.0-Content Pack-1.7.10-4.10.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/flans-mod-content-packs/1.7.10/Manus%20WW2%20Package%204.0-Content%20Pack-1.7.10-4.10.0.jar"
+hash-format = "sha1"
+hash = "958654788c4819b0a372ed5b49ab7e9172d005da"

@@ -1,0 +1,13 @@
+name = "Waila"
+filename = "Waila_1.3.10_1.5.2.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/785/109/Waila_1.3.10_1.5.2.zip"
+hash-format = "sha1"
+hash = "82aa2153185771ba964765de3670c699c7813d79"
+
+[update]
+[update.curseforge]
+file-id = 785109
+project-id = 73488

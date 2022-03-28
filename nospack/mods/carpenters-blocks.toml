@@ -1,0 +1,13 @@
+name = "Carpenter's Blocks"
+filename = "Carpenter's Blocks v3.2.8.6 - MC 1.6.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2231/586/Carpenter%27s%20Blocks%20v3.2.8.6%20-%20MC%201.6.4.jar"
+hash-format = "sha1"
+hash = "8a629c0fdfd84d8395d90b6dd9ea2475b5dd8c1b"
+
+[update]
+[update.curseforge]
+file-id = 2231586
+project-id = 228932

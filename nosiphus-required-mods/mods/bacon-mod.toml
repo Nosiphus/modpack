@@ -1,0 +1,8 @@
+name = "Bacon Mod"
+filename = "Bacon-Mod-1.5.2.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/bacon-mod/1.5.2/Bacon-Mod-1.5.2.zip"
+hash-format = "sha1"
+hash = "4b51314e2f0e47e40fc2fea037d6dcd22c9db6ed"

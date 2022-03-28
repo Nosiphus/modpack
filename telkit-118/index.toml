@@ -1,0 +1,226 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "aeded4f82c92c5ab9debee0b420c4957788c3cdd38da329562a59e0832547514"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "325d9a46520801bc3df9f6dd4035440d2d54d67c98309e79708bfa0b99618c87"
+
+[[files]]
+file = "config/defaultoptions/optionsof.txt"
+hash = "d92225b3c17b087f568ad4c9cd6ca0c8d83eb7b9efb6ba29da035f1b673bf498"
+
+[[files]]
+file = "config/defaultoptions/optionsshaders.txt"
+hash = "a52954c3147001272e326073b4265b3a09058a178f787ceab5f2fff2c27d15e5"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "69f173f5357cc736775d85b2f980c188937a8ac34217d69dda108f784cf584db"
+
+[[files]]
+file = "mods/ambientsounds.toml"
+hash = "678e24a345d2347107845814a504532529e3467a39e226224373a351264180f3"
+metafile = true
+
+[[files]]
+file = "mods/architectury-forge.toml"
+hash = "9a708e6a64d5936eb151388e7f9d176dfd051fa3f4861d725c799a3fc3934504"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.toml"
+hash = "c0afddb4b74eee8a3a5bca1f31106e8c49180c2c4371c6a4aaee34353bb82434"
+metafile = true
+
+[[files]]
+file = "mods/balm.toml"
+hash = "d47cce36c49029cb1b1b0ca7b4dd22b2954195f95d554021313a67f3a7591765"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.toml"
+hash = "2082e7b5e9d38baffc14e29b2b52791829eebe0aed1999eb8d6d48e8b6312a7e"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.toml"
+hash = "6320d5f3b8cb8f9aa96efee626c407f9f9fd7c25a4504f4496c6689b29a6a2da"
+metafile = true
+
+[[files]]
+file = "mods/borderless.toml"
+hash = "ef1ba61242490f89b9a1e821fb07bfb6709d40f45e56dead800c0d06e83210fd"
+metafile = true
+
+[[files]]
+file = "mods/caelus.toml"
+hash = "2cc86f13732dfdcc529bac729f91cdac7ef8c40096a33852ea1354a60491aed5"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.toml"
+hash = "69dc8225ac5cf434683a96e818ae1e53e9697dd1d344074c37a37b273b55592e"
+metafile = true
+
+[[files]]
+file = "mods/ceiling-torch.toml"
+hash = "b376d56c931a31040369212a7a23e8bb8594db18bd771d3d0f84d9285f140d48"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-forge.toml"
+hash = "89ce240e47591e1bb1dd4537c995d0fb73b2bcbc082fe163e5ed31d422deda4f"
+metafile = true
+
+[[files]]
+file = "mods/clumps.toml"
+hash = "22ca46b71f1a4288138b350b7251181668240cc3a93e7640ca1c3f6dab2748a8"
+metafile = true
+
+[[files]]
+file = "mods/collective.toml"
+hash = "5f2e4f84c7b7c0d2cac9a717323031292ce018e7992333620cb2fc12627b5e46"
+metafile = true
+
+[[files]]
+file = "mods/comforts.toml"
+hash = "78800bc7e628a184b3633b7596a2c8f94d8ac77dd35d0fa85a2f288f1ca34efe"
+metafile = true
+
+[[files]]
+file = "mods/controlling.toml"
+hash = "58eee54d1ea7c6939b62a56882c23a9fa447d787f3342511f500a62ab2631c4b"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.toml"
+hash = "40cafd051ee876c60d363e9c5d8c17284254ae12daf77f58d8f218d130c5b6b8"
+metafile = true
+
+[[files]]
+file = "mods/curios.toml"
+hash = "17efcbfe610b019f9186fe859e0d3a65434bc739b65a5656638a7ee4d4590083"
+metafile = true
+
+[[files]]
+file = "mods/curious-elytra.toml"
+hash = "cdb05718e6ed66537cb7aa348c6373713a921ca402b26469dec3089d392e5b4e"
+metafile = true
+
+[[files]]
+file = "mods/default-options.toml"
+hash = "0cfb0f6785c3599617a7cda03c1977aa8ab4f4d57769326e2d85dbc1f06fcf25"
+metafile = true
+
+[[files]]
+file = "mods/edit-sign.toml"
+hash = "4fb054f9c9a3f5872daed547fa55d3d10d303aa7d52304c6871f4b457be9e9e1"
+metafile = true
+
+[[files]]
+file = "mods/falling-tree.toml"
+hash = "1a6be2cba3c0e4ddab7455af92e7dc855132387f9663578884f83e3affa8eece"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu-forge.toml"
+hash = "90934d2c4e3ee5a6c912dbb5568ab8a0cfde3d026ef751dda29a92ca48e528f2"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.toml"
+hash = "86398a23d35a096723f938b8084068a31fd5a935bd87be33c3b2a718c3b2bfbd"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.toml"
+hash = "da9de39606b2f793bbe70bfc4039dc8f6c8feff4ac96c0bbc193447320bbc52a"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.toml"
+hash = "1db9c42386168d633a800c2a68065c745f0f25f8b0468807962a4e9e9982cb76"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "35687ae6eb79deb6b241304d92dc48bea1a6e1a9e81379484b4291a0b108ec65"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.toml"
+hash = "3137d8766dbc57f6cbba0ad773706427d073c36a8b58f94fb65dc97aa8722da4"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.toml"
+hash = "7b973a7bc7c48bcb303b3eb492d8916c8f2bfa85e1707a4a471a2ae97f321a0b"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.toml"
+hash = "736c47ec45d149058da39e19bbc81a056c21ff3989bfff5c377e06c59931f1b0"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.toml"
+hash = "0c1e73ba7ac9e6e27dd7bbe36a9354d0b5c275ecb14ce8ae213c6f792a69b844"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.toml"
+hash = "3a6b395fb88e765c30e2fad1362931b813471a1a590b16525dd55aba9e162e4d"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator.toml"
+hash = "3280198b80d96c195ebaa2dfd8a8f896234adef2aa241ff0340ebe43dd84e8f9"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.toml"
+hash = "03ba611cda9394f72dfc494315f519da782a7e626ddd5b05a348c43f8c8f2500"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.toml"
+hash = "4c5ed699945bb4ba60a9afcbfb0ae074739663bbd18650d702aad763f7c7c5f0"
+metafile = true
+
+[[files]]
+file = "mods/quark.toml"
+hash = "f0eab586098bd284c659597f83f180e8ce9d08da72e9e21bd28b67e29f634d7a"
+metafile = true
+
+[[files]]
+file = "mods/reauth.toml"
+hash = "8034ac488e1b64aff1be3502680ee9566469d2e3c86a8157bafef44204d1e7a0"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "5da5b6f1e16de7612b8956e575eb929900657ffb8bfd3c526962f227f8edf55a"
+metafile = true
+
+[[files]]
+file = "mods/sit.toml"
+hash = "c0f6ce0d72b2d39efea96ff59a61959f08f8a85af7c2627fbbc6f227172f03f3"
+metafile = true
+
+[[files]]
+file = "mods/surface-mushrooms.toml"
+hash = "4db9c4e9fe03ae83bd0c39d448ce18b2c3efe2c0dad944b63b74c3d7720101e5"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.toml"
+hash = "8bc2228b2f00ed9368968253a491f4b6d3960670c1b7d8dd7177e7b66fa5ee9a"
+metafile = true
+
+[[files]]
+file = "mods/wthit-forge.toml"
+hash = "25fd1045c053de3fd1e656c9d8791aa282b785b4bf3d2e8a0ef96d7e1921ff1a"
+metafile = true

@@ -1,0 +1,8 @@
+name = "Project Red Lighting"
+filename = "ProjectRedLighting-1.6.4-4.3.7.32.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/project-red/1.6.4/ProjectRedLighting-1.6.4-4.3.7.32.jar"
+hash-format = "sha1"
+hash = "96e0a30f167a4efc3b63d9ce31d0802b939be5d5"

@@ -1,0 +1,448 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/AppliedEnergistics.cfg"
+hash = "b2e4807dcd188a252e081ee9b074d5a24aa80ba5c6d8b83066e38f893ae09bd4"
+
+[[files]]
+file = "config/BiblioCraft.cfg"
+hash = "4411f4619c0f0057d0866d9985f09bcc6e01a26db6e0e57a6df143c0b8d52be4"
+
+[[files]]
+file = "config/BigReactors/BigReactors.cfg"
+hash = "211d0d2192d1a763ab2a93d30ebc240ba417bfcf0abd5b3e13715f24bd25a52a"
+
+[[files]]
+file = "config/CarpentersBlocks.cfg"
+hash = "5807a33d71c81e4f8cd3626fba80adb1e89fa1e2c1a38166d97ab687d53ee77e"
+
+[[files]]
+file = "config/CodeChickenCore.cfg"
+hash = "3f2327a8ee838795d4269d2f84ac344b21bcbefa26ee829de34bb1edcdbc70dc"
+
+[[files]]
+file = "config/ComputerCraft.cfg"
+hash = "382a3c3a3d9451d53fbba5c4e64862515844eee222556314230330ada763e555"
+
+[[files]]
+file = "config/Galacticraft/chunkloading.conf"
+hash = "4fa16d4873444866f9232fa0c2a09eb329e97fbb741151d52c0285b4d7051679"
+
+[[files]]
+file = "config/Galacticraft/core.conf"
+hash = "49c656e880f14ecf529e4d7233ac4d850dba8cc9d527ba345bfd48cc5ad1304c"
+
+[[files]]
+file = "config/Galacticraft/mars.conf"
+hash = "01839edc183f6eac26d5a5b288fe566eac024b72c890b73317e0fde5e20fb935"
+
+[[files]]
+file = "config/Galacticraft/moon.conf"
+hash = "3e7bf5aa72f72526ec7b8b49cd19b7ef77d35e406ec812b9f29fee77b9260910"
+
+[[files]]
+file = "config/Galacticraft/power.conf"
+hash = "d2335bc252c5c3c48db9f056382587f5a9b7186fef47627e30dc197f8aa63641"
+
+[[files]]
+file = "config/GollumCoreLib/GollumCoreLib.cfg"
+hash = "673880bde0204736604bf2b6a9515da0545e4dc99acc1ddb35cb35849254152c"
+
+[[files]]
+file = "config/GollumCoreLib/buildings/GollumCoreLib.cfg"
+hash = "f38ac3cd6949abc739def8632fdd3bfc19bab48be913df8ff82b3d39b652bda2"
+
+[[files]]
+file = "config/GollumCoreLib/buildings/JammyFurniture.cfg"
+hash = "404e305bb7b09e98102a5f495229a541bccd753ac7a4b032136b463de7bdf781"
+
+[[files]]
+file = "config/IC2.cfg"
+hash = "e2d43451b3b575b13735023bacd5fb0db1d4bbe5ce4b38a47113fa1f2d96ddc7"
+
+[[files]]
+file = "config/IC2LaserFix.cfg"
+hash = "8181c9bcd4046a2ec3a261c21220d14b34744a36a7151ded3a0b0f77312c4ecc"
+
+[[files]]
+file = "config/ICBM.cfg"
+hash = "690cfc61919d27e54af37b453d2ce99e79f6ccc9b98683a5f316ad9259b7db35"
+
+[[files]]
+file = "config/IronChest.cfg"
+hash = "e1384dac171a004568c73a60386531b487208f11dc8341cfe36ebc1485d8021d"
+
+[[files]]
+file = "config/JammyFurniture.cfg"
+hash = "4dd5f4cf61bf1395cbb8144cc4ce92661b7eb41335778fc1001be2ae07e9647d"
+
+[[files]]
+file = "config/MCA/ModProps.properties"
+hash = "c97e7cb1d2c52be5ef5e24a06a403c63c0fe811e240b0358d7da44b78aac9205"
+
+[[files]]
+file = "config/Mekanism.cfg"
+hash = "af66220e4ca128a8cf332c8c1d76fe4fa9a89ca5082df977bf4edce76247fe47"
+
+[[files]]
+file = "config/NEI.cfg"
+hash = "cfee545ceecc13a9f278a26c8adbc9d477c40a4234f86ca08561c387d8ef63ed"
+
+[[files]]
+file = "config/NEIServer.cfg"
+hash = "595ec61f427a3484550cf64dee33d07b714c9cf86b614421dc10b2e05e00272d"
+
+[[files]]
+file = "config/NEISubset.cfg"
+hash = "c4359abc9c2057b2fc8f6c70bb126f6bab82d3da15a1671f3ec7f1ae18ff507b"
+
+[[files]]
+file = "config/ProjectRed.cfg"
+hash = "c5c8c732f2f3e17c2715d1cf4dc2a9a335aed1be89d5ef27f0419deb76e3ef9d"
+
+[[files]]
+file = "config/Resonant Induction.cfg"
+hash = "da80dc4c20f60c61e5727b980dc0801a9fcc7a7ef18eaabafa3fa63c1c135d41"
+
+[[files]]
+file = "config/ResonantEngine.cfg"
+hash = "7477891416e1ff7c233953da83405a1d6f66760ae90ca56428d416ac81986cb8"
+
+[[files]]
+file = "config/UniversalElectricity.cfg"
+hash = "e793a3f3ab46663d2324776ad03e062762081d6e944abb253123ae5351889aee"
+
+[[files]]
+file = "config/Waila.cfg"
+hash = "2b49e713774c78f7fc23cdbb97a2981d55a2fa89c212293043fbccb5c344d7bc"
+
+[[files]]
+file = "config/WirelessRedstone.cfg"
+hash = "61f31100e3126ab5df0cdb784dfe5321581cd95b215eb4f336c39ec86ec0b9ec"
+
+[[files]]
+file = "config/buildcraft/main.conf"
+hash = "40251b8e4da46003a882067e6d4e52f2feac6fd3717faf94f8d35aa2ad62e149"
+
+[[files]]
+file = "config/cfm.cfg"
+hash = "d0be873c9028d8d69d1197cbe79fc5084e292333adf803bf43d948da82adc4b1"
+
+[[files]]
+file = "config/cofh/CoFHCore.cfg"
+hash = "f594a73a0540b727e7ed9f3899d2dd350cfe9f06317875ece1cc18cdc4d675d9"
+
+[[files]]
+file = "config/cofh/CoFHLoot.cfg"
+hash = "667d87941b9e0e9bfb99b0343d15bac68967ba45f57ab1ea1f0215e57e0e5bd0"
+
+[[files]]
+file = "config/cofh/CoFHMasquerade-Capes.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/cofh/CoFHMasquerade-Skins.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/cofh/CoFHMasquerade.cfg"
+hash = "75d87cb38993b871f888c73c3e39fd819c728810c02fc2110775289772eb0784"
+
+[[files]]
+file = "config/cofh/CoFHSocial-Friends.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/cofh/CoFHSocial.cfg"
+hash = "cabe82aeb9b7648f258b9faa67016dba4b5c61c8ddc8b4ccb889369675175a7b"
+
+[[files]]
+file = "config/cofh/CoFHWorld-Generation.cfg"
+hash = "be5e67aca2e6d8d6d58ee1d6f1f645b050818470423a49541c30ad1dbe0ad55b"
+
+[[files]]
+file = "config/cofh/CoFHWorld.cfg"
+hash = "7b0fac9003b3007570e02d33d665f49fea0c5ab594104e53f9a9333373a1be79"
+
+[[files]]
+file = "config/cofh/ThermalExpansion-Florbs.cfg"
+hash = "bee4f05958e003f749e5bd867683d0ccda4a37464e6dafbb6663b00433cd3aec"
+
+[[files]]
+file = "config/cofh/ThermalExpansion-Fuels.cfg"
+hash = "143db37f3a0e0699b35dd126995047532a474b173e9467e227ac5523904652ce"
+
+[[files]]
+file = "config/cofh/ThermalExpansion.cfg"
+hash = "db19a28ad94cab866cf59a5a9853a31798e0145d4b78f59aded067275d41dc60"
+
+[[files]]
+file = "config/cofh/WorldCustomGen.txt"
+hash = "0a19c5b9dfb364eaf80de2d22e486961247c2be0ef35a953754de0bb0e3b6710"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "4885f5ae0e8ba092eafb89bf218ed347874adabd498e175834b2120e4fef5006"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "cb6b871e4f6feda7ed64ba8354206ae7928f040d6c1b70cabb4e0d4b2ba53219"
+
+[[files]]
+file = "config/mekanism/BoxBlacklist.txt"
+hash = "12db177ec8816168840eed71d77bd6b7b3f6bf2c84aa2e077f2a8834e8ce85bd"
+
+[[files]]
+file = "config/microblocks.cfg"
+hash = "b56afe7fc480f3781a66e583d75878a82cce0d1b00751eb2378f7b68f2ae46bb"
+
+[[files]]
+file = "config/modstats.cfg"
+hash = "c32d0f66032b067a2d0e7dc910acb856da4053c3f99d36be8d2de0b1c0676962"
+
+[[files]]
+file = "config/multipart.cfg"
+hash = "cc475747228ed5deef46231cae252c03413b0b3c52dceac84bcd26f65a3f0c6c"
+
+[[files]]
+file = "config/worldedit/worldedit.properties"
+hash = "321c57ea0fd209f35d73b615cbb679a359f2c815073a2373a36dfab067178b1c"
+
+[[files]]
+file = "mods/1.6.4/codechickenlib.toml"
+hash = "fb5df35b0681b47a5c97173ee54d1b1f49185bf9a92c790ae33703035ffb53ef"
+metafile = true
+
+[[files]]
+file = "mods/1.6.4/forge-multi-part.toml"
+hash = "44303698064e6c78eb315d67caa54e419fefebeb87027f025eae3181612e1d8e"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-1.toml"
+hash = "47dd3c66b081a792dac9e8a7ad34efd2e23bb2af153302ce0d2143bed79fb980"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft.toml"
+hash = "b70abce406c4d499d1fb5fd003d21b00d5ee5da64edb10ad3d93d4401c5f73d8"
+metafile = true
+
+[[files]]
+file = "mods/big-reactors.toml"
+hash = "6ab137ea98dc3b5fa382d695193ec982d134a25ab6a66686089ef5b7b1d93d73"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.toml"
+hash = "09cd2b604d4fed9fe39bd5d7f9e6f57176e646d5784b657ce971b571d7f8a2bf"
+metafile = true
+
+[[files]]
+file = "mods/carpenters-blocks.toml"
+hash = "ce9b71d454afc3699c7109ba2efdd336f9287100c81b2f3cb69e6319e4dde7b2"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore.toml"
+hash = "3c653e7796a8f9e8a6cf826696cd88d62ef62b3bea8ebf15f7167e6dd0a60b81"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.toml"
+hash = "6e44e181e7b293b6641ab80eaf23ab671f1444a68823f258de7215b9a79e15bd"
+metafile = true
+
+[[files]]
+file = "mods/computercraft.toml"
+hash = "31c3e9c9aee3caceea6a4af831debf8a20085c8e1e84a7d104444501a1574c43"
+metafile = true
+
+[[files]]
+file = "mods/galacticraft-planets.toml"
+hash = "582dd4b3df615e93c39311bc2f3efea95835b1e0690d3674b24d04d47fddc761"
+metafile = true
+
+[[files]]
+file = "mods/galacticraft.toml"
+hash = "0fd97f4de19af1b0057c5ba1f883349da8d2272db7ec187468e580d743bf8781"
+metafile = true
+
+[[files]]
+file = "mods/gollum-core-lib.toml"
+hash = "e6db40659cc0264342090b2cdc4ecc7260b71fa67f5d1c7ca5bc613d4dd1b575"
+metafile = true
+
+[[files]]
+file = "mods/ic2-fixes.toml"
+hash = "a1e87edcdf9e2251d914b0f92586e8f9cf729c1b41994dd86276bc3c748f9117"
+metafile = true
+
+[[files]]
+file = "mods/ic2-laser-fix.toml"
+hash = "da10bcbdef3a62a9be6037f109ac3a5cec2fcd1262660ab59b004017cfde4a07"
+metafile = true
+
+[[files]]
+file = "mods/icbm.toml"
+hash = "f7916ce7879c006d8e1171bb7774448e6e2c3a84c405056bd073f73c6281181c"
+metafile = true
+
+[[files]]
+file = "mods/industrial-craft.toml"
+hash = "4619319605d1fc598f11d2ea4e2dcb9cef50e8e1345a283011976df32283f1b9"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.toml"
+hash = "ccf5cc7c2a76f838dd29e40884c32b65f730761b8f2078a89e449a58afeb25ea"
+metafile = true
+
+[[files]]
+file = "mods/jammy-furniture.toml"
+hash = "a8af80178279c0abed5dd6d8e08ec9e6b64670033b9cd55f284ada8b67bf1c05"
+metafile = true
+
+[[files]]
+file = "mods/lumy-skin-patch.toml"
+hash = "56475071ed60e2f3c6723b470257dac89290ebae59762c6c124c7664c963c3d6"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.toml"
+hash = "7a9cb8739b8fbaf5d5521a7ad9a8910b8f14f90e7ec0ac73f69720dc52e09a76"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.toml"
+hash = "51d9811bf4f1dd273522e9e6068433eff23c41dc05b8e6a840984655eca54f07"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.toml"
+hash = "8fdc38106be203451a3313df397e7976025786fc382ab93348ed30f4e20ce453"
+metafile = true
+
+[[files]]
+file = "mods/micdoodlecore.toml"
+hash = "70dc8f8f4181f62875d86cebb397865dc57f244c5fab03157134dec81bd46032"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-mca.toml"
+hash = "b9e57e98bc0d07bdced4f4cbf2d8982aee3c071b375a3dbe4f42dee339bd7885"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.toml"
+hash = "725f7f6ffe9eba6f872660d97b8176902629845057e03f66561e45e5d66d0fe8"
+metafile = true
+
+[[files]]
+file = "mods/nei-plugins.toml"
+hash = "14e2a4ff2da6082b5d72b62bedfcecd57c009362964a9c599a67dcc7ff1f873e"
+metafile = true
+
+[[files]]
+file = "mods/noslabs.toml"
+hash = "57a91694879c7758fa6a56372c39ee15110156c5c7f83eff2baf50853d75dd26"
+metafile = true
+
+[[files]]
+file = "mods/notenoughitems.toml"
+hash = "ef2edd583ce5cf4aba6d3579a00beaa5ce6947c0602cf0557c20c5e78bfeb147"
+metafile = true
+
+[[files]]
+file = "mods/optifinder.toml"
+hash = "f500e382d866fb7b5b4e5547feed8344591f32b306b1bd0fd94801da5e2cedfb"
+metafile = true
+
+[[files]]
+file = "mods/project-red-base.toml"
+hash = "cef0581e863ebce21e842ea6a49b48fecb2d51992376042be5be057f4bee0125"
+metafile = true
+
+[[files]]
+file = "mods/project-red-compat.toml"
+hash = "fd8ba2e5311393fbe48b5da3c0d61d760497ece1c7189159f0d4c9dcdaac91bc"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.toml"
+hash = "4bbad15bfdf14024a8775ef861677672bc4d4099b95efaa9bc808565afafd523"
+metafile = true
+
+[[files]]
+file = "mods/project-red-lighting.toml"
+hash = "8c1b14f95b56dcdbe3fda7922bf9fca4a6d5bac01148e7119905af60ce44175a"
+metafile = true
+
+[[files]]
+file = "mods/project-red-mechanical.toml"
+hash = "995af5716b2a545bbc13feffb43bc2d96fc4575a1fdb70c00ec730f50a4b304e"
+metafile = true
+
+[[files]]
+file = "mods/project-red-world.toml"
+hash = "9d7cebed10debd87f7c80476c3affee93077ba8dbdbd05fdf00c735dc2783461"
+metafile = true
+
+[[files]]
+file = "mods/resonant-engine.toml"
+hash = "add24a43d409b0fcf6b243ad955026d9a9763da7ce1afce866e0c5de2a2b2cf3"
+metafile = true
+
+[[files]]
+file = "mods/resonant-induction-archaic.toml"
+hash = "bf2eeeab862e7eacbab108a60e0671725c25e2cbddeb72104e02f659faec6167"
+metafile = true
+
+[[files]]
+file = "mods/resonant-induction-atomic.toml"
+hash = "27bd6c91ce9b604f5972f4ab70297d2e10395e34ce2d4297843747b63b0c515f"
+metafile = true
+
+[[files]]
+file = "mods/resonant-induction-core.toml"
+hash = "470d72b8a05610ac36a7e614c3d1f5c4b637add270b5a99fbb4d4018e4e98bf4"
+metafile = true
+
+[[files]]
+file = "mods/resonant-induction-electrical.toml"
+hash = "e8b724af6b35ce827fbc56ee9817471569a0a75202583bbb2411b2462e5cac9a"
+metafile = true
+
+[[files]]
+file = "mods/resonant-induction-mechanical.toml"
+hash = "e4006a771a31af14fc88da5d52c73cf815d26a9b2e5a3dcb0463650bd9911e28"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.toml"
+hash = "7e79c1bc9f1706c3550a5cd975ca95184ae9420800a2ae89fa18f726b66cd869"
+metafile = true
+
+[[files]]
+file = "mods/universal-electricity.toml"
+hash = "97bc2c936d5bd5729ba98f6710461bd6445f18ad83ef44ff900e41eb2cf04181"
+metafile = true
+
+[[files]]
+file = "mods/waila.toml"
+hash = "f5a08152223437976c8a14a5f6f477ac4a97d2ce84f914ddae8101140f776dd8"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.toml"
+hash = "40e7f4502fac27d8172e560b3755687fdcb584fb72e9678b870fec055ffdc9b1"
+metafile = true
+
+[[files]]
+file = "mods/wr-cbe-universal.toml"
+hash = "6830a62d4f9d533edd83129890df9b2dd6138f9eeb209920ae76ff48829d7555"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "cd5861fe02958bd7100c6cf2757b04a1ba1d9f86527fc3bed59c3e5af68400f2"

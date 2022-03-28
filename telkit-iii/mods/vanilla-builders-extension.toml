@@ -1,0 +1,13 @@
+name = "Vanilla Builders Extension"
+filename = "Vanilla-Builders-Extension-1.16.4-1.0.14.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3296/4/Vanilla-Builders-Extension-1.16.4-1.0.14.jar"
+hash-format = "sha1"
+hash = "19a3f97fe6e84ede09b21d5ff409022142bf104c"
+
+[update]
+[update.curseforge]
+file-id = 3296004
+project-id = 264480

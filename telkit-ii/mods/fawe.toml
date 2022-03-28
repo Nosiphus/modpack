@@ -1,0 +1,8 @@
+name = "FastAsyncWorldEdit"
+filename = "FastAsyncWorldEdit-forge112-19.11.13-5505943-1282-22.3.5.jar"
+side = "both"
+
+[download]
+url = "https://ci.athion.net/job/FastAsyncWorldEdit-Legacy/1285/artifact/target/FastAsyncWorldEdit-forge112-19.11.13-5505943-1282-22.3.5.jar"
+hash-format = "sha1"
+hash = "539d3241074b4b979decdc721cde32300f3f96bd"

@@ -1,0 +1,13 @@
+name = "Solar Flux Reborn"
+filename = "SolarFluxReborn-1.16.5-16.3.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3487/349/SolarFluxReborn-1.16.5-16.3.9.jar"
+hash-format = "sha1"
+hash = "3e49ef1035c111591d421e1d8fbb8891296af476"
+
+[update]
+[update.curseforge]
+file-id = 3487349
+project-id = 246974

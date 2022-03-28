@@ -1,0 +1,13 @@
+name = "Surface Mushrooms (Forge)"
+filename = "surfacemushrooms_1.18.2-1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3675/860/surfacemushrooms_1.18.2-1.4.jar"
+hash-format = "sha1"
+hash = "79cdb693f5ffc0c74db073bab4201876ee3d6451"
+
+[update]
+[update.curseforge]
+file-id = 3675860
+project-id = 550963

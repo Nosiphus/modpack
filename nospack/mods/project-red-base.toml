@@ -1,0 +1,8 @@
+name = "Project Red Base"
+filename = "ProjectRedBase-1.6.4-4.3.7.32.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/project-red/1.6.4/ProjectRedBase-1.6.4-4.3.7.32.jar"
+hash-format = "sha1"
+hash = "398b9727c5965d719e8c1d1b5dca2ec6d8ac46fb"

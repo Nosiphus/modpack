@@ -1,0 +1,196 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/AtomicScience.cfg"
+hash = "657fef2c262e1dc6cfd54f78e2dec24aeb1e92e016521c49b888148be984c6e1"
+
+[[files]]
+file = "config/BasicComponents.cfg"
+hash = "4abdf806a570018b4657b36c5414fc480f281790a0d7457cbfe5bbfcc48521d2"
+
+[[files]]
+file = "config/CCTurtle.cfg"
+hash = "bcd8612b5074edfe4062a1391df1fe40991d181e23c8d7e76bfdf26220dc3623"
+
+[[files]]
+file = "config/CodeChickenCore.cfg"
+hash = "da90082684222388e3f7c05f049ae1348ddff746b2256f791ec8ec3dc907ff77"
+
+[[files]]
+file = "config/ComputerCraft.cfg"
+hash = "a79b7abf98d7c69afee3429471a2745aeb69e2b33a9b6f3211b2dd2d688ff377"
+
+[[files]]
+file = "config/Galacticraft/core.conf"
+hash = "cbb10e1dec6397c1e9e0b131a083e1ab63ebd32db4dcf6e39a7bb7d6d310fd74"
+
+[[files]]
+file = "config/Galacticraft/moon.conf"
+hash = "ea9a9a35fa8b9eb4ab8f3925b66f054b0669dd81c5c8c8e6e4367d7585b116e2"
+
+[[files]]
+file = "config/ICBM.cfg"
+hash = "395ee63b22e804146e6d3c68d0dad46b5398c7118dd548e123264d97a6a04184"
+
+[[files]]
+file = "config/JammyFurnitureMod.conf"
+hash = "ce81ad037efb5d81a9921e7e9faf83d051b047d063523c84470687826d22d678"
+
+[[files]]
+file = "config/MCA/ModProps.properties"
+hash = "0a3a0f6361e3de591c5ae01ec0103ab9eab6a479eb82d5ee43d4de495a4519a0"
+
+[[files]]
+file = "config/Mekanism.cfg"
+hash = "10459f63d31173adea709d90d9146949f7660d0bd1c14e75be8e76f22e372879"
+
+[[files]]
+file = "config/MinecraftWero.cfg"
+hash = "fe976cd27335b98ddc557a91950b42b304f79594b9257f1ffaba8df67960ada9"
+
+[[files]]
+file = "config/MorePlayerModels.cfg"
+hash = "30237f666cda666c5a5bf457abafc5c5cf80e0867e59a85b2f16af5793ce6b08"
+
+[[files]]
+file = "config/NEI.cfg"
+hash = "52f720a1627a6abb990ce4fca99aa18274188cb8f8ee3b28557f23c1a5312188"
+
+[[files]]
+file = "config/NEIServer.cfg"
+hash = "8bade9cd5238d259e0b94c35d7929dcdf0375c69e22c4d5412569523671a91c8"
+
+[[files]]
+file = "config/NEISubset.cfg"
+hash = "7d63345c1cd70e03d8711e0ed948a9f86c40129b4251f9052f622f04cb656a22"
+
+[[files]]
+file = "config/TreeCapitator.cfg"
+hash = "01e6e085fc4b1a3153527dedef5e92ebe398b9e9f088cb313908adf114615958"
+
+[[files]]
+file = "config/UniversalElectricity.cfg"
+hash = "07ca84f67a4f6a8dc6f22e3ebbfcdd925973fe28b52fed9e017bc39eb6966c31"
+
+[[files]]
+file = "config/Waila.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/buildcraft/main.conf"
+hash = "5f468085d0efeede91f26674ddf3e296b35db93e2d76b6168a3233d63973c5c3"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "e2f94ef2b905ad10bc1aef9c4fbac03e1583a0e17f3767de38d2d4caeabb07df"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "cb6b871e4f6feda7ed64ba8354206ae7928f040d6c1b70cabb4e0d4b2ba53219"
+
+[[files]]
+file = "config/mod_bspkrsCore.bsprop.cfg"
+hash = "9bd264d92a6ccdb91ac39c21612d05df5198d2517d514de92a1946ea76d321f0"
+
+[[files]]
+file = "config/modstats.cfg"
+hash = "877c4118d17a27447983cd02b7716d937a8b87cfb826e8baaa3584f59f536a66"
+
+[[files]]
+file = "coremods/codechickencore.toml"
+hash = "93e61da6cd31297fe656060233820cfb577fd4f6ecfb1d8964c7ad7e14d63812"
+metafile = true
+
+[[files]]
+file = "coremods/galacticraft.toml"
+hash = "796ef9eb1d810e2608ae0ebd9100fff77f864dbf0a7041160ec467ef576b120b"
+
+[[files]]
+file = "coremods/lumy-skin-patch.toml"
+hash = "56475071ed60e2f3c6723b470257dac89290ebae59762c6c124c7664c963c3d6"
+metafile = true
+
+[[files]]
+file = "coremods/notenoughitems.toml"
+hash = "79ee1627381503f369dd77c76209c10c2091fe0617f5a4b7e1a972bd352d441a"
+metafile = true
+
+[[files]]
+file = "coremods/treecapitator.toml"
+hash = "92467608556296d9ef770a027ec83d579e9c7de12fa592e6abcccafcf3448cf4"
+metafile = true
+
+[[files]]
+file = "mods/atomic-science.toml"
+hash = "6f5f2bc6669418bc5f293baa85f8ede4002972ff03f6086a3105c61b39d83dec"
+metafile = true
+
+[[files]]
+file = "mods/bacon-mod.toml"
+hash = "852184f5e20cdbac77f340a1489ea927930db515f80d899073db0b19aa38a396"
+metafile = true
+
+[[files]]
+file = "mods/bspkrscore.toml"
+hash = "6a784f26d0a980afee5362b28867365cd23cde2e14a33e369f7e4d981a396ba3"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.toml"
+hash = "6c78a3e0b23f35f1209c0535160f69e1e8fccbc6fcd1b13af339e7af9ab45136"
+metafile = true
+
+[[files]]
+file = "mods/computercraft.toml"
+hash = "7633b4b2d0cbf84d9602efc9b1be685617a412954bc849cd2bf5b590b4c8aff0"
+metafile = true
+
+[[files]]
+file = "mods/icbm-contraption.toml"
+hash = "1b4b5f296d4506218e8a2390be481ac031c3e689d4b19fe91062a694bb06404d"
+metafile = true
+
+[[files]]
+file = "mods/icbm-explosion.toml"
+hash = "e17fe4d0c00db788e6202e439a494f77abb652c2590736328f6f192763d49834"
+metafile = true
+
+[[files]]
+file = "mods/icbm-sentry.toml"
+hash = "0e61114f2baa7fda0b8269a88570506577d6a8713ea68fffd6eb68cc00e31885"
+metafile = true
+
+[[files]]
+file = "mods/jammy-furniture.toml"
+hash = "72e7518be6ab28cbc47ba988a8d524f1d7de8ef37859e3116b39f8bd0fc35a23"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.toml"
+hash = "704d196c1cb4305f033f33871e6f9fc3370dafadbed08e1046a4db6f04c76222"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.toml"
+hash = "510f0f2387fe3c4938f4a979a05585812eb48b40f326fcbba679a7f0dc301fff"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.toml"
+hash = "61d010cc93535760bd433d92683b372c756abd1be5242f0f2f9ee9d9438aef2d"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-mca.toml"
+hash = "55d495f981b8c33ac3e1958eaf080e75d8e06a00dae27326b2cb402305ad533e"
+metafile = true
+
+[[files]]
+file = "mods/waila.toml"
+hash = "6fd6acf008cd846c4cf8c2d90d0da8df8ec719e513ff60f8b4870bf8f73529fc"
+metafile = true
+
+[[files]]
+file = "texturepacks/vbtp3-modern-1_5.zip.toml"
+hash = "b391c6dbb6b48fd6cabafd08b8a4612b50841583fe882bee75daae556f7a9a96"
+metafile = true

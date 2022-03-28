@@ -1,0 +1,13 @@
+name = "XercaMod"
+filename = "xercamod-1.16.5-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3207/162/xercamod-1.16.5-1.1.jar"
+hash-format = "sha1"
+hash = "7a49b0b8ded922d17d193bc65746a54484dfbe7d"
+
+[update]
+[update.curseforge]
+file-id = 3207162
+project-id = 341575

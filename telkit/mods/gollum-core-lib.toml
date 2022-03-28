@@ -1,0 +1,8 @@
+name = "Gollum Core Lib"
+filename = "GollumCoreLib-2.0.0-1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/gollum-core-lib/1.7.10/GollumCoreLib-2.0.0-1.7.10.jar"
+hash-format = "sha1"
+hash = "0c094755ca1ac5bf88249b01f8427863bc1d661b"

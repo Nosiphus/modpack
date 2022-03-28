@@ -1,0 +1,8 @@
+name = "Applied Energistics 2"
+filename = "appliedenergistics2-rv3-beta-11.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/applied-energistics-2/1.7.10/appliedenergistics2-rv3-beta-11.jar"
+hash-format = "sha1"
+hash = "2d7236d4092147ecc8fb1ad13714bbad4ba05d13"

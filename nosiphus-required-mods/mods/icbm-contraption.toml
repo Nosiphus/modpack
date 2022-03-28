@@ -1,0 +1,8 @@
+name = "ICBM Contraption"
+filename = "ICBM_Contraption_v1.2.1.172.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/icbm/1.5.2/ICBM_Contraption_v1.2.1.172.jar"
+hash-format = "sha1"
+hash = "db9421201293ab98be98ee10034c5ea7bca97011"

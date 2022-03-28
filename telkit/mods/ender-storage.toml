@@ -1,0 +1,8 @@
+name = "Ender Storage"
+filename = "EnderStorage-1.7.10-1.4.7.38-universal.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/ender-storage/1.7.10/EnderStorage-1.7.10-1.4.7.38-universal.jar"
+hash-format = "sha1"
+hash = "8c65c0e3663a67474980b9040cb760f6946c3db7"

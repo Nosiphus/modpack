@@ -1,0 +1,8 @@
+name = "MicdoodleCore"
+filename = "MicdoodleCore-1.7-3.0.12.504.jar"
+side = "both"
+
+[download]
+url = "https://micdoodle8.com/new-builds/GC-1.7/504/MicdoodleCore-1.7-3.0.12.504.jar"
+hash-format = "sha1"
+hash = "8c7899ae2b2ef1f5157d0c3b52f1efbb9da2dcc5"

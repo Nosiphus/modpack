@@ -1,0 +1,13 @@
+name = "Telkit"
+author = "Nosiphus"
+version = "2022.03.18"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e2231fb14d1a9a1700c780744a35c483e148c3f3087c6e1c2c1f6234529542d1"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

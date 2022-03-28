@@ -1,0 +1,8 @@
+name = "Zombie Content Pack"
+filename = "Zombie-Content.Pack-1.12.2-5.6.0-beta.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FlansMods/FlansMod/releases/download/v5.6-beta.10/Zombie-Content.Pack-1.12.2-5.6.0-beta.10.jar"
+hash-format = "sha1"
+hash = "217541d215d0212c0b9db28c0067fd857e008827"

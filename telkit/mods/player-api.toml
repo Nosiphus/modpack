@@ -1,0 +1,13 @@
+name = "Player API"
+filename = "PlayerAPI-1.7.10-1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2248/928/PlayerAPI-1.7.10-1.4.jar"
+hash-format = "sha1"
+hash = "201c1968d8357ea6bd70e3d97e4bb9917984444e"
+
+[update]
+[update.curseforge]
+file-id = 2248928
+project-id = 228969

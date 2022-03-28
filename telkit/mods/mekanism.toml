@@ -1,0 +1,13 @@
+name = "Mekanism"
+filename = "Mekanism-1.7.10-9.1.1.1031.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2475/797/Mekanism-1.7.10-9.1.1.1031.jar"
+hash-format = "sha1"
+hash = "cd3caa76541a58e55e1b68d1e6a1aef881523cd2"
+
+[update]
+[update.curseforge]
+file-id = 2475797
+project-id = 268560

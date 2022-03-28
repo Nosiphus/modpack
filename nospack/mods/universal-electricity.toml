@@ -1,0 +1,8 @@
+name = "Universal Electricity"
+filename = "Universal-Electricity-3.1.0.115-core.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/universal-electricity/1.6.4/Universal-Electricity-3.1.0.115-core.jar"
+hash-format = "sha1"
+hash = "df360687c7d615f9a1eca8ab18d0d5088f149382"

@@ -1,0 +1,8 @@
+name = "Project Red Mechanical"
+filename = "ProjectRedMechanical-BETA-1.6.4-4.3.7.32.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/project-red/1.6.4/ProjectRedMechanical-BETA-1.6.4-4.3.7.32.jar"
+hash-format = "sha1"
+hash = "96e79b8c15e4eeec337283e4bd454d88fc866b16"

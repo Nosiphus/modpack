@@ -1,0 +1,8 @@
+name = "Jammy Furniture"
+filename = "1.5.2_Jammy_Furniture_Mod_V4.4.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/jammy-furniture/1.5.2/1.5.2_Jammy_Furniture_Mod_V4.4.zip"
+hash-format = "sha1"
+hash = "214bcf9ddb4d3437fdb1c3dcb94eb3e1a7ce4ee8"

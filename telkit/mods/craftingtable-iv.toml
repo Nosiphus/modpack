@@ -1,0 +1,13 @@
+name = "CraftingTable IV"
+filename = "CraftingTableIV-1.7.10-1.1Beta.93.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2327/471/CraftingTableIV-1.7.10-1.1Beta.93.jar"
+hash-format = "sha1"
+hash = "8393bbdd372304c9388909981925996e336b7166"
+
+[update]
+[update.curseforge]
+file-id = 2327471
+project-id = 231840

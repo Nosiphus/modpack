@@ -1,0 +1,13 @@
+name = "BiblioCraft: BiblioWoods ExtraBiomesXL Edition"
+filename = "BiblioWoods-ExtraBiomesXL-v1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2229/579/BiblioWoods%5BExtraBiomesXL%5D%5Bv1.4%5D.jar"
+hash-format = "sha1"
+hash = "d08c9df31ee68e7f849048abefb0ceb06f8319ed"
+
+[update]
+[update.curseforge]
+file-id = 2229579
+project-id = 228365

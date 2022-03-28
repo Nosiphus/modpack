@@ -1,0 +1,13 @@
+name = "Minecraft Comes Alive (MCA)"
+filename = "MCA-3.6.0_MC-1.6.4.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/774/926/MCA-3.6.0_MC-1.6.4.zip"
+hash-format = "sha1"
+hash = "f16c8c751bb3e6659ef26ebc79c5a179acfebacf"
+
+[update]
+[update.curseforge]
+file-id = 774926
+project-id = 59693

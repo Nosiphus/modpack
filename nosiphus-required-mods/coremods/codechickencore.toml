@@ -1,0 +1,13 @@
+name = "CodeChickenCore"
+filename = "CodeChickenCore 0.8.7.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2233/219/CodeChickenCore%200.8.7.3.jar"
+hash-format = "sha1"
+hash = "9c056f55a28b56e7150f0fa924d7f769b6900f24"
+
+[update]
+[update.curseforge]
+file-id = 2233219
+project-id = 222213

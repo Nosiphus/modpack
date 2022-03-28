@@ -1,0 +1,13 @@
+name = "VoxelMap"
+filename = "forgemod_VoxelMap-1.10.12_for_1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3197/677/forgemod_VoxelMap-1.10.12_for_1.16.5.jar"
+hash-format = "sha1"
+hash = "1e1691ab44e4bf2c943f53f9872ca552f760ef0c"
+
+[update]
+[update.curseforge]
+file-id = 3197677
+project-id = 225179

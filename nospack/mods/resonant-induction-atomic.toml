@@ -1,0 +1,8 @@
+name = "Resonant Induction Atomic"
+filename = "Resonant-Induction-0.3.1.369-atomic.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/resonant-induction/1.6.4/Resonant-Induction-0.3.1.369-atomic.jar"
+hash-format = "sha1"
+hash = "95df2c6b91c0a489b2cc67e042cd7a7aa765a469"

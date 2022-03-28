@@ -1,0 +1,8 @@
+name = "Immibis Macroblocks"
+filename = "immibis-macroblocks-59.1.1.jar"
+side = "both"
+
+[download]
+url = "http://immibis.com/mcmoddl/files/immibis-macroblocks-59.1.1.jar"
+hash-format = "sha1"
+hash = "025d110a33322951dd72e3ac41f44e7fd0aab040"

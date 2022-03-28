@@ -1,0 +1,8 @@
+name = "Modern Warfare Content Pack"
+filename = "Modern.Warfare-Content.Pack-1.7.10-4.10.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FlansMods/FlansMod/releases/download/v4.10.0/Modern.Warfare-Content.Pack-1.7.10-4.10.0.jar"
+hash-format = "sha1"
+hash = "0db1a7f7f9d0bb2ab69dbf5d21bed67faa33d3dd"

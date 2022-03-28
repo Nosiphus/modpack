@@ -1,0 +1,8 @@
+name = "Titan Content Pack"
+filename = "Titan-Content.Pack-1.12.2-5.6.0-beta.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FlansMods/FlansMod/releases/download/v5.6-beta.10/Titan-Content.Pack-1.12.2-5.6.0-beta.10.jar"
+hash-format = "sha1"
+hash = "d09516d2cdcd7330e4f34e1f293347669cd6c263"

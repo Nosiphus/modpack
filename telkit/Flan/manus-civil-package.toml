@@ -1,0 +1,8 @@
+name = "Manus Civil Package"
+filename = "Manus Civil Package 4.0-Content Pack-1.7.10-4.10.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/flans-mod-content-packs/1.7.10/Manus%20Civil%20Package%204.0-Content%20Pack-1.7.10-4.10.0.jar"
+hash-format = "sha1"
+hash = "e6855f4dab65e467cc5bc2e8bba6c46247a1642b"

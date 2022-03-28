@@ -1,0 +1,8 @@
+name = "Iron Chests"
+filename = "ironchest-1.6.4-5.4.1.702-universal.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/iron-chests/1.6.4/ironchest-1.6.4-5.4.1.702-universal.zip"
+hash-format = "sha1"
+hash = "e0da9255cfff1f77b67a9fa1baba49fb8dc42982"

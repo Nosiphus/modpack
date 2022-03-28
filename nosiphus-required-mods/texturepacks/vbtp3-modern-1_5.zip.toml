@@ -1,0 +1,8 @@
+name = "VoxelBox Modern"
+filename = "vbtp3-modern-1_5.zip"
+side = "both"
+
+[download]
+url = "https://drive.google.com/u/0/uc?id=1icMTkadFOao4bXVQ7CRMDa3eVpT4E5cR&export=download"
+hash-format = "sha1"
+hash = "98f8a9e47f244d8d19d71ea0725d652713efee8d"

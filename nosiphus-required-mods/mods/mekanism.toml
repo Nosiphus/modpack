@@ -1,0 +1,8 @@
+name = "Mekanism"
+filename = "Mekanism-v5.5.6.124.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/mekanism/1.5.2/Mekanism-v5.5.6.124.jar"
+hash-format = "sha1"
+hash = "e3aad82d1b29078a351c77084b21d03f0d2330d2"

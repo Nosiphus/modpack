@@ -1,0 +1,8 @@
+name = "Project Red Compat"
+filename = "ProjectRedCompat-1.6.4-4.3.7.32.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/project-red/1.6.4/ProjectRedCompat-1.6.4-4.3.7.32.jar"
+hash-format = "sha1"
+hash = "7cc44b36113ba3d884d21dbcfce42672611522c9"

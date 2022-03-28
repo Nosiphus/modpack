@@ -1,0 +1,8 @@
+name = "NEI Plugins"
+filename = "NEIPlugins-1.1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://bitbucket.org/mistaqur/neiplugins/downloads/NEIPlugins-1.1.0.6.jar"
+hash-format = "sha1"
+hash = "217fe76c529ddcc45cf3277b610ef9001f77f108"
