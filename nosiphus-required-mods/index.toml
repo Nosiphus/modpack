@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/computercraft.toml"
-hash = "7633b4b2d0cbf84d9602efc9b1be685617a412954bc849cd2bf5b590b4c8aff0"
+hash = "4d670c9ed6444185b62e4ddc4e305a5f5cbc7eb308f72282752b599db4a428b7"
 metafile = true
 
 [[files]]
