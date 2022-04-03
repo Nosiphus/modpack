@@ -1,13 +1,13 @@
 name = "McJtyLib"
-filename = "mcjtylib-1.16-5.1.4.jar"
+filename = "mcjtylib-1.16-5.1.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3641/836/mcjtylib-1.16-5.1.4.jar"
+url = "https://edge.forgecdn.net/files/3725/412/mcjtylib-1.16-5.1.5.jar"
 hash-format = "sha1"
-hash = "076d2026d3d0e67247a68f1b0896e22751ea201e"
+hash = "74518a467aace44b10a8efa483612c42896ab9ad"
 
 [update]
 [update.curseforge]
-file-id = 3641836
+file-id = 3725412
 project-id = 233105

@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "8d03a1c533935c00d3c220a207cd9f2af23944e11bba641eb9afd551188cf5f0"
+hash = "fe9c3ba271e4d14cf2d7fc4021f8c6e21299ccd25ccbbc7f56e5d2c484ee5ced"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.toml"
-hash = "da7bab1b524c6ba86dd55d89b71f4ac59ef99c9f31a1b406c3d20c39cd48633a"
+hash = "15525736813680293b31db950dcda410989518ec42f6967619f528c81f261208"
 metafile = true
 
 [[files]]
@@ -532,12 +532,12 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.toml"
-hash = "c2f268e7766bd7c399292d2b7b1889b9e8162a44546e3dbb11beacac6c4c44e9"
+hash = "f01dba9cfed356f4cd35db04cff27e6238b28864af71f2e263a89060904dd9b6"
 metafile = true
 
 [[files]]
 file = "mods/bookshelf.toml"
-hash = "994889c36ee37d4abfcb7ccaef54320837b5bfe8337f44764f100ef418aa3701"
+hash = "d67a3fd5f36f1566488ecab3b9230b15a18ae6041e2835a74b0ce4deb41d920e"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "5f389db3d5b0d2ad436a8382dc0417cacdd63b520fb53c0c244587f54be62450"
+hash = "06d7a52c2514494ba32779a7b31418a0f702a057780013590594639da581ed37"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.toml"
-hash = "827288ba4f4fb38c32aa9b2dda51fa0665a47843d393897f6679a3c3e0b2ed46"
+hash = "21afc927f5bd78d2160760c42acb298e7d5ea1d4b67cae35a1de37cc4c3292d8"
 metafile = true
 
 [[files]]
@@ -1012,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/sit.toml"
-hash = "932b985e8fec38b475f857ff7864292bf62b29d9f309337d5221def48411bf17"
+hash = "6c3bc78ba230284c7414c1c86d5cf0188a67708e9c87ff22bc7c39b0e820d265"
 metafile = true
 
 [[files]]
@@ -1082,7 +1082,7 @@ metafile = true
 
 [[files]]
 file = "mods/wawla.toml"
-hash = "95edeb1fb531026d35ae787a3d41df81d106fa4277f216910176346f9cc2c107"
+hash = "565c94a91f4b8d7682320a161e5e34e92f618add4af32f74b36b7162133907fc"
 metafile = true
 
 [[files]]
