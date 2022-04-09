@@ -1,13 +1,13 @@
 name = "Obfuscate"
-filename = "obfuscate-0.6.2-1.16.3.jar"
+filename = "obfuscate-0.6.3-1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3336/21/obfuscate-0.6.2-1.16.3.jar"
+url = "https://edge.forgecdn.net/files/3740/120/obfuscate-0.6.3-1.16.5.jar"
 hash-format = "sha1"
-hash = "03da9997f53e48c6598dc620367104c1f0873b65"
+hash = "a06fc70c114fcf2dbdab8d9144e0e6d6df5bd424"
 
 [update]
 [update.curseforge]
-file-id = 3336021
+file-id = 3740120
 project-id = 289380

@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "fe9c3ba271e4d14cf2d7fc4021f8c6e21299ccd25ccbbc7f56e5d2c484ee5ced"
+hash = "dbaa9fd3d2b5ca101c24f6ed792113b0bbd0274633d0aebdb40a87526e2c0091"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-storage-1-8.toml"
-hash = "fc923a5dabb9f1a81906998e49d68ccde907c54267c7acf2475d0bc2b4dcfa19"
+hash = "dcacecd6dbf889d0d76695ddab09a3ac123e3788e4a5d52cfbe2bae9ce38354d"
 metafile = true
 
 [[files]]
@@ -726,8 +726,13 @@ hash = "3a332123aec6bda27daffae9f04ccf3d0d71baa4cf3cea0ce2d5823ac9e3d432"
 metafile = true
 
 [[files]]
+file = "mods/fps-reducer.toml"
+hash = "5b7805980ba6a408ac13a7c2087c1aeccaa0edb74ad24029bd7ea5cf123a2a8f"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.toml"
-hash = "782c3b530c58d70b3da83f33502c32f4a6e9235e3be43ae12b9c756f78d4af3f"
+hash = "cf2fe7a397c925c010166fe4691592f4a0fc784040c5d07de59498f75608f0e0"
 metafile = true
 
 [[files]]
@@ -847,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.toml"
-hash = "d64566a977f57c768d968a497708ddc35ed4fa8772cd76e73f8127a12b4515c5"
+hash = "fba2dd0d40916005200acc1968d7619c6e5bdf559041369965ef99ebca25ea40"
 metafile = true
 
 [[files]]
@@ -877,12 +882,12 @@ metafile = true
 
 [[files]]
 file = "mods/obfuscate.toml"
-hash = "3b1062211e1631e5c7f5f3e5651c75bfcba1f9f87c2cc12f46aa864648b6f06e"
+hash = "6e9e1e86b025640125cdfdcb395918ffe9b809655812de6f79b899ba057f903c"
 metafile = true
 
 [[files]]
 file = "mods/online-picture-frame.toml"
-hash = "a35ff351964c32d838979ac15bc88ba79b8b8c66b95be0ed0b76947ba085906c"
+hash = "112f0153b7c161dcd24d9f4936c430c888fd21cbd35e58415cde907f963cff7c"
 metafile = true
 
 [[files]]
@@ -937,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/projecte.toml"
-hash = "fc7a68deb913a8921c201ad953882c8772622b6ed1416303674319be6ad6692a"
+hash = "41d27427c38f15b4d513c744a295905dd25866977763b0f85866b76dc149d9bd"
 metafile = true
 
 [[files]]
