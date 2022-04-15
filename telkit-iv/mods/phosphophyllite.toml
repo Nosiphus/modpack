@@ -1,0 +1,13 @@
+name = "Phosphophyllite"
+filename = "phosphophyllite-1.18.2-0.6.0-beta.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3735/717/phosphophyllite-1.18.2-0.6.0-beta.1.1.jar"
+hash-format = "sha1"
+hash = "d9ef2350044fe04e94056b50f668331bc773d615"
+
+[update]
+[update.curseforge]
+file-id = 3735717
+project-id = 412551

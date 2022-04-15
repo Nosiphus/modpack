@@ -93,6 +93,10 @@ file = "config/fancymenu/panoramas/primary/properties.txt"
 hash = "280d8fbf33a3c8adf4e10cbf7e139b6a034b6e0d9fcc00418559c91d21082e02"
 
 [[files]]
+file = "config/forge-client.toml"
+hash = "46ed0db4764d65cc448d7787fa12c65fb474e28108e002cb161af1909dce54db"
+
+[[files]]
 file = "mods/ai-improvements.toml"
 hash = "6367b9ffc915d72196b1f60286134e3eb61d5fd0f1eaf78b177e2a01bc970c28"
 metafile = true
@@ -113,6 +117,11 @@ hash = "fd25ccd28e1c378090dafbed95c4aab4438e96763863efb08dd78a7b79c35ecc"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.toml"
+hash = "e08382cda4457ec919707ff4ac5fce4b7aaad1ab19d5a22cca4af84d7035c8d1"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "c0afddb4b74eee8a3a5bca1f31106e8c49180c2c4371c6a4aaee34353bb82434"
 metafile = true
@@ -120,6 +129,11 @@ metafile = true
 [[files]]
 file = "mods/balm.toml"
 hash = "a536d408ade82e570e078077ecf4d22b89047d5f154b491cfbb27b7c5ad67c08"
+metafile = true
+
+[[files]]
+file = "mods/biggerreactors.toml"
+hash = "247cdb7a0480f1465406f68bdfc56190b55a7786dbac9db7592997c2eed7398a"
 metafile = true
 
 [[files]]
@@ -203,6 +217,11 @@ hash = "cdb05718e6ed66537cb7aa348c6373713a921ca402b26469dec3089d392e5b4e"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks-compat.toml"
+hash = "236a77b31f9f5fe4830ae0c54a3adb0206cd3d7247b20e079232f4e68f9411ca"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.toml"
 hash = "f13bd39cc90eacc8a93699a1099c0663ca6ccec0e6dc3ea69165c7b40b0968f5"
 metafile = true
@@ -215,11 +234,6 @@ metafile = true
 [[files]]
 file = "mods/edit-sign.toml"
 hash = "4fb054f9c9a3f5872daed547fa55d3d10d303aa7d52304c6871f4b457be9e9e1"
-metafile = true
-
-[[files]]
-file = "mods/extreme-reactors.toml"
-hash = "e3c7642d1974dbd1d8b66a70337eb9b241369929b7e9e7061f45430394725477"
 metafile = true
 
 [[files]]
@@ -243,8 +257,18 @@ hash = "83d9073fbaf9814e5269450b846da70820a60ae6db56cdf626bef2dd1135f38d"
 metafile = true
 
 [[files]]
+file = "mods/fps-reducer.toml"
+hash = "ed9b3d625a868b90dad9d2b0a137f2485b32f17858dbb701b2f46b36671b2c6d"
+metafile = true
+
+[[files]]
 file = "mods/framedblocks.toml"
 hash = "73ba7d42a4bb2c23f18de528c5ed285d26fb3d9f33d0546599a577099afc55d0"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.toml"
+hash = "076309391df290c113c1c400b554006027f3e9677d5305ca6775f45a98ceab93"
 metafile = true
 
 [[files]]
@@ -260,6 +284,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.toml"
 hash = "3137d8766dbc57f6cbba0ad773706427d073c36a8b58f94fb65dc97aa8722da4"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.toml"
+hash = "aa8d9446d83b90244e4d614749b0f8a879b7baa2cbe63c83dc935a6eedecb33c"
 metafile = true
 
 [[files]]
@@ -333,6 +362,11 @@ hash = "4552466c98dee4bd5e421c07359b5060b77dd4ec54046b7e9dbcf0882f5926d3"
 metafile = true
 
 [[files]]
+file = "mods/phosphophyllite.toml"
+hash = "65761552b956abb942d93c5f8cca91817ae4c38d08020a5e3f49ba4f449da284"
+metafile = true
+
+[[files]]
 file = "mods/placebo.toml"
 hash = "a6ddf6c6dd6f90f4e6f4912b3d700165565f9661bb80741bf7e941f7d7a156b5"
 metafile = true
@@ -350,6 +384,11 @@ metafile = true
 [[files]]
 file = "mods/quark.toml"
 hash = "6a49c23b04ae3e20b0286dc418192a4822fe569b195c12e9720e76a35d6903c5"
+metafile = true
+
+[[files]]
+file = "mods/quartz.toml"
+hash = "91e05a6fe71d155f3af0faeace60f726b093842c0898476ff758fa332877621e"
 metafile = true
 
 [[files]]
@@ -403,6 +442,11 @@ hash = "34dc814ca0a52fa3570f8feeb0bf282da3180e67ac0d90d0278aa58c56f2ee5f"
 metafile = true
 
 [[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "3818031bdd73be80a001a5bea584120d3b8e6c456c8d6f1f54ea64f11af95f51"
+metafile = true
+
+[[files]]
 file = "mods/solar-flux-reborn.toml"
 hash = "b548a5b146b176b52c601979b3ae3e86e0cd2e48e57679ea31a0b9841a25b3ee"
 metafile = true
@@ -430,11 +474,6 @@ metafile = true
 [[files]]
 file = "mods/yogmod.toml"
 hash = "d2ae0f20c7fc71057e6c9f66c4e9bf6d496c7686a7cffd6d970ee8a0c5ccb415"
-metafile = true
-
-[[files]]
-file = "mods/zerocore.toml"
-hash = "4fc19fed78ce3d477278f9a6f92e11456ce981995a75894344a6f417df32ea23"
 metafile = true
 
 [[files]]
