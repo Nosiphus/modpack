@@ -1,0 +1,13 @@
+name = "WTHIT Forge Edition"
+filename = "wthit-forge-4.8.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3735/870/wthit-forge-4.8.1.jar"
+hash-format = "sha1"
+hash = "e95b960d54b55437ed5cdebd2ee23c7c64df45e0"
+
+[update]
+[update.curseforge]
+file-id = 3735870
+project-id = 455982

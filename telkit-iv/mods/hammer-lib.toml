@@ -1,0 +1,13 @@
+name = "Hammer Lib"
+filename = "HammerLib-1.18.2-18.2.15.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3736/62/HammerLib-1.18.2-18.2.15.jar"
+hash-format = "sha1"
+hash = "7205dff0c9701d85e9191be444d0b3a2f0da8e53"
+
+[update]
+[update.curseforge]
+file-id = 3736062
+project-id = 247401

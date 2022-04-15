@@ -1,0 +1,13 @@
+name = "PeacefulSurface"
+filename = "PeacefulSurface-1.18.2-v1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3669/492/PeacefulSurface-1.18.2-v1.jar"
+hash-format = "sha1"
+hash = "00ee52ad4024908196228fa09a9c4e338c8de892"
+
+[update]
+[update.curseforge]
+file-id = 3669492
+project-id = 73112
