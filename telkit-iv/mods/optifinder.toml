@@ -1,8 +1,0 @@
-name = "OptiFinder"
-filename = "OptiFinder_1.18.2_HD_U_H7.jar"
-side = "client"
-
-[download]
-url = "https://www.nosiphus.com/minecraft/mods/optifinder/releases/OptiFinder_1.18.2_HD_U_H7.jar"
-hash-format = "sha1"
-hash = "0956124587a24fa67d822b5bac78e3b8eb4a62fe"

@@ -183,7 +183,7 @@ customization {
   y = -21
   scale = 1.0
   alignment = left
-  value = Telkit IV: Thursday, April 14, 2022
+  value = Telkit IV: Saturday, April 16, 2022
 }
 
 customization {
@@ -195,7 +195,7 @@ customization {
   y = -11
   scale = 1.0
   alignment = left
-  value = Newest PureBDcraft Patch Collection: Thursday, April 14, 2022
+  value = Newest PureBDcraft Patch Collection: Saturday, April 16, 2022
 }
 
 customization {

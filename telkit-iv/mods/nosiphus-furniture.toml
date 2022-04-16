@@ -1,0 +1,13 @@
+name = "Nosiphus Furniture"
+filename = "nfm-2022.04.16-1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3755/741/nfm-2022.04.16-1.18.2.jar"
+hash-format = "sha1"
+hash = "e972791a998527103bf730f4c772cdfa3e7defb6"
+
+[update]
+[update.curseforge]
+file-id = 3755741
+project-id = 593876

@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "f07b13c75f554ffa73eaa738c7e72c5d013d4242e3936731629b5bcf745d9944"
+hash = "30927da7af83520b312509486fb8de057d172fd4cd3bf57356e5a7d0b21e2998"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "fd25ccd28e1c378090dafbed95c4aab4438e96763863efb08dd78a7b79c35ecc"
+hash = "6976d9934cf90379cac3435fbc1a3b1ef73629fef08458c6841cb23db29a4cb8"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.toml"
-hash = "11893f00be204c200ae92721654725502dbf9c574e7f8bbe8543c48b1097d339"
+hash = "f4b7ac9b2b6e100adc82e36fa0da8ddd9d1baa63a98b658b4dbb6690b456ca2d"
 metafile = true
 
 [[files]]
@@ -342,13 +342,13 @@ hash = "3a6b395fb88e765c30e2fad1362931b813471a1a590b16525dd55aba9e162e4d"
 metafile = true
 
 [[files]]
-file = "mods/openblocks-elevator.toml"
-hash = "3280198b80d96c195ebaa2dfd8a8f896234adef2aa241ff0340ebe43dd84e8f9"
+file = "mods/nosiphus-furniture.toml"
+hash = "e205713f7e9998ec51938bd3ba8ac9c1506b13bb416b111311c608755c97b150"
 metafile = true
 
 [[files]]
-file = "mods/optifinder.toml"
-hash = "01be265d4a8ed8a7623d6acb876787d32b8314f382c79fb2c73d5b6a69b190e7"
+file = "mods/openblocks-elevator.toml"
+hash = "3280198b80d96c195ebaa2dfd8a8f896234adef2aa241ff0340ebe43dd84e8f9"
 metafile = true
 
 [[files]]
@@ -403,12 +403,12 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.toml"
-hash = "6860e350b0a1310b6e5f8e81bf20b864181af5c965f7368ad511202458df21f8"
+hash = "10bf4f0fd51f1dc39ab74f30152402b16f76a5fcca3d6a3a6e5d0b0e7460eeb0"
 metafile = true
 
 [[files]]
 file = "mods/rftools-control.toml"
-hash = "407c4223ff8a968296b306b602b15833d687200382335ed868d3a2bfea126ec3"
+hash = "85b50a4953354db570ad48de2ec4ed00dcfb13c871bdecce36b3448b47b4efb8"
 metafile = true
 
 [[files]]
@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.toml"
-hash = "1da688387628aa45bf6b92e42c194a86ab98b8371a9e9663366a143b8f40c53c"
+hash = "a01ca7e1ccc0777a9c0b23f5005f0b5e77d9e0e808c2fe3dd2adfe6de424f211"
 metafile = true
 
 [[files]]
