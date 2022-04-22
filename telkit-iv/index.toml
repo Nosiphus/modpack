@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "30927da7af83520b312509486fb8de057d172fd4cd3bf57356e5a7d0b21e2998"
+hash = "47a6be7e282372cb30464cec24f1eaae8810af22e268f8847e02ed3bc5a5e0d8"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -108,12 +108,12 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.toml"
-hash = "3a3a9159ae2ad54f5f9b55e71a3de0493248bf95439d0760e371685abe2cf8b5"
+hash = "a81d6a1183627cf2fdcb47a22c0ef3c532f395de6cd73278df81dda20b25730f"
 metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "6976d9934cf90379cac3435fbc1a3b1ef73629fef08458c6841cb23db29a4cb8"
+hash = "a650aea0ced691e43870bfa7e8b71b7d9a69e64924cee2ddeb4dab1b3734b189"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.toml"
-hash = "8f19663933f65b9814939b9d4486860a9088509d3b5f1c985af793df1686e2ea"
+hash = "311840dbb504f59e3517994ef0f66faaab7ad2a994599254f9f9e9c2493505ca"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.toml"
-hash = "460e37744438107fb08bcabbdce0273aeeddea2bd63d459afe29a4ad40cc5610"
+hash = "134416f9c18e118224988cd53093a5a5bfc9939cf1c70c26dc5a8470ae261cd2"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.toml"
-hash = "22ca46b71f1a4288138b350b7251181668240cc3a93e7640ca1c3f6dab2748a8"
+hash = "adeb62a594b6902e3d036801c38e684e36edf9358e620e928d6d9c3732ab04d1"
 metafile = true
 
 [[files]]
@@ -198,12 +198,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "58eee54d1ea7c6939b62a56882c23a9fa447d787f3342511f500a62ab2631c4b"
+hash = "c69828c3b36750e806e3c7e7325c6e0fa0e8568fada8e5401382fce1b4a9c590"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.toml"
-hash = "536a2177a00ec9d47b8fd952cbc9523254a7a569c5d14752698f430dd00b7d50"
+hash = "baef2f1090dc2a8f05a0a6aff2a3fe03899f5fcce43127a82bde03e08268d6b4"
 metafile = true
 
 [[files]]
@@ -238,12 +238,12 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.toml"
-hash = "3927e99b196036100535c436011a34a779862a2e003ea6682f7c7be90215ac0a"
+hash = "11d33a8375269eec0a539fb5409499a245982e58fbaa41376e9dada82cb83b48"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "90934d2c4e3ee5a6c912dbb5568ab8a0cfde3d026ef751dda29a92ca48e528f2"
+hash = "bb85326a78f2d5aab175bdc6457cac6e9cc184e4b16cdc9a48925c96a6743dae"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.toml"
-hash = "73ba7d42a4bb2c23f18de528c5ed285d26fb3d9f33d0546599a577099afc55d0"
+hash = "48099b848b59e60d0097afebfa7aa231f7996f2f3ff5a65d3b71a5f6700d5a04"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "7a3cafb3184fd35766661e9afb1c26cc048f5345b26b168408526c805f0c30b3"
+hash = "8eb85b8f169682cbff9682ac5be3d059bdecc4aa9e69b0e2e4d6ce306fb72076"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.toml"
-hash = "74b4988d7309eb1dcd97fb7fdfecb29a3875539d15af14c2097c82b0a512c486"
+hash = "d5f1210951a476ce9b4c569ed90d70dfd64fb455b3553ae2cae8e565c49a85c1"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "6a49c23b04ae3e20b0286dc418192a4822fe569b195c12e9720e76a35d6903c5"
+hash = "70560884bbc973ccfc6fb85c5568e839730947a378acd1389fb62007bcaaf48d"
 metafile = true
 
 [[files]]
