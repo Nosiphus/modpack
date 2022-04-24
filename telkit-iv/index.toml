@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "47a6be7e282372cb30464cec24f1eaae8810af22e268f8847e02ed3bc5a5e0d8"
+hash = "ba42114f2635f99fa7f44cf040f2702800cca2dd31cf17e816cf0db4dcc4239d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/ceiling-torch.toml"
-hash = "b376d56c931a31040369212a7a23e8bb8594db18bd771d3d0f84d9285f140d48"
+hash = "f7be8dfab55a52ade38eaa6d1397a3ec8b7c7f549151efbc6b54de2fd0b78ab1"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.toml"
-hash = "ec7e21baafd4345e294ff6de162297b47aeba0e1f693fe116fbbfbd4a78f086c"
+hash = "e21e482fea39d6f2d5b49e5bb9edb16fb2ad933cdf2e7af586a789ae0cc8dc94"
 metafile = true
 
 [[files]]
@@ -454,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.toml"
 hash = "1cef9ff4e58b622ca7af565de485cea77504f9369029df8191e2d5869ec1d051"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-extension.toml"
+hash = "d7c432b465a54d5add8ac90c0a10c970ea89a5303fa36f6fb16d413997b7e3af"
 metafile = true
 
 [[files]]
