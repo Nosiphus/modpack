@@ -127,6 +127,11 @@ hash = "c0afddb4b74eee8a3a5bca1f31106e8c49180c2c4371c6a4aaee34353bb82434"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.toml"
+hash = "56c34cd072d6b62ef3c03e81feea8490dc7ab154590bdfa5d88e70a97631eaa6"
+metafile = true
+
+[[files]]
 file = "mods/balm.toml"
 hash = "828663dc115d4a6a1cf2f09e2a904d5c7a530e72811b28df8b7de51dcf67b35d"
 metafile = true
