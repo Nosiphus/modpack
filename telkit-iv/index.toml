@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "ba42114f2635f99fa7f44cf040f2702800cca2dd31cf17e816cf0db4dcc4239d"
+hash = "ae71ae9fbedab0ac42f579f058a61c988dd40238e1232055b654b00d5ca85c20"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.toml"
-hash = "a81d6a1183627cf2fdcb47a22c0ef3c532f395de6cd73278df81dda20b25730f"
+hash = "522fcce0809f32c5822b68e66f8c915343b9d34da1e938bd1a1298cedbe1f8ba"
 metafile = true
 
 [[files]]
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.toml"
-hash = "a536d408ade82e570e078077ecf4d22b89047d5f154b491cfbb27b7c5ad67c08"
+hash = "828663dc115d4a6a1cf2f09e2a904d5c7a530e72811b28df8b7de51dcf67b35d"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.toml"
-hash = "311840dbb504f59e3517994ef0f66faaab7ad2a994599254f9f9e9c2493505ca"
+hash = "97151781cb07c52dc82c4ac54b922c4b052a907045e88259ca307ef31d38ef9e"
 metafile = true
 
 [[files]]
@@ -163,12 +163,12 @@ metafile = true
 
 [[files]]
 file = "mods/ceiling-torch.toml"
-hash = "f7be8dfab55a52ade38eaa6d1397a3ec8b7c7f549151efbc6b54de2fd0b78ab1"
+hash = "f6f05e24f39b20696621bc18ba8ccd2960dff677bf6d6cd7e29898803c1acefb"
 metafile = true
 
 [[files]]
 file = "mods/chisels-bits.toml"
-hash = "134416f9c18e118224988cd53093a5a5bfc9939cf1c70c26dc5a8470ae261cd2"
+hash = "239505ab0aa4a76ff6665bb9e23999e5e40147ea2f4e892e5358eccc9f320ae4"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "bb85326a78f2d5aab175bdc6457cac6e9cc184e4b16cdc9a48925c96a6743dae"
+hash = "0e0af5595b1f7121b6573b224c5a7224d31bdfe701e299173e43b9b366aeb6f9"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.toml"
-hash = "48099b848b59e60d0097afebfa7aa231f7996f2f3ff5a65d3b71a5f6700d5a04"
+hash = "a65b07616bcf7d8a0b10ebf74bc88f597ad4238e9880fe4f6944fae36d08348f"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "70560884bbc973ccfc6fb85c5568e839730947a378acd1389fb62007bcaaf48d"
+hash = "a0689e550614edcfa85f9a6a4c0d476a69840c52b3ea9709e6453438765cc1ad"
 metafile = true
 
 [[files]]
@@ -468,7 +468,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit-forge.toml"
-hash = "4257c0c02317f76a52de544eb19010311fbe291e2fbde5e49a2ffe9df487a4b7"
+hash = "d4228ac721cc253f74620986d7ac5975306b2a919395c2066ebe91a24ed65045"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "FramedBlocks"
-filename = "FramedBlocks-5.1.0.jar"
+filename = "FramedBlocks-5.1.1-hotfix.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3761/605/FramedBlocks-5.1.0.jar"
+url = "https://edge.forgecdn.net/files/3768/896/FramedBlocks-5.1.1-hotfix.jar"
 hash-format = "sha1"
-hash = "7670b3ff36c57a30ae54cdb0751484407e1047dc"
+hash = "b62e53ecd77af2338ade1091d2ddd0e79763138a"
 
 [update]
 [update.curseforge]
-file-id = 3761605
+file-id = 3768896
 project-id = 441647
