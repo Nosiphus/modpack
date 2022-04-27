@@ -272,6 +272,11 @@ hash = "a65b07616bcf7d8a0b10ebf74bc88f597ad4238e9880fe4f6944fae36d08348f"
 metafile = true
 
 [[files]]
+file = "mods/framework.toml"
+hash = "7f3b46bd458177b46fa2dbebdac63fd54c52f740c224575f724e7a2956a5b0a8"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.toml"
 hash = "076309391df290c113c1c400b554006027f3e9677d5305ca6775f45a98ceab93"
 metafile = true
@@ -329,6 +334,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.toml"
 hash = "7b973a7bc7c48bcb303b3eb492d8916c8f2bfa85e1707a4a471a2ae97f321a0b"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-gun-mod.toml"
+hash = "11ad95b73dea810f8aa27f349786a77bf165b0c2599b543c63ec75a3dd44c311"
 metafile = true
 
 [[files]]
