@@ -61,7 +61,7 @@
   "guardsTargetMonsters": false,
   "launchIntoDestiny": true,
   "allowDestinyCommandOnce": true,
-  "allowDestinyCommandMoreThanOnce": false,
+  "allowDestinyCommandMoreThanOnce": true,
   "allowDestinyTeleportation": true,
   "letPlayerCustomize": true,
   "allowPlayerEditor": true,

@@ -98,7 +98,7 @@ hash = "46ed0db4764d65cc448d7787fa12c65fb474e28108e002cb161af1909dce54db"
 
 [[files]]
 file = "config/mca.json"
-hash = "53738ef2a676e9667825939966883ec24a7d198a66cfa3c85506a285f1787930"
+hash = "c52a39b558e0a1c6bfaf68fb25945fb248bb26e1652777215548ce92957626f4"
 
 [[files]]
 file = "mods/ai-improvements.toml"
