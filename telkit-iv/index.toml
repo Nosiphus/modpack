@@ -97,6 +97,10 @@ file = "config/forge-client.toml"
 hash = "46ed0db4764d65cc448d7787fa12c65fb474e28108e002cb161af1909dce54db"
 
 [[files]]
+file = "config/mca.json"
+hash = "53738ef2a676e9667825939966883ec24a7d198a66cfa3c85506a285f1787930"
+
+[[files]]
 file = "mods/ai-improvements.toml"
 hash = "6367b9ffc915d72196b1f60286134e3eb61d5fd0f1eaf78b177e2a01bc970c28"
 metafile = true
