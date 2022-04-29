@@ -226,6 +226,11 @@ hash = "cdb05718e6ed66537cb7aa348c6373713a921ca402b26469dec3089d392e5b4e"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.toml"
+hash = "43f1d668dc98ae750a0867a207c483fd2ecb2152b8974e1624dcf6d17c1156df"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks-compat.toml"
 hash = "236a77b31f9f5fe4830ae0c54a3adb0206cd3d7247b20e079232f4e68f9411ca"
 metafile = true
