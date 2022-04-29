@@ -1,0 +1,8 @@
+name = "OptiFine"
+filename = "OptiFine_1.16.5_HD_U_G8.jar"
+side = "client"
+
+[download]
+url = "https://onedrive.live.com/download?cid=74BEC8DDAEDC9203&resid=74BEC8DDAEDC9203%21169&authkey=AHMHARPHxwkWL1U"
+hash-format = "sha1"
+hash = "137363842c5bfdebb72356a4079faeef3157eb3c"

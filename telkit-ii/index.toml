@@ -85,7 +85,7 @@ hash = "44715bb6eb2d83a226e8c9b58fc6fbbe960dca6ce33e19384cd6365f1d62276e"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "31b027d64e653fb7cebd9eaaba738c45b08ce40369a9197536412783a708cac5"
+hash = "f1c654d6d341035629ed725f9529d465001db4e2cd5e0d044f00c0f3459fcc6d"
 
 [[files]]
 file = "config/foamfix.cfg"
@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "b9b94c2f45610fcbbb1f2aa23919058d93d121975ba7e39d2df5069117f6fca5"
+hash = "f2cc5ecba409b07d244270e13b966b2323da575e7bf454c78b533b43e47fc774"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -487,8 +487,8 @@ hash = "3066563f1219a5e7027ccd7f28cff3e46937a0f82cc6c1adce41d83e6fcf027f"
 metafile = true
 
 [[files]]
-file = "mods/optifinder.toml"
-hash = "eb67879ae77cbff2f9001eb6cfe7480555e85b9550978f221818e454aa07bf6b"
+file = "mods/optifine.toml"
+hash = "6dc26859fcc62c01c0166c476af534be119bf7b80863f2088012d905d65d6484"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "VoxelBox Modern"
 filename = "vbtp3-modern-1_5.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://drive.google.com/u/0/uc?id=1icMTkadFOao4bXVQ7CRMDa3eVpT4E5cR&export=download"

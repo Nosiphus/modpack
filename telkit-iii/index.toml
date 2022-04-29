@@ -190,7 +190,7 @@ hash = "6d280342d4781e975fe30d5c9b48b5128634657cd5b1d42c70b90aae2276b38a"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "69f173f5357cc736775d85b2f980c188937a8ac34217d69dda108f784cf584db"
+hash = "d705c2e7828779b5e47173831b53f205d0b2348b4fda9ad18664dcc41fef8cc8"
 
 [[files]]
 file = "config/doubleslabs-client.toml"
@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "dbaa9fd3d2b5ca101c24f6ed792113b0bbd0274633d0aebdb40a87526e2c0091"
+hash = "494df006f516dec1f68b4e0f589078dc824cb8cd3efc1cb9e5c1d5aede0848b5"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "a465904015bf6dae2121b5dc0c802fc7b1077b6fbc2ed056d9f26290cb3aecc5"
+hash = "9d0395547ebd3e0cf08543d98eaeeefe979729c252a2e95c799c208201d0637d"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "b8fbee41a94f14e2338f47e023edbe47c1f54520c42dd1961fbbf9db0ac6b6e5"
+hash = "47b141c0f26803082aaff85c7545ce421505e4a687c7128c9f2fbd6c33da4938"
 metafile = true
 
 [[files]]
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.toml"
-hash = "27ed1b36cf13d3e0cf82f7972c6411df1c09ec6d3687733d3fb87b1dbe351a97"
+hash = "e0b3012113b196e43b71539b3cf11310e784dfeec26997e7ea327779e7764685"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.toml"
-hash = "d3711ba594e18b5fcfccea92938e00103b36f78862b196b857e0e237fed57216"
+hash = "8a029a24a7884b59baba16e4b992aa103a30a419808bee0a2901ed48e84c683d"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "82407d04bd0abeb57ca39e374ad1a6e1cb633835aaf6c0052b879b8b1b913838"
+hash = "56198342903d6ee4eaeb576091a27f12431d4318c63ccc8fca7fc0f911c9c316"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.toml"
-hash = "cf2fe7a397c925c010166fe4691592f4a0fc784040c5d07de59498f75608f0e0"
+hash = "56de3730989d5c4f269c8cb4f4ce83b689cbf8cad60634395d3a73cce68de1aa"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.toml"
-hash = "21afc927f5bd78d2160760c42acb298e7d5ea1d4b67cae35a1de37cc4c3292d8"
+hash = "74ccfb939413fac45bfb8b408c1f280016951a9a77cdad73e78424ac6434e2d1"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.toml"
-hash = "a500ac98ff540ce5d6d7a3450f4a70388b5670fa4cc62a88eb028ea884eb5a69"
+hash = "5ca5179aa5bbc38fe4468f2c26ff0cea18c5b89dc7ba4179fd738674cf09996c"
 metafile = true
 
 [[files]]
@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.toml"
-hash = "fba2dd0d40916005200acc1968d7619c6e5bdf559041369965ef99ebca25ea40"
+hash = "50dfe257be047d3af4252cdf7739a92943700bf566e745cac6ae923554867806"
 metafile = true
 
 [[files]]
@@ -896,8 +896,8 @@ hash = "c31b48aa5f7568454fb96870693933bb6d1dd013bb5465cef71c7fe77fad8893"
 metafile = true
 
 [[files]]
-file = "mods/optifinder.toml"
-hash = "22d1ad6b24f45bf009f51f886e852507225c463c60331fde68a0d457005623e0"
+file = "mods/optifine.toml"
+hash = "43018791d88f4fad12f1ff1af0c3753438709dddcb4773c799086612f1ff3b47"
 metafile = true
 
 [[files]]
@@ -912,7 +912,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.toml"
-hash = "75c41f159a64f3417509268c8a2553e497091f1b5a035494c22430b8149d016d"
+hash = "52a3a8c8c810785d1bb8d32fb95bbb9a3dc2d88f053e185396a21c83eefd3396"
 metafile = true
 
 [[files]]
@@ -972,12 +972,12 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.toml"
-hash = "f0be0ee0711d65b34a318e7e2f81f7b7b953bc7a6de65a9c332acdcb64f5b638"
+hash = "6679b8047456391ebde1076863b1e384b8f1cea41561e648a0da23452bc3a3db"
 metafile = true
 
 [[files]]
 file = "mods/rftools-control.toml"
-hash = "f95887acf7a01afcaed3d719a8791f40a377dd7bdcbb1900c2065874ab6d350b"
+hash = "cf54164b7bfd93d8a0ff3f19dceafb30fcd75f6041eca4986b10a9c2bfb67de8"
 metafile = true
 
 [[files]]
@@ -992,12 +992,12 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-storage.toml"
-hash = "48f0c97a2c36691d8cc7cfd6274affe36885be47d7d8044a6bfcfa1f142017e8"
+hash = "3f357ace2bd19700b3f5b9e68dc927bd63424b64d368be5302343187f6d73801"
 metafile = true
 
 [[files]]
 file = "mods/rftools-utility.toml"
-hash = "607cbf7a1da201e79722f3daa75f8e226e3aad65e53833e35404ac721ff123f3"
+hash = "f59fa1a7add433415884424ae68f62ba886b4f7f2852ca086b26cdf0ab9286ee"
 metafile = true
 
 [[files]]
@@ -1057,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.toml"
-hash = "6d9bc7649d2649a1a8e21935ff005b81ae03911d155f8d275787cb03c61a54c0"
+hash = "170546346a4490c8ab71d220f777c724e1568e043084607951db263b83722c37"
 metafile = true
 
 [[files]]
@@ -1067,7 +1067,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-locomotion.toml"
-hash = "a0249062882eea1f8b9fb9ea0e6d9be4e8ca4c61b8f23e5f08540e62cf774056"
+hash = "68e139936ad7f9f72de0424979b3829a5820450d5ee41a650efa42c315e5482c"
 metafile = true
 
 [[files]]
@@ -1107,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.toml"
-hash = "6a4fe0d2800871b051c8f24861e170094bb6e1bddac4c9351aca67ecf94f12e2"
+hash = "4b3faef11cc1440d6412118afdaba60f5f9c8d04b74691adc4acfc6c853293fa"
 metafile = true
 
 [[files]]

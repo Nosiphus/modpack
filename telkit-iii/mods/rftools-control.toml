@@ -1,13 +1,13 @@
 name = "RFTools Control"
-filename = "rftoolscontrol-1.16-4.0.15.jar"
+filename = "rftoolscontrol-1.16-4.0.16.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3712/579/rftoolscontrol-1.16-4.0.15.jar"
+url = "https://edge.forgecdn.net/files/3753/620/rftoolscontrol-1.16-4.0.16.jar"
 hash-format = "sha1"
-hash = "846efd96f3a5db74dddc31d3eecf161a9d59c409"
+hash = "2d626c82f434a4f49b460acd16e814a09f382adf"
 
 [update]
 [update.curseforge]
-file-id = 3712579
+file-id = 3753620
 project-id = 250763

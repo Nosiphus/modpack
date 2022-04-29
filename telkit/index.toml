@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "4f4b204e813d34203b6eade5704e0fa5a60e88f2efd610bafac58c47d8364c71"
+hash = "eba4ad2bbdeb75677fbe4ac3d45cc6bbc3ac325225f3fe0e69f7990390348a2d"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1423,8 +1423,8 @@ hash = "e8008ca39963ceeaada03e2dfaa44c9b8fc7de75d5204972a02a9ce49ba01be5"
 metafile = true
 
 [[files]]
-file = "mods/optifinder.toml"
-hash = "dbafcdbd67164a28a54bd9887a4e93992dd6440db59b71b6526843a3d80243f2"
+file = "mods/optifine.toml"
+hash = "a0e6c4bcf722e2826ef4b4286f2667e14fa0bfb3706cc71aed92fb97a0c28dc5"
 metafile = true
 
 [[files]]
@@ -1594,4 +1594,4 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "2da844dd47eeea6ffca84ec0d1f2dee62b2ac38ce64d8f42cda514a77c9204a3"
+hash = "2a0ecf2e57bab7aff30df0d1b336c191da40a76899c7e5ccf9a4c6e23ee18485"

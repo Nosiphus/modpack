@@ -191,6 +191,10 @@ hash = "6fd6acf008cd846c4cf8c2d90d0da8df8ec719e513ff60f8b4870bf8f73529fc"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "bb26ed0877b777119eb92a3fac799c3ccee792e16143796e39eec69476f20b0b"
+
+[[files]]
 file = "texturepacks/vbtp3-modern-1_5.zip.toml"
-hash = "b391c6dbb6b48fd6cabafd08b8a4612b50841583fe882bee75daae556f7a9a96"
+hash = "bed2a60dfe4c8d433ad00b13ee0ff9d49f4469f62e1e23f891aeaeaad40ef1a3"
 metafile = true

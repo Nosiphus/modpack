@@ -18,7 +18,7 @@ hash = "6d280342d4781e975fe30d5c9b48b5128634657cd5b1d42c70b90aae2276b38a"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "69f173f5357cc736775d85b2f980c188937a8ac34217d69dda108f784cf584db"
+hash = "77031b8fb63685ed7b9070558a4096a37d3fb45f18b409b0070ba199bbac0213"
 
 [[files]]
 file = "config/fancymenu/config.txt"
