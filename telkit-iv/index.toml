@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "1f78026586b929de2d8ed492e34ff22064cee422deb87a1905ce7219e9bc488d"
+hash = "acef8bcb660c8545686b2d9a2b246b412c2a7fe5ee0588a2928efa02e96892fb"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "9ea064024c70029bdba82ea2ac4a6b943dfe55c25b840055647cf9f98c6e1c5b"
+hash = "917f558b4bbbeb428d93e945743829925c21e573ffe3d44e4341cbe698b4d699"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.toml"
-hash = "43cc406e9db11e26e5f374b146c7eff4f947a484e7b92b84d63f85b19f0c6798"
+hash = "14bc057f5f5a31e821d428bc9c7dc814e3a866feb750be8e72a65e1f048d7b1d"
 metafile = true
 
 [[files]]
@@ -367,6 +367,11 @@ hash = "3280198b80d96c195ebaa2dfd8a8f896234adef2aa241ff0340ebe43dd84e8f9"
 metafile = true
 
 [[files]]
+file = "mods/optifine.toml"
+hash = "6d7e9b9c965492f51a4534a2d88988727dd9e6b5bac21359eaf4a1074aa02b3b"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "1439dd0377b45c8f22ab5ab9ac83ffd06a8069ef8140a60de758098587a4d5bc"
 metafile = true
@@ -398,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "a0689e550614edcfa85f9a6a4c0d476a69840c52b3ea9709e6453438765cc1ad"
+hash = "76c7b43542ee9a67f927aeb7ba569c1de1c68766dbaecad391233021679acee0"
 metafile = true
 
 [[files]]
@@ -438,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-storage.toml"
-hash = "eaf34da1f3393679d11c265a9ebbeed24de0c5272905f63f79a61c38a4ae6dd9"
+hash = "eec1a5bb403f3237da9425e59bc0b7d2474939c59efff0365c30306d269d4de8"
 metafile = true
 
 [[files]]
@@ -483,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit-forge.toml"
-hash = "d4228ac721cc253f74620986d7ac5975306b2a919395c2066ebe91a24ed65045"
+hash = "f9767a4e7c0c020063cdf80f02819a2314f5cd1f65e83dc91b83b569fcff42d4"
 metafile = true
 
 [[files]]
