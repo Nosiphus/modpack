@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "9e1ef48824fb730e2ae3e49103df8a98f552eff025b06da36023ddfbe2bcbb14"
+hash = "869ddd703e2a9e8867c5093ff923c6881081bc298921aeb5457f746726ce2525"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "a650aea0ced691e43870bfa7e8b71b7d9a69e64924cee2ddeb4dab1b3734b189"
+hash = "3820887be97540249feac533179250d6404c544060354cecee796d06a9fbb90a"
 metafile = true
 
 [[files]]
@@ -252,12 +252,12 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.toml"
-hash = "11d33a8375269eec0a539fb5409499a245982e58fbaa41376e9dada82cb83b48"
+hash = "84448848d0b2ec343b47fb2e867948511e53a9d664a16d1152bea9b3286da4f2"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "0e0af5595b1f7121b6573b224c5a7224d31bdfe701e299173e43b9b366aeb6f9"
+hash = "a6c26d728e7421d93425c65f689805f46c73f28c026ae954ea8058a570584be5"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "bacb4e9f121b60cdb3ab54170be56987b565fc498a2232010827c17241e31c2b"
+hash = "f8c587f882d0b2309be68c6abafcdad4db55b9500afdcb482ee6f57f331d7b0a"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.toml"
-hash = "a6ddf6c6dd6f90f4e6f4912b3d700165565f9661bb80741bf7e941f7d7a156b5"
+hash = "fee6e3878adeb041dbb942fbc58587b7bc634822dc7627b3436e5fadc8b0afb4"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit-forge.toml"
-hash = "f9767a4e7c0c020063cdf80f02819a2314f5cd1f65e83dc91b83b569fcff42d4"
+hash = "694f4fe5b3d98e42b59d74bff61cd8f83fd8399afdff943238677a0b0ace0f30"
 metafile = true
 
 [[files]]
