@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "f2cc5ecba409b07d244270e13b966b2323da575e7bf454c78b533b43e47fc774"
+hash = "3ddb7ccdd54bf3422ed65a3e4bb37ed5581f56097b4e7ccf388905c7af1bdb58"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/lucraft-core.toml"
-hash = "97a67fe573965bb3f38a3976acec9a338bde068a886b3c51b86e512218d23b37"
+hash = "105031e11594eddce89d92e2485d9589e1fd039d5a932d824eb68d0b844738dc"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-font.toml"
-hash = "2f5b173e0b0778b0d4df53aab89c21315fb8f9d872f8607c3eda61a597453dab"
+hash = "3d6809ff9823c2c424b94a6fe8d6671879d69b57cf06b6753c0e30110c8dadc4"
 metafile = true
 
 [[files]]
