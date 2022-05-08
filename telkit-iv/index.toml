@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "869ddd703e2a9e8867c5093ff923c6881081bc298921aeb5457f746726ce2525"
+hash = "6ae5b31a25d0f328a5063039deebcd1a1368a6398a9caa216ced87218ea25a82"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "3820887be97540249feac533179250d6404c544060354cecee796d06a9fbb90a"
+hash = "0e825ae708be458f6c6c6aa31f5b530b2efbdeeadfcc4ca4d89f6facfa8aaf0b"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config-forge.toml"
-hash = "89ce240e47591e1bb1dd4537c995d0fb73b2bcbc082fe163e5ed31d422deda4f"
+hash = "b580d42f92b7672d8fb7ccc32c04aa2637a28bd40bd68874e7b3b90a070eb805"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.toml"
-hash = "43f1d668dc98ae750a0867a207c483fd2ecb2152b8974e1624dcf6d17c1156df"
+hash = "a0ba58fbb11d8022bd2e35d9f2607dff5919c24f646d55709d163ebd06fac206"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "76c7b43542ee9a67f927aeb7ba569c1de1c68766dbaecad391233021679acee0"
+hash = "bc1d55321fa646e916a03cfaac3c683180e0ce1a6e8793e32893fcd657263ddc"
 metafile = true
 
 [[files]]

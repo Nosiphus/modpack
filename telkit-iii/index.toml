@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "494df006f516dec1f68b4e0f589078dc824cb8cd3efc1cb9e5c1d5aede0848b5"
+hash = "a33da3626d1818a11220c2ebb807aac00a10c3c5b7551ff9652b632a39b0a76b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "9d0395547ebd3e0cf08543d98eaeeefe979729c252a2e95c799c208201d0637d"
+hash = "85e1ee0f5d7d77970dbf9af9994d8759574c37a618ff2b56d58711b030294e31"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config-forge.toml"
-hash = "f0b57b97e5f0b06a5af1ebafcc451936ec32c3ab2ad961ac6cf8acb107378a3d"
+hash = "f3350e742042813e59d087d6884e42376995871721b341f9845bf291ddd4e140"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "1cafb358ea8a10bf8947b46f101117b4fa04af9d946296d7d90453818df2776d"
+hash = "5e5e311c84c15bd861c4841dbb684df2313abe9909bd3ec56915810602b2702b"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "56198342903d6ee4eaeb576091a27f12431d4318c63ccc8fca7fc0f911c9c316"
+hash = "3ea07ec0852a057c9201ca3b52fc87f532a59d59d6cd7aec90e1de668474ad4e"
 metafile = true
 
 [[files]]
@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.toml"
-hash = "50dfe257be047d3af4252cdf7739a92943700bf566e745cac6ae923554867806"
+hash = "8ce4bd5917753a66da304d7bb5fe208a117ba58f6fc4ff15536cbb2c8ecb29c1"
 metafile = true
 
 [[files]]
@@ -977,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-control.toml"
-hash = "cf54164b7bfd93d8a0ff3f19dceafb30fcd75f6041eca4986b10a9c2bfb67de8"
+hash = "500857aff2f324cd4bc4cf28d2e4bc58971340f458b3f27843243cce1e489e94"
 metafile = true
 
 [[files]]
