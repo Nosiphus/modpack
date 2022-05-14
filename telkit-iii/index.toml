@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "a33da3626d1818a11220c2ebb807aac00a10c3c5b7551ff9652b632a39b0a76b"
+hash = "bf155880556fc951745d6d08ea369e08b3e110983588df80d3c2edd815377ce3"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.toml"
-hash = "e0b3012113b196e43b71539b3cf11310e784dfeec26997e7ea327779e7764685"
+hash = "b391d18ba730396efc0eadb7609cb65711f575d8db1bf0397fc9bec59d74412e"
 metafile = true
 
 [[files]]
@@ -972,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.toml"
-hash = "6679b8047456391ebde1076863b1e384b8f1cea41561e648a0da23452bc3a3db"
+hash = "676c03d3f45280236903a17a3862c6479203ec8beb3a56fe8f986480fe71f9b6"
 metafile = true
 
 [[files]]
@@ -987,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-power.toml"
-hash = "f1e6d7151960d1dc76c518636b6c634178c40dc2a1d5f8eb4d42ec548e1ed258"
+hash = "8be232bd8e3fbefe64635de58c93944b26c6dda6cb116e3ecba78314a45a43a8"
 metafile = true
 
 [[files]]
@@ -1047,27 +1047,27 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-cultivation.toml"
-hash = "43bb015e2a2dea6ff924393b42d6e21150969540f53995decbac7b33f58d1027"
+hash = "d3621f77e41a47dae53c7e96eb871229cc07f123aba47016fa02f8178350b7d7"
 metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.toml"
-hash = "a5dc292bcdefa9b993d6f50c2b494bdae41954395effc9c2ce27ef75abfca065"
+hash = "a81e13fab8908cffb2c5a18842b5dde07380f56005699b4a10792d51208f21c2"
 metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.toml"
-hash = "170546346a4490c8ab71d220f777c724e1568e043084607951db263b83722c37"
+hash = "bf125bb464d269ed818886ebc90cbf78bb8eb5aeaeab441d2c58f736993addb0"
 metafile = true
 
 [[files]]
 file = "mods/thermal-innovation.toml"
-hash = "0396b5be1d863878fcba349e4a3d54d6de2793ef70ccc43488c8c3e0ac4991cf"
+hash = "ea0803de098cd2398ec443300c3fc9594fec34223f7d9e047ef2ba7d799e8f0f"
 metafile = true
 
 [[files]]
 file = "mods/thermal-locomotion.toml"
-hash = "68e139936ad7f9f72de0424979b3829a5820450d5ee41a650efa42c315e5482c"
+hash = "ccb5215ac9aa85e722f2ac05afd6c7394a86730990b28b5594b58d637054fe60"
 metafile = true
 
 [[files]]
