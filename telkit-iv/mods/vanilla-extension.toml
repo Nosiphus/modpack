@@ -1,13 +1,13 @@
 name = "Vanilla Extension"
-filename = "vanillaextension-1.18.2-1.1.1.jar"
+filename = "vanillaextension-1.18.2-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3710/890/vanillaextension-1.18.2-1.1.1.jar"
+url = "https://edge.forgecdn.net/files/3787/879/vanillaextension-1.18.2-1.1.2.jar"
 hash-format = "sha1"
-hash = "6e70fa14de33370052b4ba6f198aa19289c4722b"
+hash = "f44c9386dcae470d83332bda96aa268594e6daac"
 
 [update]
 [update.curseforge]
-file-id = 3710890
+file-id = 3787879
 project-id = 384447

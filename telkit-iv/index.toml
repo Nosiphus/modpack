@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "0e825ae708be458f6c6c6aa31f5b530b2efbdeeadfcc4ca4d89f6facfa8aaf0b"
+hash = "2e551b1b19283376cf26f280b9b6ba2c872302c4c3964a86cf108f206b1e498b"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.toml"
-hash = "10bf4f0fd51f1dc39ab74f30152402b16f76a5fcca3d6a3a6e5d0b0e7460eeb0"
+hash = "83e956e092d998f7b054a9331466fef6fd8f2d16dc73bd0341c9ca69619b9f36"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-power.toml"
-hash = "bd5244a3d6e99c8f116d58c905ac83cdfbbc77ba56e2e3a4cf2a2c962c030f72"
+hash = "74bb41ba215869ddcc9688a1cb7ce2e4302ef503da4d1ebbb4ce3df952548347"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-extension.toml"
-hash = "d7c432b465a54d5add8ac90c0a10c970ea89a5303fa36f6fb16d413997b7e3af"
+hash = "6d5b8f1e060b0ab6cb1e881f9a3c46a198d6a4a43073acec8d8eac6cb2767f58"
 metafile = true
 
 [[files]]
