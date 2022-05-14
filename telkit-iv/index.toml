@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "6ae5b31a25d0f328a5063039deebcd1a1368a6398a9caa216ced87218ea25a82"
+hash = "8ce8fdd63519792849d10ac0c71eabfbb86452faef02bea985feca9a8048f672"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "baa637b0039a6b0449ca48029f9c862bce52486753576eb174391d925c4c5fc5"
+hash = "81b491cf07617f4f6280066623bb6aa0321dd4c4d85d2e13cfc0f9a6f5a54418"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "bc1d55321fa646e916a03cfaac3c683180e0ce1a6e8793e32893fcd657263ddc"
+hash = "58c46af32ea9b2c3974421a92f65c134167f2fba4c2b2e19614ee8fc017c97a6"
 metafile = true
 
 [[files]]
