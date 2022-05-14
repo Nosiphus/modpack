@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "8ce8fdd63519792849d10ac0c71eabfbb86452faef02bea985feca9a8048f672"
+hash = "c97f463c8fc76cdbc9f9c4e593a889bbc8fcc15e1471a35f6a1504d09381c931"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -188,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.toml"
 hash = "adeb62a594b6902e3d036801c38e684e36edf9358e620e928d6d9c3732ab04d1"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.toml"
+hash = "3635d131447a778447e13401dc338f9734b73687bae467a4e2af25b6ca2b66aa"
 metafile = true
 
 [[files]]
@@ -491,6 +496,31 @@ hash = "1cef9ff4e58b622ca7af565de485cea77504f9369029df8191e2d5869ec1d051"
 metafile = true
 
 [[files]]
+file = "mods/thermal-cultivation.toml"
+hash = "54643dd11f74b9756f4abee7e5d8c3ecbef295719a1322e3fca044dbd88b51f5"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.toml"
+hash = "401a02d766be021ae347ddbd3f54a7be7467c7ea86cfb8e9d07702d490d749a9"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.toml"
+hash = "a779cd07876fcfb303b6e2a3e4348ffe903e4cacae10c265962e71c0446db920"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.toml"
+hash = "f12a95e98485580ae91cdb71037fd6e3f8f64d9793c466d2bfb32362a5877669"
+metafile = true
+
+[[files]]
+file = "mods/thermal-locomotion.toml"
+hash = "19fc29e98ab601f91b314f8dda9daf80f5e018b0c29926c30bfa0ca9c42f1b06"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-extension.toml"
 hash = "6d5b8f1e060b0ab6cb1e881f9a3c46a198d6a4a43073acec8d8eac6cb2767f58"
 metafile = true
@@ -502,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit-forge.toml"
-hash = "694f4fe5b3d98e42b59d74bff61cd8f83fd8399afdff943238677a0b0ace0f30"
+hash = "d479f86d3418a6d6c60e4b7a23cb8611be6aa23253a37f64c01d67867a1ec236"
 metafile = true
 
 [[files]]
