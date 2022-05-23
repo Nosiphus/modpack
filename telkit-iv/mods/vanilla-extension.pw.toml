@@ -1,0 +1,13 @@
+name = "Vanilla Extension"
+filename = "vanillaextension-1.18.2-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f44c9386dcae470d83332bda96aa268594e6daac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3787879
+project-id = 384447

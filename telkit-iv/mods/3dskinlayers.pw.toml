@@ -1,0 +1,14 @@
+name = "3D Skin Layers"
+filename = "3dskinlayers-forge-1.4.4-mc1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.4.4-forge-1.18/3dskinlayers-forge-1.4.4-mc1.18.2.jar"
+hash-format = "sha1"
+hash = "90a4388a0f21a844dfe125540ee10b426b8106e3"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "zV5r3pPn"
+version = "m401inUa"
