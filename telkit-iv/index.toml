@@ -486,8 +486,8 @@ hash = "cd83b509943ffcfa617e3d682415a9bcfd06f469fa093215144afe2f3ddfe573"
 metafile = true
 
 [[files]]
-file = "mods/security-craft.pw.toml"
-hash = "ed47b70bec0a11eab3b958bf7c5215dfc810b1c1ae4f450f6a4be73b67cbcdd0"
+file = "mods/security-craft.toml"
+hash = "6e8e1ac6e8986c3723c86a9e305a7fc9d5b7c8d17c8b6345dbb799e1ada58013"
 metafile = true
 
 [[files]]
