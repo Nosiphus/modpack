@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.toml"
-hash = "7491d287bc20e10dacf85f1ab6d552356e151e87e8e78d58036f0827e7f466f5"
+hash = "c4b09e2e12edfcdcdd3ae95d24f3bb7d753c263f44502c76cddea3a4ad980490"
 metafile = true
 
 [[files]]
@@ -271,8 +271,8 @@ hash = "fb6732e1306d4dd5ef5703e44c2e71b122579e68c056b864f47a0920a6315e9a"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu-forge.pw.toml"
-hash = "ce408526c5da49ae6b22adb40b3d6e50115364cdaf2250bf8737db4744b27eba"
+file = "mods/fancymenu-forge.toml"
+hash = "4470ac00654870d2276103e13fd61e01777bb5752857fa0e578d35c2da2f5a64"
 metafile = true
 
 [[files]]
@@ -326,13 +326,18 @@ hash = "ec1e16d7d1939720686bfe64cc9b71249bccec342e1074ee05cbd3fb09f41df9"
 metafile = true
 
 [[files]]
-file = "mods/konkrete.pw.toml"
-hash = "a2cc2fe0bc4b421fe68df2adef4f90d8184aed98e469fe1af476585afb312d2d"
+file = "mods/joy-of-painting.toml"
+hash = "d586001588d4177071d17d3197c033f91b1b3b9365caae4524e1d97e2d94ca60"
 metafile = true
 
 [[files]]
-file = "mods/lazy-dfu-forge.pw.toml"
-hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
+file = "mods/konkrete.pw.toml"
+hash = "4d2bc57c6d48e5b99f24c39694d5b66f878e28bd94494bae1bdeac144206090d"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.toml"
+hash = "4f8004a6c0a46a8dffb6c386b97690fe33c3f22d2ab7a97884e53394e4fc2716"
 metafile = true
 
 [[files]]
@@ -376,8 +381,8 @@ hash = "060c172189a1addc9fe72afa684dcacd3cc25eb2e5edff4ea84a0e3a21d50293"
 metafile = true
 
 [[files]]
-file = "mods/music-maker-mod.pw.toml"
-hash = "3c009abfb7e293b59d1c6f1cd8971732b8b82aef5a9a3aa08464d15a6f7593a1"
+file = "mods/music-maker-mod.toml"
+hash = "c4239ed042ae43f39721beb41d292f995911e78dff0ba58d698d3e25a6282df8"
 metafile = true
 
 [[files]]
@@ -426,8 +431,8 @@ hash = "d4387b349263ad444eecef69632583cecde62fa689cf7589bc04f2cdbdcc2352"
 metafile = true
 
 [[files]]
-file = "mods/projecte.pw.toml"
-hash = "824ad9a385cce61265f09bbc1eb1666756a8ba84a3870e4bed9a92b5ce7a70f8"
+file = "mods/projecte.toml"
+hash = "e7c1a87d656a3c56e62d0735cf1b93152da8afe4a17891ace74b41d7d5c0b8c3"
 metafile = true
 
 [[files]]
@@ -546,8 +551,8 @@ hash = "54e1b9ab6101b719e021a84cc4e6e1e1a6babf23e5b62020ff3a36a61294db82"
 metafile = true
 
 [[files]]
-file = "mods/xercamod.pw.toml"
-hash = "082449b237cfe073c87bd849382fe40b4e70a37d8f1698e3adbc3a54a1b5a6c1"
+file = "mods/xercamod.toml"
+hash = "1bde4238a875c53ad49c6aa44ed08a988e24163760327cdfea64bea2b7fcc877"
 metafile = true
 
 [[files]]

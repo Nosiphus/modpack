@@ -1,0 +1,8 @@
+name = "Joy of Painting"
+filename = "xercapaint-1.18.2-0.7.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3756/811/xercapaint-1.18.2-0.7.1.jar"
+hash-format = "sha1"
+hash = "4662dddca9202ca17426da0de864b6eda1cc11a6"
