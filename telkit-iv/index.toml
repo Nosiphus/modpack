@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "a5e50cac03941db7ea58fb5eaace4732a629d464e8d6229fc84bfb36847e1775"
+hash = "b7e4839419a800dc3e12effb209f7d364cc818b71f01fc632a62cbe488de5060"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "d5d8350cf2d9832647c3b3e3dc8c875597b4a19ed6b93f200ca6e8abc4a5671f"
+hash = "d34619cd95db2d956c2d0f53d1572d02ad21bc07c2553a9dba78da20d461780f"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "0d2e8e9ca50a40d336651ed6a953d9210cc00135cbabc95527c07fc54b2e5691"
+hash = "fae82e7d07af19273467f80c4c27d3b44f2281fff13f5b565f98d0ab2f889c67"
 metafile = true
 
 [[files]]
@@ -212,12 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
+hash = "ff745c8d351cd807135719c05ded9b705d3474a2cf3098a7125367d7c0c66808"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "9a7b5d7cf2ab9e3a45d4fdaab423c3028967c646b1364b4913cfa83a9df31895"
+hash = "89bc161d8030601641690d6c71d6d4dc2ea7316c774ad1c6e1d6e894a12fd62f"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "f87b2baf969d87b506c106206bcfd5c4a13a3a859496d73e1b7c212f02f468fb"
+hash = "bc0e6a11472e545a3e4049e62f339659dacb5c3a7070bd12880466b23dea2357"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "0de6372b393860455e476febfba42357c4386fc78bcd3ac747e88a60f8dbc30b"
+hash = "fd64444a5e1d1ec5c9fc4c1d015dc5c731c1f6beeaa63cf4aa359b1cd2841669"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "d98fbbf29291efd1de4680f0e4b7f5be69c7bf192686ac77df1f7ef0a710646e"
+hash = "70af89e0e667723b77070aa6edf3fb620c4b6515b07d6ec7decc54c4b79464bf"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "a2cc2fe0bc4b421fe68df2adef4f90d8184aed98e469fe1af476585afb312d2d"
+hash = "4d2bc57c6d48e5b99f24c39694d5b66f878e28bd94494bae1bdeac144206090d"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "0f916fae1423e60b58820aa65a844338587055ccff5d3bf585a1ffc5c2626c0c"
+hash = "0d80c00cfa31f665d35e6c917bd5686b3932f2d84febf87a7a9ad2855852eb7d"
 metafile = true
 
 [[files]]
@@ -491,8 +491,8 @@ hash = "cd83b509943ffcfa617e3d682415a9bcfd06f469fa093215144afe2f3ddfe573"
 metafile = true
 
 [[files]]
-file = "mods/security-craft.toml"
-hash = "6e8e1ac6e8986c3723c86a9e305a7fc9d5b7c8d17c8b6345dbb799e1ada58013"
+file = "mods/security-craft.pw.toml"
+hash = "ed47b70bec0a11eab3b958bf7c5215dfc810b1c1ae4f450f6a4be73b67cbcdd0"
 metafile = true
 
 [[files]]
@@ -506,13 +506,13 @@ hash = "c77d6ad47a95948b8c24923c6dbd6836dce676d230064ee5d4848689638b7231"
 metafile = true
 
 [[files]]
-file = "mods/terrablender.toml"
-hash = "ded89ded76c2fa0f6a9c9a345943ab56a880eec1f0bf0e48e6d806c8df151b89"
+file = "mods/terrablender.pw.toml"
+hash = "e8de3e42b4ba1d54c49a6c0dcd9905073c5af1cc848a1717fefd236b925e32b9"
 metafile = true
 
 [[files]]
 file = "mods/thermal-cultivation.pw.toml"
-hash = "8592ea28be03203a5bb6044b2fe3dc83bc88171a7a1fbd2548041eae6af88019"
+hash = "db53fae30aff140bd4339d7f4d3f190ace39002306c2686b2d8c0da1ebd6acb8"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
-hash = "508dcd54db310f253cae34d20748bfa0335e43016fd7b409f6f00316fa994eee"
+hash = "ea130f7438fa92ee547448fed10c78053593d5bb71b8302a87e9b8949adbfeff"
 metafile = true
 
 [[files]]

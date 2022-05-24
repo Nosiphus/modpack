@@ -1,6 +1,6 @@
 name = "FTB Library (Forge)"
 filename = "ftb-library-forge-1802.3.6-build.119.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
