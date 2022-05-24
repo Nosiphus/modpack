@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "eba4ad2bbdeb75677fbe4ac3d45cc6bbc3ac325225f3fe0e69f7990390348a2d"
+hash = "ccfc889cad3bd21a1b42751b20f0482cb5e571d7ab7afc4e5a65e4a6d0b521b3"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1289,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/lumy-skin-patch.toml"
-hash = "56475071ed60e2f3c6723b470257dac89290ebae59762c6c124c7664c963c3d6"
+hash = "af0e02b82d975cb5f7ce16b9ace7590e5f3f2d5bf4d4229f33a3ac901afa8932"
 metafile = true
 
 [[files]]
@@ -1384,7 +1384,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-control-2.toml"
-hash = "92cfc9cd97ab7635d253d4a674500767de880faa0a8d39318a64a5de1bdae89b"
+hash = "5d8e894d7983467b2727d1b3be2c4bb24d8b0380f986ae9d8b568399a3ad9676"
 metafile = true
 
 [[files]]

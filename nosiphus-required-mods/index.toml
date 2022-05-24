@@ -107,7 +107,7 @@ hash = "796ef9eb1d810e2608ae0ebd9100fff77f864dbf0a7041160ec467ef576b120b"
 
 [[files]]
 file = "coremods/lumy-skin-patch.toml"
-hash = "56475071ed60e2f3c6723b470257dac89290ebae59762c6c124c7664c963c3d6"
+hash = "af0e02b82d975cb5f7ce16b9ace7590e5f3f2d5bf4d4229f33a3ac901afa8932"
 metafile = true
 
 [[files]]

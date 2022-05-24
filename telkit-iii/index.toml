@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "bf155880556fc951745d6d08ea369e08b3e110983588df80d3c2edd815377ce3"
+hash = "34fceb3c888e00ad0c77e648008641cfd75f29f556d8a28b9100fb3ceab310c6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -502,7 +502,7 @@ hash = "8a6febf33c17fdb58aab32120be3d4dceee75b1a67898b622948e720521f4668"
 
 [[files]]
 file = "mods/ai-improvements.toml"
-hash = "e4f642ba4a084ee881fe88e2dff4da8882daf271f38edbe71a85456d18d0e4e6"
+hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
 metafile = true
 
 [[files]]
@@ -516,8 +516,8 @@ hash = "2ba32a0deb9fac9eb2137c0cb807669d2d7464e007747dd115bf81bec480d250"
 metafile = true
 
 [[files]]
-file = "mods/architectury-forge.toml"
-hash = "85e1ee0f5d7d77970dbf9af9994d8759574c37a618ff2b56d58711b030294e31"
+file = "mods/architectury-api.pw.toml"
+hash = "0e80b300b13580c7d885eec4378d79ce8a90bcc604d235211a6f8dd0de050825"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/ceiling-torch.toml"
-hash = "033451d3f82593bc32fe3554a47dacfe138317edd1098a061c3f5dee03e701d8"
+hash = "e1378f01270b96138a329bc32d2146d44bfada7c7cac20286740d3b05b4082d3"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.toml"
-hash = "69977e41c8022863c14d15cec1d5159ba51b789d6bbd61d0bde8b2abb7ae4417"
+hash = "8c1629ab9a4ddf75e7cb3e0ea7da4e1497cd52c8902075789c94f38cce8a07b3"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "3ea07ec0852a057c9201ca3b52fc87f532a59d59d6cd7aec90e1de668474ad4e"
+hash = "2a5df332c3394e731e96c74a7b1a2687d01240d4ad11574a985267065a317949"
 metafile = true
 
 [[files]]
@@ -757,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/ichunutil.toml"
-hash = "c6713f2c76a6fee256df86655748111c2189ca2ce99d4b47c243fc886faf72ee"
+hash = "a80d0908d3299d8d5eb6d03bbc9be19a5483889d9e173ef27504311870191cab"
 metafile = true
 
 [[files]]
@@ -917,27 +917,27 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.toml"
-hash = "330aa8bca7917d2daa3a37e8f39b5422c3886eec45ae0bc58f6f229dcb9ae3d1"
+hash = "279e4fe270a42da7a0a3cc0e679ad4c918640e58b552e63c3e164320ed848d43"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.toml"
-hash = "ec77d6fa2fe51f042f2c5e94ab32cf48cd0767aa50607774e04219b02eaaeef8"
+hash = "25e681824a8a7c9ca2bcff9839803d6928bb75adb52abb5b488e8aac34b9f8ab"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.toml"
-hash = "ac8c27a31baa2d2e6ea0a632dfd84a2eabb805ed304512e968958b2ff49bab73"
+hash = "46e8356228df6c175d633da0adef416e58eb4e0c45a7da72d6b58d335e77a5f1"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.toml"
-hash = "17608461f90bc264ab12a0f43f135d6ddd981de8b402907ab91734d56d3cfece"
+hash = "6a6859810e4aea11bdef69ea74577e2efd313b475ba2f0dd8cadfe1c4caa88ee"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.toml"
-hash = "741789cc81a89f39ff2ab84f2a70eebc7241fa9f18ab4969748ebf6524521d13"
+hash = "4e95c53631c816fc0605756af2ea9a2df60c068f65c0326c901fd88ffb848722"
 metafile = true
 
 [[files]]

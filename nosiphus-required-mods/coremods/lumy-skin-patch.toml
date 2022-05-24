@@ -1,13 +1,13 @@
 name = "Lumy Skin Patch"
-filename = "LumySkinPatch-1.0.10.jar"
+filename = "LumySkinPatch-1.0.11.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/2997/950/LumySkinPatch-1.0.10.jar"
 hash-format = "sha1"
-hash = "ec1432270bcfafb9a4a3d8b101956b4202c5e3d3"
+hash = "8bebd3b882745c487e28cb89ec1e31a013e6e643"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2997950
+file-id = 3787023
 project-id = 288957
