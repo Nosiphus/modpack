@@ -3,9 +3,9 @@ filename = "1.18.2 SecurityCraft v1.9.1.jar"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/3696/873/%5B1.18.2%5D%20SecurityCraft%20v1.9.1.jar"
 hash-format = "sha1"
 hash = "c5ce470e8f71980972cf44d5041c4d5eff8ed0bc"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
