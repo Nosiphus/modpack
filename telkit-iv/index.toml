@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "b1cbbb68e5e8c669198bf3f23eb3fcdf7f1a9acf8dae6d032c538a6d3c763134"
+hash = "3810e4880415ed35fe6862465cf92b20c9e270f518a77feee767d09bf9c0ff1c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -98,11 +98,11 @@ hash = "46ed0db4764d65cc448d7787fa12c65fb474e28108e002cb161af1909dce54db"
 
 [[files]]
 file = "config/mca.json"
-hash = "c52a39b558e0a1c6bfaf68fb25945fb248bb26e1652777215548ce92957626f4"
+hash = "be5236776c70787b804f60d93ae597d8de6c517c07a57736c61b75c1cce09550"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "80b097f1426c5836863d9dd6e36be097eeda8ad8fb160b8604f3eb6c678c1cd6"
+hash = "a853a6b82f29ef80b8125d450c44b4a1fae248f64cad2ebff2d436fea8f9ae5f"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1066cd05c1c9ea86ddbd8e31140d1c793571bb0d406d7cb397083e19bb7b9e6b"
+hash = "8f1c3000138d49dde894c6d6d0aee784c64ab845922eb777fa37ac0e28391cb3"
 metafile = true
 
 [[files]]
@@ -151,8 +151,8 @@ hash = "2fdf4c7e0aef53289d0b2c5e787874ac9d19701411f6e9849d2adc5d2821cb42"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.toml"
-hash = "c4b09e2e12edfcdcdd3ae95d24f3bb7d753c263f44502c76cddea3a4ad980490"
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "3ac7add6d5a56bb916eee50d4d55b964fa50a4b2a9a90f0ae41c00c44046985b"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "50c330206bb274266d4be3635275025819adb9133b8e3cd9ca690edfe785dfaa"
+hash = "0025a3bc13d27bbc8467e028d23bd0ad8b9063b7ae14a3649dee4e0fc3da29d4"
 metafile = true
 
 [[files]]
@@ -336,8 +336,8 @@ hash = "4d2bc57c6d48e5b99f24c39694d5b66f878e28bd94494bae1bdeac144206090d"
 metafile = true
 
 [[files]]
-file = "mods/lazy-dfu-forge.toml"
-hash = "4f8004a6c0a46a8dffb6c386b97690fe33c3f22d2ab7a97884e53394e4fc2716"
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
@@ -347,27 +347,27 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "830411171c7465c7f950b2c3d7bd267f7365655feed80fb3b41cf34c0cb9d9c8"
+hash = "1275e4b14ae8b73f856ff43341b8aaae0d51b629500730eaf0f6787372b510cc"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "5b8923892b141804144ca043fd7f41e8d17d7d5dec6ace0d8c03c18d61011cd6"
+hash = "831abbdc3a8a5dfb5a29d55a36dfde0dd502cfa35647317332e915b4716f367f"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "b480f81db9488cf525a01c1759c2d963bc8e9dee5d5a438b1f3faad842ac1705"
+hash = "4b22a590a09b39e7b4d6a6755569311021e1cfafaaff1c992651a479e88b13bc"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "6f99de092dcd5fc42aa13767a2d0ee242db01e948cec315195b4a79977bc8f97"
+hash = "2a14f14fc768ecf65e084bdb11785b6fcc71eb5e0c5da96ccb24ac90ee1f25fc"
 metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "5a31e0d0620d3b181fc2f7ec232d7c0948b868f0c83b0f24f9e2ab05f7606d4a"
+hash = "e63756293a4d855bc7b439dcc348c1ceb67686ff14f2c4bb83401ae307c7d693"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "c87ac066b87c3a3f116b1c85b174df93a9780473783089a5cd6a58cebbcb6050"
+hash = "c2fb82140110907c602e16141187d78c0f60976626dc3cead9ec3c8b3a43dd70"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "cd83b509943ffcfa617e3d682415a9bcfd06f469fa093215144afe2f3ddfe573"
+hash = "14c6bb4878343e3aec6d351c20d6354a8c462dcef933ebe88a01c4e9ab257fa4"
 metafile = true
 
 [[files]]

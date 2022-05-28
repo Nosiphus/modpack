@@ -1,8 +1,0 @@
-name = "Biomes O' Plenty"
-filename = "BiomesOPlenty-1.18.2-16.0.0.111-universal.jar"
-side = "both"
-
-[download]
-url = "https://edge.forgecdn.net/files/3794/487/BiomesOPlenty-1.18.2-16.0.0.111-universal.jar"
-hash-format = "sha1"
-hash = "d8b9a4040ec26893b21cd6e549898340429383f8"
