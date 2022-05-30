@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "3810e4880415ed35fe6862465cf92b20c9e270f518a77feee767d09bf9c0ff1c"
+hash = "2e5d87c03af9d31d4d3720110426ad2d2a457d59e160fbdb5eb64fc492840cb7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -102,7 +102,7 @@ hash = "be5236776c70787b804f60d93ae597d8de6c517c07a57736c61b75c1cce09550"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a853a6b82f29ef80b8125d450c44b4a1fae248f64cad2ebff2d436fea8f9ae5f"
+hash = "64542fa4657ed24d426f1d663a146af7cbd310fb414b380e299339188d14f1c2"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8f1c3000138d49dde894c6d6d0aee784c64ab845922eb777fa37ac0e28391cb3"
+hash = "c6d058c2a4bd032da15f6156d85aba4304fb20a7ac6249f2ceae0505655fefbc"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "d34619cd95db2d956c2d0f53d1572d02ad21bc07c2553a9dba78da20d461780f"
+hash = "a7e9a9ce546f989b095812a0fbc4b878ff94213a39c4d6e7d06ae06224e3ea61"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "42bdc071286f0a0bf1cdf0894713b06ad8b5d6dd41896df59479d25f5880587e"
+hash = "57989567ef03b097737aef6aee470d75f70870caf0b5b93f5350c2845db30c38"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/quartz.pw.toml"
-hash = "ba1301a42deb68c413aed959c318e2f2f63536f0775b9e372537b1a66341aae3"
+hash = "53d39a0da8378d0a243e4d589ae84d2ddd712093047623d196442a49bc8df7e9"
 metafile = true
 
 [[files]]

@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "34fceb3c888e00ad0c77e648008641cfd75f29f556d8a28b9100fb3ceab310c6"
+hash = "ede2c4648a07ab424ae8b9e654be1e5d079f54c40ef6a117f5265c836c238b26"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "2a5df332c3394e731e96c74a7b1a2687d01240d4ad11574a985267065a317949"
+hash = "498ea6bfa6d9b94fc68726ffe572902bfa14ef2f2e84b7e50a1ea33d8e19eb16"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.toml"
-hash = "56de3730989d5c4f269c8cb4f4ce83b689cbf8cad60634395d3a73cce68de1aa"
+hash = "2124bd82fdd12993c4694778c75d286fa51f031e5a6c062dca59d7cafcb295b8"
 metafile = true
 
 [[files]]
@@ -757,7 +757,7 @@ metafile = true
 
 [[files]]
 file = "mods/ichunutil.toml"
-hash = "a80d0908d3299d8d5eb6d03bbc9be19a5483889d9e173ef27504311870191cab"
+hash = "9189d74e5c0a786ac3c4abeabe8f8c3fd18cd0b25c2c69069400c06f0fed59df"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei-integration.toml"
-hash = "b355744b4751322e467c8d92d375f228fce27a8b5b8dae3b05afc435ff4434dd"
+hash = "84c33723f7c1458039c65517a3a405c100c30c7b3beb399aece1d5766d455be2"
 metafile = true
 
 [[files]]
@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.toml"
-hash = "f59fa1a7add433415884424ae68f62ba886b4f7f2852ca086b26cdf0ab9286ee"
+hash = "afd4824600fd09fcd777734eb9f11802fe36d5a951073110c1cc7b07297ce052"
 metafile = true
 
 [[files]]
