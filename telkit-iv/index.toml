@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "2e5d87c03af9d31d4d3720110426ad2d2a457d59e160fbdb5eb64fc492840cb7"
+hash = "3b86c7b6c0590f271c55d71893fd3642b948021c95c4856a56ff78eeca4d904f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "971908012c6ac8d303bc681cf7524802a03385c1a2d1621c7d4b9fe71ed5022e"
+hash = "ebfbcf221b58c1c36ddc8a90c972a7c2f12b3895cece973f669e3e4bfeedfce5"
 metafile = true
 
 [[files]]
@@ -347,22 +347,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "1275e4b14ae8b73f856ff43341b8aaae0d51b629500730eaf0f6787372b510cc"
+hash = "61446b1d7123941c9f9692bc955603eb9b4f6e69acbd9334bc51146883a54a5c"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "831abbdc3a8a5dfb5a29d55a36dfde0dd502cfa35647317332e915b4716f367f"
+hash = "aab44285742e44575248d7ab4fa3f801adf12735ee8fdae3194ee79987ca6b07"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "4b22a590a09b39e7b4d6a6755569311021e1cfafaaff1c992651a479e88b13bc"
+hash = "210e052d6cbcb2313a9b4bd734537a60d3cdf967e26bbde9822eb485bf61989a"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "2a14f14fc768ecf65e084bdb11785b6fcc71eb5e0c5da96ccb24ac90ee1f25fc"
+hash = "d9460d101e4cdc1afc2583562da2c1c2285568c0135160cc36a2bfabf1d00247"
 metafile = true
 
 [[files]]
