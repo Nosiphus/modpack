@@ -1,14 +1,14 @@
 name = "WTHIT"
-filename = "wthit-forge-4.10.3.jar"
+filename = "wthit-forge-4.10.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/forge-4.10.3/wthit-forge-4.10.3.jar"
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/forge-4.10.4/wthit-forge-4.10.4.jar"
 hash-format = "sha1"
-hash = "b9d272cdf477d2f61cd9a5312d8ec8e82d039fe7"
+hash = "72a13086a89eaa0969656999c109dbf047249131"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "6AQIaxuO"
-version = "4378CA7t"
+version = "gWV0yjAS"
