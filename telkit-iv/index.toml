@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "191273a8ca6cfa41752f32177a022a0cbd0c49afe3fd7a509655a3323f72cfbe"
+hash = "fae82e7d07af19273467f80c4c27d3b44f2281fff13f5b565f98d0ab2f889c67"
 metafile = true
 
 [[files]]
