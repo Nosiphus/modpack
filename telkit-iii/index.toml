@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "ede2c4648a07ab424ae8b9e654be1e5d079f54c40ef6a117f5265c836c238b26"
+hash = "5ddef1a1901e4f9a95efde8bf9f1a981b1096f63c51a605636e4af8a73105e1f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.toml"
-hash = "f01dba9cfed356f4cd35db04cff27e6238b28864af71f2e263a89060904dd9b6"
+hash = "d98d5277fa8bddc77c4190a532d73a241e5ed3336f37350ce3b726534d82ef66"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "47b141c0f26803082aaff85c7545ce421505e4a687c7128c9f2fbd6c33da4938"
+hash = "b71417e3a725de28a253fd69ed55397b4f71e968fc338124ddc2f1ed32a23f3a"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.toml"
-hash = "8c1629ab9a4ddf75e7cb3e0ea7da4e1497cd52c8902075789c94f38cce8a07b3"
+hash = "553d586e31133c3161687eabe29cb4e28543a7ac53f618eaf3ca28f6c4c3d742"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.toml"
-hash = "8a029a24a7884b59baba16e4b992aa103a30a419808bee0a2901ed48e84c683d"
+hash = "1f309fabcff1aa201d12bf16f030f82094b2d4160a4e611b09ef0739746c0f60"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.toml"
-hash = "2124bd82fdd12993c4694778c75d286fa51f031e5a6c062dca59d7cafcb295b8"
+hash = "59f6d3d1ff6634ad23715bfc9cee4322c60afc0084e6ee7f65acf98dc966e53b"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.toml"
-hash = "74ccfb939413fac45bfb8b408c1f280016951a9a77cdad73e78424ac6434e2d1"
+hash = "ed357f0935b1d04039203bcbe503554b0aeb76ddf5735667a933470767693d3d"
 metafile = true
 
 [[files]]
@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.toml"
-hash = "8ce4bd5917753a66da304d7bb5fe208a117ba58f6fc4ff15536cbb2c8ecb29c1"
+hash = "edc5ef7fbef8f753b60d1d792ca08ac6f7afc8b28e926e4b063de832486d2c27"
 metafile = true
 
 [[files]]
@@ -917,27 +917,27 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.toml"
-hash = "279e4fe270a42da7a0a3cc0e679ad4c918640e58b552e63c3e164320ed848d43"
+hash = "52acab9509aae140148ad4a155516ef4d1b67e9ef0665c8a25cac66e6c8900f3"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.toml"
-hash = "25e681824a8a7c9ca2bcff9839803d6928bb75adb52abb5b488e8aac34b9f8ab"
+hash = "23ab2171176daa2511af94d1177547a2988ab86366624826374e5a2dd2a7e859"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.toml"
-hash = "46e8356228df6c175d633da0adef416e58eb4e0c45a7da72d6b58d335e77a5f1"
+hash = "b9cb236cf52dd0ccdc534da29002d260bf5f88841b96cabe80ce262be15f0390"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.toml"
-hash = "6a6859810e4aea11bdef69ea74577e2efd313b475ba2f0dd8cadfe1c4caa88ee"
+hash = "a43a4f559b3739124658e2b5cae3c5fce86806a794a2ec2063d84b60ae6b35d2"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.toml"
-hash = "4e95c53631c816fc0605756af2ea9a2df60c068f65c0326c901fd88ffb848722"
+hash = "ad1fd648b28dc914c101c0a393348467d8d694cb561a4c17a38859bb37801ce0"
 metafile = true
 
 [[files]]
@@ -962,27 +962,27 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.toml"
-hash = "ef48c5ec7b2db6eb50526e358be37b9d5b3fb0cc7c38601a3f767d508d817062"
+hash = "bbab093709cabb06ebb6f80825b4e6e9b51c358b70a9d55eb737d827fc4895b7"
 metafile = true
 
 [[files]]
 file = "mods/rftools-base.toml"
-hash = "f957bd3ec58e774ed6946c027caf70032a5f70ba375e71d4a6e75908decd3381"
+hash = "ba6d6368d3c07954bb4a47ef83c21e246598c7f94812e5bdbf71f14d32b9c043"
 metafile = true
 
 [[files]]
 file = "mods/rftools-builder.toml"
-hash = "676c03d3f45280236903a17a3862c6479203ec8beb3a56fe8f986480fe71f9b6"
+hash = "a43ae0339aae015f86b2eb63eabafcf9eab37932501c9008475606957d7188e0"
 metafile = true
 
 [[files]]
 file = "mods/rftools-control.toml"
-hash = "500857aff2f324cd4bc4cf28d2e4bc58971340f458b3f27843243cce1e489e94"
+hash = "85e4b174baa7a5e18694bede0bf8387266c26c19b5a80ea9bc39a8725c8e0f98"
 metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.toml"
-hash = "0770bcab03b9473fa1c2f8ccfa0f5c28c146ce1dcb96e077e595dcf0863f9bcd"
+hash = "88313937618315576731870e435fc70d441b5485ad5f362717fe74269b9c47cd"
 metafile = true
 
 [[files]]
@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.toml"
-hash = "afd4824600fd09fcd777734eb9f11802fe36d5a951073110c1cc7b07297ce052"
+hash = "6422252c1f9b5010fa16d37994a8de436d643549052761c7fbe9a61e22b5e126"
 metafile = true
 
 [[files]]
@@ -1007,7 +1007,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.toml"
-hash = "ff9907c73d29304ed6c97922da973adac2de27e3c1e56f3dc249ca80c7f08916"
+hash = "7af3560dff4b06a7c4775acd0440487aacb2313b002f9753474d1bb070ed9d8d"
 metafile = true
 
 [[files]]
@@ -1107,14 +1107,14 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.toml"
-hash = "4b3faef11cc1440d6412118afdaba60f5f9c8d04b74691adc4acfc6c853293fa"
+hash = "d6ce53698e523162d0f5f82c613548d07501d937c934f70251e0839e7ec77306"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
 hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "e8089a9d8c6908e57f0a738ff77f5e892bb363b10a686aa7298955405fffdb02"
+hash = "ff4c49795a186fbb6afdf8e475e60a540389cd32189e6887ab5cb8644c2cce54"
 metafile = true

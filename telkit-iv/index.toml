@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "b48f6f190be460eb1e1e8ab053fd02dea30350bf06c323ca2e10b3646c040454"
+hash = "90cd573a28471fb5ee238a1c7375111fd862d91a7abf9485ae2321301b4e8919"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "fae82e7d07af19273467f80c4c27d3b44f2281fff13f5b565f98d0ab2f889c67"
+hash = "a8a0e77e6ba0b1e484cff9115aad3273c6faa0fde67a0867a0ff6f8b868551a0"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "db853a16a69cfc9a2971912f4c853ec0ade4f44808d4e12990d560346bb3168c"
+hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "50520a17fd8f43e1b6eb91664b8d0af59498cd2d0837db84d2ef4728e5ebe9d8"
+hash = "84423127e3a25f8af1c67d4d583511c96952007fcf64feddc00726ad79db26d3"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "299918669d30292ad1ce63af88b03580a4d4ac3024ffd0f6abc6c505572b7357"
+hash = "a3a1436affa9c448fb693f34aeae2744287e29ed57c492b139b731428e5ed240"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "08e39d12e33b6f35b33c4a32977a320d58020b58af91be8a10a54b3c62d04e65"
+hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "891d92de59bb908bc532c2056e35703d0f1edc8adb4a92a1b46e95bbdc793118"
+hash = "33065e80ce844f4a20b0a39315d7c2daf15fbd4821c395b1191e77f3e56bfbed"
 metafile = true
 
 [[files]]
@@ -561,10 +561,10 @@ hash = "fae9f4351a00855f884b84aa28f5ba42381648658d4efe81d66cac0b5122bada"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
 hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "e8089a9d8c6908e57f0a738ff77f5e892bb363b10a686aa7298955405fffdb02"
+hash = "ff4c49795a186fbb6afdf8e475e60a540389cd32189e6887ab5cb8644c2cce54"
 metafile = true
