@@ -1,11 +1,11 @@
 name = "Security Craft"
-filename = "[1.16.5] SecurityCraft v1.9.2.jar"
+filename = "1.16.5 SecurityCraft v1.9.2.jar"
 side = "both"
 
 [download]
+url = "https://mediafiles.forgecdn.net/files/3821/242/%5b1.16.5%5d+SecurityCraft+v1.9.2.jar"
 hash-format = "sha1"
 hash = "1aad0e6fbae6ef0d463cfe67ccc19d7197686cc9"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

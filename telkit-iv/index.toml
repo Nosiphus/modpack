@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "07a3f1ca5d2c0fe6fb0a84b05c98cc53ef7c371b4c20ae759a91f2acbdf203eb"
+hash = "d464311970dea82bb99f91bb32330c6792e730ba6f622721005fa9abf717d03b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a5d95bf96603677814e5d5e15c6f6a2820fa7ff49b04992dfb2c66653888bbfd"
+hash = "1f1d6db22ee50fb8386b92ea23f8aadc32f2210384aa86ce98b0c90763335954"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "ad3789d2715553129d7b06f31429181564ce1cc0e2c6013387f44ee7f8eb2d18"
+hash = "0dec282523613a58ced861da722d649f23d98d1d34f3957380b1c37ada041887"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "a47c9403d5357c88663d092bcd587089614f9b6ecea76091cbcba82555f092eb"
+hash = "504353358613f24b20e7ff730f5fb124e01c66542944d1984d070a57f61e24cb"
 metafile = true
 
 [[files]]
