@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "5ddef1a1901e4f9a95efde8bf9f1a981b1096f63c51a605636e4af8a73105e1f"
+hash = "80c475731ec2b1e57f943698e9c5d7c74db7a076ce5f7df1283a860aaeeb8593"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.toml"
-hash = "1f309fabcff1aa201d12bf16f030f82094b2d4160a4e611b09ef0739746c0f60"
+hash = "6a3658cb1b501983c323b6790b6dff55d753d86a2f0dcb1c2991f5eba873827d"
 metafile = true
 
 [[files]]
@@ -1111,10 +1111,10 @@ hash = "d6ce53698e523162d0f5f82c613548d07501d937c934f70251e0839e7ec77306"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
 hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "ff4c49795a186fbb6afdf8e475e60a540389cd32189e6887ab5cb8644c2cce54"
+hash = "e8089a9d8c6908e57f0a738ff77f5e892bb363b10a686aa7298955405fffdb02"
 metafile = true

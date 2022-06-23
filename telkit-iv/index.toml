@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d464311970dea82bb99f91bb32330c6792e730ba6f622721005fa9abf717d03b"
+hash = "86102e7e00161095f118f33a8500abebd5cba129b08e3043febc9fb8b8572a23"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "b6b6d7bc7506ad7c8554dd2cc02ba9dde579af6b3c338387320eca650ee4a17d"
+hash = "efd9c3090518f23f7b229ae2cb2dbb7d0b5c05fa474104b574c5f231b9a89128"
 metafile = true
 
 [[files]]
@@ -561,10 +561,10 @@ hash = "fae9f4351a00855f884b84aa28f5ba42381648658d4efe81d66cac0b5122bada"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
 hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "ff4c49795a186fbb6afdf8e475e60a540389cd32189e6887ab5cb8644c2cce54"
+hash = "e8089a9d8c6908e57f0a738ff77f5e892bb363b10a686aa7298955405fffdb02"
 metafile = true
