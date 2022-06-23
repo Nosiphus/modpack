@@ -1111,10 +1111,10 @@ hash = "d6ce53698e523162d0f5f82c613548d07501d937c934f70251e0839e7ec77306"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
 hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "e8089a9d8c6908e57f0a738ff77f5e892bb363b10a686aa7298955405fffdb02"
+hash = "ff4c49795a186fbb6afdf8e475e60a540389cd32189e6887ab5cb8644c2cce54"
 metafile = true
