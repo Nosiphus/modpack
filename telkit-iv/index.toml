@@ -30,7 +30,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "86102e7e00161095f118f33a8500abebd5cba129b08e3043febc9fb8b8572a23"
+hash = "ed2219fc4ac7d8fea675feb598152b76844d294f25f4c09c47f96fdec53e9c0a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "0dec282523613a58ced861da722d649f23d98d1d34f3957380b1c37ada041887"
+hash = "9bad9d1723e9165e54baadf6ddf3bcd74becd1bc74235fbca73ba0d27317f405"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "39d1bb27112636dd7a1cc6d1b6bb7aedcba9da3705dd1298a09013f5b950268e"
+hash = "40bd60b47fa59a59c16a4da4cbddfaf5228beb7aacb440fc3bf7aa5ff70157c8"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "efd9c3090518f23f7b229ae2cb2dbb7d0b5c05fa474104b574c5f231b9a89128"
+hash = "02002c31abea982455b423da78cafe7fdad3df5ffbce1370cb06bf54e08da6d2"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.pw.toml"
-hash = "f304b9b62a5829ec07de42f81f9237373890d05654f4fd83d485146ade837822"
+hash = "1f3d70c560f80e9f82251bffbe7609cd8c016d0cb9f00e4a7d6996394af9fc88"
 metafile = true
 
 [[files]]
@@ -271,8 +271,8 @@ hash = "fb6732e1306d4dd5ef5703e44c2e71b122579e68c056b864f47a0920a6315e9a"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu-forge.toml"
-hash = "3c2b58ab5e0d0787e960357a7ba610877584e858f10d3bee87e4beabaed957a0"
+file = "mods/fancymenu-forge.pw.toml"
+hash = "34692f57f53879c5a9b010dd75ef2be662f657404e5da1f449038bbc0487efdc"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "7b2d25276530c4b303bf24954354ad86b3688943aaafffc2a0397338018465e7"
+hash = "366c9b05ee73673066ec72cfe14afa0b2565a926248823c9d9685c4c06d7ddca"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "84423127e3a25f8af1c67d4d583511c96952007fcf64feddc00726ad79db26d3"
+hash = "3e963187c3f080269bc97d3a419ab4b8395bc9fcb86e413f39658cae659b0990"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "a3a1436affa9c448fb693f34aeae2744287e29ed57c492b139b731428e5ed240"
+hash = "fe8e27ae2379c6b837a9798a6582c762048b16f1b2e17434f7ca292c34382ade"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "d4387b349263ad444eecef69632583cecde62fa689cf7589bc04f2cdbdcc2352"
+hash = "772cb7c52e2c2ce7cef9a9099d4e054dda8cc414dfc3cf09b5c5e5b1fe334902"
 metafile = true
 
 [[files]]
