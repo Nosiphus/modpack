@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "80c475731ec2b1e57f943698e9c5d7c74db7a076ce5f7df1283a860aaeeb8593"
+hash = "d10ae7c1e88cb3cd7bf1ad795e3d361c30bdfc146e30003242bd769ce7e7336b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "b71417e3a725de28a253fd69ed55397b4f71e968fc338124ddc2f1ed32a23f3a"
+hash = "8c8f22fde213c269830708b5b8f5b0b5f71507287a2c003a52e6cfcca7b67cd0"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctd-core.toml"
-hash = "0685ed7eb7bfef29637cc2ade1bac1cce4a3e3dbfe89ffa262da332072ee5da5"
+hash = "d5f90d81eed6505bb29f88ee2110f480093206c02f5ab7d4ffd876de11480978"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.toml"
-hash = "553d586e31133c3161687eabe29cb4e28543a7ac53f618eaf3ca28f6c4c3d742"
+hash = "3a4af270a0ef9f3d65cf04cdcaa95622ca6396c21b555a1f8824ab73263ebaf1"
 metafile = true
 
 [[files]]
@@ -687,7 +687,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.toml"
-hash = "6a3658cb1b501983c323b6790b6dff55d753d86a2f0dcb1c2991f5eba873827d"
+hash = "cbcde3464857e101e7585abd9e2a417c9b93643e32f0c51e21b41f2689bc9226"
 metafile = true
 
 [[files]]
@@ -701,8 +701,8 @@ hash = "a1a93e8c6828a398cf285d10ad6ffd6f0d1af0e9ff33f878cbd2afb92c7fce08"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu-forge.toml"
-hash = "498ea6bfa6d9b94fc68726ffe572902bfa14ef2f2e84b7e50a1ea33d8e19eb16"
+file = "mods/fancymenu-forge.pw.toml"
+hash = "b6af70538524acff3e939302909f159e485631cc0758d213020d4bf332be347a"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.toml"
-hash = "a00d7cf053cb6a4f2265c7920f01f93a40fe79e8fb2562859d627f29fd10984d"
+hash = "de314761adc958ec82b70e6b83b6a8bb6342a258e96e6bbb5ec0cc0bd2fc77d6"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.toml"
-hash = "ed357f0935b1d04039203bcbe503554b0aeb76ddf5735667a933470767693d3d"
+hash = "8e4bcfb3c7414bad4fa427e5381fe9e44d8d7ba197b76ed3701c00df8bf6c2a3"
 metafile = true
 
 [[files]]
@@ -827,12 +827,12 @@ metafile = true
 
 [[files]]
 file = "mods/mo-glowstone-lamps.toml"
-hash = "c954d6cad979b6ed7ab6f7f40f90ee15cdd72b4fcfdfe46e353fb05a1c28dd26"
+hash = "3efa5cfd0e789b2988c3cb0ba84a5ed998d43165a1b3a4c5a0f68d8d5da31a14"
 metafile = true
 
 [[files]]
 file = "mods/mo-glowstone.toml"
-hash = "7bfa1d54c059f3437e425d06e4e27cad4ccf816e56b08a8122c9ec8d83ab6894"
+hash = "52bf9ca787792e0c18f093735551dc9084bd8af829d3d7c2c60f101f66974acd"
 metafile = true
 
 [[files]]
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.toml"
-hash = "a4d6bca8d160c82158e684d1a09f538e7ab9c76e6dee063fcd66b104b8754671"
+hash = "adfaa4397b987d1589056f24fbe6c80d79c56a2a828d151c5a927c60d79a920a"
 metafile = true
 
 [[files]]
@@ -1107,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.toml"
-hash = "d6ce53698e523162d0f5f82c613548d07501d937c934f70251e0839e7ec77306"
+hash = "5e3daaa483dfb35ddfbf338b84fa3d8cb010477babbe2614922ce5d32c98fe61"
 metafile = true
 
 [[files]]

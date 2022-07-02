@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "3ddb7ccdd54bf3422ed65a3e4bb37ed5581f56097b4e7ccf388905c7af1bdb58"
+hash = "537929489a686ab7752ad56a16b357f86d9442e240539716eb1aca4acabdac12"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-craft.toml"
-hash = "f1edcf148088935b13ab3bb58bde8a5289f289c744987ba96554254a3a6a3c1a"
+hash = "43df33074b697543f59aa7e01351b2b437613ec50c07c49f5af2476bd5bb3906"
 metafile = true
 
 [[files]]
@@ -563,7 +563,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.toml"
-hash = "f875c2d54ae58eed9bea01c1562126ee83b0129c3c1165a1344c811fb53a3d08"
+hash = "15e60449f02f854029cee7ba538270ab25bcbb8a13e159b9231307dc0169b949"
 metafile = true
 
 [[files]]
@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.toml"
-hash = "226d6f52dc4b7400d8d3093ab70b2b3a9e1388ea4ec2f63faf26518b7e1e477c"
+hash = "8a624db09f87d1a7e24c65d58d7ba288e52c8330ffd18f64e8ca882991f75fd4"
 metafile = true
 
 [[files]]

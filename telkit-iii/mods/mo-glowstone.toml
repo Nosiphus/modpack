@@ -1,13 +1,13 @@
 name = "Mo' Glowstone"
-filename = "Mo-Glowstone-1.16.4-2.1.0.jar"
+filename = "Mo-Glowstone-1.16.5-2.1.1b.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3106/395/Mo-Glowstone-1.16.4-2.1.0.jar"
 hash-format = "sha1"
-hash = "54ca14a33f4918e7b5c846d5dd0d954766fe3b42"
+hash = "081db3dfe8f5f8f48789b531fb8f63dbffacabf1"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3106395
+file-id = 3848290
 project-id = 253336

@@ -1,13 +1,13 @@
 name = "Security Craft"
-filename = "2SecurityCraft v1.9.1.jar"
+filename = "SecurityCraft v1.9.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3696/865/%5B1.12.2%5D%20SecurityCraft%20v1.9.1.jar"
+url = "https://mediafiles.forgecdn.net/files/3821/241/%5b1.12.2%5d+SecurityCraft+v1.9.2.jar"
 hash-format = "sha1"
-hash = "17e7c8f5c01cb0d2830a9cbf5ec935be78fc05b5"
+hash = "a95032fe91f7e5732d17c82f3be324fb2f9e1105"
 
 [update]
 [update.curseforge]
-file-id = 3696865
+file-id = 3821241
 project-id = 64760

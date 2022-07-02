@@ -1,13 +1,13 @@
 name = "Industrial Craft"
-filename = "industrialcraft-2-2.8.221-ex112.jar"
+filename = "industrialcraft-2-2.8.222-ex112.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3078/604/industrialcraft-2-2.8.221-ex112.jar"
 hash-format = "sha1"
-hash = "43e4af33528087ac448b9fcb5b31c6a6cd3a10ce"
+hash = "7b1263c23b3a276ae7bee4ef9b07b0a96cb397b1"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3078604
+file-id = 3838713
 project-id = 242638

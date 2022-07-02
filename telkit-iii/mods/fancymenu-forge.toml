@@ -1,8 +1,0 @@
-name = "FancyMenu [Forge]"
-filename = "fancymenu_forge_2.7.2_MC_1.16.2-1.16.5.jar"
-side = "client"
-
-[download]
-url = "https://media.forgecdn.net/files/3798/430/fancymenu_forge_2.7.2_MC_1.16.2-1.16.5.jar"
-hash-format = "sha1"
-hash = "0b589805212dc263d1842981cd1b8de32d22aba2"
