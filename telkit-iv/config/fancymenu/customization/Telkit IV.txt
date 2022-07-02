@@ -165,7 +165,7 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
+  hidden = true
   x = 343
   width = 13
   action = deep_customization_element:title_screen_realms_notification
@@ -188,7 +188,7 @@ customization {
 customization {
   orientation = original
   splash_color = #ffff00
-  hidden = false
+  hidden = true
   x = 0
   width = 60
   splash_rotation = -20
@@ -301,5 +301,10 @@ customization {
   label = Website
   value = https://www.nosiphus.com/minecraft/modpacks/telkit
   height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
 }
 

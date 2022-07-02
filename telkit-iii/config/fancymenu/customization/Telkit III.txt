@@ -19,7 +19,7 @@ customization {
 }
 
 customization {
-  identifier = %id=400322%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = top-left
   x = 85
   action = movebutton
@@ -27,14 +27,14 @@ customization {
 }
 
 customization {
-  identifier = %id=400322%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   width = 64
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=604382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = top-left
   x = 150
   action = movebutton
@@ -50,7 +50,7 @@ customization {
 }
 
 customization {
-  identifier = %id=400382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = top-left
   x = 53
   action = movebutton
@@ -58,14 +58,14 @@ customization {
 }
 
 customization {
-  identifier = %id=400382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   width = 48
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=502382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = top-left
   x = 102
   action = movebutton
@@ -73,14 +73,14 @@ customization {
 }
 
 customization {
-  identifier = %id=502382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   width = 56
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=376382%
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = top-left
   x = 159
   action = movebutton
@@ -88,7 +88,7 @@ customization {
 }
 
 customization {
-  identifier = %id=400298%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = top-left
   x = 20
   action = movebutton
@@ -96,14 +96,14 @@ customization {
 }
 
 customization {
-  identifier = %id=400298%
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   width = 64
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=400346%
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   orientation = top-left
   x = 20
   action = movebutton
@@ -111,14 +111,14 @@ customization {
 }
 
 customization {
-  identifier = %id=400346%
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   width = 32
   action = resizebutton
   height = 20
 }
 
 customization {
-  identifier = %id=502346%
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = hidebutton
 }
 
@@ -136,6 +136,74 @@ customization {
   x = 151
   action = movebutton
   y = 135
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 124
+  width = 233
+  action = deep_customization_element:title_screen_forge_top
+  actionid = c6ac451c-32b9-4250-92ea-731ae08de5c01656791587908
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 94
+  action = deep_customization_element:title_screen_branding
+  actionid = afc86957-eff2-4bbc-96ea-6c456238effb1656791587911
+  y = 211
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 277
+  width = 202
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = d583eaf5-aa1d-430a-a452-bd6cedcc16a51656791587912
+  y = 233
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = c75cf6f5-f282-4a3d-b4ae-d90caa4747501656791587912
+  y = 163
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 103
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 7e115fbf-bf4e-447f-896a-2747c2517bc01656791587912
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = b9d4a1b8-388d-42d5-87c9-d1e4d8bac6701656791587912
+  y = 0
+  height = 30
 }
 
 customization {
