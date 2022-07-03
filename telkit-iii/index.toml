@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "b6af70538524acff3e939302909f159e485631cc0758d213020d4bf332be347a"
+hash = "44c8db73a36d71b953000405633b4559117d50df012ae6fd2fb8bb078e1598a4"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture.toml"
-hash = "4f4cfffc8deec360d466884ee2db4830a223cba534c2c3b8814c18e58de8efeb"
+hash = "9f6ae717e2e70fd62de59ea2c71c3713f7797e62d01782b05e03df5f6960d396"
 metafile = true
 
 [[files]]
@@ -1102,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.toml"
-hash = "6b17901586e4659dc860935db0883c56cfe059acedf042f00a0820f2d8ded836"
+hash = "1325ff3d5ce9f2d04c89cee0a211a5adf9f66f1a9b385c778b54e4cd691480c7"
 metafile = true
 
 [[files]]

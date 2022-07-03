@@ -723,7 +723,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.toml"
-hash = "b71e4115ec8cc61c1711844ed96fb9789fd931696ca6b0187cde0592cc816db1"
+hash = "1ccee50beddd29dfee8c2a94343d38515fdcf875fbd80eb59d7bcdd64c0459ef"
 metafile = true
 
 [[files]]

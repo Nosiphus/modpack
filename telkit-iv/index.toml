@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "8c178cf374cf976b1ba3119314aff8d9c3c4953c863465ccdbf4023e7fd9ed3f"
+hash = "2f9c1b730e56415f8d9f5b0b517b02b69fb88392405ae0ee6886c926b458102c"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "bef7fb5c773d1b2434caea4c9e255c1e7a59da53c6f70cc3390345633d4a9879"
+hash = "3fff25e489983cfcdd0ed9ead663f2302a561fea7d55db29c92ea63c2fa2a347"
 metafile = true
 
 [[files]]
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "fae9f4351a00855f884b84aa28f5ba42381648658d4efe81d66cac0b5122bada"
+hash = "3ac34ec6563638b61f95888573076c7b1284f09e8438ab0e4de3ca2af90a6fea"
 metafile = true
 
 [[files]]
