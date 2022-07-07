@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "f6cbd7709002ef1d4ad0cfbbf6a3b0bdf88e4c64bfa0288ffbb9480964c8bf43"
+hash = "f7ecf6677cc69fb3ef957377a1618a95973829e78f097f90a7a38b92f5db74f4"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "b3d5d96f0d47ee1fd21de3082c6271af4aac872cedb1ee86e58ccd9cbdabf117"
+hash = "c06f0bb58ab231527ff0e2ac239e8936c07e16ba401d2f50cc82f3dfe2685849"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "ec49f4fece980a68335b80adb850b1aa20bd7204346f8e5aea9bbc97d10da608"
+hash = "e4cec470bddf5686f417a70d55ca82b6c1acfd377d88625e16809e6037fe0d64"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "8cf23d44687c90a7ab32df925716aed8ba6b74209f22ac17158f68b3cf72bc11"
+hash = "099af7d0a61fd27c6b6ba26e7e84c4d7cfe5eea78a7102c7eb717528ef6ecc91"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "7a58e34ad1ce5784ba3a6b2247315dc3a4e6757a56403e0b122f17e0c8a0f6cf"
+hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
 
 [[files]]
@@ -561,10 +561,10 @@ hash = "3ac34ec6563638b61f95888573076c7b1284f09e8438ab0e4de3ca2af90a6fea"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
 hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "ff4c49795a186fbb6afdf8e475e60a540389cd32189e6887ab5cb8644c2cce54"
+hash = "ffff8f03516eea88b4ee3385387c7d06c53402e94c8296b0e77c76b80efd1428"
 metafile = true
