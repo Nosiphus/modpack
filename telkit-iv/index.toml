@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "2f9c1b730e56415f8d9f5b0b517b02b69fb88392405ae0ee6886c926b458102c"
+hash = "190894e09954af9aa2bf0de6391d4164ddb51320568425c0aa7b3279497e49a8"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "6260854df98bee184f801f31b6a23459b55381896684ff75ade4a6a09ea665f7"
+hash = "678df7998f941a280a54bb646072eedcaf1b91e1e4f73d1661e50238a7713216"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "1ad39bf13de8391ebd87c7788f18c61a45d823ca03496cfa67092088b1919bc5"
+hash = "c9401dbeea3ef478851b2831e481da7049e9cee458fa7d2f367aec2efa88cb76"
 metafile = true
 
 [[files]]
