@@ -1,0 +1,235 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = top-left
+  x = 90
+  action = movebutton
+  y = 93
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  width = 64
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = top-left
+  x = 20
+  action = movebutton
+  y = 114
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  width = 32
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = top-left
+  x = 155
+  action = movebutton
+  y = 93
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = top-left
+  x = 20
+  action = movebutton
+  y = 93
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  width = 69
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = top-left
+  x = 53
+  action = movebutton
+  y = 114
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  width = 48
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = top-left
+  x = 102
+  action = movebutton
+  y = 114
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  width = 56
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = top-left
+  x = 159
+  action = movebutton
+  y = 114
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 104
+  action = deep_customization_element:title_screen_branding
+  actionid = 6709b4b2-ba30-4a14-9665-dd59e380b0821656509665884
+  y = 211
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 52293445-31ab-4f0b-acf7-b0c3f8aff9051656509665885
+  y = 163
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 76
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 6e2f5a1f-f957-4df5-b715-a1c8e755d5e21656509665885
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-left
+  splash_color = #ffff00
+  hidden = true
+  x = 268
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 7965c665-3910-426c-aee9-faaf8b77a9c51656509665885
+  y = 148
+  height = 30
+}
+
+customization {
+  showname = true
+  orientation = mid-right
+  crouching = false
+  x = -38
+  slim = false
+  actionid = 52d84419-eb9b-419b-bf32-3ea7e22955351627484841464
+  action = addentity
+  y = 27
+  scale = 30
+  playername = %playername%
+  parrot = false
+}
+
+customization {
+  path = config/fancymenu/images/nosifabric.png
+  orientation = top-left
+  x = 20
+  width = 165
+  action = addtexture
+  actionid = db799f00-ffcf-4834-b723-a309eeeebe0c1627485160103
+  y = 42
+  height = 50
+}
+
+customization {
+  path = config/fancymenu/images/nosiphus.png
+  orientation = top-right
+  x = -75
+  width = 75
+  action = addtexture
+  actionid = 8f7d05f9-f8ee-45bb-9649-8b4f80897c791627485217347
+  y = 0
+  height = 25
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = a244eaf6-8c5a-4204-af2a-740ac041643d1627485575950
+  action = addtext
+  y = -11
+  scale = 1.0
+  alignment = left
+  value = NosiFabric: Friday, July 8, 2022
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 20
+  width = 50
+  actionid = e66a4a1c-c062-4615-b940-c380aa54573d1627567227941
+  action = addbutton
+  y = 135
+  label = Nosiphus
+  value = https://www.nosiphus.com/
+  height = 20
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 71
+  width = 42
+  actionid = 5c326540-efe6-4ae6-a884-e4c834330d071627567227959
+  action = addbutton
+  y = 135
+  label = Website
+  value = https://www.nosiphus.com/minecraft/modpacks/nosifabric
+  height = 20
+}
+
