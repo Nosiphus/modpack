@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "20997abbc33cf0e2a28f02142b260dace0ecebca508641b141427061fe975c41"
+hash = "c7dcb031cecbe031161e4510ab705cccdf94426bd354764537ccf68db301eaa9"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -84,12 +84,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "de6d50da50da827ee4c4f2a6d23a936b54aef90acbf2bbbd019fed216b21f2ab"
+hash = "435e56fcc8cfa57b703bf8fc58cff9bc7662341324a87390ae18d9131cd1336c"
 metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "abf7dab28f3fd1b6d0d670db755b266d00cca85a2f7e865cefd979946b687a9d"
+hash = "40dd64add3884b98011e8818911b1d6b61838dff863be8bd99cd2d299d39e035"
 metafile = true
 
 [[files]]
@@ -114,12 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "ac687864e4db3da36883e596946a6ba7f137bc13ade04214927e60502d4e964c"
+hash = "3a225baa090da48176c80dcd126bf1c0b43498fd7abe71b782392436611d6ffa"
 metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "79bb15e462917e6192c3f89bc884ae8dd2340e1e9d7ee1c832f0389b8fdb1d83"
+hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "dbf2c28de7653648cca1bfb357ff393fe8a7b3bd06dbcfc6780b91e63b7b9e82"
+hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "2ce09b2bbd9d977ee7d3470cb638da10a20a6066de298ba261b5ab2c5488f16a"
+hash = "2dc74ee37bec0f7a8e118c92cdcadfdb38a6fe125e74eae089f1cf5d940cad08"
 metafile = true
 
 [[files]]
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a6c1932e906bd3532adb65f6c4c095e6bdbd4b9dcc2c525e31909f6583cb4a25"
+hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
 metafile = true
 
 [[files]]
@@ -379,12 +379,12 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "a5c4143314aa131658171c520263fbd5422bc95bb6fee40523593ac1a46f4b3e"
+hash = "2facc32153e3634a07946bf145253ef0a59571d0f2abeececfe16cab2f9f7394"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6b661b5a876138e7ae6611d70ad21640b0d51ba444c6bfded04edaf0bdfa2c5c"
+hash = "482d796d5448f41d254a12f60dc3891f88b5337c9d87ef0775306de00f9ef6e6"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "9f961432633ef75c29bdd4b1df776e0d6365f6a914bad40bb8d31c08428483ae"
+hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
 metafile = true
 
 [[files]]
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "800dbeeb7a5e8a92cc64118b9c75c33ed9f426d9b83a0e378f564650633f2509"
+hash = "f18fb647d438b68de8cf2a01900d16cdc1d6477e2f49e71d6a5b5d012b47b0a1"
 metafile = true
 
 [[files]]
@@ -459,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "85ca1a7ef3e0f64d595c517b1f8125350bb03901b4385d28283e57ff921d4e91"
+hash = "d2ee0734a9f152bc0c93fc9d660f615cdf839ba269e321ecb2607f34ac44c097"
 metafile = true
 
 [[files]]

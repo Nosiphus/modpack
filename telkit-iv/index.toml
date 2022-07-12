@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b790d3197511f0a343a90823d82e5874e0db1ee3f42368744701dd70d407e40"
+hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "ed76732ef6d329e0401d6f366d92e29601327c4350714d56e1e00e57e6b94cc4"
+hash = "5967adc4956b46131b37b7795e84cb1bf4f3e750d4df2ba04b3e9ad51c115c89"
 metafile = true
 
 [[files]]
