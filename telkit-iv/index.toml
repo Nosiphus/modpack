@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "f9c5f3b6fc0328b0c9b70f190841b20a60d3254e30c3e74883a42230b39fdf82"
+hash = "26d541e45fde646596395859a78fe50eaa077a799aa9f1b50051f564ef6d9572"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "e4cec470bddf5686f417a70d55ca82b6c1acfd377d88625e16809e6037fe0d64"
+hash = "d4b0da00b3ce4a8137902c024b84c9e1c11fbd7a37939a9ade02f764d63e6578"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "678df7998f941a280a54bb646072eedcaf1b91e1e4f73d1661e50238a7713216"
+hash = "4b790d3197511f0a343a90823d82e5874e0db1ee3f42368744701dd70d407e40"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "1f8cd9533a850a1be174b8b0080774e68acfff2d5dd1908cb9c830275e6c11a7"
+hash = "343a5aee95d292892fc4eaf04d89a350ad246c17b4023d0ef9392b663dc32c6a"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "c9401dbeea3ef478851b2831e481da7049e9cee458fa7d2f367aec2efa88cb76"
+hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
 metafile = true
 
 [[files]]
