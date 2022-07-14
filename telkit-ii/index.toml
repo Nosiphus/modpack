@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "537929489a686ab7752ad56a16b357f86d9442e240539716eb1aca4acabdac12"
+hash = "7ac339a84222df4faab551a3026268d6baabc23908d8578c431d205b95cb72a3"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.toml"
-hash = "e6047cabfc947f652d183661be3aa2c07353202627b86ee8dc2d049b80acf5cf"
+hash = "b4815a6bd24ab674c6acdeb36d4e6e368edd22755451cab27faa3f9a81344ab9"
 metafile = true
 
 [[files]]

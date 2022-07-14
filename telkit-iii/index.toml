@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "764b7c0aa558ebd03ad32f068e4044ca1850074dce73dcfec706c926046567bd"
+hash = "23b0190eb6d0cd0a7bea8f4f336d24e7eff4bd524a6bb303dde415d12b948d97"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0e80b300b13580c7d885eec4378d79ce8a90bcc604d235211a6f8dd0de050825"
+hash = "7eb480ee41d8ad727a5a33bf01dc3c29ea1785c9c010f32e1c311a8461a81044"
 metafile = true
 
 [[files]]
@@ -667,7 +667,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-slabs.toml"
-hash = "4eeb007c868203b90789e3b8adb547386aa3bb2bb63e220ff24481151e1daf8d"
+hash = "c55e6d6baf485fc7c775d85a9230935666956d4e553e40ec5e872ea1ebfe4b88"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "44c8db73a36d71b953000405633b4559117d50df012ae6fd2fb8bb078e1598a4"
+hash = "751e41481b58bba8f3e2149f1c4621f122d5a00e84647da21309720057201a75"
 metafile = true
 
 [[files]]
@@ -1107,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.toml"
-hash = "5e3daaa483dfb35ddfbf338b84fa3d8cb010477babbe2614922ce5d32c98fe61"
+hash = "340199e43022ed61794d119c2b759aa75cf86db31f156721681000aa52b6d39e"
 metafile = true
 
 [[files]]

@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "26d541e45fde646596395859a78fe50eaa077a799aa9f1b50051f564ef6d9572"
+hash = "461a74145b94c44b7ecb25243c7c9b35a003527b6a0b91a944e81291d546cd2a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "190894e09954af9aa2bf0de6391d4164ddb51320568425c0aa7b3279497e49a8"
+hash = "6c620e4cf7aacfbca2473bb7278f2cef58f74ed2d8174f78486aeebc6ff6f4b8"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3e963187c3f080269bc97d3a419ab4b8395bc9fcb86e413f39658cae659b0990"
+hash = "5d6460dcda68c1efcbc0d0a2b79fde352a038b82174ebebd10f9a00c970a3192"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "5967adc4956b46131b37b7795e84cb1bf4f3e750d4df2ba04b3e9ad51c115c89"
+hash = "3db8c4a3cb38636f82bf05666bda1a7c5bae44d43ec1042def1af8038b91f1ec"
 metafile = true
 
 [[files]]
