@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "c7dcb031cecbe031161e4510ab705cccdf94426bd354764537ccf68db301eaa9"
+hash = "5e06299d259604680e5ffc5bdb8acf692bbd707d404fc95b9ae0cffe3ddebb5b"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -368,11 +368,6 @@ hash = "5cbe1ca9ef81b228eccf099e10bd03bddd5e3776d3052831f0d1970e9415c154"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "cdf04abe2de60089a3c8e769539fa3b3a8b38da1b903b94394607f78a33a63b4"
-metafile = true
-
-[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "a2273075210396fae12e774fbe7c7976079e95d5b5f93d423cdea634090b672f"
 metafile = true
@@ -384,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "482d796d5448f41d254a12f60dc3891f88b5337c9d87ef0775306de00f9ef6e6"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
@@ -459,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "d2ee0734a9f152bc0c93fc9d660f615cdf839ba269e321ecb2607f34ac44c097"
+hash = "8c9cae7d59d985533459a47fb38c3371764bf6483e65c42e5c9521b05744f7fc"
 metafile = true
 
 [[files]]
