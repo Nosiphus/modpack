@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "461a74145b94c44b7ecb25243c7c9b35a003527b6a0b91a944e81291d546cd2a"
+hash = "2f1942fb04b6820baf78e0ec7f94f236cbaad8585acbb558229e5ebae7d62e3e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "d4b0da00b3ce4a8137902c024b84c9e1c11fbd7a37939a9ade02f764d63e6578"
+hash = "5229794734d7412bf3056526a32fa6e2ea7a204d733ca5e3f49f42102a301312"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "343a5aee95d292892fc4eaf04d89a350ad246c17b4023d0ef9392b663dc32c6a"
+hash = "2810b9d9db1099098b26dcb9525b26121b56081ee41f070f6b240316486c9145"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5d6460dcda68c1efcbc0d0a2b79fde352a038b82174ebebd10f9a00c970a3192"
+hash = "e22d97b84d3261bc1921600e5c7354ad5bfe44229a7e4bc82b71e4c712d81c3f"
 metafile = true
 
 [[files]]
@@ -347,22 +347,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "2f055428ab6533c78bee4c70a349c544ef7ba66db42078eb9772c053e5f3aec7"
+hash = "3955a2b15298748d5dad7623b32c529b85c4831df0d93e24f2957372e3e258da"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "bb94c56c083901c57fabafcc201aed4a01ec21621a7488aecd947faaa6f967dd"
+hash = "b2a61ec1cf8cd97c12ee5ca2789f4b52fb7ea7b7b33cb5e7248edfe28ec9c546"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "b42d2f5ce6e38c3e061672a2ad5dbc7faf47d1521d62554a93b5f2e667af3c9d"
+hash = "af9e853782d0478f0b2cc3375bfccd30d48a1bc5409b9864a15f645015f56b80"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "2957158686e675a6e81f3c1f8d50005afc814bc880795947fde087598a9a94e1"
+hash = "88f8a91fd486f6a4aadf94fe15598ac21dd0c65e8eebc04e8572aa275c505cbf"
 metafile = true
 
 [[files]]
