@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "2f1942fb04b6820baf78e0ec7f94f236cbaad8585acbb558229e5ebae7d62e3e"
+hash = "ac7bf1afababfa6a013b45b1add83f48afd83b2d4d28b25f6221a6a4ec800207"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "5229794734d7412bf3056526a32fa6e2ea7a204d733ca5e3f49f42102a301312"
+hash = "e9db65a056068b173286555d674c925aac277b8e55f64b0c061a30f06e92edd8"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "366c9b05ee73673066ec72cfe14afa0b2565a926248823c9d9685c4c06d7ddca"
+hash = "0adda12f4a3fa1299864ee3649ec487d2c5ec39cbfa51e45a379eb2e21950a45"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e22d97b84d3261bc1921600e5c7354ad5bfe44229a7e4bc82b71e4c712d81c3f"
+hash = "bdae978e23bfb390237af307271096778a3f3a5d283353acfa4dd0568b50433d"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "772cb7c52e2c2ce7cef9a9099d4e054dda8cc414dfc3cf09b5c5e5b1fe334902"
+hash = "057e4f157bbb0614caaf02123afd6640fc119a8a418871b84467e9853c598f5d"
 metafile = true
 
 [[files]]
