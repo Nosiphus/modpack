@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "d41a1bacc55c98ed08caf39b6d820746cbd3b0c83f59da0606e5405b51687fd9"
+hash = "00f55e05b6512aa1fd8fb08eaf9ed33bc4188cb6f977136dab628efe33d008eb"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "313012b4227b27374d16bc3b8e7f417b4525b0c82031a0315392bf0b77952ae2"
+hash = "852d74e6af89c057c2d6187c40651b74b7a937c068d47a12b9f2b794f603dd10"
 metafile = true
 
 [[files]]
@@ -194,12 +194,12 @@ metafile = true
 
 [[files]]
 file = "mods/editsign.pw.toml"
-hash = "e84744eaaa74360b8946e95ec3ad45505ee79bd3259a7a8df2ccb68c7ca5242d"
+hash = "65b35f761e6b85fb1fa4707b81bb808ccbb13b64eb26e92aed2ba4b2c29ce975"
 metafile = true
 
 [[files]]
 file = "mods/ellemes-container-library.pw.toml"
-hash = "95b604171284355f376c4e544513e9cc8cb8afb6dbd8363013a56cb1b3f2e343"
+hash = "c09bb2753657e76b4963c1c57624b9229e0159fb01f1b812547dfcd36cb4efb2"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "49ac23f7f6ceaed5715d03c28f78f030205f08c4fb86f33968de69f1acf7c94d"
+hash = "dae578f8c3893913cf6cd97a3cd23e0c1136df897907a200e92d3114245e34d2"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "2dc74ee37bec0f7a8e118c92cdcadfdb38a6fe125e74eae089f1cf5d940cad08"
+hash = "425e849b45d91bfd21edb705aeb051344e822313959798baf15e678c09d30b1c"
 metafile = true
 
 [[files]]
