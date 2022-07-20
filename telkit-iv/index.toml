@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "8c18bc3375c1c5e1078fd4b1e49d921577ab6bd5ab5b2b24c3d33d4736d7a0d3"
+hash = "1308bde183394d7d879e0ed173e4bb2ef5abd2a858b4ebe2fcaa9ebb26d525aa"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/biggerreactors.pw.toml"
-hash = "2fdf4c7e0aef53289d0b2c5e787874ac9d19701411f6e9849d2adc5d2821cb42"
+hash = "b5ec3f44eafd9c8de6be4eef0ea251eac98e5054beb02d5d6ff943eef89fcb6d"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "3b188291f70174653470ae7722bd0edc019f538b2d7a100158e6d55fa51a14f9"
+hash = "93f482ec3a8c9597b2878ea51fc54b8c1b55386c366f605816581cace1eb6932"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "bdae978e23bfb390237af307271096778a3f3a5d283353acfa4dd0568b50433d"
+hash = "3b6c35b4373120c2f7bd2f7ab8a7304b45ae2e12fcb27a26b42af8d2a1011ad6"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "b51e7c59cce8ad7b6789648167813c4178a19d0f15d406bae2e837c45f129285"
+hash = "8dc4ac563253cd283c399e6f04d7328f37e34d9109ecf22739c98e2d448544c1"
 metafile = true
 
 [[files]]

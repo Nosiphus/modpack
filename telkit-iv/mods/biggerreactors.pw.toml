@@ -1,13 +1,13 @@
 name = "Bigger Reactors"
-filename = "biggerreactors-1.18.2-0.6.0-beta.1.1.jar"
+filename = "biggerreactors-1.18.2-0.6.0-beta.1.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3d6adc7210a0e35628ec6f608e6fba257bf32530"
+hash = "69b82334670fca913b6dcc021df117061c431a6b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3802093
+file-id = 3884291
 project-id = 407780
