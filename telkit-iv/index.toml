@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "1308bde183394d7d879e0ed173e4bb2ef5abd2a858b4ebe2fcaa9ebb26d525aa"
+hash = "dc4cbe17b39dd30f9526221a36c97455d81004a0e24eae27ecbe96933dde1401"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -153,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
+metafile = true
+
+[[files]]
+file = "mods/blue-power.pw.toml"
+hash = "b24f4efd4f9c8fe96708f323134e6008c614d925573e766f3b278d2f93661cb2"
 metafile = true
 
 [[files]]
@@ -621,5 +626,5 @@ hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "ffff8f03516eea88b4ee3385387c7d06c53402e94c8296b0e77c76b80efd1428"
+hash = "e151bdc0ac7d0fb6f94648952cd397c5d5e27b73074854ad73b86ad8746d163f"
 metafile = true
