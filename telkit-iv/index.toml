@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "308dbab65ad4a072a2e3aaa94096e2725ef7c33d1767b59e0ceef4c2293d0876"
+hash = "e1f35e9224b027623f3463c4306224670fa5987c81167d7bc9940a657f1748fd"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "4d2bc57c6d48e5b99f24c39694d5b66f878e28bd94494bae1bdeac144206090d"
+hash = "432cae26967e61c48135115237b5e98f4f93874c041e6fd4b1b107ef84b9a07c"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "8dc4ac563253cd283c399e6f04d7328f37e34d9109ecf22739c98e2d448544c1"
+hash = "27d76201c641108fe3c5938017315972b779ee2fc5e815004b76ad55e0c1bba5"
 metafile = true
 
 [[files]]
