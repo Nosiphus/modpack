@@ -361,6 +361,11 @@ hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
+file = "mods/london-underground.pw.toml"
+hash = "2b1cb8309a0a3d25ed1b98d87f5332bd1b0fea81e7ea53899ec5227e02c13a51"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "2d5f25cc0d95c8e253a0a9eced958f75faea9b65bfa806302131ceab2494dd8d"
 metafile = true
@@ -433,6 +438,16 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "fe8e27ae2379c6b837a9798a6582c762048b16f1b2e17434f7ca292c34382ade"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "e16540644ff797841ffc629066fd14b206c6608a706a6c14a7d1e3bd10084b95"
+metafile = true
+
+[[files]]
+file = "mods/modern-elevators-and-escalators.pw.toml"
+hash = "43ec15296424a997142fcf13059c39375b1864e56ad93030effdef26df5ac03c"
 metafile = true
 
 [[files]]
