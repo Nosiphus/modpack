@@ -446,11 +446,6 @@ hash = "e16540644ff797841ffc629066fd14b206c6608a706a6c14a7d1e3bd10084b95"
 metafile = true
 
 [[files]]
-file = "mods/modern-elevators-and-escalators.pw.toml"
-hash = "43ec15296424a997142fcf13059c39375b1864e56ad93030effdef26df5ac03c"
-metafile = true
-
-[[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
 metafile = true
