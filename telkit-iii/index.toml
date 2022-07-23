@@ -186,7 +186,7 @@ hash = "d92225b3c17b087f568ad4c9cd6ca0c8d83eb7b9efb6ba29da035f1b673bf498"
 
 [[files]]
 file = "config/defaultoptions/optionsshaders.txt"
-hash = "6d280342d4781e975fe30d5c9b48b5128634657cd5b1d42c70b90aae2276b38a"
+hash = "c180d94a979017e5a7969e5f23dfc257f61a4c28fa38ab8bf10716c8dc3cfbb0"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "0a88f51ba57387aa1280cfef1ea35806d7fda39a8eecba7d52c7fd307aad81cb"
+hash = "f5254420f44f82074187111acad276f06ef2985418a7793fde07d724c705ab81"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "1f1ead57e996b27e261c76d93ad79d07151ff9710300b811419179e83d979ddc"
+hash = "54e01fcbb867f4c68580b5a229b7c431460dbfc17e6a95919513fbe36e68b862"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.toml"
-hash = "de314761adc958ec82b70e6b83b6a8bb6342a258e96e6bbb5ec0cc0bd2fc77d6"
+hash = "bade6dc80911bfa329b36e46c03c6ddf33eb389850bce95a9f7749863f3b9c45"
 metafile = true
 
 [[files]]
@@ -1111,10 +1111,10 @@ hash = "340199e43022ed61794d119c2b759aa75cf86db31f156721681000aa52b6d39e"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
 hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "ff4c49795a186fbb6afdf8e475e60a540389cd32189e6887ab5cb8644c2cce54"
+hash = "e151bdc0ac7d0fb6f94648952cd397c5d5e27b73074854ad73b86ad8746d163f"
 metafile = true

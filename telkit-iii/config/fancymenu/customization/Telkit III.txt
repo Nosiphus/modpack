@@ -251,7 +251,7 @@ customization {
   y = -21
   scale = 1.0
   alignment = left
-  value = Telkit III: Friday, July 15, 2022
+  value = Telkit III: Saturday, July 23, 2022
 }
 
 customization {

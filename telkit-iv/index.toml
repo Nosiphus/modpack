@@ -14,7 +14,7 @@ hash = "d92225b3c17b087f568ad4c9cd6ca0c8d83eb7b9efb6ba29da035f1b673bf498"
 
 [[files]]
 file = "config/defaultoptions/optionsshaders.txt"
-hash = "6d280342d4781e975fe30d5c9b48b5128634657cd5b1d42c70b90aae2276b38a"
+hash = "c180d94a979017e5a7969e5f23dfc257f61a4c28fa38ab8bf10716c8dc3cfbb0"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "e1f35e9224b027623f3463c4306224670fa5987c81167d7bc9940a657f1748fd"
+hash = "9ad87b6ccce7f0d085961e7c31adcde9876cb7ac6957d4bf5c0692c6c08cf390"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0773463f6519843b59f33d2ebe99a1c0a97efa8b03a98cf0d6745acaad3db7a1"
+hash = "66f0f893164c4b26d4457efefc3c5361b0564f580b11cb64ef31a75d7795424d"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "e9db65a056068b173286555d674c925aac277b8e55f64b0c061a30f06e92edd8"
+hash = "0998f225ae00e10e55beb9d449909f425b4d74bce60f536610c8117f224ebca5"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "2810b9d9db1099098b26dcb9525b26121b56081ee41f070f6b240316486c9145"
+hash = "c4961325a358e82524702a3bcbef073f7921e8d486e3c921eccb704b43165e43"
 metafile = true
 
 [[files]]

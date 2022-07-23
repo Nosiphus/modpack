@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "00f55e05b6512aa1fd8fb08eaf9ed33bc4188cb6f977136dab628efe33d008eb"
+hash = "dbb740ce1b96777dab531d7832347e26f572ab8c697203dbe8693e9d9003f23b"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "852d74e6af89c057c2d6187c40651b74b7a937c068d47a12b9f2b794f603dd10"
+hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
 metafile = true
 
 [[files]]
@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c3f4413a6233b9b037854befc548a64ba4eb9f36dabb2adb0f8589182823f8bb"
+hash = "b10b2a8ee124f43934c1e483262e1dd7b7480c8eb4adc929b26ed0b5d2d41d3e"
 metafile = true
 
 [[files]]
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "3a225baa090da48176c80dcd126bf1c0b43498fd7abe71b782392436611d6ffa"
+hash = "40fbd4192515ed365a57916a04c3a5a701558694e331b0bfd1afb90df4be3532"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "c04958ac7c8df258be4155ddf0ba24b72fadc0918d830045f68a76825faf35c5"
+hash = "ce79747a07fef68863fca32fa1afabd8d3885b510d75693b18c03b78277f937a"
 metafile = true
 
 [[files]]
@@ -219,12 +219,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e5e9cc3b753510f4243bc0fdef37595dffb283a38f9aa368bbba452aa53b811f"
+hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "674b69231bf37773aadd3a03e40288abbf0ea312b6a662b200db488b8942bbd9"
+hash = "8e91eac9da646c5458d00fb68ccf0887bf815947ef549cb19abebe1e6cec5c72"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "425e849b45d91bfd21edb705aeb051344e822313959798baf15e678c09d30b1c"
+hash = "43355ff28123608ce153d89168735ed67d90b364b9249df8d4a605a618dbc263"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "3cb68f2cd5a4c235c1f7c351679539bd1f10930f4da7edbdc1d21eb0fdc5f8a5"
+hash = "c16d5e9b61f075230d7e9475ad947594c45bdaa62343f165a6b06099c46793b6"
 metafile = true
 
 [[files]]
@@ -368,6 +368,11 @@ hash = "5cbe1ca9ef81b228eccf099e10bd03bddd5e3776d3052831f0d1970e9415c154"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "a4cab5ce8b00cdde3ad8c0716a3b3a0c54955de19d8efaab83a343e0fc331234"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "a2273075210396fae12e774fbe7c7976079e95d5b5f93d423cdea634090b672f"
 metafile = true
@@ -419,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "f8784a0fc67a28151c4b19fd6b8aab83cf76843aed4c49be5df6441a3e3c4960"
+hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
 metafile = true
 
 [[files]]
@@ -429,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3271fc1c210bc8c2dcd1cd58d80c683f4f7e6a3077c079920054b4483dcbcb33"
+hash = "3f2148f425622b9226aac1a5ea41f6613f9fdc0f484eadd72d30714ab0a73895"
 metafile = true
 
 [[files]]
@@ -454,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "8c9cae7d59d985533459a47fb38c3371764bf6483e65c42e5c9521b05744f7fc"
+hash = "35262cd74b382a9454c1a06f3cd98cd24bada5935fae364a19768c473e6a7820"
 metafile = true
 
 [[files]]
