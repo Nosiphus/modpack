@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "dbb740ce1b96777dab531d7832347e26f572ab8c697203dbe8693e9d9003f23b"
+hash = "f41b9fd4e7acca6a6346bb1e7e2cbc5a5767c7837ed03b5d164f18be00165745"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1f47872fdf0e954fe7dab437208f9c86f10812284aad39c7d3ae8ca13d906b89"
+hash = "51949291a0f29beab1674ac3e5a6736946042b727ff7d911767f8e44fcd50a8a"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "a4cab5ce8b00cdde3ad8c0716a3b3a0c54955de19d8efaab83a343e0fc331234"
+hash = "11fe0fb939bcf91e6c9ccd8035e9bc49c404bca108a70c69585d007e87029f32"
 metafile = true
 
 [[files]]
