@@ -368,11 +368,6 @@ hash = "5cbe1ca9ef81b228eccf099e10bd03bddd5e3776d3052831f0d1970e9415c154"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "11fe0fb939bcf91e6c9ccd8035e9bc49c404bca108a70c69585d007e87029f32"
-metafile = true
-
-[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "a2273075210396fae12e774fbe7c7976079e95d5b5f93d423cdea634090b672f"
 metafile = true
