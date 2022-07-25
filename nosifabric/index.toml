@@ -83,11 +83,6 @@ hash = "b265c77ee1b136362d82b8662a5045d57dcf5b21c9503b347122057d17dc1830"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "ec8ea0b493c48300fc9a7afa689f1728c823beaa9c562aa5024526ed49ac2120"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b10b2a8ee124f43934c1e483262e1dd7b7480c8eb4adc929b26ed0b5d2d41d3e"
 metafile = true
