@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "f41b9fd4e7acca6a6346bb1e7e2cbc5a5767c7837ed03b5d164f18be00165745"
+hash = "274251960b00c8285791daa9922b1bcaacdf899726db497fd273cfb90cee7de6"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -83,6 +83,11 @@ hash = "b265c77ee1b136362d82b8662a5045d57dcf5b21c9503b347122057d17dc1830"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "ec8ea0b493c48300fc9a7afa689f1728c823beaa9c562aa5024526ed49ac2120"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "b10b2a8ee124f43934c1e483262e1dd7b7480c8eb4adc929b26ed0b5d2d41d3e"
 metafile = true
@@ -140,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/charmonium.pw.toml"
 hash = "6b262ef4a5b0ebeb3f4bc40122511f26b912d869ab41d578510982842f140590"
+metafile = true
+
+[[files]]
+file = "mods/chime.pw.toml"
+hash = "979d3cd0d08798db597cb306e134596f2acd3ff03bd2624cded8594de4bfb5bf"
 metafile = true
 
 [[files]]
@@ -258,18 +268,13 @@ hash = "621421cd49d6d1da77a71ccef1501f4d88067ec7ca190ebe9ec1288c8bfd5d36"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering.pw.toml"
-hash = "d6cd1647ea0f4634458c2409c632fe60999afb5a00df2deade94eeeb851c9a9c"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "5dc09aa39836e32c785297fd6e34c70e1ca9cb80264da8b088e0bc166b69d9e9"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9870d86c56f25115c79ade562b9605c98af9b0b1ea13d3e93c4e8390be52f5b0"
+hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
 
 [[files]]
@@ -438,6 +443,11 @@ hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "1356d576f70d5d361ffc74591905479ec11b20745fcefe97f3ded53663560469"
+metafile = true
+
+[[files]]
 file = "mods/techreborn.pw.toml"
 hash = "0e2ee641a80ac1be141b7d575097d18b547f3e32027144f04399054d99dd2cd5"
 metafile = true
@@ -459,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "35262cd74b382a9454c1a06f3cd98cd24bada5935fae364a19768c473e6a7820"
+hash = "a8569ecbf16b6067674d9d3c15d9b88d676e46cb86cac5c35ed7aa051ce1c4cd"
 metafile = true
 
 [[files]]
