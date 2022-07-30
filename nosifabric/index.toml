@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "22f2741c3be685f3718bfacc89eb8db7ebea8a7173b65394b6c03624410f5afc"
+hash = "be67ad5390d52c99727a98b0facb42d20530287c605f06f658a07df6b09b52fc"
 metafile = true
 
 [[files]]
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+hash = "e6f7d05a47c717cbdef4b105f44d71b2f3202154e2517d6641d6661d01cad07c"
 metafile = true
 
 [[files]]
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "8b91d60ea1386d33bbaf540743e052dc6b291e6586340819557201887876b7ef"
+hash = "69fbd5258464b60fda1da6530dd036433833e3f1a02984c2c46a660e3ce8085f"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "e37c65adc53ea6e39b81a1fa941e7070568fe15aa81555f8ddba0caf5dc0df23"
+hash = "10a1ff3eddd271966ecba6889354fefce5966879444e15c8513f1e90e203a402"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7deffd338b695e2e6e6f034cf6704f9b2743aca64f2c350945ad5a57dd4b03b"
+hash = "1c85df49ef6653679a899b14323d0abe11a99b121c2571f236704d98b4beab24"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "e47deab6f9e0ee7aacf07e85e6a16a44cac75c8b13b779508534a25589add192"
+hash = "47a4b498faa3312472faf10cec0067887b12b2be53698963666898bcc430bd02"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.pw.toml"
-hash = "388135bacc1e859ded4da0e8df1f115e78c7f79b32efa62ab29bf07762f60a3d"
+hash = "ea03c71e6f46b7d436af379c21ebb243d870034de12ad1be0cb8b0ce4703252c"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/techreborn.pw.toml"
-hash = "404b67aba7ccd3853e753ab945ab9f3762c1d1d832f38ee8068e3e1cde7f4896"
+hash = "0e2ee641a80ac1be141b7d575097d18b547f3e32027144f04399054d99dd2cd5"
 metafile = true
 
 [[files]]
@@ -459,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "141837c855cdf09dc9b7e26c32dd9b2ff0e188c76fa6bb4ce392ba0b00129d19"
+hash = "3712c67c4b3626bd4488df8dde5d741e04aa8e255a18b42d5eb52f35a3fb6551"
 metafile = true
 
 [[files]]
