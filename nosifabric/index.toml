@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "3d979adbf21935c65e65a8a22ed6f76a829969990566fbe1c626b9f3603929b5"
+hash = "1c3f8c68e2c6caeea39b334b11f6226638109c34de2d9af43f619ea31879e93b"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -54,7 +54,7 @@ hash = "3961215bb3eddd70109f1982d6efc7b288e84aec65b3141d01d0758d73158775"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "0b994eb73e8aea8f5d5670f54901ab1758f5690dc59f85dd691df251cbd6c67e"
+hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "5dc09aa39836e32c785297fd6e34c70e1ca9cb80264da8b088e0bc166b69d9e9"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "8dc993562a0066baf47ba7efa2c01ccaba6c6489a5dcabd7a379fe63cfbcf156"
+hash = "f11f994433f5a11a80a9a44318887f6dd83b36e30ce08c65a3f3b39f86b85f31"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "84c366e5f0d189b5e677d254ea1efb61e12ef4e354079fe33d637c754a1571e7"
+hash = "293a1b92fe3b6671426951099aaa589def569085b9a58d17d8fe7d89be1e3203"
 metafile = true
 
 [[files]]
