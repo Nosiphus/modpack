@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "bd147229d19f82489200d5d01ea77f04777c8605df5d8a08f26d90bdc78457fb"
+hash = "d344ff40291e7824dae37837d614277fc90bc81e2164e4cfe866a42b4846d1e9"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "c06f0bb58ab231527ff0e2ac239e8936c07e16ba401d2f50cc82f3dfe2685849"
+hash = "918c2eb40159ca8463ead5955659b0d8975e9355c702db974b800efc7ea0effa"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "66f0f893164c4b26d4457efefc3c5361b0564f580b11cb64ef31a75d7795424d"
+hash = "705e6301f1934b46e650d249c1bd83e5b586408ee340d8e6b1608d0cd2b89ff0"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "a15c2ac936bce05ad03be03550ff21668f3741b0d447e706e8f60c3b39b3a3a6"
+hash = "b5257c6f2ed65e0b306f5bbf95c11fdc9c6fd36c89bda969bec393172a90435e"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "a0702f1592b5929b393524a8883488de34141181d7bf51b2e9c38fc6bfc75880"
+hash = "8dc9f6076efe97ca5ce0b9e1d6f43943c5ef4b232963fd4bbd186ec1d9201db5"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "fe8e27ae2379c6b837a9798a6582c762048b16f1b2e17434f7ca292c34382ade"
+hash = "b97c5360723f8694707cc2bb8cc65559e42583ae4aaaf255b7f451efa459b433"
 metafile = true
 
 [[files]]
