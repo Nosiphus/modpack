@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "19a96d27c4d64cd75bef7767f18726bf4a8b6655a57b49e57bf3df54fd9082e1"
+hash = "7c94ce2f33562de8e20dd5daf1da66804f01218421fbc8ae124b572beaeca6c4"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -457,6 +457,11 @@ hash = "bcd8f8ae65803011eb0b58f34a324490a7351b0e2bf5f921f1ee79dcf4f442bf"
 metafile = true
 
 [[files]]
+file = "mods/quartz-elevator.pw.toml"
+hash = "768bcf5b230c34c7b5b2dd6f5384536c3fc596a75978ae0041c97778e5ca6f8a"
+metafile = true
+
+[[files]]
 file = "mods/reborncore.pw.toml"
 hash = "388135bacc1e859ded4da0e8df1f115e78c7f79b32efa62ab29bf07762f60a3d"
 metafile = true
@@ -518,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "318473eebd14e43e76cebb898ddae34a10e2888ce700aa781299a3398308135c"
+hash = "441f5f7ce1dbe2813105ca2e70ab55d9c63aa66b99e9140be55a24a25054db3b"
 metafile = true
 
 [[files]]
