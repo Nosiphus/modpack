@@ -92,6 +92,11 @@ hash = "7a0dd077e38be5031b416d5f8b7e8815039e86ccc1a50ac40a3200e32fff805a"
 metafile = true
 
 [[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "da711c3643bb0a10fe225484eb7e57487368e33859c4a96d8564bf56a05d42e1"
 metafile = true
@@ -447,6 +452,16 @@ hash = "a067a3a38a6df8bf4440edc13ad29e22adf31041858c4fc4aee991c0f0e87263"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
+metafile = true
+
+[[files]]
+file = "mods/paperdoll.pw.toml"
+hash = "1871e82e3e20aa3d8b7fdf8004235423d672b80a4e23eff7b78d0b37d57a0a8e"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
 metafile = true
@@ -509,6 +524,11 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "404b67aba7ccd3853e753ab945ab9f3762c1d1d832f38ee8068e3e1cde7f4896"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "f890affbc81dd0b392971738eb723aae198b554be6439feb6fa819ebdf7ba975"
 metafile = true
 
 [[files]]
