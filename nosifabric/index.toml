@@ -242,6 +242,11 @@ hash = "c09bb2753657e76b4963c1c57624b9229e0159fb01f1b812547dfcd36cb4efb2"
 metafile = true
 
 [[files]]
+file = "mods/enchanted-vertical-slabs.pw.toml"
+hash = "e39683cff2a01cb32201031da13aca3405b33dce173d761107670f0319bfd05d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "fb056d772175c202b054fd2fa32ff8c3f98e618249f1078b8f2c6b24997a0f13"
 metafile = true
@@ -479,6 +484,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "293a1b92fe3b6671426951099aaa589def569085b9a58d17d8fe7d89be1e3203"
+metafile = true
+
+[[files]]
+file = "mods/sit-fabric.pw.toml"
+hash = "552e954a05c8278bf9b3ebd332d75158c669ff2bbd06e490f79d54c965cea60c"
 metafile = true
 
 [[files]]
