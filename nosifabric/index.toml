@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/editsign.pw.toml"
-hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
+hash = "a8cc48d4a2e28a5e6a628f9ddcbd68d8ba54b4ca1668396dffe95a77df16d1ef"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "8a48e51272da00e3d7018e2aa8ef12ab8a59e68c934ed2513681ab6c341d1b0d"
+hash = "b8636d5a45f93572c04a42c7b741c53a1325993a92bed6a2e2ccab70a07b2349"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
+hash = "73bc2fb1fd275fd88efd075bc03153d6b2d6d34871f62a94208db5c28f17805b"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "8df29c852270ae4628b1bc31bf1f3315d3ce0852bde99047ec4cb47d270da9b2"
+hash = "bc44c01be415fb8c01f4fc1dd58ee4f385f175fbd20d511b0961f380f09d89fb"
 metafile = true
 
 [[files]]
