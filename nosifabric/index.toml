@@ -142,21 +142,6 @@ hash = "83581f046e550740aac9976d8a51717ec5811da1864db51578f99b611380b4a4"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "e165fe9293c1b9828beadcc5611292e6f43f5b40b45b43b598f7e2a6f8941474"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "2f651d0f178a985a25a1721cc32d2c4eef04d513aca323622115930de2986338"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "116d1868d48db127b06699196a8cd6ddde9f3a17c0fbc9652978066592d93603"
-metafile = true
-
-[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "f751aa50e3f1dc61d89bbec46242f2580188e84abf02ef20932265458d713d3e"
 metafile = true
@@ -472,11 +457,6 @@ hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
 
 [[files]]
-file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "bb959c50d3f49c2d003db5cd6c3a851b8360f6b1319e4f6feb9e5d5828d799ee"
-metafile = true
-
-[[files]]
 file = "mods/paperdoll.pw.toml"
 hash = "1871e82e3e20aa3d8b7fdf8004235423d672b80a4e23eff7b78d0b37d57a0a8e"
 metafile = true
@@ -547,11 +527,6 @@ hash = "404b67aba7ccd3853e753ab945ab9f3762c1d1d832f38ee8068e3e1cde7f4896"
 metafile = true
 
 [[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "e868c3c9c6ee38c280b09ab8134fff35aed6432cb52a40fd5ad134787411bf71"
-metafile = true
-
-[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "f890affbc81dd0b392971738eb723aae198b554be6439feb6fa819ebdf7ba975"
 metafile = true
@@ -579,11 +554,6 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "f336a82fbbdaefdf5503fa159aff11cc4cd7e89e6a8b45a739680802ed175e1e"
-metafile = true
-
-[[files]]
-file = "mods/wunderreich.pw.toml"
-hash = "05a15e069b2cebaf0e1b3d96c43bc55e87ec07996d1a5c54bc4644ecf8337e90"
 metafile = true
 
 [[files]]
