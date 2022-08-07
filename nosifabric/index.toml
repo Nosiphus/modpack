@@ -563,4 +563,9 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
-hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
+hash = "52d313a3ed6732daa40359330c1f4228835a3fe62097f997dea50bcae4cab52a"
+
+[[files]]
+file = "shaderpacks/complementary-shaders.toml"
+hash = "e151bdc0ac7d0fb6f94648952cd397c5d5e27b73074854ad73b86ad8746d163f"
+metafile = true
