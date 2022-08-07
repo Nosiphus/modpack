@@ -507,11 +507,6 @@ hash = "293a1b92fe3b6671426951099aaa589def569085b9a58d17d8fe7d89be1e3203"
 metafile = true
 
 [[files]]
-file = "mods/selene.pw.toml"
-hash = "a7ac9bba9a34c747cf5963c4c05c1bcfc72c8c9c67e7fb5fcfcfedbd57adbaea"
-metafile = true
-
-[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "e042a31030aeef75b55c1d23d8728fad0beeffe983c3dfe82200e31c5ca37fa8"
 metafile = true
@@ -534,11 +529,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "bc44c01be415fb8c01f4fc1dd58ee4f385f175fbd20d511b0961f380f09d89fb"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "ff71a35739c35cbc05a2725d5c22c95b312e99190c93391a6cfbcfeb2642bbb6"
 metafile = true
 
 [[files]]
