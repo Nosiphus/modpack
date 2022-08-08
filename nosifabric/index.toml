@@ -312,6 +312,11 @@ hash = "29b85ab8cb041007510ee10dfea305ae7b100ceffbd82855830d67d43032aecd"
 metafile = true
 
 [[files]]
+file = "mods/frostbytes-slabs-stairs.pw.toml"
+hash = "54ed66f5d9ccd139bff5f77c2b9411a4d245162060ebd78ad4bdfdedad1ef104"
+metafile = true
+
+[[files]]
 file = "mods/gearreborn.pw.toml"
 hash = "621421cd49d6d1da77a71ccef1501f4d88067ec7ca190ebe9ec1288c8bfd5d36"
 metafile = true
