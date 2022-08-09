@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "aad1d9d9776fff95adef4ec5b2d323c8864a02ab0e648b83199a7b17e45b66d7"
+hash = "d2e3fb9127c32559f41c37f63510ae211d40a31f2b9d61768dc8dbe8cd0792e4"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -452,6 +452,11 @@ hash = "3ac1e7f3b28a7350ba416dd8c8d9778ae066dd62d278bb6540512503a25771ec"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7f4661acedba1f64b7cbfe36f613400b2657e59ce921bee55ab25b247835c2ba"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "a067a3a38a6df8bf4440edc13ad29e22adf31041858c4fc4aee991c0f0e87263"
 metafile = true
@@ -528,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "8df29c852270ae4628b1bc31bf1f3315d3ce0852bde99047ec4cb47d270da9b2"
+hash = "b5e19215b04d9ea875f4e11ec79311692f48c8f23322600a336ba1075b8d9a81"
 metafile = true
 
 [[files]]
