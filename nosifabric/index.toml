@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "d2e3fb9127c32559f41c37f63510ae211d40a31f2b9d61768dc8dbe8cd0792e4"
+hash = "25f4513423b876b39f6e5e25128cb48737d04b36d3d63b02e53ee34b467791d1"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "dca7e1d3bb60553d5c0f770de07bb63355a8ed02d15380a88fc5accf38798cf4"
+hash = "d0f1d0454786f91e6cba7bdcddc7c70e86b6b2f302b0c64b7af4ae809472dced"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "96a3463c6b05867e7ed2cf98bd7faed2b8d190913d9d8f9b551bbae6eab8efe4"
+hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
 
 [[files]]
@@ -219,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/dashloader.pw.toml"
 hash = "1ed9c179c132edb1b0c9669984c0c332a464e8c842d73c097921f1e3f7c462bf"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "aec695575c3bd00ccd12dbc73430a52e70295aea5335b19bb8da2098d2bf9f23"
 metafile = true
 
 [[files]]
@@ -333,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "96bde89a67929f99fe6bdb1a4e2df42fc21806e2162b0c77c27d75c0a6ba4afc"
+hash = "dadcde5442ffdd9755166893fbf6985409908d469a557788301523c16c6e6ebc"
 metafile = true
 
 [[files]]
