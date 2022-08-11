@@ -1,0 +1,8 @@
+name = "Thaumcraft"
+filename = "Thaumcraft3.0.3.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/thaumcraft/1.4.7/Thaumcraft3.0.3.zip"
+hash-format = "sha1"
+hash = "7e05fe05a76ecd82d83447290ed746aebb3b0991"

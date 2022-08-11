@@ -1,0 +1,8 @@
+name = "Fluid Mechanics"
+filename = "Fluid-Mechanics_v0.2.8.27.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/fluid-mechanics/Fluid-Mechanics_v0.2.8.27.jar"
+hash-format = "sha1"
+hash = "1ee5fd4acb9fdb980998517ced189e19d0d8a430"

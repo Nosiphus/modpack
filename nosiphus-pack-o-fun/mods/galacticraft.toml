@@ -1,0 +1,8 @@
+name = "Galacticraft"
+filename = "Galacticraft-Alpha-0.0.20.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/galacticraft/1.4.7/Galacticraft-Alpha-0.0.20.jar"
+hash-format = "sha1"
+hash = "208f4d1722acbe58bf02ff03f34ee4ea089969bb"

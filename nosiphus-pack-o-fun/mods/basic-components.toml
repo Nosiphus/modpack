@@ -1,0 +1,8 @@
+name = "Basic Components"
+filename = "BasicComponents_v1.2.6.339.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/basic-components/1.4.7/BasicComponents_v1.2.6.339.jar"
+hash-format = "sha1"
+hash = "f7df523ca59b4f9fe8f3236227de0aa7bda324ef"

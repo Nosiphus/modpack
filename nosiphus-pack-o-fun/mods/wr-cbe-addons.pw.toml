@@ -1,0 +1,13 @@
+name = "WR-CBE - Addons"
+filename = "WR-CBE Addons 1.3.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30b37e998f9815a793e680270e2420a52815ade5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2233233
+project-id = 229313

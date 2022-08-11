@@ -1,0 +1,8 @@
+name = "Inventory Tweaks"
+filename = "InvTweaks-1.50-1.4.7.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/inventory-tweaks/1.4.7/InvTweaks-1.50-1.4.7.zip"
+hash-format = "sha1"
+hash = "6765e8e37cffc4809e0e13d176c097c161087c45"

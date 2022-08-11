@@ -1,0 +1,8 @@
+name = "Atomic Science"
+filename = "AtomicScience_v0.4.1.162a.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/atomic-science/1.4.7/AtomicScience_v0.4.1.162a.jar"
+hash-format = "sha1"
+hash = "c290f311d99cdb278897e424ecd492e754fff61f"

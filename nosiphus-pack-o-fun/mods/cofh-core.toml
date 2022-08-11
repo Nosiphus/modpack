@@ -1,0 +1,8 @@
+name = "CoFH Core"
+filename = "CoFHCore-1.4.7.3.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/cofh-core/1.4.7/CoFHCore-1.4.7.3.zip"
+hash-format = "sha1"
+hash = "115894df40292b80beb5204aa7cb32d587356f83"

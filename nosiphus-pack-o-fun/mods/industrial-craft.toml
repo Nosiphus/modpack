@@ -1,0 +1,8 @@
+name = "Industrial Craft"
+filename = "industrialcraft-2_1.115.761.jar"
+side = "both"
+
+[download]
+url = "https://jenkins.ic2.player.to/job/IC2_legacy/761/artifact/packages/industrialcraft-2_1.115.761.jar"
+hash-format = "sha1"
+hash = "6aa42f3d93c79dee3edd3c0f74c8c0a123752674"

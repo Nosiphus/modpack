@@ -1,0 +1,8 @@
+name = "Thermal Expansion"
+filename = "ThermalExpansion-2.2.2.2.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/thermal-expansion/1.4.7/ThermalExpansion-2.2.2.2.zip"
+hash-format = "sha1"
+hash = "f1803c21bc51d9a2d19922c00dad02de9fcf9498"

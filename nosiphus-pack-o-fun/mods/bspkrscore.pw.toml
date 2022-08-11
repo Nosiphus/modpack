@@ -1,0 +1,13 @@
+name = "bspkrsCore"
+filename = "1.4.7 bspkrsCorev2.02.zip"
+side = "both"
+
+[download]
+url = "https://mediafiles.forgecdn.net/files/2218/775/%5b1.4.7%5dbspkrsCorev2.02.zip"
+hash-format = "sha1"
+hash = "781dc61f0f278714a0ec8b92db5576dcde24c925"
+
+[update]
+[update.curseforge]
+file-id = 2218775
+project-id = 59218

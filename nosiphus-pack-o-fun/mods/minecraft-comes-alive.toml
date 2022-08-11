@@ -1,0 +1,8 @@
+name = "Minecraft Comes Alive"
+filename = "MCA v3.5.4.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/minecraft-comes-alive/1.4.7/MCA%20v3.5.4.zip"
+hash-format = "sha1"
+hash = "3b1be5a2de3948e2fd84f6113fb817b413096179"

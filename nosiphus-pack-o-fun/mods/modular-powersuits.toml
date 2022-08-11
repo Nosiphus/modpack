@@ -1,0 +1,8 @@
+name = "Modular Powersuits"
+filename = "ModularPowersuits-0.3.2-199.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/modular-powersuits/1.4.7/ModularPowersuits-0.3.2-199.jar"
+hash-format = "sha1"
+hash = "6d371488f4973c670e1b8f8b93728e87a9bf4875"

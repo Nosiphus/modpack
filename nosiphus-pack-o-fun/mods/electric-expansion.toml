@@ -1,0 +1,8 @@
+name = "Electric Expansion"
+filename = "ElectricExpansion_v1.4.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/electric-expansion/1.4.7/ElectricExpansion_v1.4.7.jar"
+hash-format = "sha1"
+hash = "f4c5836627bde93e9a89254dfe3e47bcfb881710"

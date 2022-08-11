@@ -1,0 +1,8 @@
+name = "NEI Plugins"
+filename = "NEIPlugins-1.0.4.7.jar"
+side = "both"
+
+[download]
+url = "http://bit.ly/10Km3ZT"
+hash-format = "sha1"
+hash = "dfeed9ecb21f2ea644a4c906e312af7723813e50"

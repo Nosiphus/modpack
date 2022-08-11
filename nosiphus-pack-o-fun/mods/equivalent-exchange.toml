@@ -1,0 +1,8 @@
+name = "Equivalent Exchange 2"
+filename = "EE2Beta1.5for1.4.7-universal.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/equivalent-exchange-2/1.4.7/EE2Beta1.5for1.4.7-universal.zip"
+hash-format = "sha1"
+hash = "b73ea30455f730194c3c6721b8581fed747542ba"

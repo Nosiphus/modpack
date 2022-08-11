@@ -1,0 +1,8 @@
+name = "Compact Solars"
+filename = "compactsolars-universal-1.4.7-4.0.3.29.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/compact-solars/1.4.7/compactsolars-universal-1.4.7-4.0.3.29.zip"
+hash-format = "sha1"
+hash = "39c7cdeb11dea64666370741af42e2e77d8d5d02"

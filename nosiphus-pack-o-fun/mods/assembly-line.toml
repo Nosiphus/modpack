@@ -1,0 +1,8 @@
+name = "Assembly Line"
+filename = "AssemblyLine_v0.2.8.88.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/assembly-line/1.4.7/AssemblyLine_v0.2.8.88.jar"
+hash-format = "sha1"
+hash = "668b5a448b34d607460f70dc947f38b1e2944f29"

@@ -1,0 +1,393 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/AppliedEnergistics.cfg"
+hash = "7dfc6f422c50a495a35e8ad13794121ab2ff98a4e610d28b5a283acc68c18ae0"
+
+[[files]]
+file = "config/BiblioCraft.cfg"
+hash = "56865d362adf33f48129899d882a230d9c26417c4eb9dbfc90fe547b5f2e3ef5"
+
+[[files]]
+file = "config/CCTurtle.cfg"
+hash = "d8c6330c7dfb4c63997df173bd86c4989ef048336dbc758efea905e79c18d42e"
+
+[[files]]
+file = "config/CodeChickenCore.cfg"
+hash = "91a1db6e5c45174732673409750ca3196d1acfdf50f1603cef54f62cd85db965"
+
+[[files]]
+file = "config/CompactSolars.cfg"
+hash = "b470c9f3a87f8355755197efc3bd6abd55f80f6e2db2f0533346556382bff1f9"
+
+[[files]]
+file = "config/ComputerCraft.cfg"
+hash = "e383e363a5e685fb8a94b75a82028f2a63f14b1a3e86af39b1b09ee409c03038"
+
+[[files]]
+file = "config/EnderStorage.cfg"
+hash = "11c0d6b67c4f5af3aaabe0eccc14cc370f67039a5dbf5ffca4eb5f38a04f2175"
+
+[[files]]
+file = "config/Galacticraft/core.conf"
+hash = "11c5d99e8d1e6958efd49b7809552d4910c3d2b017796f06423590c9ecad630f"
+
+[[files]]
+file = "config/Galacticraft/moon.conf"
+hash = "97519c468360524e0057513947da2f53575e0d144a1e890c53c7eac72008bf06"
+
+[[files]]
+file = "config/IC2.cfg"
+hash = "a38e9b4e636c35239ed8c4c646c891ba3c49ad9ce65b8acd27234b37067f37e6"
+
+[[files]]
+file = "config/IC2.lang"
+hash = "5d71759355d03f96e7cb3fd100894a0e22153c1f456d153e4bb96796fb8b54e3"
+
+[[files]]
+file = "config/InvTweaks.cfg"
+hash = "ac978c9ab4ef5f22b473307697f3c8a5d6138ebba1467c6a922e88ba4675f5f3"
+
+[[files]]
+file = "config/InvTweaksRules.txt"
+hash = "a87f3cd1bc42ecb4c0f7f1507e32a3b318d6572473f94d0edb87774fb4445e8e"
+
+[[files]]
+file = "config/InvTweaksTree.txt"
+hash = "a03cbf0fd2c3d3c1b6f82c74a2923b81d5ca4111fe0ab6c57e0806c071138ab1"
+
+[[files]]
+file = "config/IronChest.cfg"
+hash = "e1384dac171a004568c73a60386531b487208f11dc8341cfe36ebc1485d8021d"
+
+[[files]]
+file = "config/JammyFurnitureMod.conf"
+hash = "ce81ad037efb5d81a9921e7e9faf83d051b047d063523c84470687826d22d678"
+
+[[files]]
+file = "config/MCA/ModProps.properties"
+hash = "e685e3233dc95ee442e4a1c1383e4d46ca310daba3ae5e09609f0774a9c4faec"
+
+[[files]]
+file = "config/Mekanism.cfg"
+hash = "a23284de77bbadef43356a4371d5abf82f2604175171c692bbab94f06677aa6f"
+
+[[files]]
+file = "config/NEI.cfg"
+hash = "a3dc6039a220d121443935eb5e5f275d67ebf56eb529e08fc64b76223ccaf4d7"
+
+[[files]]
+file = "config/NEIServer.cfg"
+hash = "c3a4cf622e24a2da8689850b7c6b0392a6402f01ba3a6fd6ebe163e4ac1ea166"
+
+[[files]]
+file = "config/NEISubset.cfg"
+hash = "47855c3fcf279703582f4b5223d1a14cf46b3b6574839b638759054b8904c5cc"
+
+[[files]]
+file = "config/Thaumcraft.cfg"
+hash = "c3c6b4dea6116cfe78b50aceacd603c437d04f945c854095a48450f14da0cd28"
+
+[[files]]
+file = "config/TreeCapitator.cfg"
+hash = "00caaf6a7ad63ac5c8cd6a78dd6eb7644fbabc087c449d3869f81c0aab8244cd"
+
+[[files]]
+file = "config/UniversalElectricity/AssemblyLine.cfg"
+hash = "70e606e24aff308add8439f1a82cb25e0830e4097ab52f4eeba31e2a7311caf6"
+
+[[files]]
+file = "config/UniversalElectricity/AtomicScience.cfg"
+hash = "12f060bb93e9fd40a6fbe40d3026c624b4ebb304a5a01052cb7656820c33b2f9"
+
+[[files]]
+file = "config/UniversalElectricity/ElectricExpansion.cfg"
+hash = "e617f9aeec5bc4dd53b04ad6c6a0db07c476bcd57dee98d2a7123df224d28193"
+
+[[files]]
+file = "config/UniversalElectricity/Fluid_Mechanics.cfg"
+hash = "be963eff33c61a0d25ee96b48005cb844e1f6f8481ce144e6fea3ec532b5a4e3"
+
+[[files]]
+file = "config/UniversalElectricity/ICBM.cfg"
+hash = "988b6af38c84a7aae181fb315d1fa38cea94dc5a3cdee91a51da3aa31a995665"
+
+[[files]]
+file = "config/UniversalElectricity/UniversalElectricity.cfg"
+hash = "8f9e6b0a59fe72961c33d864469a33fe280161e37387eac7a3ff365d9b388b2e"
+
+[[files]]
+file = "config/WirelessRedstone.cfg"
+hash = "a1cfbb44c9d93f5e9439b14056c6811050c3cc7a91ddab53190e602a512e11ec"
+
+[[files]]
+file = "config/buildcraft/main.conf"
+hash = "324dd19d61979647786c4740584bdb67ce640f138051533c263a416349bafb93"
+
+[[files]]
+file = "config/cofh/thermalexpansion.cfg"
+hash = "9830ca8f594cf4d5f09bf7305127c6e9a9906b66bbd869d681ea934140908e94"
+
+[[files]]
+file = "config/forge.cfg"
+hash = "7ae8681207daffc64b944d0d2e9bdccbd77d1242556ba3dc8071b01b7022da28"
+
+[[files]]
+file = "config/forgeChunkLoading.cfg"
+hash = "cb6b871e4f6feda7ed64ba8354206ae7928f040d6c1b70cabb4e0d4b2ba53219"
+
+[[files]]
+file = "config/mmmPowersuits.cfg"
+hash = "c6ae351a4f7e062d82e60fd2cb93ba2c71adcb54c169b11297ab397ebe8f3182"
+
+[[files]]
+file = "config/mod_EE.props"
+hash = "09fb57dd1b22ced801cbfab52595ca2e583c36b0066989d8eed7bab80edd9e62"
+
+[[files]]
+file = "config/mod_FurnitureMod.cfg"
+hash = "f890240dcc225e764a34d24b3348de91d676764998c5f9951bf5cd53e7ed4b28"
+
+[[files]]
+file = "config/mod_bspkrsCore.bsprop.cfg"
+hash = "d1b61b7486eb3fa4d1b356490fc59acbd9bc2559ec0bacc385c2498ba3acb943"
+
+[[files]]
+file = "config/modstats.cfg"
+hash = "c32d0f66032b067a2d0e7dc910acb856da4053c3f99d36be8d2de0b1c0676962"
+
+[[files]]
+file = "config/railcraft/modules.cfg"
+hash = "a72b98f7267a647e215b98894346c0e6ecfe4678e692c4491b1277a2452d94ae"
+
+[[files]]
+file = "config/railcraft/railcraft.cfg"
+hash = "558c9f75d4e5670cc6277870a7402f2063772b0f7545e119a17ae7ab317175e1"
+
+[[files]]
+file = "config/redpower/redpower.cfg"
+hash = "c5fdc230ee75baf1fbc057fa086fa28d893056d45543092b09ef07d6a51a0440"
+
+[[files]]
+file = "config/redpower/redpower.lang"
+hash = "2fa210974af356d740090a7a79da0ef6670127b13983959c591767209a2bda89"
+
+[[files]]
+file = "coremods/codechickencore.pw.toml"
+hash = "43997393305ab65652acbf6b0fdfca1422643439fd8a1e856f91237bc93d3791"
+metafile = true
+
+[[files]]
+file = "coremods/lumy-skin-patch.pw.toml"
+hash = "6089c42e4b717c3c160cdb76af2075d3549d60654165428932b0b6ff9fa9d774"
+metafile = true
+
+[[files]]
+file = "coremods/notenoughitems.pw.toml"
+hash = "b65969076f3282fdf779d5a74c3b4a687e9468a4a587af31c73a0e2a3cfcaf8c"
+metafile = true
+
+[[files]]
+file = "coremods/treecapitator.pw.toml"
+hash = "86084e569a37d6f90a9b48b39c67cde02c5c4a56ba3bedf7c626d4faa05bc275"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-1.pw.toml"
+hash = "a00244bab3960bf32c8b8636990df763b9fd0084b121afd22118e96e92d95837"
+metafile = true
+
+[[files]]
+file = "mods/assembly-line.toml"
+hash = "ad4b7e6b1fa60cada49d4892f83e9c8ff920ba2bbf61319b41646dff1cdb652b"
+metafile = true
+
+[[files]]
+file = "mods/atomic-science.toml"
+hash = "3ac031c2066f8a2c109d522543688310cdacb22a816d7b17ff9c553c484a9b52"
+metafile = true
+
+[[files]]
+file = "mods/basic-components.toml"
+hash = "ad0c9f23c20befa226441638a87f548a6787c9b6d0a302f10cba970d36183211"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "42adf13731a44aef7cc830f76b3eac76f6c5ea22c6387fd2c5f0ffd3288b8461"
+metafile = true
+
+[[files]]
+file = "mods/bspkrscore.pw.toml"
+hash = "e7e039581fc9bbe07c6764aceff40cc7115e4b6f7e686163c80485cb77cc7998"
+metafile = true
+
+[[files]]
+file = "mods/buildcraft.pw.toml"
+hash = "203fb9101db8d548983926d9c340451a2d34f9e6835a29d443cbc446ae5af9d8"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.toml"
+hash = "78ce0700b7e6421322f6bbfbf8c4ec6ba23e5442e3411301063261e503eef338"
+metafile = true
+
+[[files]]
+file = "mods/compact-solars.toml"
+hash = "c736cba03cf164eed3845cf676a4d808c799cd1edbe987f3e4980c965995343f"
+metafile = true
+
+[[files]]
+file = "mods/computercraft.toml"
+hash = "f78027691ef2d45dac6e7fab053584e10b6dc94b67ac8a7741d26db4065ca6b2"
+metafile = true
+
+[[files]]
+file = "mods/electric-expansion.toml"
+hash = "e005f08ad53bd11c29cc8e4ae608028746f960cb5163b66a4414d2244ca2ab34"
+metafile = true
+
+[[files]]
+file = "mods/ender-storage.pw.toml"
+hash = "dbf9bc4f6d309d9d9d6e1f655b1598d8210c7d804c0f3e21a18b2341819e7adb"
+metafile = true
+
+[[files]]
+file = "mods/equivalent-exchange.toml"
+hash = "e4d89478e64df98a90ac9fc4f7628d3a3150cb3e19336ecf60727d63e1a3d295"
+metafile = true
+
+[[files]]
+file = "mods/fluid-mechanics.toml"
+hash = "a224553365f70e9d7795a2dc25bad78f49aad54d3e91c5665b3b5fac2ce03b9d"
+metafile = true
+
+[[files]]
+file = "mods/galacticraft.toml"
+hash = "21083cc50bf33041ae5245d0b833f21dbe6e212ad119476840fa9e0fc39a22a1"
+metafile = true
+
+[[files]]
+file = "mods/icbm-contraption.toml"
+hash = "32cdbf34e6e8ba9090afcc0e1e02e8daecedc872d94bfb4a812cab094cfe4adc"
+metafile = true
+
+[[files]]
+file = "mods/icbm-explosion.toml"
+hash = "0315416c86c08e61fe3fbfa09c053f48c293a2ef2d3aa2df7fe7dd875cda008d"
+metafile = true
+
+[[files]]
+file = "mods/icbm-sentry.toml"
+hash = "048dc9d654ed6f87577bf1cba638248126c0e52744f127ab8157f0ee2f1a44ed"
+metafile = true
+
+[[files]]
+file = "mods/industrial-craft.toml"
+hash = "dcc9fc2a639c7bfce5d3a6f12f6891350a1bc137309ee6dd9d01a83e968fa2d8"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tweaks.toml"
+hash = "6e0a77809cc8b8b01786abf0383e2f115d0eb72d22a5a83b29699a2ec8e9b6a3"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.toml"
+hash = "a101503f8127c407176806ae04974eed737cf5bf25ce1e82cf981a8766fb2d6b"
+metafile = true
+
+[[files]]
+file = "mods/jammy-furniture.toml"
+hash = "4b36a609a8702ad8e8171c7669fb88405da88358ac46cc7ef1bccdfdaa477e57"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.toml"
+hash = "37c48decde21c8d40a671365f9f8f05f303a5aec409a470f8ba520a29e21dc98"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.toml"
+hash = "e46f674ab1d282ccb05968210ac6d73ba4d9b2bca6c768be75aaae77ce57dfcc"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.toml"
+hash = "690ed42efae71bd0761804663f41c41334cbf81a808e8a8450dac9c9ffe6987c"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive.toml"
+hash = "58315c8dd34ba7ced37b0abb56b878e1b50d0a5c31d01e8cac814370d37ebc25"
+metafile = true
+
+[[files]]
+file = "mods/modular-powersuits.toml"
+hash = "144b01f620f787f3506733f3d54544045eda7c5bec7560b9e21d66e638665e5e"
+metafile = true
+
+[[files]]
+file = "mods/nei-plugins.toml"
+hash = "44a6bf4a954c85eab4703025b643afef804e2cb922b79e661e46813908ce8c72"
+metafile = true
+
+[[files]]
+file = "mods/nei-redpower-plugin.pw.toml"
+hash = "f343a245f89fb1d2d80d88f5a02388271d68b6e90fa5ebcd2898368e2b342e99"
+metafile = true
+
+[[files]]
+file = "mods/railcraft.pw.toml"
+hash = "993d15d871577cc2c8b9ab42134b3773e6110ee9c6e70bfb3df55ba75c944a90"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-compat.pw.toml"
+hash = "5e89f80222f6a94ae24080d9dfb772c281fddeaba2d5eac236f06940af85bb86"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-core.pw.toml"
+hash = "baefb03f3203000ac6858cd7c2499bfb13ee1a57be7bd455fba90ddf5c248dc1"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-digital.pw.toml"
+hash = "aeb6fe3a5f15e994e6bdbc0b873c490802e0d2e7f350629476b8fbda6c257d1d"
+metafile = true
+
+[[files]]
+file = "mods/redpower2-mechanical.pw.toml"
+hash = "c1d4289f18af41c204b6286a3cb933e9b1240dc558143cb21a757ae81d35aa48"
+metafile = true
+
+[[files]]
+file = "mods/thaumcraft.toml"
+hash = "e42b760b182e463dea3150878ca5dcf25aef323288d19a1cf560e9c1e1164f90"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.toml"
+hash = "f98b5cb467861849bb27245f92192b1a362116909899dc13cddd02756ce7a298"
+metafile = true
+
+[[files]]
+file = "mods/wr-cbe-addons.pw.toml"
+hash = "9104cec986f62d604059ab845af851b37a3b804422ecef160bdbab656b6f23c4"
+metafile = true
+
+[[files]]
+file = "mods/wr-cbe-core.pw.toml"
+hash = "ee4602a4161417be134babf9388b6e4c1adfd5b356222a039f32d95c51905c75"
+metafile = true
+
+[[files]]
+file = "mods/wr-cbe-redpower.pw.toml"
+hash = "27e8c25a5ad43e901e3205876bc15b3bacd001ec8155a2f030de47ec6c375ffc"
+metafile = true
+
+[[files]]
+file = "mods/zans-minimap.toml"
+hash = "2d91b286416d6a61e8c42fc27eed026a4094b7b01ab30a8cab3443edb1040796"
+metafile = true
