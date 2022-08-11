@@ -1,0 +1,8 @@
+name = "Railcraft"
+filename = "Railcraft_1.4.7-6.17.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/railcraft/1.4.7/Railcraft_1.4.7-6.17.0.0.jar"
+hash-format = "sha1"
+hash = "19c4370e24d008dd1bc8ec37900405f447155905"

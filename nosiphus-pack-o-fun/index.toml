@@ -338,8 +338,8 @@ hash = "f343a245f89fb1d2d80d88f5a02388271d68b6e90fa5ebcd2898368e2b342e99"
 metafile = true
 
 [[files]]
-file = "mods/railcraft.pw.toml"
-hash = "993d15d871577cc2c8b9ab42134b3773e6110ee9c6e70bfb3df55ba75c944a90"
+file = "mods/railcraft.toml"
+hash = "ad4dd7c6afaf82e7d016feeed814c92a8ba8d7577a5082eb36ea12019a135bec"
 metafile = true
 
 [[files]]
