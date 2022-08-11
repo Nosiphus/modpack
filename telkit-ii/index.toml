@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "2ce0e8aa11b3bad420629dfc93bf5a57f539f436a1443b8f253f16d76ef8ff43"
+hash = "4f622c6c7430dd7780d3c9bf0d67d78c084424fec3059d532590f54a5119501c"
 metafile = true
 
 [[files]]
