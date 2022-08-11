@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "25f4513423b876b39f6e5e25128cb48737d04b36d3d63b02e53ee34b467791d1"
+hash = "41c0fa9b0c5d7a3fd8c480f68d34caaffd9cfa6f0dda1ed5655e426188b342bf"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -118,12 +118,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6e47504aafa79ab804511abdd397038bc97a60f70662509b341981df93e29992"
+hash = "75dcdffc0d37e098ef12f1b149d68182337372e2d48653ffe0389b94b357a0de"
 metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "22f2741c3be685f3718bfacc89eb8db7ebea8a7173b65394b6c03624410f5afc"
+hash = "f6aa71de61839a686e8b2de3822c60b08ee01a2abba0fc579fe1443da3335824"
 metafile = true
 
 [[files]]
@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "293a1b92fe3b6671426951099aaa589def569085b9a58d17d8fe7d89be1e3203"
+hash = "d254a82c584c143edd3e38afb056e0d135d1d0658197e63a9f2244693333b266"
 metafile = true
 
 [[files]]
@@ -538,7 +538,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "b5e19215b04d9ea875f4e11ec79311692f48c8f23322600a336ba1075b8d9a81"
+hash = "1597a813ab0da92af07a5f5b27a34add0a6518ecacf63b7789d821982b719493"
 metafile = true
 
 [[files]]

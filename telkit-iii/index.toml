@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "237a3ff8cf4d3e78ebdacbfbfc2d8a798a828d15e5e22f71da64e483bd571df6"
+hash = "7b8383367465dfa9fc449b8453ee18b68a3a7c051a375270afe8f419d4e20caf"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.toml"
-hash = "d98d5277fa8bddc77c4190a532d73a241e5ed3336f37350ce3b726534d82ef66"
+hash = "f06255716712432059cdbfef6618fd7f33b8d9521563d8c0705f138a422b5030"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.toml"
-hash = "3a4af270a0ef9f3d65cf04cdcaa95622ca6396c21b555a1f8824ab73263ebaf1"
+hash = "9fc831e0fb0c47502281d3e4ba1efe8089224930dc302b351a80b157bb38100f"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "54e01fcbb867f4c68580b5a229b7c431460dbfc17e6a95919513fbe36e68b862"
+hash = "e98dc9c1e24530fbb612d122da1d1b9ce197c4b8dde9befedf0bbb041113f9a3"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.toml"
-hash = "bade6dc80911bfa329b36e46c03c6ddf33eb389850bce95a9f7749863f3b9c45"
+hash = "54eabff84c02536691e09e8b5b48d2ae1efbbfb9bf99a6e0b263f9126dff434a"
 metafile = true
 
 [[files]]
@@ -1006,8 +1006,8 @@ hash = "67e1bd942ec91f82548991f5be5632845f80b35e6cb9efdaf9067a2d03946822"
 metafile = true
 
 [[files]]
-file = "mods/security-craft.toml"
-hash = "e87d21f58499bdf67b2a446b5eea1d62ab76c1711ada38866ef6f95460bf5737"
+file = "mods/security-craft.pw.toml"
+hash = "c146defcb55203d7a379d1dae33437e2b4848d872eb8d5bf756a66be1625494d"
 metafile = true
 
 [[files]]
