@@ -1,6 +1,6 @@
 name = "Zan's Minimap"
 filename = "ZansMinimap1.4.7.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/Nosiphus/legacy-mods/raw/main/zans-minimap/1.4.7/ZansMinimap1.4.7.zip"

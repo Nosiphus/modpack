@@ -104,6 +104,7 @@ metafile = true
 [[files]]
 file = "coremods/galacticraft.toml"
 hash = "796ef9eb1d810e2608ae0ebd9100fff77f864dbf0a7041160ec467ef576b120b"
+metafile = true
 
 [[files]]
 file = "coremods/lumy-skin-patch.toml"

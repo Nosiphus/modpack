@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "coremods/lumy-skin-patch.pw.toml"
-hash = "6089c42e4b717c3c160cdb76af2075d3549d60654165428932b0b6ff9fa9d774"
+hash = "af0e02b82d975cb5f7ce16b9ace7590e5f3f2d5bf4d4229f33a3ac901afa8932"
 metafile = true
 
 [[files]]
@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks.toml"
-hash = "6e0a77809cc8b8b01786abf0383e2f115d0eb72d22a5a83b29699a2ec8e9b6a3"
+hash = "5b5f7298a5164c134f2d46d98f68f4f4f41ada31ff14a7314a052885e766994f"
 metafile = true
 
 [[files]]
@@ -389,5 +389,5 @@ metafile = true
 
 [[files]]
 file = "mods/zans-minimap.toml"
-hash = "2d91b286416d6a61e8c42fc27eed026a4094b7b01ab30a8cab3443edb1040796"
+hash = "b2f48b1fb6fb853f3634a67c9e056a07d9660a69ec99b6be464329f1e6c8bd98"
 metafile = true

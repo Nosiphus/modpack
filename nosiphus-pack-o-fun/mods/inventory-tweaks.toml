@@ -1,6 +1,6 @@
 name = "Inventory Tweaks"
 filename = "InvTweaks-1.50-1.4.7.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/Nosiphus/legacy-mods/raw/main/inventory-tweaks/1.4.7/InvTweaks-1.50-1.4.7.zip"
