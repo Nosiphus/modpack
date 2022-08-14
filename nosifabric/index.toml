@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "41c0fa9b0c5d7a3fd8c480f68d34caaffd9cfa6f0dda1ed5655e426188b342bf"
+hash = "a36398dd48cfa0bb72fe00c102f4cb38d4ac2431d85e5079e61828881114215d"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "8a48e51272da00e3d7018e2aa8ef12ab8a59e68c934ed2513681ab6c341d1b0d"
+hash = "ee7aa24a9eb8832ec181dfffd54c4c51419f4f5be69fa8a12bd16356b5d12813"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "16b4df55e16a4de8527401b8a88a71b321dfd84b9284283cc9f3b069081a40e7"
+hash = "27e73e63118d0afa759317328e8d54bc1512bb6ed69ad96b6dca9ed472aba43f"
 metafile = true
 
 [[files]]
@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/quartz-elevator.pw.toml"
-hash = "768bcf5b230c34c7b5b2dd6f5384536c3fc596a75978ae0041c97778e5ca6f8a"
+hash = "16f336668419de21cd5cf7145f94b81691b9d38beb37b8e8bf44ec1b57794024"
 metafile = true
 
 [[files]]
@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2a5a1f044c53108281b83f268f246669a04cf4eb4651aa1bd0faab6a9dda408f"
+hash = "2f69649f1658de740bd483dc45f4b4d29267c00bec0ae9d80583e6dc115044a4"
 metafile = true
 
 [[files]]
