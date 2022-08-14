@@ -205,7 +205,7 @@ customization {
   y = -11
   scale = 1.0
   alignment = left
-  value = NosiFabric: Saturday, August 13, 2022
+  value = NosiFabric: Sunday, August 14, 2022
 }
 
 customization {
@@ -234,7 +234,7 @@ customization {
   action = addbutton
   y = 135
   label = Website
-  value = https://www.nosiphus.com/minecraft/modpacks/nosifabric
+  value = https://modpack.nosiphus.com/nosifabric
   height = 20
 }
 
