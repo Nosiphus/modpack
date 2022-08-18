@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "195aedeb1aa2205d64d2aec772cf4da4f4061939b604e0904e38c99fb875cf3f"
+hash = "6eda501f3eb51c26403226e4493b2b78e1ae8f6209cddee094704e644c86c108"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -482,11 +482,6 @@ hash = "a067a3a38a6df8bf4440edc13ad29e22adf31041858c4fc4aee991c0f0e87263"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
-metafile = true
-
-[[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "337ec62866285532dabfaf7da5ff39ac33de7666953eb15e648d1d253aa4afe8"
 metafile = true
@@ -603,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "17b31e7231cdb332f741110e5cc7c49f98815d26f9227c7fde759c2b8392b343"
+hash = "c586bb67690433d729fd3a87fab248a2f27aec0158fae53c0d05852c04d55bd8"
 metafile = true
 
 [[files]]
