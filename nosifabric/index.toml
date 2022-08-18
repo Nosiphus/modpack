@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "511b0bb4cdf62c29a76c43e9afeb2cdf911abf39aa2624a4e3f2f9548948b0f9"
+hash = "195aedeb1aa2205d64d2aec772cf4da4f4061939b604e0904e38c99fb875cf3f"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a9006f90e14388b3175a310e6ae5c0643d386932bd7fff173e324474bfd3c765"
+hash = "2c77cbb46a5f273a9f1c5da5bb94022c7b1560202c0c3802190958b28956a431"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "7f4661acedba1f64b7cbfe36f613400b2657e59ce921bee55ab25b247835c2ba"
+hash = "bced73cfdaa0e28e92744b59d5ed2779a60a4b2ebd3bdb944b9cc4956da19814"
 metafile = true
 
 [[files]]
@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "ea59340e930874c307b1dd1d17dd068dc5598e1f1a01055de1f5cb433780a1ee"
+hash = "d2dbe33fa927b10398c5a1a42ca8a2f925a802b7a0bef4d1e76ab5ff54a25aba"
 metafile = true
 
 [[files]]
@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "e41dfef4a01d34841453ebfe31c7af85eddf807826cc8885fe9253709dd5a813"
+hash = "79c8f0a39cb0d8e3b30341ad4190b81b283abb8f117adfb539506042e08e4f7e"
 metafile = true
 
 [[files]]
@@ -578,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "441f5f7ce1dbe2813105ca2e70ab55d9c63aa66b99e9140be55a24a25054db3b"
+hash = "1cba34b944550baf0159169564d52721cfb6031ed5bd5042d8c6da62e3d2af0e"
 metafile = true
 
 [[files]]
