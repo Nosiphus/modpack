@@ -142,6 +142,21 @@ hash = "83581f046e550740aac9976d8a51717ec5811da1864db51578f99b611380b4a4"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "5b7973e14a02d4d339a464e6f670e1456c162c2d9a4035b09c4d9b5bbc69b878"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "ac68555d577384172be85abb73aeecf48da54c165771cd5df01a67bb5af83dab"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "6f16988803a6578af4838a9cf374634b749c28fa24bb887166c4f3ab4aa2e169"
+metafile = true
+
+[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "f751aa50e3f1dc61d89bbec46242f2580188e84abf02ef20932265458d713d3e"
 metafile = true
@@ -472,6 +487,11 @@ hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
 
 [[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "337ec62866285532dabfaf7da5ff39ac33de7666953eb15e648d1d253aa4afe8"
+metafile = true
+
+[[files]]
 file = "mods/paperdoll.pw.toml"
 hash = "1871e82e3e20aa3d8b7fdf8004235423d672b80a4e23eff7b78d0b37d57a0a8e"
 metafile = true
@@ -544,6 +564,16 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "404b67aba7ccd3853e753ab945ab9f3762c1d1d832f38ee8068e3e1cde7f4896"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "321cc731a854f506f575835be91c578fd40674f2305d8981a1f4dd627485f79f"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "4fe3176299b63901a64d78b897b7eccf1d27a2437001b722bf3a61966fc977ec"
 metafile = true
 
 [[files]]
