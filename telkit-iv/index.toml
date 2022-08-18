@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "29efed4af80487ec02f0ab52efe3e49e9f26cebef807fc814fbb014445de473d"
+hash = "3b9be0b568d4b89adcf3750b075ba6292915a1cbfd4f1aff36de1312c33ee028"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/biggerreactors.pw.toml"
-hash = "b5ec3f44eafd9c8de6be4eef0ea251eac98e5054beb02d5d6ff943eef89fcb6d"
+hash = "48b50ff5a54e0a43ae4012da590df7bdc921a50667cc88e09347d272bbe1e640"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
+hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
-hash = "ebc7fe70140c268917e096a5aefcdd4981378eef19e1db5a6381ae6e75486aff"
+hash = "03c1e22dfba5114d6bef3126deaa8bc652b327def22314ca569bde689d302dbd"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
+hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "62fa6910ee59ed4fb18de8948b549256f36951ba6496f8e0659162b20f2eaa25"
+hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "8700113e0ac124630a7cd5a9fb483ec1bf535ec28d5771d139e2f4c3cea188c8"
+hash = "a933a7a32941798af446782921c1bc332c2f9342a8537486101b93a063e9c2e8"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "b804200ef29137a9a79b981e1a5f03718d67239f0596b278b9223476f7fa0e40"
+hash = "8bfad83ed5c914a968a5813b210b8dc51c6bc781e3acb748b6fd3c29ada6fd45"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "3c009abfb7e293b59d1c6f1cd8971732b8b82aef5a9a3aa08464d15a6f7593a1"
+hash = "da367cbf9117d26818f298dce455d3d10dfa4c2b78689b4caca3ca575de65b96"
 metafile = true
 
 [[files]]
@@ -497,12 +497,12 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "27d76201c641108fe3c5938017315972b779ee2fc5e815004b76ad55e0c1bba5"
+hash = "c84ba5b7b4bdf8db50da0d5d04c3abfd4cccb446ac5f9d614db4cff783cbdcf6"
 metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "f3f1aefa6bd088d2bd817cd7601000d5737b211ab87203d10419f50a1c1eafab"
+hash = "472824b0a6233ccf34505a07a64b4d600f33c507b75a73d1e0298a193f5907a9"
 metafile = true
 
 [[files]]
@@ -552,12 +552,12 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-power.pw.toml"
-hash = "02c1874d3f763289022e9f6e4bbe3515296be8ab091839bcb06ae9ebf08ce3db"
+hash = "d971519f4bb477e38d614df5fc1f4c1ca1b0d108231727c2812496248c98b821"
 metafile = true
 
 [[files]]
 file = "mods/rftools-storage.pw.toml"
-hash = "8067e419a5535396c22b1ae43a07cd82dacf97748dc86613f2f8cfa7e06407a2"
+hash = "da8abd8df3bd3630713b8fe746b1f04ee8803e4922ec49e14fc2d2bf5d4ffb8b"
 metafile = true
 
 [[files]]
@@ -622,12 +622,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "27329e914852f2f72563b322977497545a6b65fa7ad4b6d3fcd495d14883ec50"
+hash = "39e6d5f2d5dc788350dfb865b6db54ff61de180d1a7b31abaeb7463276bc153e"
 metafile = true
 
 [[files]]
 file = "mods/xercamod.pw.toml"
-hash = "082449b237cfe073c87bd849382fe40b4e70a37d8f1698e3adbc3a54a1b5a6c1"
+hash = "08e90098f387d7dcf5cb4cd6e0b1232aea4c7b94a49aa437172a853c6468f812"
 metafile = true
 
 [[files]]
