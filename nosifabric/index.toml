@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "6eda501f3eb51c26403226e4493b2b78e1ae8f6209cddee094704e644c86c108"
+hash = "09a30c9da35f6999ca062bcf0f030c482a5f9e2a6bee1925afcb2cd63119ed48"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "dae578f8c3893913cf6cd97a3cd23e0c1136df897907a200e92d3114245e34d2"
+hash = "246894bbd6a715e9f239dc93e3228ec224d4d4b75501a067acddb28c384a600f"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "1597a813ab0da92af07a5f5b27a34add0a6518ecacf63b7789d821982b719493"
+hash = "9770de2c4a292f74040cb67660e462e7f896cfa09f0d856e9e116701f333cdd2"
 metafile = true
 
 [[files]]
@@ -598,12 +598,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "c586bb67690433d729fd3a87fab248a2f27aec0158fae53c0d05852c04d55bd8"
+hash = "6c5ea5ecf2b51c097b7d36db12b3deff383e382a040453576aaa2675b77d8d74"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "1cba34b944550baf0159169564d52721cfb6031ed5bd5042d8c6da62e3d2af0e"
+hash = "b5df8de0ddcf5e99ccbd09524ea536c80ef72154ee9a0f21541826815f48022c"
 metafile = true
 
 [[files]]
