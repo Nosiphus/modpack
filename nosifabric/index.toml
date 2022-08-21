@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "09a30c9da35f6999ca062bcf0f030c482a5f9e2a6bee1925afcb2cd63119ed48"
+hash = "7bb96006120a825c5f3a12019ace92d384ccf1679b331871b5dab037803a3533"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "da711c3643bb0a10fe225484eb7e57487368e33859c4a96d8564bf56a05d42e1"
+hash = "ce9097e1d454e9a780d416ae117b3ffe5c7757bb6754954fa92dea5c72104b9e"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "f6aa71de61839a686e8b2de3822c60b08ee01a2abba0fc579fe1443da3335824"
+hash = "4b30b4f24efc144ce8898866ec74cfb36110eccfbc72b142718d21c107f6002f"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "d0f1d0454786f91e6cba7bdcddc7c70e86b6b2f302b0c64b7af4ae809472dced"
+hash = "7ba242a7c05a399a13316e8218a12bb43c6524146b6b71ec7b01c7a2aefd4812"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/charm.pw.toml"
-hash = "2729031c88e6b78bcaffa010f7841f4669a0cd903e16519fe9b6ebf396ee4ee0"
+hash = "523c1d4a80096f87e447fadf484df29701ac260f5e62951893437bda2502749d"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a9006f90e14388b3175a310e6ae5c0643d386932bd7fff173e324474bfd3c765"
+hash = "2c77cbb46a5f273a9f1c5da5bb94022c7b1560202c0c3802190958b28956a431"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "8adf1c37374d257533b16791096472760b7093846b996096f4bcba7b32b12d8d"
+hash = "f0a1c212e68166b823a68080b32fd27d772fe87d533409fc0feb35a5c4c2093e"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "29b85ab8cb041007510ee10dfea305ae7b100ceffbd82855830d67d43032aecd"
+hash = "339470b577ebc5892c5a578ab1ed1806d4d1e6bea23d34b8ab3860ab614c01fc"
 metafile = true
 
 [[files]]
@@ -543,7 +543,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3f2148f425622b9226aac1a5ea41f6613f9fdc0f484eadd72d30714ab0a73895"
+hash = "a861006c66175659b11c63a2e3872852b58626e7bb756bf39213cef991c490be"
 metafile = true
 
 [[files]]
@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "6c5ea5ecf2b51c097b7d36db12b3deff383e382a040453576aaa2675b77d8d74"
+hash = "1e88a96f47eec7a86ecb686a39f60e016698ea0bc638edbddf9f41b3428c680d"
 metafile = true
 
 [[files]]
