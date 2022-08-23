@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "7bb96006120a825c5f3a12019ace92d384ccf1679b331871b5dab037803a3533"
+hash = "be63af948d9dd159b88c6463c5a1dd5605bacc45903b44b9efede2659c152a10"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "339470b577ebc5892c5a578ab1ed1806d4d1e6bea23d34b8ab3860ab614c01fc"
+hash = "5f850670cb5306b75633e55fe9319c7a0448b9ef2b15449b7d1b7fd56ba7e775"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "337ec62866285532dabfaf7da5ff39ac33de7666953eb15e648d1d253aa4afe8"
+hash = "3a8cdff45e534138516e48e1b0a1ae370f7c90f8e829d165175f8268a869ff95"
 metafile = true
 
 [[files]]
@@ -523,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2f69649f1658de740bd483dc45f4b4d29267c00bec0ae9d80583e6dc115044a4"
+hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
@@ -593,12 +593,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "1e88a96f47eec7a86ecb686a39f60e016698ea0bc638edbddf9f41b3428c680d"
+hash = "c23e80a345670527d9bb5be8a666978c344b6e5d0575b9169c38cfb5fe68019a"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "b5df8de0ddcf5e99ccbd09524ea536c80ef72154ee9a0f21541826815f48022c"
+hash = "c0d0d478805edf02868accdc7c1fe8cae13a0e39a6074ff2b885e46836d01bfb"
 metafile = true
 
 [[files]]
