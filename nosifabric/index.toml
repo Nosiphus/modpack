@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "be63af948d9dd159b88c6463c5a1dd5605bacc45903b44b9efede2659c152a10"
+hash = "34728736083a675d8c792545b94f462455452565476626f239fc78bf940cb4a7"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "43ce985d604a5adae2aa89c9fadf8cbcbcd1ad109dab548412e251c210ff2616"
+hash = "bf9c6667b396a24d340e90311be9001817e2942b9eb693737473db6a5ac1257d"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "9770de2c4a292f74040cb67660e462e7f896cfa09f0d856e9e116701f333cdd2"
+hash = "198284d31961c9e8a26c154c30ee2e7abe818eed5a5bc9d6f4a77a09456d29b5"
 metafile = true
 
 [[files]]
