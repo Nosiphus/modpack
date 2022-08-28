@@ -77,10 +77,6 @@ file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
-file = "config/mca.json"
-hash = "8e7dd5c2ef4294c34538fc7debe782bab59dcd0797f45f6d77eac4dc55bf9df5"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
 metafile = true
@@ -451,11 +447,6 @@ hash = "5cbe1ca9ef81b228eccf099e10bd03bddd5e3776d3052831f0d1970e9415c154"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "edd1e8939da22f1f1e1881b310f4414bbd054c9a07cea0fbe51867a8cd6e6f8f"
-metafile = true
-
-[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "a2273075210396fae12e774fbe7c7976079e95d5b5f93d423cdea634090b672f"
 metafile = true
@@ -593,11 +584,6 @@ metafile = true
 [[files]]
 file = "mods/windchimes.pw.toml"
 hash = "da56f8d502498b731410138e36d618600fc7c3bff2d99cb342af1c6ef9840823"
-metafile = true
-
-[[files]]
-file = "mods/wiredredstone.pw.toml"
-hash = "3bbf8e4f0a9bb35863f154b8b36e24bd32999d9c948fa366ad944e1c913e529f"
 metafile = true
 
 [[files]]
