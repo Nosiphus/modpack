@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "0665e9e9a1f4440196aefa88da93beb7aa85a94b26536b467d1eb06eb8de5e2d"
+hash = "3c0a8cd0cdeba85526933a25024efe014c6a60da879f089a3fb91c0ed3471f1c"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -343,12 +343,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "35fefbf2a09f2899361fd9a7999138e06f804aa8b89dfc5a323103a219c2d88a"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e17ae2c96de4d1c334308a80f4c63f1f071035911334186a9f1bd77496c105a5"
+hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "0f6ef79243435d4bd09f30f83719b00c1c71aa1d07927b0ef7d6a213f310bd3b"
+hash = "9e5cd40ce78ea187d425ba5e910290ac60e137194aa6bdb1cfca4a136090c00e"
 metafile = true
 
 [[files]]
@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9322c7f9663b04bfbadb4fd6bb36a4ad5336bd3999a8542287b2d58834c86b83"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
