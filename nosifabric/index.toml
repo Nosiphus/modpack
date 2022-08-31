@@ -333,6 +333,18 @@ file = "config/cullleaves.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "aad3ef3bba70d2007aa66454de43059eda79a488151f61b33d9262e563288751"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "c4379647f251c5e759278171abf320edc087c17df44af8ab28e31c11d1ab1d6a"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "f4647fb72e890aafbe3750063fccf5c7f72fa83d5dbacb406144bc3c0eceeaf4"
+
+[[files]]
 file = "config/dynamicfps.toml"
 hash = "f5474c5f2aa9e04cc88211eb6c0b7c4d3835814ba7047252edf624355862caa6"
 
@@ -1067,11 +1079,6 @@ hash = "5cbe1ca9ef81b228eccf099e10bd03bddd5e3776d3052831f0d1970e9415c154"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "edd1e8939da22f1f1e1881b310f4414bbd054c9a07cea0fbe51867a8cd6e6f8f"
-metafile = true
-
-[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "a2273075210396fae12e774fbe7c7976079e95d5b5f93d423cdea634090b672f"
 metafile = true
@@ -1225,14 +1232,6 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "0558c653fc64ef54d493d0f20b20e2599ae70edcaf727af090ff098b9dd9fd64"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "c4379647f251c5e759278171abf320edc087c17df44af8ab28e31c11d1ab1d6a"
-
-[[files]]
-file = "servers.dat"
-hash = "f4647fb72e890aafbe3750063fccf5c7f72fa83d5dbacb406144bc3c0eceeaf4"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders.zip.txt"
