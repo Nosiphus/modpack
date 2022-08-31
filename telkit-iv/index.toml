@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "3b9be0b568d4b89adcf3750b075ba6292915a1cbfd4f1aff36de1312c33ee028"
+hash = "48bddb9f17b73f317ba47f550ba5bc19f8ecffbc2ef0c61d0f5ee7e4ddd1ea32"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "918c2eb40159ca8463ead5955659b0d8975e9355c702db974b800efc7ea0effa"
+hash = "370666b353bc622c77b048899fc169130e9f2106a9a7f18f7e38a1caf2ebcbbd"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "089ff047dee1d43218bd42c2175104186255923d46432674a37fb9d705dacfa7"
+hash = "50272be0db67a3da6e56d33e4e4597a1568f8f10cc327cd466da8097416f9c77"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "6c620e4cf7aacfbca2473bb7278f2cef58f74ed2d8174f78486aeebc6ff6f4b8"
+hash = "50033122cf61e35c245ff0e675f58dcfbd08e1594cd94ab09a4b8717c007e5ae"
 metafile = true
 
 [[files]]
@@ -227,12 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "ff745c8d351cd807135719c05ded9b705d3474a2cf3098a7125367d7c0c66808"
+hash = "9bca203b4cfeacad61b218be013b61c39ce89f00602345db5e1b732627770d9a"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "099af7d0a61fd27c6b6ba26e7e84c4d7cfe5eea78a7102c7eb717528ef6ecc91"
+hash = "2cc77c7cd14d666f9a8de5678d541618035ec16f403c195a0e2d0ac43be1fa69"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "2d9ed6c8325ff9fbcec783c2f94eb22939fc36c1c4b4b11626ab29be3e1276d1"
+hash = "0baa50b28cde066737d8ad22068d91bf2a4bc65b684095c823e8f4ba5609c516"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
-hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
+hash = "5000760b9aaeb78fc25a4747c357806e756fbf8771ece8ea75afc213bcba7559"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "fe8e27ae2379c6b837a9798a6582c762048b16f1b2e17434f7ca292c34382ade"
+hash = "c35ee51da533ab1d6d33c97a0affc92c7c5625a7b3a278fb18c7e0ebf2f978be"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "75459a2fb320ce3dde6d13f2b181588e78aa68a7e8e866c7da533a0e1cee54b9"
+hash = "4f9b3a0fd53661286a61342e6b73b6967ebfc967b3d70c29f7d7cfdafe6183f2"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.toml"
-hash = "6d7e9b9c965492f51a4534a2d88988727dd9e6b5bac21359eaf4a1074aa02b3b"
+hash = "827ebe9a11cd25ddfdd90c801b116413bf19c8c1059b8648d6449076d8adf42c"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "472824b0a6233ccf34505a07a64b4d600f33c507b75a73d1e0298a193f5907a9"
+hash = "4263ce79cb1ff47f095478e42a630ab85974dcebdb578e4a0f7bc5e113ae858b"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "ff409d0b2b62eb669282869e3ce7c297cf00bc8ff0113106d66713198b13cde3"
+hash = "cac61c6823a8177b54fd222cc5f63fe3a92971a2e22baa0bf94d780d60f11371"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "0d6b8b85af3b07f28bb3ffd3bb01c9f82ee79f7a9da7db84c321bcd5d56a1e7c"
+hash = "526f1411f2287247b09ebe85ce4ba29daaad56f1a817d163ec194f78b11bb8ef"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "39e6d5f2d5dc788350dfb865b6db54ff61de180d1a7b31abaeb7463276bc153e"
+hash = "af62fca7c94e7a45330a7bb7ff3ec032da4b8aad0f3862767bab455aa6446d28"
 metafile = true
 
 [[files]]
