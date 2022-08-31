@@ -378,7 +378,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "240843d88df4424821ec26c22a10c91224d5fc55711b0b5d201da10b22364f22"
+hash = "9ba4924e6ff9971cd8f7f5ff866a92ab8914a4f2c79776aef0c9372e925f3e74"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "9c6032b2051cc3b34c6d03a86f1f26f03c1f8692f3db786f777728c687cc90c5"
+hash = "215fb8df4474c3893d7ef048065ec87aa02b9e956ce2b8b6f0306ad8943da8b1"
 metafile = true
 
 [[files]]
@@ -1060,6 +1060,11 @@ metafile = true
 [[files]]
 file = "mods/mbp.pw.toml"
 hash = "5cbe1ca9ef81b228eccf099e10bd03bddd5e3776d3052831f0d1970e9415c154"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "edd1e8939da22f1f1e1881b310f4414bbd054c9a07cea0fbe51867a8cd6e6f8f"
 metafile = true
 
 [[files]]
