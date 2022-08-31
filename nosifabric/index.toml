@@ -505,6 +505,10 @@ file = "config/magna.json"
 hash = "6749b1d63e487d30f5ef70f945edbd36643353bf5c38081443593d8e702d66ed"
 
 [[files]]
+file = "config/mca.json"
+hash = "49ce6279ae53286d374b65c0d10229bc8e20fe5aca92bcdd3ccd23bc5dd6a985"
+
+[[files]]
 file = "config/midnightlib.json"
 hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 
