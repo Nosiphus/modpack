@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "7b8383367465dfa9fc449b8453ee18b68a3a7c051a375270afe8f419d4e20caf"
+hash = "d0ef3f05ac78e12e69e90bf693eaf195369aa905acbae16cf5759279460981dd"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "5e5e311c84c15bd861c4841dbb684df2313abe9909bd3ec56915810602b2702b"
+hash = "c8062291ac9c4b02be34569082c6f2cea6e68a678c31f62fba5ee7807b1338a5"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.toml"
-hash = "5ca5179aa5bbc38fe4468f2c26ff0cea18c5b89dc7ba4179fd738674cf09996c"
+hash = "982cb6078f48a78d1c0a3e0241efe79f5e9c7bedb0b29275f9be5b2899469067"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture.toml"
-hash = "b1e0c039a2cbd373ee2ad59eec66fd6e7dfd37d2921f01b387174142006e275b"
+hash = "2095a21369b4fbb4829222f26e9ae91f81a747b75422f007b5f413b851cb008f"
 metafile = true
 
 [[files]]

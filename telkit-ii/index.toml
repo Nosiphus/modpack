@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "4f4a0c378676eef63388261152eabfa782847e341caf7d95004ac768cfb018ff"
+hash = "6f6f816110115b012ac702120a5943a5d8b9d53168900aa73976baaa8d74c78d"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.toml"
-hash = "9f8a94107efc6ca0566cf9cd989fc082d5438a9e7e8e438fbacd89a5168dacbf"
+hash = "3c08a3918762284f970c538ab57365a0f0065c7f701ed53148cb709ac99d2a16"
 metafile = true
 
 [[files]]
@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-font.toml"
-hash = "3d6809ff9823c2c424b94a6fe8d6671879d69b57cf06b6753c0e30110c8dadc4"
+hash = "8f18aeb339a5c9f0576a69e5ae0c6f27cf32b7abbbf303415338a995ce4aaeda"
 metafile = true
 
 [[files]]
