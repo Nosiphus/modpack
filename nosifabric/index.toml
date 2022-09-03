@@ -390,7 +390,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "9ba4924e6ff9971cd8f7f5ff866a92ab8914a4f2c79776aef0c9372e925f3e74"
+hash = "ddf8921188a59c242fadd61bba55b6f4ce289aa4e563d43e8bb39c236e598fe4"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ce9097e1d454e9a780d416ae117b3ffe5c7757bb6754954fa92dea5c72104b9e"
+hash = "4f03c50c1c9180b90190cd36bc7c474aee5dd52f32f018cf5bdcd647c4dfd47e"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "4b30b4f24efc144ce8898866ec74cfb36110eccfbc72b142718d21c107f6002f"
+hash = "05190346d8cd9d0144dfeac6c68f766fb9f34e0b916483d5360b4883b60b282d"
 metafile = true
 
 [[files]]
@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "7ba242a7c05a399a13316e8218a12bb43c6524146b6b71ec7b01c7a2aefd4812"
+hash = "25f249a88ba44e5db42aae4877790f528cc8805e54e9484239b3396e7b5fb4ac"
 metafile = true
 
 [[files]]
@@ -1060,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "616b10a5004554570053c5334c9ff411c2225f42aa851496d7aa28fa8b8bf9bd"
+hash = "fa0e5694ac99ba9aac9d00d7f327aafb00a7cdb470a93991ab8233b40987c5a7"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "80a7ec1b26fc6d818f1563cdc142fb60febc8e683ed60c462f81663ccf4b6228"
+hash = "9ae736c623007eaadd32e4e82fae7ac37641fbf40de1bf025a2b5a64badfd824"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "a858a7f76194859c3909bbd178eb79cbf0a59c8e1db1d21d6330a58fdb588405"
+hash = "86fd76830339379e145c23747d51608f1a3165df7e747184f2d9fc890c7ab385"
 metafile = true
 
 [[files]]
@@ -1221,6 +1221,11 @@ metafile = true
 [[files]]
 file = "mods/windchimes.pw.toml"
 hash = "da56f8d502498b731410138e36d618600fc7c3bff2d99cb342af1c6ef9840823"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "ef39074887285044927d856ccc8dded43004e5ae531227bcb4ec1a731102b2d5"
 metafile = true
 
 [[files]]
