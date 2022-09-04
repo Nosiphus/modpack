@@ -1,13 +1,13 @@
 name = "Ceiling Torch"
-filename = "ceilingtorch-1.18.2-1.18.jar"
+filename = "ceilingtorch-1.18.2-1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3a52e7fefe4dca75ae1988081de53220df5bd550"
+hash = "20de55106d835c77b4624d360ff37e39deb63607"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3795979
+file-id = 3962359
 project-id = 326599

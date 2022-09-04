@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d95563ecfd5fc385c56f56aab0f4edb215b913b9cd8a0eb4a101b0d492f74e5a"
+hash = "1e481a65002086d1168ada12a41d5b00befe8868624b7267fd95586f58ea9222"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "370666b353bc622c77b048899fc169130e9f2106a9a7f18f7e38a1caf2ebcbbd"
+hash = "e89ca85ab49921cc5b109c65ade133803e1bed53e5af1eb23b2883c4c08d1877"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/ceiling-torch.pw.toml"
-hash = "3c5cb1ee5549849860202e6cff9d9afba17d0a3ec887aa46562018dbd81d604c"
+hash = "127c113d6ed5dcd34978db80c94305e155f3db4f878e9f45af1355fec89951c9"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e133bc272363ea76a6473a2bc3cc237c2d4342ca30e411e5c7f227852d4fd2f9"
+hash = "f2d594d255ceeadc94b32be5200741b8a5f237fc65848da04e131f2b8970e6fd"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
-hash = "03c1e22dfba5114d6bef3126deaa8bc652b327def22314ca569bde689d302dbd"
+hash = "25264330b2befcd47c343bdfe0106af7d4b4c777f6c306e7aa7cebebd8e33ee6"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
+hash = "a24d888d2812355aa2e9e82a2fc6f4959eb4f2e0aa67a9778a428f0c93202394"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "d1072e7aafd43f05a29b5e210d0f2fd0072d893024816e55e2a300b1d8749f55"
+hash = "15bbbd9ac406643d16df003b9678b1ba3eb78268e624adcfd1167379751c29ef"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "0162a4d4f439a89b9e856fa26739ed81a93d861c797ec8c4a8b3d58e5f60aef3"
+hash = "f40d1d0a24a267f41a12f269f37aff703b534b9282f9b338e498553af46503e4"
 metafile = true
 
 [[files]]

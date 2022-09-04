@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "d0ef3f05ac78e12e69e90bf693eaf195369aa905acbae16cf5759279460981dd"
+hash = "e983949c220a00d0666358adb99408d47dc92452a8fa61c2108eea2ff62f0260"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config-forge.toml"
-hash = "f3350e742042813e59d087d6884e42376995871721b341f9845bf291ddd4e140"
+hash = "f75db8c2d15adff25f7e84bae7808d522a0f1e1058edece513e339f18e1fa7fa"
 metafile = true
 
 [[files]]
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.toml"
-hash = "982cb6078f48a78d1c0a3e0241efe79f5e9c7bedb0b29275f9be5b2899469067"
+hash = "cc91ffd404db54e6e535143c3f019ee8ff9a8a1dde5dea0d0c28cc218566ad5a"
 metafile = true
 
 [[files]]
