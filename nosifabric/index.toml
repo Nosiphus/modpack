@@ -390,7 +390,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "ddf8921188a59c242fadd61bba55b6f4ce289aa4e563d43e8bb39c236e598fe4"
+hash = "95a2ff4e3c9a5751fd7e066349adc95838b6e37fa8f478f7e70304fe3e384740"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
+hash = "0d51513c96daf3b13b980ebb7d225a793aceda871a4a69e746927cdd87e75cdf"
 metafile = true
 
 [[files]]
@@ -950,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "ee7aa24a9eb8832ec181dfffd54c4c51419f4f5be69fa8a12bd16356b5d12813"
+hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
 metafile = true
 
 [[files]]
@@ -1200,12 +1200,12 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "321cc731a854f506f575835be91c578fd40674f2305d8981a1f4dd627485f79f"
+hash = "4176c70e43571043df091b27c67ac56c694596c57d52740d52f98053cff3bcde"
 metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "4fe3176299b63901a64d78b897b7eccf1d27a2437001b722bf3a61966fc977ec"
+hash = "3f0e7d01b7faa108a8ada2ba9b8293af610316b10724565e030c81d6137b2646"
 metafile = true
 
 [[files]]
@@ -1235,7 +1235,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "c23e80a345670527d9bb5be8a666978c344b6e5d0575b9169c38cfb5fe68019a"
+hash = "e9c8538c8a6ab6a67808a2eece408e4da0144dd47024a00c15ea226781143d59"
 metafile = true
 
 [[files]]
