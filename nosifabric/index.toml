@@ -390,7 +390,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "95a2ff4e3c9a5751fd7e066349adc95838b6e37fa8f478f7e70304fe3e384740"
+hash = "dae1e21e60b6c6707c1faab4297f5f9f352c26fe2d7f10ddef65eea30d05c62d"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "9ae736c623007eaadd32e4e82fae7ac37641fbf40de1bf025a2b5a64badfd824"
+hash = "13400f582d2974dc86e75cdd9c5e7bea7104050e086b06559ddcc741bcabbc4b"
 metafile = true
 
 [[files]]
@@ -1120,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "9e5cd40ce78ea187d425ba5e910290ac60e137194aa6bdb1cfca4a136090c00e"
+hash = "75439d3e2f1eecb4805b414dd4564365e9294e1022e244dff8a7fc0f048666e1"
 metafile = true
 
 [[files]]

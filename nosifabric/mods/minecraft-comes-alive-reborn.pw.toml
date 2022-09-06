@@ -1,13 +1,13 @@
 name = "MCA Reborn [Fabric/Forge]"
-filename = "minecraft-comes-alive-7.3.21-rc.2+1.19.2-universal.jar"
+filename = "minecraft-comes-alive-7.3.21+1.19.1-universal.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1W98a849/versions/wLHxUXpl/minecraft-comes-alive-7.3.21-rc.2%2B1.19.2-universal.jar"
+url = "https://cdn.modrinth.com/data/1W98a849/versions/AmA8C4Sj/minecraft-comes-alive-7.3.21%2B1.19.1-universal.jar"
 hash-format = "sha1"
-hash = "8740246b23f8b691eec1c7d8d5083fedc118b787"
+hash = "d86405d147a89b31b82a4ec308c9260405e5ffc2"
 
 [update]
 [update.modrinth]
 mod-id = "1W98a849"
-version = "wLHxUXpl"
+version = "AmA8C4Sj"

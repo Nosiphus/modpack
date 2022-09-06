@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "e983949c220a00d0666358adb99408d47dc92452a8fa61c2108eea2ff62f0260"
+hash = "865e0c9f02bc51dd0ed14f6fcfb4166efa9250758a2cd0836f8c89f254b52526"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.toml"
-hash = "cc91ffd404db54e6e535143c3f019ee8ff9a8a1dde5dea0d0c28cc218566ad5a"
+hash = "dde30d2add908476086f82332beac103521be12323c80693a05e6c5e3084bb67"
 metafile = true
 
 [[files]]

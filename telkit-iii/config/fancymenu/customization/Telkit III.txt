@@ -251,7 +251,7 @@ customization {
   y = -21
   scale = 1.0
   alignment = left
-  value = Telkit III: Sunday, September 4, 2022
+  value = Telkit III: Tuesday, September 6, 2022
 }
 
 customization {
@@ -307,7 +307,7 @@ customization {
   action = addbutton
   y = 135
   label = Website
-  value = https://www.nosiphus.com/minecraft/modpacks/telkit
+  value = https://modpack.nosiphus.com/telkit-iii
   height = 20
 }
 
