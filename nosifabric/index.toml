@@ -390,7 +390,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "dae1e21e60b6c6707c1faab4297f5f9f352c26fe2d7f10ddef65eea30d05c62d"
+hash = "24cdf0e6c082ffa240147fd5e07aaf9b894267c150b001b7cfb7043e2682b6c2"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "989dac3c7c0b3032e29290addf9b3838b1183e0cf82bf1bd0ae0392033c05aee"
+hash = "faa9fb2f7da70f11f07d3dd2aca2e96ca82959986ba3aea9af2ba3b01e83f2f1"
 metafile = true
 
 [[files]]
@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "0d51513c96daf3b13b980ebb7d225a793aceda871a4a69e746927cdd87e75cdf"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "a8fecfaefa03cc5648970578f1eb66ae06b7088c1887314354600e3a52dfcdbf"
+hash = "eaa774858114e6d9f70c50f07f6e373bddd5be415624a590eb6793335e621d06"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.pw.toml"
-hash = "aec695575c3bd00ccd12dbc73430a52e70295aea5335b19bb8da2098d2bf9f23"
+hash = "7e8426c4132c313c78083512670a9c66cea8b6633e531661abf8febd1d91303c"
 metafile = true
 
 [[files]]
@@ -955,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "74164d4bf654579d96d6602f4a2435224bd57dd39082dac92a0b564939ebf433"
+hash = "01ccb209d26f1d9d44f34fd26337d8a527a7b3f418dc8eff5bf7edc6d85c4b85"
 metafile = true
 
 [[files]]
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
+hash = "59c8274b76d6b09e5cb16939ed8adbe8e2d38eadc85682125d6a9ede6653bcd2"
 metafile = true
 
 [[files]]
