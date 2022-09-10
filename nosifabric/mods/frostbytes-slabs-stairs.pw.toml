@@ -1,13 +1,13 @@
 name = "Frostbyte's Slabs & Stairs"
-filename = "slabsandstairs-1.2.0.jar"
+filename = "slabsandstairs-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WWL04tjR/versions/1.2.0/slabsandstairs-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/WWL04tjR/versions/9GlZp9Qb/slabsandstairs-1.2.1.jar"
 hash-format = "sha1"
-hash = "65ae976898d7f9f46ea4c97dddb16a3573c76e09"
+hash = "d42cd36a919cd0b6dc322eaa088b3eb8d7eac791"
 
 [update]
 [update.modrinth]
 mod-id = "WWL04tjR"
-version = "LlFVv5mR"
+version = "9GlZp9Qb"

@@ -390,7 +390,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "24cdf0e6c082ffa240147fd5e07aaf9b894267c150b001b7cfb7043e2682b6c2"
+hash = "e8ebf8223e830df5487fb50493bd3906e7d20ee5aafc028767a6250f496322f6"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -830,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "f2ca3c2ef10cb90a25deef0e8bfb9198ce9d6beb6b740c307816f864a1f116c5"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/frostbytes-slabs-stairs.pw.toml"
-hash = "54ed66f5d9ccd139bff5f77c2b9411a4d245162060ebd78ad4bdfdedad1ef104"
+hash = "a9ee90e097faa916e4709650e6d5789e8becdc75a401b0df2ad4962bfec16f0a"
 metafile = true
 
 [[files]]
