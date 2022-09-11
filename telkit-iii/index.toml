@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "865e0c9f02bc51dd0ed14f6fcfb4166efa9250758a2cd0836f8c89f254b52526"
+hash = "10b80cd810a4b18213aec7800c64a13f0969769af2ff81bf968cebf7e2b514c6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config-forge.toml"
-hash = "f75db8c2d15adff25f7e84bae7808d522a0f1e1058edece513e339f18e1fa7fa"
+hash = "417eb3c99e331cd58a09be9973c07420838934f6193843a46d93402cfb98fe63"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "e98dc9c1e24530fbb612d122da1d1b9ce197c4b8dde9befedf0bbb041113f9a3"
+hash = "f931a23eba1e81a7b1234d42014d94043e25bb541d3563472fd78d173fa85125"
 metafile = true
 
 [[files]]
@@ -876,9 +876,8 @@ hash = "798f7e8faaa313976b6941f431e44f72c55adff3873f0fbf1445ce5104ab4688"
 metafile = true
 
 [[files]]
-file = "mods/nosiphus-furniture.toml"
+file = "mods/nosiphus-furniture-mod.toml"
 hash = "2095a21369b4fbb4829222f26e9ae91f81a747b75422f007b5f413b851cb008f"
-metafile = true
 
 [[files]]
 file = "mods/obfuscate.toml"
