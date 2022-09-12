@@ -390,7 +390,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "4933695e4af015a51f68b39f16f9c16bce360b34765bd31078a38d230bb2149b"
+hash = "b189be7b291d40ada23e8f625b21e075a15285bd1e411f47f90775ac24e54d76"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "32bba0ce0d15fba1e5b134693eaa3d1d6e980ddf9650015c3deef677ea13c76b"
+hash = "2e000c87d73bf449e1729eac606e936546659b0052ac87f8635b6c1853b31fb7"
 metafile = true
 
 [[files]]
@@ -1019,6 +1019,11 @@ hash = "0c3895893808dfab13fb8a09e2773ee43f6b7e251b981921a1269357a57fe015"
 metafile = true
 
 [[files]]
+file = "mods/lightest-lamps.pw.toml"
+hash = "ec3e97abceb350f9aecbe62bd8ec32a31bf5da55078456f1d8056bed6dda2ea9"
+metafile = true
+
+[[files]]
 file = "mods/lightning-power.pw.toml"
 hash = "701d3bfad4a24066400982683398223cc9ab874da659ddafda4b9c162a668983"
 metafile = true
@@ -1026,6 +1031,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
+hash = "072c99965d0ee1273885c6934ca214b3b25b36898a55aa3f0748c53d293aa339"
 metafile = true
 
 [[files]]
@@ -1169,6 +1179,11 @@ hash = "01e23be2b0b85c174b6fdf2b561aee7299e4fd1bf7170945ab23b4bdafcce86a"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "f2ebf65e11dc38cded90fd10d49026534bfab7a7e8dc5147bd398eedd6959a2a"
+metafile = true
+
+[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "e042a31030aeef75b55c1d23d8728fad0beeffe983c3dfe82200e31c5ca37fa8"
 metafile = true
@@ -1191,6 +1206,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "198284d31961c9e8a26c154c30ee2e7abe818eed5a5bc9d6f4a77a09456d29b5"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "0d1ba697a2d67945e1664b33e7980954e3e9d512f8718851d1c137639b267458"
 metafile = true
 
 [[files]]
