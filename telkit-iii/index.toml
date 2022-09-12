@@ -876,8 +876,9 @@ hash = "798f7e8faaa313976b6941f431e44f72c55adff3873f0fbf1445ce5104ab4688"
 metafile = true
 
 [[files]]
-file = "mods/nosiphus-furniture-mod.toml"
+file = "mods/nosiphus-furniture-mod.pw.toml"
 hash = "2095a21369b4fbb4829222f26e9ae91f81a747b75422f007b5f413b851cb008f"
+metafile = true
 
 [[files]]
 file = "mods/obfuscate.toml"
