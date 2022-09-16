@@ -1019,11 +1019,6 @@ hash = "0c3895893808dfab13fb8a09e2773ee43f6b7e251b981921a1269357a57fe015"
 metafile = true
 
 [[files]]
-file = "mods/lightest-lamps.pw.toml"
-hash = "ec3e97abceb350f9aecbe62bd8ec32a31bf5da55078456f1d8056bed6dda2ea9"
-metafile = true
-
-[[files]]
 file = "mods/lightning-power.pw.toml"
 hash = "701d3bfad4a24066400982683398223cc9ab874da659ddafda4b9c162a668983"
 metafile = true
