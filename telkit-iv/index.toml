@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "3de57e14f5e283ad74edb2e06ebce9270d07ac825e2fe8d1a50e7863e4700774"
+hash = "1870040af63c5872ddafc6836779e019ec155d1054afe1ca714105fb1956dadf"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/london-underground.pw.toml"
-hash = "2b1cb8309a0a3d25ed1b98d87f5332bd1b0fea81e7ea53899ec5227e02c13a51"
+hash = "b12d6f7e1d7401f29b8b45905c197f65ad6d283bf8e0a754f33b5fac63758133"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "e16540644ff797841ffc629066fd14b206c6608a706a6c14a7d1e3bd10084b95"
+hash = "57ca1177c8dd0fa6836bf5d5a1ce306ef356e214cd2dbfc71cd6cb87aaffc631"
 metafile = true
 
 [[files]]
