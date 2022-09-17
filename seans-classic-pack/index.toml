@@ -148,6 +148,11 @@ hash = "93f6752d04282d3bd16185c5e00172c5416e1bc590fe683ec6d9ea13085b807f"
 metafile = true
 
 [[files]]
+file = "patch-server-jar-with-this/servermods.toml"
+hash = "76a65f49274367f8df3217b736e4c02e5c9ef451a6f75ded41ffff0ff069fc28"
+metafile = true
+
+[[files]]
 file = "resources/READ_ME_I_AM_VERY_IMPORTANT"
 hash = "c2647878875af13400df92a4131204e27d522018b42f99c13c0d2037983a40a8"
 
