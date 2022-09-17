@@ -1,0 +1,631 @@
+III 
+I I = Iron Furnace
+III 
+     or
+III
+I I
+IFI
+(I = Iron, F = Stone Furnace)
+NOTE: Smelts faster
+
+Iron =SMELTING= Refined Iron
+
+ P
+PPP = Treetap
+P  
+(P = Planks)
+
+WWW
+ T  = Rubber
+(W = Wood, T = Treetap)
+NOTE: This way of obtaining rubber IS ineffective.
+
+RCR
+RCR = Cable
+RCR
+(R = Rubber, C = Copper Ingot)
+Cables can be placed on ground and act as wire for electric current.
+
+ L
+RCR = Switch Cable
+ R
+(L = Lever, C = Cable, R = Redstone Dust)
+Switch cables are cabale of directing power, similar to the MFE.
+If applied redstone, it will redirect all incoming currents upwards. Without redstone, it will redirect all incoming currents downwards.
+This means, it can be used as cheap alternative to LINK multiple currents. (f.e. you can combine 4 currents in a cross, the center made of Switch cable, and it will redirect all 4 currents into a single directin)
+
+CBC
+BMB = MFE Transmitter
+CBC
+(C = Cable, B = RE Battery, M = Machine)
+MFE are MultipleFunctionElectricity Transmitters.
+They will accept electric current from all 6 sides and store up to 8 batterys worth of energy. As well, they will emit this electric energy if their top or bottom is wired.
+Additionally users can place Full batterys or redstone in the lower slot to add more energy or Empty batterys in the upper slot to withdraw energy.
+
+ c
+cCG = Relay
+ c
+(c = Cable, C = Circuit, G = Gold Ingot)
+Relays act as directional cables and will direct all incoming current in whatever direction the player was standing while placing the block.
+Additionally, Relays will COMBINE all incoming currents into a single pulse, up to 256 EUs.
+Relays do not have any Energy-Saving functions and will continously emit all energy provided to them.
+ATTENTION! While placing Relays it easyly can happen for them to charge up to 256 EU, sending an 256 EUs jolt once you connect anything to them. I recommend working on dry lines only.
+
+CCC
+CMC = MFS Unit
+CCC
+(C = Energy Crystal (uncharged!), M = Advanced Machine)
+The Multi-Functional-Storage Unit is similar to an MFE. It can, however, store up to 3 MILLION EU.
+As well, it can take Current Powers up to 256 EUs.
+
+ILI
+LCL = Lapotron Crystal
+IAI
+(I = Refined Iron, L = Lapis Lazuli (Dye), C = Enery Crystal, A = Advanced Circuit)
+Lapotron Crystal can store up to 1.000.000 EU.
+They can only get (un)charged in MFSUs and are useful for carrying enormouse energy over long disances.
+
+CCC
+RTR = HV Transformer
+ c
+(C = Cable, R = Redstone, T = MFE Transmitter, c = Electric Circuit)
+Transformers can be used for cost-effective long-range energy transmission.
+Upon supplies with energy, it will start emitting currents, similar to the MFE Transmitter. However, it will either emit a current of 2000 EUs from the top OR a current of 50 EUs from the botton.
+A current of 2000 EUs will suffer much less from distance-based EU loss then a current of below 50.
+On the downside, high voltage is lethal and dangerous for normal machines and will instantly cause any machine it's applied to EXPLODE. To use the voltage, you need to wire the current into another Transformer and use the bottom output to turn the current into 50 EUs again.
+
+ R 
+RCR = EC Manipulator
+I I
+(C = Advanced Circuit, R = Redstone, I = Cable)
+EC Manipulators are handy tools.
+Upon rightclicking a cable, it will display the total amount of current running through it.
+Upon rightclicking a MFE, it will change the power output of said MFE.
+
+RDR
+CAC = Cable Obscurator
+RRR
+(R = Redstone Dust, D = Diamond, C = Cable, A = Advanced Circuit)
+Cable Obscurators will, upon rightclicking on cables, change those cables texture.
+Avaible textures are Smoothstone, Cobblestone, Planks, Dirt, Sand, Sandstone, Snow and Reinforced Stone.
+
+GRG
+CCC = Luminator
+GRG
+(G = Glass, C = Cable, R = Redstone Dust)
+Luminators will act as cables, as well as providing light, based on the current running through it. A small part of the current will be subtracted to fuel the light.
+As well, Luminators will increase the range the current can go without loosing energy due to distance, by 2 blocks.
+Luminators are sensitive and will burst if applied a current of 32 EU or higher.
+
+CCC
+RIR =  Circuit
+CCC
+(C = Cable, R = Redstone, I = Refined Iron)
+
+ C
+RFR = Electro Furnace
+
+(C = Circuit, R = Redstone, F = Iron Furnace)
+NOTE: Electro Furnace's and all other Electric Devices use either Redstone or Batterys as fuel.
+Additionally, they will not waste their electricity if they aren't currently operating/smelting.
+
+C C
+TRT = RE Battery
+ T  
+(C = Cable, T = Tin Ingot, R = Redstone)
+Note: RE batterys can (and must) be recharged.
+
+C
+F = Single-Use Battery
+F
+(C = Cable, F = Fuel)
+
+BMB
+BMB = 6pack RE Battery
+BMB 
+(B = (Charged!) RE Battery, M = Metal (either Iron, Copper or Tin))
+Note: You can regain the Batterys by rightclicking with the 6pack equipped.
+
+III
+I I = Machine
+III 
+(I = Refined Iron)
+NOTE: Machine blocks are CRAFTING PARTS, they have no practical use.
+ALL higher machines will ONLY drop machine blocks upon broken. To recover them without ressource loss, use a wrench.
+
+ P 
+PMP = Macerator
+C C
+(C = Circuit, M = Machine, P = Stone Pickaxe (must be unused))
+NOTE: Macerator can turn any kind of raw ore (before smelting!) into 2 "dust" each. These dust's can be smolten to respectively 2 ingots, meaning you can double your mining efficiency.
+As well, the Macerator can turn Coal into Coal Dust, which is used in different recipes.
+And it can macerate gravel into flint, 1:1 .
+
+
+TCT
+TMT = Extractor
+(T = Treetap, C = Circuit, M = Machine)
+Extractor operations:
+Wood => Rubber
+Clumpy Fuel => Fuel (ned before fuel can be used)
+
+SCS
+SMS = Compressor
+S S 
+(S = Smooth Stone, C = Circuit, M = Machine)
+Compressor operations:
+Plantball = Plant Fuel ingrident
+Wet Coaldust = Fuel ingrident
+Coalball = Compressed Coalball
+Coalchunk = Industrial Diamond
+Sand = Sandstone
+Metal Block = Alloy
+Glowstone Dust = Glowstone
+Snowball = Ice
+
+
+###
+# # = Plantball
+###
+(# = 8 of a plant material, different materials are useable)
+
+C
+W = Wet Coaldust
+(C = Coaldust, W = Bucket of Water)
+
+ #T
+T#T = Clumpy (Plant) Fuel
+T#T
+(T = Tin Ingot, # = (Plant) Fuel ingrident
+NOTE: Fuel can be used as very cost-effective fuel for newer furnaces (does not work in the stone furnace).
+Plant fuel is less effective then coal-based fuel.
+
+CCC
+CFC = Coalball
+CCC
+(C = Coaldust, F = Flint)
+
+CCC
+COC = Coalchunk
+CCC 
+(C= Compresse Coalball, O = Obsidian)
+
+
+B       B
+M  or  III  = Generator
+F       f
+(B = Battery, M = Machine, I = RefinedIron, F= Furnace, f = Iron Furnace)
+Burns any kind of fuel (like Furnaces) to charge up empty batterys.
+
+SWS
+WGW = Water Mill
+SWS
+(S = Stick, W = Planks, G = Generator)
+Needs to be constantly supplied with water (via a Bucket) for a short time, to charge up an empty battery.
+
+CGC
+GCG = Solar Panel
+#g#
+(C = Coaldust, G = Glass, # = Circuit, g = Generator)
+Will charge batterys without any fuel ned, but will only work in direct sunlight and will need 8 minutes to charge.
+
+GCG
+GgG = Geothermal Generator
+III
+(C = Circuit, G = Glass, g = Generator, I = Refined Iron)
+Uses lava (in buckets) as fuel to charge up batterys.
+
+
+T T
+T T = Tin Cans
+TTT
+(T = Tin Ingot)
+
+ I 
+ITI = Canning Machine
+ICI
+(I = Iron, T = Treetap, C = Circuit)
+Operations:
+Will use tin cans (fuel) to turn any kind of food into tin cans (number of tin cans filled depends on the amount of health the food would have given)
+Filled Tin Cans can be stacked up to 64.
+You can open a tincan in any crafting window or by rightclicking with an equipped Tin Can.
+Tin Cans will heal 1 heart each.
+
+
+ G
+DCD = Recycler
+IDI
+(G = Glowstone Dust, D = Dirt, C = Compressor, I = Refined Iron)
+The recycler will use energy to recycle EVERY kind of block given . For each recycled Block, there's a 1/8 chance to generate one piece of scrap.
+Scrap can be used to craft Scrap Boxes, or to be burnt in Generators.
+
+
+SSS
+SSS = Scrap Box
+SSS
+(S = scrap)
+ScrapBox's can be opened via rightclicking while holding one. It will drop one random (semi-)useful item/block.
+
+
+CC
+TC = Bronze Dust
+(T = Tin Dust, C = Copper Dust
+
+Bronze Dust =SMELTING= Bronze Ingot
+
+Bronze Ingots can be used to craft any kind of tool or armor tile. It's strength is slightly below Iron, but it has an increased durability.
+
+B B
+BBB = Wrench
+ B 
+(B = Bronze Ingot)
+Wrench's can dismount any sort of machine upon RIGHTclicking, turning them into their portable Block-form again.
+As well, it's a formidable weapon.
+
+
+ I
+ICI = Mobile Charger
+ I 
+(I = Cable, C = Circuit)
+GUI can be opened by rightclicking with this item on-hand.
+It can charge up electric-powered tools with a charged battery.
+
+ I
+IBI = Mining Drill
+ICI
+(I = Refined Iron, B = Battery, C = Circuit)
+Mining Drills can be used as Shovel/Pickaxe replacement and will mine extremely fast.
+Mining Drills do NEVER break.
+Mining Drills need to be recharged after a fix number of usages.
+Mining Drills can harvest any ores besides Obsidian.
+
+ D
+DMD = Diamond Drill
+(D = Diamond, M = Mining Drill)
+Upgraded version of the Mining Drill, will mine even faster and can harvest Obsidian.
+
+ II
+IBI = Chainsaw
+CI
+(I = Refined Iron, B = Battery, C = Circuit)
+Chainsaws are extremely efficient, unbreakable Axe-Replacements.
+As well, they deal high damage to enemies.
+Chainsaws need to be recharged after a fix number of usages.
+
+
+TTT
+BBB = Mixed Metal Block
+III
+(T = Tin, B = Bronze, I = Refined Iron)
+Mixed Metal Blocks can be compressed into Alloy plating.
+
+SSS
+SAS = Reinforced Stone
+SSS
+(S = Smooth Stone, A = Advanced Alloy)
+Reinforced Stone is highly resistanc against explosives, only a really BIG load of TNT could possibly destroy it.
+
+SS
+SS = Reinforced Door
+SS
+(S = Reinforced Stone)
+Made of Reinforced Stone, this door will resist quite all explosions. It cannot be opened manually, but needs redstone wiring.
+
+GAG
+GAG = Reinforced Glass
+GAG
+(G = Glass, A = Advanced Alloy)
+Reinforced Glass is much more durable then it's unreinforced counterpart.
+Still, it's not invulnerable and a powerful explosion right next to the glass could possibly break it.
+
+A A
+ALA = Composite Vest
+AIA
+(A = Adcanced Alloy, L = Leather Vest, I = Iron Chestplate)
+Extremely durable chestplate.
+
+
+ICI
+ITI = Jetpack (EmptY)
+IGI
+(I = Refined Iron, C = Circuit, T = Tin Ingot, G = Glowstone Dust)
+
+FJF = Jetpack
+(Can be crafted with different variations of 2 F and an J, as well)
+
+ f 
+fJf = Jetpack
+ f
+(F = Fuel, f = Plantfuel, J = Jetpack (Empty))
+To use the jetpack, first turn it on by rightclicking with holding it (you won't get any confirmation of this action, though).
+Then equip the jetpack and hold SPACE to fly around. Take note that the fuel is limited and that the power of the Jetpack weakens, the higher you get. Watch for fall damage upon landing to hard, as well.
+
+BcB
+BTB = Bat-Pack
+BcB
+(B = RE Battery, c = Cable, T = Tin Ingot)
+To use the Bat-Pack, first turn it on by rightclicking with holding it (you won't get any confirmation of this action, though).
+Afterwards, all your electric tools will automatically recharge while using the Bat-Pack, as well as draining all ned energy for operations from it.
+Bat-Packs can solely be recharged in MFEs, charging a Bat-Pack takes 60000 EU.
+
+
+gAg
+AGA = Nuclear Reactor
+CAC
+(g = Glowstone Dust, A = Advanced Alloy, G = Generator, C = Circuit)
+The Nuclear Reactor can do two things:
+1. It can refine harvested Uran into Uran Fuel Rods. This doesn't require any sort of fuel.
+2. It can use Uran Fuel Rods to charge up Batterys.
+
+
+FFF
+TTT = Industrial TNT
+FFF
+(F= Flint, T = TNT)
+Industrial TNT is slightly less explosive, has a slightly longer fuse and will ALWAYS drop all blocks caught in the explosion blast.
+
+
+ W
+SGS   = Clay
+ S 
+(W = Water Bucket, S = Sand, G = Gravel)
+
+
+ G 
+gCg = ODE Device
+III
+(g = Gold Dust, G = Glowstone Dust, C = Electric Circuit, I = Cable)
+OED devices (=Scanner) can be used 32 times (before a recharge is ned) to evaluate the density of ore below the player. an areay in 2 block radius around the player will be scanned (5x5 area) to the most botton layer.
+
+OGC
+IMI = Miner
+ D
+(O = ODE Device, G = Generator, C = Electric Circuit, I = Refined Iron, M = Machine block, D = Drill)
+The Miner uses Mining Pipes (upper slot) and an energy source (redstone or batterys, lower slot) to dig Mining Pipes into the ground, while harvesting all valuable ores in a 5x5 area below the Miner.
+It will automatically drop any mined ores on the surface, where they can be collected, easyly.
+You can even withdraw the mining pipes, by putting ANY kind of block into the upper slot. The pipe will be withdrawn slowly, and replaced by the filler block (upper slot). Upon placing an item in the slot, the Miner will just withdraw the pipe, without placing any sort of filler.
+
+I
+I = Mining Pipe
+R
+(I = Iron Ingot, R = Refined Iron)
+Standard iron Mining Pipe. Will dig through quite everything, though there ARE materials stopping it. Namely, Obsidian and liquids.
+
+M M
+M M = Diamond-tipped Pipe
+ D 
+(M = Mining Pipe, D = Diamond)
+Diamond tipped Mining Pipes are much stronger and faster then their normal iron counter-parts, mining DOUBLE as fast. As well, it can even penetrate Obsidian.
+
+M M
+MIM = ITNT Pipe
+ I
+(M = Mining Pipe, I = ITNT)
+This special pipe was rather designed for mine-construction then actual mining. It will dig down like a normal Mining Pipe, but upon retracting a third of the Pipes will set off their charges, destroying everything in a few blocks radius around the mining site.
+Of course the pipe will not be harmed, it will be withdrawn and ejected as normal Mining Pipe
+
+M
+T = Extractor Pipe
+M
+(M = Mining Pipe, T = Treetap)
+Extractor Pipes are meant to harvest liquids and are actually quite effective at their job. They will slowly drain any liquid they encounter, transporting it to the surface and storing it in a bucket of a nearby chest.
+
+
+RRR
+RDR = Energy Crystal (Uncharged)
+RRR
+(R = Redstone Dust, D = (Industrial) Diamond)
+Energy Crystal are some sort of advanced battery. To charge one, you need multiple batterys and a Crystal Charger and in redo it's ned to power and craft highly advanced machines.
+Some tools require Energy Crystals for crafting, but will still be chargeable with casual energy (Mobile Charger / Generator).
+
+ g
+GCG = Crystal Charger
+ g 
+(g = Glowstone Dust, G = Generator, C = Cable)
+Crystal Chargers can charge Energy Crystals into charged Energy Crystals. However, this requires a total energy equivalent to four RE Batterys.
+The device uses electrical powersources (battery, redstone) as fuel.
+
+ IG
+IGC = Mining Laser
+SIG
+(I = Refined Iron, G = Glowstone Dust, S = Wooden Stick, C = Energy Crystal)
+
+
+C
+C = Carbon Fieber
+C
+(C = Coal Dust)
+
+CCC = Combined Carbon Fieber
+(C = Carbon Fieber)
+Combined Carbon Fiebers can be compressed into Carbon Plates in a Compressor.
+
+NOTE: To use the Nanosuit properly, you need to install the additional file AND enable the setting in the config!
+
+COC
+CGC = Nano-Helmet
+(C = Carbon Plate, O = Energy Crystal (Charged!), G = Glass)
+
+C C
+COC = Nano-Bodyarmor
+CCC
+(C = Carbon Plate, O = Energy Crystal (Charged!))
+
+COC
+C C = Nano-Leggings
+C C
+(C = Carbon Plate, O = Energy Crystal (Charged!))
+
+C C
+COC = Nano-Boots
+(C = Carbon Plate, O = Energy Crystal (Charged!))
+
+Nanosuit armor is indestructible, but will instead run out of energy from time to time. Upon running dry, it will loose most of it's protective ability and needs to be recharged.
+As well, you can upgrade each Nanosuit part.
+
+III
+I#I = Advanced Nano-Helmet
+GGG
+(I = Refined Iron, G = Glass)
+
+COC
+O#O = Advanced Nano-Bodyarmor
+COC
+(C = Carbon Plate, O = Energy Crystal (Charged!))
+
+COC
+G#G = Advanced Nano-Leggings
+g g
+(C = Carbon Plate, O = Energy Crystal (Charged!), G = Glowstone Dust, g = Gold Dust)
+
+FFF
+C#C = Advanced Nano-Boots
+WWW
+(F = Fuel, C = Carbon Plate, W = Wool/Cloth)
+
+Upgraded Nanosuit parts have an unique ability each. These abilities are either passive, or can be activated by holding some sort of secret ConTRol key.
+All special abilities will cease working on empty Nanosuit or if it's energy drops below 33%.
+
+
+CAC
+AMA = Advanced Machine Block
+CAC
+(C = Carbon Plate, A = Advanced Alloy, M = Machine Block)
+
+G-R
+CLC = Advanced Circuit
+R-G
+(C = Electric Circuit, G = Glowstone Dust, R = Redstone Dust, L =  Lapis Block, - = CopperCable 
+
+III
+LWL = Terraformer
+CMC
+(I = Copper Cable, L = Lapis Block, W = Advanced Machine, C = Advanced Circuit, M = Machine)
+Terraformers use ENERGY CRYSTALS as energy source.
+If you place a blueprint in the upper slot, the Terraformer will start working (if powered) and change it's surrounding. The Blueprint is NOT consumed. You can change Blueprints to alter the Terraformers Operation anytime.
+
+RGR
+TCT = TerraFormerBluePrint (TFBP) - Empty
+I I
+(R = Redstone Dust, G = Glowstone Dust, T = Tin Ingot, C = Advanced Circuit, I = Copper Cable)
+TFBPs can "store" operation manuals for the terraformer.
+You can programm a TFBP with following crafting recipes:
+
+YSR
+S#S = Cultivation
+DS.
+(Y = Yellow Flower, R = Red Flower, S = Sapling, D = Dirt, . = Seed, # = TFBP)
+This TFBP will cause the Terraformer to start growing various plants on grassy tiles, as well as turn Dirt into Grass.
+
+SCS
+S#S = Desertification
+SCS
+(S = Sand, C = Cactus, # = TFBP)
+This TFBP will cause a Terraformer to turn it surrounding into a wide desert, removing plants (eventually even setting fires) and water, as well as snow and ice.
+
+ W 
+W#W = Irrigation
+ W 
+(W = Water Bucket (will not be consumed), # = TFBP)
+This programm will make a Terraformer turning Sand into fertile Dirt, as well as increasing plant growth (Trees, Wheat).
+Additionally, it will (very slowly) start filling it's surrounding with water. However, this will only happen to tiles which are BELOW THE TERRAFORMERS HEIGHT.
+
+SSS
+S#S = Chilling
+SSS
+(S = Snowball, # = TFBP)
+A basic program, causing a Terraformer to cast snowfall over an wide area. This will create snow on top of other tiles and freeze water.
+Enough snowfall can start piling up snowblocks, too.
+
+CSC
+S#S = Compression
+CSC
+(C = Cobblestone, S = SmoothStone, # = TFBP)
+This TFBP will start compressing the area around you. It will turn weaker materials (Dirt, Gravel, Sand, etc) into Cobblestone (or Sandstone, respectively, for Sand). As well, it will compress multiple layers of Sandstone/Cobblestone into Smoothstone.
+In fact, this program will make the Terraformer free a landscape of anything but the stone below.
+
+ S 
+ #  = Flatificator
+SSS
+(S = Unused Stone Shovel, # = TFBP)
+A highly useful program for builders.
+A flatificating Terraformer will, on quite a decent speed, remove all basic natural block ABOVE IT'S OWN HEIGHT. It will not destroy any sort of stone or man-made materials, thus it could even be safe to use close to your house (unless your house is made of dirt).
+IT's range is approx. a 41x41 area with the Terraformer in the middle.
+
+All TFBP can be "reset" to their empty states by applying a charge.
+
+ V
+CMC = Tesla Coil
+CAC
+(V = HV transformer, M = Advanced Machine, C = Cable, A = Advanced Circuit)
+Tesla Coils are deadly defense mechanism. They will require 5000 EU to fully charge up and 2 EUs while remaining active.
+Tesla Coils will always charge up to 5000, but will not be active without being redstone-powered. (Thus, they need a trigger.)
+If active and finding any alive object (including the player) within a small radius of approximately 4 blocks, they will zap said object with an extremely brutal 5000 EUs shock, dealing lethal damage to unarmored targets. After use, the tesla coils needs to recharge to 5000, again.
+
+
+I = 64x IC
+(I = Iron Ingot)
+Crafted from the most-valuable industrial material, Industrial Credits are a basic cash-unit used in trading and, exspecially, in automated machines designed for trading
+
+ I
+IRI = Item-O-Mat
+ICI
+(I = Iron Ingot, R = Redstone, C = Chest)
+Item-O-Mats will use nearby chests to offer goods to players visiting them, in exchange for IC.
+
+As well, you can craft
+# = Sellomat/Itemomat
+an Itemomat into a Sellomat and vice versa.
+Sell-O-Mats will use a nearby to chest to BUY blocks from players.
+
+It's even possible to put Sellomat and Itemomat on the same chest, creating some sort of "renting station".
+
+-#- = Energy-O-Mat
+(- = Cable, # = Itemomat/Sellomat)
+Energy-O-Mats are modified Itemomats, that will sell EU instead of blocks.
+As well, an Energy-O-Mat without nearby chest (or with an chest that defines a price of 0 EU) will act as a redstone indicator. It will power nearby redstone wires if current is running through  it.
+
+
+ I
+ICI = Personal Chest
+ I 
+(I = Iron Ingot, C = Chest)
+Personal chests are undestroyable, un-griefable and un-openable chests.
+Now, actually they REALLY are un-openable, unless you're using an Admin Tool. Later one this will be changed to allow access to admins OR the player who placed the chest.
+Recommended to be used as high value storage (f.e. for selling valuable goods via an Item-O-Mat)
+
+
+-H-
+CMC = Matter Generator
+GRG
+(- = Cable, H = HV Transformer, C = Advanced Circuit, M = Advanced Machine, G = Glowstone Dust, R = Recycler)
+A Matter Generator will consume ENORMOUS amounts of energy to produce "Universal-Useable Matter".
+This matter can, arranged in a correct pattern on the workbench, transform into quite any material known.
+The process of generating UUM can be accelerated by providing a steady supply of Scrap to the Matter Generator.
+
+
+RCR
+cAc = FreqTrans
+RcR
+(R = Redstone, C = Circuit, c = Cable, A = Advanced Circuit)
+Frequency Transmitters are used to control Force Field Generators and Teleporters.
+Rightclick a Field Generator to store it's frequency, then click a Force Field-Block, which is IN A STRAIGHT LINE to the Generator, to disable the Generator for a few seconds, as well as opening a gap in the shield dome.
+Rightclick a Teleporter to store it's frequency, then leftclick the same teleporter and another teleporter to link both to the stored Frequency.
+
+ L
+FAF = Field Generator
+GGG
+(L = Lapis Lazuli Block, F = FreqTrans, A = Advanced Machine, G = Glowstone dust)
+Field Generators are complex machines, capable of creating near-inpenetrable protective barriers of cube-like shape.
+However, it requires a constantly high supply of energy. The more energy (up to 256EUs) is supplied, the larger the shield dome will get.
+Shield dome's are semi-visible and will flicker upon contact with objects. As well it can deal damage upon running into it.
+A shield dome CAN be broken, however explosives are ned, and whatever gap ma< is created will fill within mere seconds.
+Applying redstone to a Field Generator will disable it.
+
+ F
+CMC = 2x Teleporter
+CSC
+(F = FreqTrans, C = Circuit, M = Advanced Machine, S = MFSU)
+Teleporers are long-range travelling devices.
+Each teleport consumes 5.000.000 EU.
+Teleporters will only trigger a teleportation upon being powered by redstone.

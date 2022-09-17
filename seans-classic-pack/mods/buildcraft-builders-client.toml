@@ -1,0 +1,8 @@
+name = "Buildcraft Builders"
+filename = "buildcraft-client-B-builders-2.1.1.zip"
+side = "client"
+
+[download]
+url = "https://mod-buildcraft.com/releases/BuildCraft/2.1.1/buildcraft-client-B-builders-2.1.1.zip"
+hash-format = "sha1"
+hash = "e2069b75d087cffc74aed74e86cde5d1be5f2483"

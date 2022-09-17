@@ -1,0 +1,8 @@
+name = "Recipe Book"
+filename = "Recipe_Book_b173.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/recipe-book/b1.7.3/Recipe_Book_b173.zip"
+hash-format = "sha1"
+hash = "f6fb201161d78785c1263d98dd2f031034e5846f"

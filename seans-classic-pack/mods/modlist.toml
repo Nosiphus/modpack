@@ -1,0 +1,8 @@
+name = "ModList"
+filename = "ModList.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/modlist/b1.7.3/ModList.zip"
+hash-format = "sha1"
+hash = "07b94b87d4f943534686647ce2f30beb855a259c"

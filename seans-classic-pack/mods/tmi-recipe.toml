@@ -1,0 +1,8 @@
+name = "TMI Recipe"
+filename = "TMIRecipe.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/tmi-recipe/b1.7.3/TMIRecipe.zip"
+hash-format = "sha1"
+hash = "6921c3ef51d3f51dfb44bf92091169d49f88f596"

@@ -1,0 +1,8 @@
+name = "Buildcraft Transport"
+filename = "buildcraft-server-B-transport-2.1.1.zip"
+side = "server"
+
+[download]
+url = "https://mod-buildcraft.com/releases/BuildCraft/2.1.1/buildcraft-server-B-transport-2.1.1.zip"
+hash-format = "sha1"
+hash = "183c3c33af95d26158390e46cede9d5260d67966"

@@ -1,0 +1,8 @@
+name = "RedPower Array"
+filename = "RedPowerArray-Server-1.7.1.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/red-power/b1.7.3/RedPowerArray-Server-1.7.1.zip"
+hash-format = "sha1"
+hash = "e18db7f769dffa837dba61550bf9e7f815daf5bf"

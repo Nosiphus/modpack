@@ -1,0 +1,8 @@
+name = "Buildcraft Factory"
+filename = "buildcraft-server-B-factory-2.1.1.zip"
+side = "server"
+
+[download]
+url = "https://mod-buildcraft.com/releases/BuildCraft/2.1.1/buildcraft-server-B-factory-2.1.1.zip"
+hash-format = "sha1"
+hash = "917c263490f2513dba3d8374b5bf73cf4f22b99d"

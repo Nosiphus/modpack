@@ -1,0 +1,8 @@
+name = "RedPower Core"
+filename = "RedPowerCore-Server-1.7.1.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/red-power/b1.7.3/RedPowerCore-Server-1.7.1.zip"
+hash-format = "sha1"
+hash = "329e49c8badd3846fe95f4d5942c7261d7806e7f"

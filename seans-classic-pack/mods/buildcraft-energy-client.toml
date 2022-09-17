@@ -1,0 +1,8 @@
+name = "Buildcraft Energy"
+filename = "buildcraft-client-B-energy-2.1.1.zip"
+side = "client"
+
+[download]
+url = "https://mod-buildcraft.com/releases/BuildCraft/2.1.1/buildcraft-client-B-energy-2.1.1.zip"
+hash-format = "sha1"
+hash = "143e1e6fb480d2d02de2c92d7b60a2f317affee8"
