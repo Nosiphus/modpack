@@ -390,7 +390,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "7c481803f4f66f50a23d54e397d6e5d143b353e2b257fab0c6fd39341cbf5ee0"
+hash = "9e59832800e5117bc24230349502bac54a16c3aa79096def201ad56e63a355b1"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "2e000c87d73bf449e1729eac606e936546659b0052ac87f8635b6c1853b31fb7"
+hash = "af88e15991291408d76c06aef16d7dcd44df8dba42968d25e2639a83e52f4b96"
 metafile = true
 
 [[files]]
@@ -1260,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "a27662c660bf586fae79e9f5c27eb9aa98e1bd86e9761e22ccc04d47f6d38377"
+hash = "6f47fb033d1ad7ee12d34ee590974213595745b74100ff47a6d4d75a6f231bdc"
 metafile = true
 
 [[files]]
