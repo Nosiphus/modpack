@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-power-array-server.toml"
-hash = "f227786a108b8c76dbc12c20a63067900295c4bd5e67a4a1519aa03b2c918ff9"
+hash = "1e07415035ba486ece95fdef70ff01bd15d2013df98117784b6f2287f1d7d9e5"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-power-core-server.toml"
-hash = "ffe34752f008d606cd69d3c350b862adbf7fe63e65db5072523b34fecaa641e9"
+hash = "6b4d2479c4093ac8ad0cb582ae306370aa99325233e5b97340449e7ce1a2b6dd"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-power-lighting-server.toml"
-hash = "7ebd2465748caee6cccd5f0f66b209700fc7fb87713206f0d973080c26642e0d"
+hash = "f26778aa33af5cab4fa66a02ee66cc3f0ef6d5fa17d5208035e42e790fae91d3"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-power-logic-server.toml"
-hash = "d83af46ebb25fe089a13d5be4e93269ecdcb84a8db6ccb0dea087730853c5c3a"
+hash = "84ff9ff0bb3b4cb8ed96564a68b514bbaf2e3e24ad85862f18450b56577eeb64"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/red-power-wiring-server.toml"
-hash = "8eb583e17f4d271f2268b0f5d0f96b6379947f10f64dadca44c8ff76fa969dd6"
+hash = "108d73de51f14c8bb19abce9c1048514f7036b3b0f70c716b1ff743485d0c8cb"
 metafile = true
 
 [[files]]

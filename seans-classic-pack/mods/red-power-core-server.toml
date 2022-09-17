@@ -1,6 +1,6 @@
 name = "RedPower Core"
 filename = "RedPowerCore-Server-1.7.1.zip"
-side = "client"
+side = "server"
 
 [download]
 url = "https://github.com/Nosiphus/legacy-mods/raw/main/red-power/b1.7.3/RedPowerCore-Server-1.7.1.zip"
