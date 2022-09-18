@@ -390,7 +390,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "9e59832800e5117bc24230349502bac54a16c3aa79096def201ad56e63a355b1"
+hash = "40d2e6a4e32fdb72c37820201aae6c8a84c7f91cab8796cd5973e67a4a797ae9"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -815,12 +815,12 @@ metafile = true
 
 [[files]]
 file = "mods/charm.pw.toml"
-hash = "523c1d4a80096f87e447fadf484df29701ac260f5e62951893437bda2502749d"
+hash = "bf66300eaa5d8afb2633c0cac8682678600e88f6f762cf3e6791322c04fe6974"
 metafile = true
 
 [[files]]
 file = "mods/charmonium.pw.toml"
-hash = "6b262ef4a5b0ebeb3f4bc40122511f26b912d869ab41d578510982842f140590"
+hash = "ccc10f99cb19427bbe111efeecce5c2934a02d4294b2fedc3ef1e7fdc60771d3"
 metafile = true
 
 [[files]]
@@ -1205,12 +1205,12 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "e63228fdadc03ceaac771202e588fbf174bc0d47d5f20de863a5b8a5d233058a"
+hash = "3b3f8dad7310746ff9a80092827faf48d284121c54399504be46c0da9d9ca508"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0d1ba697a2d67945e1664b33e7980954e3e9d512f8718851d1c137639b267458"
+hash = "7d80c93debb1904c979cbd4f7346c40878d4b60b641833edb3d44dfbb0909745"
 metafile = true
 
 [[files]]

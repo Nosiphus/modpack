@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "ccfc889cad3bd21a1b42751b20f0482cb5e571d7ab7afc4e5a65e4a6d0b521b3"
+hash = "599132c2b39b232ba1d8719cabcfd0288f249dd9f4980931bfa6b472d0f320d9"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1289,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/lumy-skin-patch.toml"
-hash = "af0e02b82d975cb5f7ce16b9ace7590e5f3f2d5bf4d4229f33a3ac901afa8932"
+hash = "558f1fb3a26be6d190b181c3d5b0da595ead1b23f792b7244cac2504d68d6701"
 metafile = true
 
 [[files]]

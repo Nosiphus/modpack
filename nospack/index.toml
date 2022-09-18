@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/lumy-skin-patch.toml"
-hash = "af0e02b82d975cb5f7ce16b9ace7590e5f3f2d5bf4d4229f33a3ac901afa8932"
+hash = "558f1fb3a26be6d190b181c3d5b0da595ead1b23f792b7244cac2504d68d6701"
 metafile = true
 
 [[files]]

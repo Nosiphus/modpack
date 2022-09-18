@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "c161c4446defecd6e58564a97e81c2535890eab5e7b76f08b0f2101781d43f99"
+hash = "a61c6ad5400d7590baeb7d7873cbcf1c2434f39c896bc0b1f52d546ecd0b4b17"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.toml"
-hash = "74f8def6d7450b838727c52206ad90d2813325fef2796185aea4d13c980795a3"
+hash = "c61de336f3aaaa0d155163b5390ccf07b78180a85ec1d43868e8c4fdff20054f"
 metafile = true
 
 [[files]]

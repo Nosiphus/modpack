@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "1870040af63c5872ddafc6836779e019ec155d1054afe1ca714105fb1956dadf"
+hash = "35d1b3605aa0589184db2c6a29c0e95e05e143f73344152168356b7bfc63fd8b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "4a3143688b72f11d7ce289b6a2a5c89bac561f9a0eca5324d2d08f60b51e252f"
+hash = "8d667948726db0df12a25c12a0df539954ca93fba9e7529d857b8b7c84d9b87d"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "02c963702bb1aa871be6ee37781dd86ed6ef2ab242e25df9aa07b997ec41df67"
+hash = "1bf607e30035f5048850d65756e970f8c6b2e37d4eeda5d892c0bf0e471f2824"
 metafile = true
 
 [[files]]
@@ -557,12 +557,12 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-storage.pw.toml"
-hash = "da8abd8df3bd3630713b8fe746b1f04ee8803e4922ec49e14fc2d2bf5d4ffb8b"
+hash = "4d245ab8324ad0f4d7e6306d256303a5257f43aa672d701825f6e3cab6e97423"
 metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "cac61c6823a8177b54fd222cc5f63fe3a92971a2e22baa0bf94d780d60f11371"
+hash = "ebdaefc8673116ca127e1d6a43682b76f9d5e7a16db4885386dcdb3ca781c47d"
 metafile = true
 
 [[files]]
