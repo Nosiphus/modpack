@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "patch-server-jar-with-this/servermods.toml"
-hash = "76a65f49274367f8df3217b736e4c02e5c9ef451a6f75ded41ffff0ff069fc28"
+hash = "c353a16e4611ae3d5e4566323d3077847b424494e9b60205362ddd16224a3b61"
 metafile = true
 
 [[files]]
