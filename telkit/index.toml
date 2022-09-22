@@ -563,7 +563,7 @@ hash = "8f46833caa31f23f2e02c9389cb19a0942945501d822eca3a63384d377c78823"
 
 [[files]]
 file = "config/Mekanism.cfg"
-hash = "137fcfe6964247878140550faed61273e939ccb32ad2e003c66561ec10762c25"
+hash = "8ce11ce548317f6dec29c89205b43f5c6a9a4971f3befe5b1b4ac8bd86991a92"
 
 [[files]]
 file = "config/MorePlayerModels.cfg"
@@ -1313,8 +1313,18 @@ hash = "8bf77391c131bd77b22a02326b7ce0eafcb49e1a0efa09b22721b19eae77f91d"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-community-edition.toml"
-hash = "94d36dae7e20aa992b4045742196b40390f7b90c0337d50979793012a97c4fbf"
+file = "mods/mekanism-generators.pw.toml"
+hash = "5f5992c2b4eb188270c10ea48f7e0eb5fa5a5a5bec074eabbf56cff5288350ac"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "23f23a89b24ad8b5d3369fd5853c0ce70d60008272c879cc4edfc6d8817616cf"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "5ee90de742eb3fe586a9f31132b32af4fc86c51c768a7ab5105e4adc13e0f4c5"
 metafile = true
 
 [[files]]
