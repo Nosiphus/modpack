@@ -1,0 +1,13 @@
+name = "bspkrsCore"
+filename = "[1.7.10]bspkrsCore-universal-6.16.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "2933016008"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2227503
+project-id = 59218

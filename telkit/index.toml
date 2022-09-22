@@ -583,7 +583,7 @@ hash = "3d0a03a5cf2f055d4fa3e083f234cd9d44872e461f2eaa8ea67707440258dc29"
 
 [[files]]
 file = "config/MrTJPCore.cfg"
-hash = "b08ce6882a21a2ec535dbcf476e42965dddcd97683ff597e4697706fcd38783a"
+hash = "68305b9217f7ec04cd1e99a427b3375e55546cb9db0f101fc03375112d1ace76"
 
 [[files]]
 file = "config/NEI/client.cfg"
@@ -679,7 +679,7 @@ hash = "886b541eaaf980221ce26016471e92714a17dda760625141788ebe6719ae1c7c"
 
 [[files]]
 file = "config/ProjectRed.cfg"
-hash = "e26afe2f0cfbf4cb1130eb5a90d8df38107fea60752b17e8ff395d7f6074a75f"
+hash = "d877cc7367dfe7ed5183e030f85e6e10ed7b8f8f81d3eb72d37124124127f4a8"
 
 [[files]]
 file = "config/RadixCore.cfg"
@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "599132c2b39b232ba1d8719cabcfd0288f249dd9f4980931bfa6b472d0f320d9"
+hash = "e0815aa742dad5bb3a11b40efaab381c5aa3d31bcc6eff75a138d4a0c62f5492"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1043,8 +1043,18 @@ hash = "ebc21a7a24ce864cd0d105077213491b5a01a641c0d9cf03510c0a50d1377d0a"
 metafile = true
 
 [[files]]
-file = "mods/1.7.10/forge-multi-part.toml"
-hash = "2fc6862cfb1e089d8a9109252f7de51ab4f2faa98346676cc20513005e05a15f"
+file = "mods/1.7.10/bspkrscore.pw.toml"
+hash = "f06a4634fef9fc054ff79ec67110650a5e8e38bf537a218a24198c5e19c025d4"
+metafile = true
+
+[[files]]
+file = "mods/1.7.10/codechickenlib.toml"
+hash = "e5523908b0aab06a733cd32a5d90fa0947eeb36239775d17b3f0c4720bcd24a2"
+metafile = true
+
+[[files]]
+file = "mods/1.7.10/forge-multipart.toml"
+hash = "3b6e1238e4f62dba86243abe70500096783fd96cd020d7b7be091a8a6a8fc652"
 metafile = true
 
 [[files]]
@@ -1303,18 +1313,8 @@ hash = "8bf77391c131bd77b22a02326b7ce0eafcb49e1a0efa09b22721b19eae77f91d"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-generators.toml"
-hash = "e60f141453655647972c708d7fc534c95823944b866b7bcd21e8f6b28261fa2e"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-tools.toml"
-hash = "d98060e7d0a6690a2da65ead6d45a9188fcf2169b07b6a547921855a0e19208d"
-metafile = true
-
-[[files]]
-file = "mods/mekanism.toml"
-hash = "0420055418a751ba30d02a629cf822e0fa38cb71a585c65ecd1ba8b468b4415d"
+file = "mods/mekanism-community-edition.toml"
+hash = "94d36dae7e20aa992b4045742196b40390f7b90c0337d50979793012a97c4fbf"
 metafile = true
 
 [[files]]

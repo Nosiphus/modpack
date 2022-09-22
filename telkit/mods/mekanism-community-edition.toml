@@ -1,0 +1,8 @@
+name = "Mekanism Community Edition"
+filename = "Mekanism-1.7.10-Community-Edition-1.7.10-9.10.16-ALL.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/mekanism/1.7.10/Mekanism-1.7.10-Community-Edition-1.7.10-9.10.16-ALL.jar"
+hash-format = "sha1"
+hash = "d107561ada2ae8dd7c81f88c1b4c68cb32e98a95"
