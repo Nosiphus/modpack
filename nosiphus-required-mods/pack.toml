@@ -1,12 +1,12 @@
 name = "Nosiphus Required Mods"
 author = "Nosiphus"
-version = "2022.09.18"
+version = "2022.09.22"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8c2022b27c81a409f8768d365f0c7e42a77c0478f7674e3e35f5c46cd18992c1"
+hash = "f25f65ec3224be4d38a836b4a546b1293350e1f6195b3670426499fbcf9392b0"
 
 [versions]
 forge = "7.8.1.738"

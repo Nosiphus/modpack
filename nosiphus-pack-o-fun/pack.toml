@@ -1,12 +1,12 @@
 name = "nosiphus-pack-o-fun"
 author = "Nosiphus"
-version = "2022.09.18"
+version = "2022.09.22"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d6d43096f552a7b7372b8989f80bd366db4b56a6022a0bdfe95ab877478290bc"
+hash = "c02bb4b6283c2e685cc06c0e9ae5eee98d0565b6e8e5bd26e17cfb3df93fb4ad"
 
 [versions]
 forge = "6.6.2.534"

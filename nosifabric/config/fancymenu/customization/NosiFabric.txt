@@ -205,7 +205,7 @@ customization {
   y = -11
   scale = 1.0
   alignment = left
-  value = NosiFabric: Wednesday, September 21, 2022
+  value = NosiFabric: Thursday, September 22, 2022
 }
 
 customization {
