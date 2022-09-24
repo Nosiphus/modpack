@@ -390,7 +390,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "af5dfff1e1cb381429b3d93abc1487367f79f14d6d39d81ad4350e0f50d466d1"
+hash = "7689088ad5fb73ca85f299b82ac34c932c38ff911b06c68c8a6d1b752878e710"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -734,6 +734,11 @@ hash = "dcd5eea266324825b7f4458074d3eef990ad3c61cfa8631dcf26a090ff8cde28"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "a72f0d59b17a60fb0cc591c58a12cc5f20cf32082d6ee54b4848e271fb7a99ed"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "faa9fb2f7da70f11f07d3dd2aca2e96ca82959986ba3aea9af2ba3b01e83f2f1"
 metafile = true
@@ -746,6 +751,11 @@ metafile = true
 [[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "b265c77ee1b136362d82b8662a5045d57dcf5b21c9503b347122057d17dc1830"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "fd52dfbccb62f859afea33b145cf78fed2e547cc215f816464c536f77a4dbe47"
 metafile = true
 
 [[files]]
@@ -914,8 +924,18 @@ hash = "a8862e01975fd69b3b2f0539951ac4fa885cd21231b25c935b2eaea8dd7d191c"
 metafile = true
 
 [[files]]
+file = "mods/exlines-snorkel-mod.pw.toml"
+hash = "86f9bfc366ac971d7a319751372a94d45332af980420f6eb00d1a495531598a2"
+metafile = true
+
+[[files]]
 file = "mods/expanded-storage.pw.toml"
 hash = "246894bbd6a715e9f239dc93e3228ec224d4d4b75501a067acddb28c384a600f"
+metafile = true
+
+[[files]]
+file = "mods/extra-generators.pw.toml"
+hash = "279f1e9bd40a7606bba42433d114f2de3bbb627a4c3a25acd5ef930300d1a44f"
 metafile = true
 
 [[files]]
@@ -976,6 +996,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/industrial-revolution.pw.toml"
+hash = "cc0fb9645a6bb6ceaa6e279e55d47a8b1628364d2f24aa551bd72b74b92c72af"
 metafile = true
 
 [[files]]
@@ -1094,6 +1119,11 @@ hash = "257b70d6045a6643da7db2b077aa2643facf1d67819322345587dc5d72efe8c8"
 metafile = true
 
 [[files]]
+file = "mods/modern-dynamics.pw.toml"
+hash = "c2f97f77d10e0bcb2d3ab8fa90689a4e83a835ca49192e14c49273e49384729e"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "a70764358501f7bb3505df73ca79f46251e1d0144287eae55c8cf49fd27492c8"
 metafile = true
@@ -1126,6 +1156,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "75439d3e2f1eecb4805b414dd4564365e9294e1022e244dff8a7fc0f048666e1"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "4314e8c42c43f127d78498236549bc7a1c8bf952830f13e8298778a98c88363f"
 metafile = true
 
 [[files]]
@@ -1170,7 +1205,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "0a0e26d9314d35a02434af8b2f6836ef2e5d6d39a90535a4371892e3d0e1c842"
+hash = "bd67a5e30759ca434a2b18cc73ebd501c5bc5d7314afa4f2f47e6abea8987f3c"
 metafile = true
 
 [[files]]
@@ -1210,7 +1245,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3e4e5c87cede528c3f910396a48eb5f541f56e6f7f45a6dbdd535e6384f4cf75"
+hash = "bc03532178400b73f4e934ca17510d8d1aa59e3e40907e2ec975dc37ec61c86a"
+metafile = true
+
+[[files]]
+file = "mods/sync-fabric.pw.toml"
+hash = "29328041c055a8ed866e0af57c3269ecf4be986cb0769a2975191a38fa98dc35"
 metafile = true
 
 [[files]]

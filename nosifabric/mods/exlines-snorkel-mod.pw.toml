@@ -1,0 +1,13 @@
+name = "Exline's Snorkel Mod"
+filename = "snorkelmod-fabric-1.19-v1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74d2829c48e30d26f162579bab2ac8c718296fbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3825295
+project-id = 500456
