@@ -5,6 +5,10 @@ file = "config/Adorn.json5"
 hash = "307414275390a02051b42622dbfcd04f40eda0cdd885b64f5a9180bb852bca5a"
 
 [[files]]
+file = "config/NoChatReports.json"
+hash = "6b31dab36910d585153757b7bcd4b3affb5cd83a67167cce251658c8b67354da"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "09439e72c5caf4289ee24ba39167d63f6c7599fb01131bbc671c89535107c396"
 
@@ -333,6 +337,10 @@ file = "config/cullleaves.json"
 hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
 
 [[files]]
+file = "config/de/mari_023/ae2wtlib.json5"
+hash = "7e11a218f0d09f7c0a0d8c52b17abf7c0614173efa69adc17576f5b60ead7853"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "aad3ef3bba70d2007aa66454de43059eda79a488151f61b33d9262e563288751"
 
@@ -367,6 +375,10 @@ hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
 [[files]]
 file = "config/expandedstorage.json"
 hash = "8587f97a85e14ffab6233b7d6efed398935b82dbe32e71a79ff7d45dd130d6e7"
+
+[[files]]
+file = "config/extragenerators.json"
+hash = "52b343557298e5ef9d34ce3125fbc8cba9e79ff3dd3cf659f316329ab2ef29c0"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -463,6 +475,34 @@ hash = "2b5ca059caf9520368a191005b3bba058fb0f6870f0fdc99edde5518cf2965f4"
 [[files]]
 file = "config/indium-renderer.properties"
 hash = "c228afc9452be8e36a9a1e16d8716e0de6956cf2ceb3499bfbcfba59f3347998"
+
+[[files]]
+file = "config/indrev/cables.json"
+hash = "9183a2eadef32624ee9a8ed193ac1b61d3b2ce0511f6e0c182f3a2d9bb170a83"
+
+[[files]]
+file = "config/indrev/generators.json"
+hash = "7e76e3fd7ff40190b24aa76efdea7afc315a87e426ac8d7ce0e0f42a1f4e52c6"
+
+[[files]]
+file = "config/indrev/hud.json"
+hash = "273c14e99b9b938007693c86b53cd7d697080b38705b1962cfe38104656bcf2d"
+
+[[files]]
+file = "config/indrev/machines.json"
+hash = "6fbf00f4491111f1be29b4a6dbe172aa90df35cadd5d5ce2cf350bd10e11cbe7"
+
+[[files]]
+file = "config/indrev/mining_rig_config.json"
+hash = "c9a0a12c14e6d0b9c88d9ed8aa5586ee41435408d814dbf081ae207484b1dc5b"
+
+[[files]]
+file = "config/indrev/oregen.json"
+hash = "24967e348a997f897f49757afec9ccdb4c0ae972af80e7cb20ad8a6719eed9ac"
+
+[[files]]
+file = "config/indrev/upgrades.json"
+hash = "ebbb00fcd5f6a560a60c43c86b71a49a035f154799b6135c1627f14d5f5f72b5"
 
 [[files]]
 file = "config/iris.properties"
@@ -597,8 +637,16 @@ file = "config/seasons.json"
 hash = "0c8757883ef09e99cd43302e4eb5e246db1bfd4b73e5ef418110a7ce6b227b8e"
 
 [[files]]
+file = "config/sit.json5"
+hash = "cc4b5068f506b9642fc2fb325a048f23fa92285b3a676b39d47c11285cd62ee7"
+
+[[files]]
 file = "config/skinlayers.json"
 hash = "55e1e98eae07027f2e91e6ba4f6cfd9973e61461a2bb3e30fb58e0648a55275c"
+
+[[files]]
+file = "config/smart_recipes.properties"
+hash = "fa64b513ed634e1e1b26b0b37594b901c382c51b207a66103f2b1a6e99b10908"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -627,6 +675,22 @@ hash = "81dcfcebfc7fe52b853dca9517b6090bd2dd87b5548a13d64c3d62db2295566b"
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "d4f3f6d677c4db72a63536d3440e8327ce86ba1eeff38b4b45be48e4d4274830"
+
+[[files]]
+file = "config/supplementaries-client.json"
+hash = "75f03f3f2347369f778c4b7ddcc6d58507b7cdda935fcd164a342033646c6d1b"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "1ae48a12b7f4bb47c8b46d6e877d0eba74b580581291940d448b14a02d5316f1"
+
+[[files]]
+file = "config/supplementaries-registry.json"
+hash = "8a9ed8291a912beccd8916052533cdd66bf7aca6d28a1a6785234d03d132f64b"
+
+[[files]]
+file = "config/sync.json"
+hash = "4cb2d24cd2c9767586b9fa9a44c0b0593e7d10b2879935ffe472ea983b74f2b9"
 
 [[files]]
 file = "config/techreborn/generators.json"
