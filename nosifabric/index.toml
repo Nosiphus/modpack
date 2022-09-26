@@ -390,7 +390,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "7689088ad5fb73ca85f299b82ac34c932c38ff911b06c68c8a6d1b752878e710"
+hash = "a4bf50e637053a4ba8a8e7229339b8b115596841ddf37a7e377f0391d453a674"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -940,7 +940,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "049b71ecdbd76be84b4b2bd362aeb561e3d3c8b6415ec8726182631c3ef671e0"
+hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
 metafile = true
 
 [[files]]
@@ -1140,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "ebc51dded184382bffbe4b7aeec50c2817f440851926d8fb2aac848ad369bedb"
+hash = "90bac3dfe0536bb6f01ef8101f5b2c882074306455b0492f471a89125a25191f"
 metafile = true
 
 [[files]]
@@ -1200,7 +1200,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "bd67a5e30759ca434a2b18cc73ebd501c5bc5d7314afa4f2f47e6abea8987f3c"
+hash = "375f0f0b49617d0dc8b9c07a15e299355ebd0216edcc4d683ba75d99f671e278"
 metafile = true
 
 [[files]]
@@ -1240,7 +1240,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "bc03532178400b73f4e934ca17510d8d1aa59e3e40907e2ec975dc37ec61c86a"
+hash = "9f502239a651d842fe0caeb5a7f8478efdf1f6bb84ea47a105860871355c4397"
 metafile = true
 
 [[files]]
@@ -1260,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "44d750ad4be0b1583fa3b16b6596b3eaa54cb2e970ef93a096a48ebfdf08c970"
+hash = "6930c6e003c3c392df286be54f4d6e2aa0ff719abbf1be6aab9515bb620ac84d"
 metafile = true
 
 [[files]]
