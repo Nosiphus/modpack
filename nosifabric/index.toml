@@ -686,7 +686,7 @@ hash = "1ae48a12b7f4bb47c8b46d6e877d0eba74b580581291940d448b14a02d5316f1"
 
 [[files]]
 file = "config/supplementaries-registry.json"
-hash = "8a9ed8291a912beccd8916052533cdd66bf7aca6d28a1a6785234d03d132f64b"
+hash = "43afbdfc7c21aef5b593cf48a3d3fa856be550f221b7ea80728e640f8b34943a"
 
 [[files]]
 file = "config/sync.json"

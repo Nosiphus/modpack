@@ -24,7 +24,7 @@
     "hanging_sign": true,
     "bellows": true,
     "sconce": true,
-    "sconce_green": false,
+    "sconce_green": true,
     "cage": true,
     "item_shelf": true,
     "sconce_lever": true,
