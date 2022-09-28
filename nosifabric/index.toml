@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "0967b5cae332ed445bba192e92ad3229424a011d3abe588e893bd673e30b9dd4"
+hash = "f2705937f3e65fbc0798a30cadb9de0dbece5d4b2f4f05b7e98bb0a16730d174"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -810,6 +810,11 @@ metafile = true
 [[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "b265c77ee1b136362d82b8662a5045d57dcf5b21c9503b347122057d17dc1830"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
 
 [[files]]
@@ -1244,7 +1249,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "375f0f0b49617d0dc8b9c07a15e299355ebd0216edcc4d683ba75d99f671e278"
+hash = "59425a808037a8e66f39d063183bec0f9337c3b27bcf09404dada731d4cd83b9"
 metafile = true
 
 [[files]]
@@ -1264,7 +1269,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "82585384e2026e809e34368ac23e9a1e11918aa449529ce79903c03eb4cbbc2e"
+hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
 metafile = true
 
 [[files]]
