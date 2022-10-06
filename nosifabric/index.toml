@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "f3c9a63c79ff5e26b1a87eddec78350333f4f9eeed136586c5b2b7907799c99b"
+hash = "a990b685dcc70f7043e30f019dd6069da2641df567a510736a4e5e30d847033e"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -1109,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "4af316eca31ccb03a3b314b7801bb89bf3d76eaf6321c23f5338cf365e6b65e5"
+hash = "966a9fcb0a3830d292e24ce61fbbb4c9f7546b1153a0b8a44bc7efc83b0bd42e"
 metafile = true
 
 [[files]]
@@ -1194,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "60afa14f60b3a0606d36fd5f3646089e39387c0fe154c99e5e2757d534b2b3a2"
+hash = "eab828e2cd4d3e401958021f9c80c4bff781b84bbbc4f1052f941770eef3578a"
 metafile = true
 
 [[files]]
@@ -1254,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "d1c6eba4da5cb3fcdaec39f197551b9900e52f4e949102371d761b1778daefe8"
+hash = "161efee899a15b78fe45633697840bf677a491c6fd97d7b8a25382c74b6d5b0a"
 metafile = true
 
 [[files]]
@@ -1304,7 +1304,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "6930c6e003c3c392df286be54f4d6e2aa0ff719abbf1be6aab9515bb620ac84d"
+hash = "2c4158c58b0de6c6e72d57477345339817918b729106912893fb6203059a5905"
 metafile = true
 
 [[files]]

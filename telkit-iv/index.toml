@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "1d546d63b1cd2c84869b238954f06adb8ae8bab873f6bf3fcb4b3b6d10ca8c9c"
+hash = "52df9fae9f704ac3dcb99b83210200bd23318128fb1430ab9e3d93b0f6c9f5ea"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "5fe98822fbe3adef3dcdac8343ca57178cd80b29088f3933a203ec86416ac8c7"
+hash = "b5c534d803db0fb39c5389b542b499529d8c18f7bb8881e6c3acf23dbb454f7c"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "4f2b3710d7b300d5caefb30fb1ff8bbd89cab1b180c4a5fd2292dd6bc366e20c"
+hash = "ea2263383ce561da37933d0b9cbfe48b677d0ac4d817f701e71223e0c1944baf"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "d5ef567b3e6ca88702fb41d1e1e24cf2b0e1d2e3653bfbba090bf20d4b5240bf"
+hash = "a5c7b5d56e00f3bbaf5e44de55978b76d2066f6c5f76accfa51737b6940c61d0"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "248e647c7ae4d675a108f242e556a769fd2571f19695349dec2501e9e4bff15f"
+hash = "1c176e4c68985734a192c0ea0451973dfc261f9c8cd416ec4c12a42a3788a462"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "6bc2b604c4c33875aabd2b64e92903e5d13417b436bcc3b55c82d982d3d1f365"
+hash = "1cf9de7c4f23a426b8cfadac340304e031e3043ad564a78caac685f2f521c559"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "94ccf4f0eda91024b57bbc01c82fd641bf345768479a489f54f07381ec72ccf5"
+hash = "10994e17859a987a0deac81bd611e84ad3e53a87f23892dabb92b365ec79fbea"
 metafile = true
 
 [[files]]
