@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "a990b685dcc70f7043e30f019dd6069da2641df567a510736a4e5e30d847033e"
+hash = "d2667023830ec2ccbc69fb3c91e133e216adaf6e5f24df05022abec5e518f91a"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -784,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedreborn.pw.toml"
-hash = "d17960357db7960b1e2916c17a400b8aa3e0ea1b9e393b83bec41656c738fb28"
+hash = "150117e21f257fbfefc6bf21f2ab138379b3668e3b433d90012071985d30a77d"
 metafile = true
 
 [[files]]
@@ -794,7 +794,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "65633cf582beb21efc9d20f49e0684cb1ad2d6e25577b80ce61f9c8b5ce3a344"
+hash = "a3c7b01e4ea4789a5059097edc731458afd3c7ddd1ea7f8c95e594d256232e0d"
 metafile = true
 
 [[files]]
@@ -829,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "fada6c5111be510ce9dcda58588edd0d694e11bc040fcc2afe0586e8560abb49"
+hash = "b119ad0ab00cff9062b29233e4f452d21f9ce690b53426e235670d54d84ac812"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
 
 [[files]]
@@ -1194,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "eab828e2cd4d3e401958021f9c80c4bff781b84bbbc4f1052f941770eef3578a"
+hash = "3d4e2da11e8a0abf3ca6109630934a7fa400ed49cd6a871b2862abf252f9ada7"
 metafile = true
 
 [[files]]
@@ -1204,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "75439d3e2f1eecb4805b414dd4564365e9294e1022e244dff8a7fc0f048666e1"
+hash = "fba80acebfe3e74f4f755877b467d3a7f2c905629d2bb94e51af1b4080993124"
 metafile = true
 
 [[files]]
@@ -1289,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "204c5911b0c660b4c3908951c2d906f5a74a8035f3fcf3c3dbb3278688a32a35"
+hash = "e37f8909de75ed9b8db2f554ecc00977db8963a5f1fc2a4527d349b288d2683f"
 metafile = true
 
 [[files]]
