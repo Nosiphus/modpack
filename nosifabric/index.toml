@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "daf640fbfc1a793d3c4629fcc47786b5e757d623693bcb2c10816d6f24db2db6"
+hash = "a51c5c7deca606cd2a05ee0a909d3fa8edbb8303661311e165b96848751ccb5e"
 metafile = true
 
 [[files]]
