@@ -1158,6 +1158,11 @@ hash = "5cbe1ca9ef81b228eccf099e10bd03bddd5e3776d3052831f0d1970e9415c154"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "6ee2954aee9ff5e39bf6ae8ab7142d2665b85d9c1690d63c8e2ed8e483bd1524"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "13400f582d2974dc86e75cdd9c5e7bea7104050e086b06559ddcc741bcabbc4b"
 metafile = true
