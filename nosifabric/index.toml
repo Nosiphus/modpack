@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "9be0aa48e679e4312658eb27cd640f8d9db196573e695f8708972949531f9611"
+hash = "003734e57176008876ac59bad22903ffc00f744a0d9136120b7598be5575cc06"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+hash = "e65f669f804c27cdcd14d511b39caa2aefd24f9da23781214c6ab60ff10f604e"
 metafile = true
 
 [[files]]
@@ -1204,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "fba80acebfe3e74f4f755877b467d3a7f2c905629d2bb94e51af1b4080993124"
+hash = "9e538cf089ca697fdd2e932f36857651d392e6f00debf8cce24508f3ce744b63"
 metafile = true
 
 [[files]]
@@ -1254,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "161efee899a15b78fe45633697840bf677a491c6fd97d7b8a25382c74b6d5b0a"
+hash = "6941d9b9463c534a2c1af84b3ffa324a38134975dabec11f1a89483c30b52fa4"
 metafile = true
 
 [[files]]
