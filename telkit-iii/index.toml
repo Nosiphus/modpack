@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "d7bc90ba995c10c8359c54fa5ca7631a89afb0e886d257c460517839c2a57f27"
+hash = "f9f6b932746f98e18cd2eff6f499141992b873fdb4f1f52d42d71f1ae22f1814"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.toml"
-hash = "b391d18ba730396efc0eadb7609cb65711f575d8db1bf0397fc9bec59d74412e"
+hash = "1e95c8b5e4154d24345875c263488989d8222e24065ab21cde7aaf145e750e2b"
 metafile = true
 
 [[files]]
@@ -717,7 +717,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastworkbench.toml"
-hash = "e202d6545465b2f4793a310c62002f2681c31cc92f033aa9178c1868b8fe5f04"
+hash = "fb20bbe40ab9e760c5c60e8ddda08a525ed905aca4a45da4766e70a578a74901"
 metafile = true
 
 [[files]]
@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.toml"
-hash = "54eabff84c02536691e09e8b5b48d2ae1efbbfb9bf99a6e0b263f9126dff434a"
+hash = "63431de600b76343df1b5157d1e4255ea33ad5cba0c473cf0dd1dd0e8b69c894"
 metafile = true
 
 [[files]]
@@ -1057,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.toml"
-hash = "bf125bb464d269ed818886ebc90cbf78bb8eb5aeaeab441d2c58f736993addb0"
+hash = "068c5ac6f7be4330d30b6e298c94db4f28b084d854185b389370b6051b8b204b"
 metafile = true
 
 [[files]]
