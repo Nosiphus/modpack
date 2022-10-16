@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "003734e57176008876ac59bad22903ffc00f744a0d9136120b7598be5575cc06"
+hash = "cf39d621c5d579bb2c34c713a063d8873844e74409ffc7d4409c7f338c956812"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -794,7 +794,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "a3c7b01e4ea4789a5059097edc731458afd3c7ddd1ea7f8c95e594d256232e0d"
+hash = "2c341b68e41f5049e613a200cf8da92c724911b2184ba86ae47536004bc4fbbb"
 metafile = true
 
 [[files]]
@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "a51c5c7deca606cd2a05ee0a909d3fa8edbb8303661311e165b96848751ccb5e"
+hash = "5a9808e1125ab6e1bd3b5b347b26342c8fdb4845a2b6a494bcef21d4881504e6"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
+hash = "987b2d4cbd859299f146c1f83602db2f1b36e286091635924127b679a371fbb9"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
+hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
 metafile = true
 
 [[files]]
@@ -1139,7 +1139,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "fa0e5694ac99ba9aac9d00d7f327aafb00a7cdb470a93991ab8233b40987c5a7"
+hash = "32746a6c2808791d1fbcb95883ee6cb001fc6c536c9dd0146abc821167bbb651"
 metafile = true
 
 [[files]]
@@ -1259,7 +1259,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "6941d9b9463c534a2c1af84b3ffa324a38134975dabec11f1a89483c30b52fa4"
+hash = "70ffdf3e1475ecb01b8aece407d4ef8242b4c0ce4ac439c826790affa53b6ecd"
 metafile = true
 
 [[files]]
@@ -1289,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "fab2a06b136eb37c24269381681619d740da6dc3c0eae11e86c4431e18e83bb8"
+hash = "bd6e0c6fed890533739f8aada0d6ea3baba414001d829e6776bbad536f63a04d"
 metafile = true
 
 [[files]]
@@ -1339,7 +1339,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "048e778053ae0696e7aef8f27a8e8df2647dee02e4f85eda9b7d6149f6360fde"
+hash = "c1a5721b2ff6389a10c8f2ab592ef8836ff6b60a44e6a95f9140510962d04574"
 metafile = true
 
 [[files]]
@@ -1349,7 +1349,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "2ef6bd2d5beb568877c9e9d379f59d7ce6fe0bff3bae958a1c65d17cce9a09fd"
+hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
 metafile = true
 
 [[files]]
