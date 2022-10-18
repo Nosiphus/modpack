@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "cf39d621c5d579bb2c34c713a063d8873844e74409ffc7d4409c7f338c956812"
+hash = "a9d818942d29cbf506e34a49e1cd7625b0598ce11456c64b0923a8aa9cc1cacd"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "953afe5beeab564842cdd9d76cf7e0c153593f44d310d742ad36b09d09f0f74f"
+hash = "fa7e3e35b3bd888d3185a99d448504f345a608d77343838693804f0345c9d137"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "987b2d4cbd859299f146c1f83602db2f1b36e286091635924127b679a371fbb9"
+hash = "1abae29ea8e25ff332f6dc40f6fb680cdf319896969155b3af5022cb344f257f"
 metafile = true
 
 [[files]]
@@ -1029,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "01ccb209d26f1d9d44f34fd26337d8a527a7b3f418dc8eff5bf7edc6d85c4b85"
+hash = "21545e8c85f02f85b50486258e12f0b9364b288ea1a424c42e0406e61157f40e"
 metafile = true
 
 [[files]]
@@ -1064,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete-fabric.pw.toml"
-hash = "e00a089b06ff8b5dab5409a4c973a2c892e971edbea4a2a3c9c3cf05ea2f4496"
+hash = "44b4a8f68281daab2f894cefb04350a204b8904700652993f3d39ba0ab9eab3f"
 metafile = true
 
 [[files]]
@@ -1169,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "a4276086dce8f714d9e128e5e04fb58017d952c6d987b66e0562d4c11c6ec1d0"
+hash = "d9e089970d022204957474de61573269ae9c5d5039653823fad6edc4ea253332"
 metafile = true
 
 [[files]]
