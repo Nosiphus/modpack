@@ -1,5 +1,5 @@
 #Sun Aug 16 20:29:12 CDT 2020
-shaderPack=projectLUMA.zip
+shaderPack=ComplementaryShaders_v4.6-TII.zip
 antialiasingLevel=0
 normalMapEnabled=true
 specularMapEnabled=true
