@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "475b8145891b5d17d5fd428af748c5f3083c42295e9a6289b84dae5a2ff84a60"
+hash = "e877d7060090fd61aeab24ca298badb352e65f1bb007ff970f944fbba3db92b2"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -704,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/vanillafix.toml"
 hash = "e734ca128c2798e2af22a6127b7d7c61d94a0c07455d31863a8d4b0496fde0c1"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
 metafile = true
 
 [[files]]
