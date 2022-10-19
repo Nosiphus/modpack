@@ -1,0 +1,8 @@
+name = "Complementary Shaders"
+filename = "ComplementaryShaders_v4.6-TII.zip"
+side = "client"
+
+[download]
+url = "https://onedrive.live.com/download?cid=74BEC8DDAEDC9203&resid=74BEC8DDAEDC9203%21174&authkey=AN6I9Qy8zFATD60"
+hash-format = "sha1"
+hash = "53cea77662cc291ae07d5c6397a8981e41e008df"
