@@ -567,6 +567,11 @@ hash = "15e60449f02f854029cee7ba538270ab25bcbb8a13e159b9231307dc0169b949"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
+metafile = true
+
+[[files]]
 file = "mods/redstone-flux.toml"
 hash = "f765ddd60c05f7a8920fed0efbab743f127d382b39f1b2e5a605451eace0cbff"
 metafile = true
@@ -629,6 +634,11 @@ metafile = true
 [[files]]
 file = "mods/surge.toml"
 hash = "fbc80eda6ffc444db4ab316424f5a818d0d6076bd06fc8d72f2f798870cc91d6"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "a54a03942ed382d2d195f63e386c5bff4ef6c521b3b1a3d2a1d8fa4283e2c99b"
 metafile = true
 
 [[files]]
