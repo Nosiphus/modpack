@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "a9d818942d29cbf506e34a49e1cd7625b0598ce11456c64b0923a8aa9cc1cacd"
+hash = "6a94c2012ae83c3c2962751a74ac4deee58318026d012a48cc815b38a6b091c0"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e65f669f804c27cdcd14d511b39caa2aefd24f9da23781214c6ab60ff10f604e"
+hash = "7f4a8312d10e805cce174067450bb7045b55281cf8de37b0bedbf808a7ae6d31"
 metafile = true
 
 [[files]]
@@ -1259,7 +1259,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "70ffdf3e1475ecb01b8aece407d4ef8242b4c0ce4ac439c826790affa53b6ecd"
+hash = "97d6eefa1ca7227ba6f5c02414a98e104c57835c960ec0b34772ab06bbc07e8f"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e37f8909de75ed9b8db2f554ecc00977db8963a5f1fc2a4527d349b288d2683f"
+hash = "2763026e9928a4d84ca10dad4512d2daf00d51e91cf35937fe2e9acc75522a16"
 metafile = true
 
 [[files]]
