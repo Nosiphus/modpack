@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "c30c373aa70509d061358c8fbf58f7ef184e1fc77712409a808c3df5c934582b"
+hash = "8773df3653f067a88b37753c841116f3475123cad6d7ac565e4bc3ecf7ab2d27"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "cfb602539795a282a64da2978ea4a21c2125e983c2d91bc8fcdb917a24eca3c0"
+hash = "f856948554971f6deca3e501bc37d145e8b54ec148a3ed47fe25ac3b1f49057c"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/ceiling-torch.pw.toml"
-hash = "5399931334594de0868e9d49c1a6450f9384b9d1a448f14d42ca3d12374fbf97"
+hash = "faec46d887343a8e6374ef5a77a38c7190618a0f7c4984009688e001f03bb7c3"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "a5c7b5d56e00f3bbaf5e44de55978b76d2066f6c5f76accfa51737b6940c61d0"
+hash = "e53f184214f50e7efbc005421d7e0864af65d0f629b58de0ee22bcc62b6764eb"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "f82ec2191c82952608b6a738b0eb0b3ea2ecc81e6fc6ac47be6b366807b4af5d"
+hash = "3e41f4dd83b01ccc37cc712ea07550a6c017badabdc1fb21ce329e01dcb15e58"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "e02d40b2e87893b2c1ddd66135e56f36fdd9103229b77d94200adf0aa1c5d679"
+hash = "adca9a8315cad534945cd527e355ff96c28052c6fa6a1d1704dcff775e712468"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "8ba8c89d32276e29fc443a99b9654064b7d18270ba8b9c46bcbb66ff773da918"
+hash = "3708d138fcfc8f482eb70c2109af2d2e544a20d9b9aeadd36955e43fd5055d87"
 metafile = true
 
 [[files]]

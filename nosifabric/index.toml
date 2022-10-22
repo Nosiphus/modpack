@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "6a94c2012ae83c3c2962751a74ac4deee58318026d012a48cc815b38a6b091c0"
+hash = "a7978f85ce157fc47ded40d91035cd754e548824c077044a71fb159e2c4123e6"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
+hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
 metafile = true
 
 [[files]]
@@ -1039,7 +1039,7 @@ metafile = true
 
 [[files]]
 file = "mods/frostbytes-slabs-stairs.pw.toml"
-hash = "a9ee90e097faa916e4709650e6d5789e8becdc75a401b0df2ad4962bfec16f0a"
+hash = "9f503e69ab041976434235f2a1d5cfd1b7d7f2d27886c3d43810ba0c1d303df2"
 metafile = true
 
 [[files]]
@@ -1169,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "d9e089970d022204957474de61573269ae9c5d5039653823fad6edc4ea253332"
+hash = "6f30e02e86b254086f76a74fae6b19e2dbac05617e1134d5746d5274f1b033de"
 metafile = true
 
 [[files]]
@@ -1254,12 +1254,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "59425a808037a8e66f39d063183bec0f9337c3b27bcf09404dada731d4cd83b9"
+hash = "001350237bce8df4bf29e36f566199cc8ccb37f2a2b9111c6e043894ab14e9ae"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "97d6eefa1ca7227ba6f5c02414a98e104c57835c960ec0b34772ab06bbc07e8f"
+hash = "1f82bf9366584b5bdf5ca0c37f76127465f3858b4a18a4eb9a185e49774009ea"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2763026e9928a4d84ca10dad4512d2daf00d51e91cf35937fe2e9acc75522a16"
+hash = "b11feb7f2263388015d13fa6db5a8abcb5c864f95c5820d6df10d8b375b2efef"
 metafile = true
 
 [[files]]
@@ -1344,7 +1344,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "f1b822298ccbb96ab43b054811b802080c3160db2168e7c795370779e8bc1b93"
+hash = "bf1922d77e7e4b5667532dd6abd36f5cdff870314247d43a1cf50e9139e18458"
 metafile = true
 
 [[files]]
