@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "23371add68b3e6b682036169c9ee872232b0158f658a30f9f42de1ccfe1764ed"
+hash = "d2eda94eff304cdca6664a39b5fc884c0e56a4513179bd3cad7835229837b997"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "fa7e3e35b3bd888d3185a99d448504f345a608d77343838693804f0345c9d137"
+hash = "08f87a627603118865de8c042b9c57e4396fd74217a4652aa059f965526b087e"
 metafile = true
 
 [[files]]
@@ -1358,5 +1358,5 @@ hash = "52d313a3ed6732daa40359330c1f4228835a3fe62097f997dea50bcae4cab52a"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "81b105e8d435db4ee60b1a7f2dc1a901450b3a288472859e4be3c6d1a7fc0e26"
+hash = "ab489189e1ea3c862fe9bdfbbd6d66ed54c7c84b28ebc015310b810e2c81ea4e"
 metafile = true
