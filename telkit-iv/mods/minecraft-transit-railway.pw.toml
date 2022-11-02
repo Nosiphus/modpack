@@ -1,13 +1,13 @@
 name = "Minecraft Transit Railway"
-filename = "MTR-forge-1.18.2-3.1.5.jar"
+filename = "MTR-forge-1.18.2-3.1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/WpW5bOap/MTR-forge-1.18.2-3.1.5.jar"
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/X3CfuIam/MTR-forge-1.18.2-3.1.6.jar"
 hash-format = "sha1"
-hash = "1826cc8913665a6a68afd52ed162faaeade46645"
+hash = "45c45f2219e93f1d08452e622b691c6bdcfb9872"
 
 [update]
 [update.modrinth]
 mod-id = "XKPAmI6u"
-version = "WpW5bOap"
+version = "X3CfuIam"

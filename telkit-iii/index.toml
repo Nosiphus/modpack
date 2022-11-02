@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "1daeb2b790f3ef233379acff90fc7fc652e8eaf3b8dbd33a2d8ed99b9799e1ab"
+hash = "c00fe4dc1f47693963aa372d4daad11eb190faf82018fe166e6e55e2a75621b3"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "92c7531922ba445ff07b0875ce84de695eb50fe47eda5611b89f76570279200a"
+hash = "aa15177c0ebb689e4a2c8fa62c2a5c1580e80832c75eae167d608e3522101293"
 metafile = true
 
 [[files]]
@@ -697,12 +697,12 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.toml"
-hash = "a1a93e8c6828a398cf285d10ad6ffd6f0d1af0e9ff33f878cbd2afb92c7fce08"
+hash = "9622b6ae33095f2a20a82840a78523004f07f2f3256d6e9860bac6f65aca1bc6"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "e876d259bab1918273d87c1046a1315c9ff6fcb013b60ecd6701658d0103e061"
+hash = "dd4c5cdae236b1ca38e944d71f2d4e907d6e9032c1a38c37cf4ca866b57763ab"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "3f8803ed3daea9508f4617adc6435597f18df2d5ba8878951ebbbbdc841d9e61"
+hash = "8683b197ce3d55ec135df70bee02764a95e6173da2f713c9414019bc30f65e27"
 metafile = true
 
 [[files]]
@@ -877,7 +877,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "2095a21369b4fbb4829222f26e9ae91f81a747b75422f007b5f413b851cb008f"
+hash = "7625e51ba60e5e6fe8914383bd8f71405c44f96bbbd72fe9b67bf145801a3a09"
 metafile = true
 
 [[files]]
