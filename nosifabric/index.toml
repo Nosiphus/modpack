@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "3d797c6166ba3c4959db8786b5d8f6e377ce04de757a52de3b6373d6fa47cf81"
+hash = "0d9d848d0fa731d2984d33ef7f50042f00c96dac4244200cece0f66af1ef9208"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "37a77653eb9db0572dbb4760a6817c64036d9ff68bc5ce0aa6bbb81010fe7a7a"
+hash = "a3b079d2a092784d2019e2443c1e47f3e08de10a0bdeab732067c5e45351a96c"
 metafile = true
 
 [[files]]
@@ -834,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
+hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1abae29ea8e25ff332f6dc40f6fb680cdf319896969155b3af5022cb344f257f"
+hash = "a5f47659fcd7300b84571ef6461d0461b8a1556642fa845b8955902aeaf59c9b"
 metafile = true
 
 [[files]]
@@ -1159,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "6ee2954aee9ff5e39bf6ae8ab7142d2665b85d9c1690d63c8e2ed8e483bd1524"
+hash = "76e4873b93681b7e33aba9c14ccb857e48d71b8ca96a96bfab92909c2e1b585d"
 metafile = true
 
 [[files]]
@@ -1169,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "3bbdf4887fdeaf9ade6bb3a85c00a5c0547aa412b09d3b0aa722cf8e709d8b93"
+hash = "19bca3dcdcafa82fa7ec37c6e3329a07f31a9bf06931c0195c114d260573a03a"
 metafile = true
 
 [[files]]
@@ -1184,7 +1184,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
+hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
 metafile = true
 
 [[files]]
@@ -1204,7 +1204,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a067a3a38a6df8bf4440edc13ad29e22adf31041858c4fc4aee991c0f0e87263"
+hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
 metafile = true
 
 [[files]]
@@ -1254,7 +1254,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "cc743f3f0e779388f1e903ad9127595f8f85041a344718010eb09e13e9705bba"
+hash = "8b97c536c8f82660df709b65f7eee607d4e887f43e8c273cf98021ad9b9dce3e"
 metafile = true
 
 [[files]]
@@ -1284,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "198284d31961c9e8a26c154c30ee2e7abe818eed5a5bc9d6f4a77a09456d29b5"
+hash = "53843b76c33ecf7910248cd1c941920adf23f81130a9155997d911199dce0816"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ba92e257e9fee67ac81ffb5d336e607cd9dcc6b4ea61ff890baa104ef25673b2"
+hash = "d5270a73d556b9d12c73aabf213afe245d8c74b58afd24f45ef903726c9ce507"
 metafile = true
 
 [[files]]
@@ -1314,7 +1314,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "f890affbc81dd0b392971738eb723aae198b554be6439feb6fa819ebdf7ba975"
+hash = "e05ac0c6b80847a3fbde8bb6ffa220dabe2690fb7f77b3f04af458901095eb32"
 metafile = true
 
 [[files]]
@@ -1329,7 +1329,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "ef39074887285044927d856ccc8dded43004e5ae531227bcb4ec1a731102b2d5"
+hash = "64943cf6ffaa4a7be87fdf13c3ccb416418a65a3a7c4fafcad0a32668c1d63e9"
 metafile = true
 
 [[files]]
