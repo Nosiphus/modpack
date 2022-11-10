@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "0d9d848d0fa731d2984d33ef7f50042f00c96dac4244200cece0f66af1ef9208"
+hash = "aa5a65d9ad7105a389808527d5086e973be471341a9d4dfeb8badba697204ad7"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "246894bbd6a715e9f239dc93e3228ec224d4d4b75501a067acddb28c384a600f"
+hash = "d3e60634a4a07db0c9d17b8b4a6b492be9bea987fb63f94476e1204822eca2bb"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
+hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
 metafile = true
 
 [[files]]
@@ -1029,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "96fa716c06ed8eddcc1cfa0ec40ac0e0d8bf6e5a114531cd64f6e653b412c566"
+hash = "4690abf74df5ab049c6b61986033a66ab5176bddc29c90eab7e4f3ddd9490dcf"
 metafile = true
 
 [[files]]
@@ -1159,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "76e4873b93681b7e33aba9c14ccb857e48d71b8ca96a96bfab92909c2e1b585d"
+hash = "8fb4f53d004d270d7aba63f1c5caf5db1a83047b483e33d4f47f97bdd0879603"
 metafile = true
 
 [[files]]
@@ -1169,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "19bca3dcdcafa82fa7ec37c6e3329a07f31a9bf06931c0195c114d260573a03a"
+hash = "dbacc1a1c15b9ede913e1188ec97817c35759e921e00c67eb4f5557c5f40204a"
 metafile = true
 
 [[files]]
@@ -1179,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "a70764358501f7bb3505df73ca79f46251e1d0144287eae55c8cf49fd27492c8"
+hash = "507c7a0c38080a544f1c03f070ccb7022813fb5f72625e1a1858f71dae90d2b9"
 metafile = true
 
 [[files]]
@@ -1259,7 +1259,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "8b97c536c8f82660df709b65f7eee607d4e887f43e8c273cf98021ad9b9dce3e"
+hash = "2d8c8b378fffd442ba69f54ef6f5ff12227bc7414487085c05bca2457a627b35"
 metafile = true
 
 [[files]]

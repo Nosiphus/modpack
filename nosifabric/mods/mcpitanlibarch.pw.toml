@@ -1,13 +1,13 @@
 name = "MCPitanLibarch (Fabric/Forge)"
-filename = "mcpitanlibarch-1.1.2-1.19-fabric.jar"
+filename = "mcpitanlibarch-1.1.5-1.19-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "235655db6f87c45fe00b666275d7a86d2cdfa7a7"
+hash = "6f926b2eb48761a4d79f737a311f1005d078b4ae"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4072582
+file-id = 4076714
 project-id = 682213
