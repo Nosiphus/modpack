@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "aa5a65d9ad7105a389808527d5086e973be471341a9d4dfeb8badba697204ad7"
+hash = "7ac0fa204b6efc0634d9161b068f660d75f1bd763fd39d445b85ec1d0f56efd1"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -784,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedreborn.pw.toml"
-hash = "569686e3c8e2b6126bdaf960210ed5ad0b5c8c23d7fff9b2440a1767af7c38e4"
+hash = "14b962ffada8b21ec71bf5597e20257f6448d251b6eb3ef3bf9e5f3bdf0be7e9"
 metafile = true
 
 [[files]]
@@ -929,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.pw.toml"
-hash = "8baa4174662b93a9e2e177a4cb937565b5e1f54aaa498cd9e2a5305c14892686"
+hash = "65446ae773fb8f4f84b02d909f3b1dd45ceb09f956ac67ab3d96d362451c8a91"
 metafile = true
 
 [[files]]
@@ -1029,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "3f0f122f279b918f754b097f4f6afba29be0682a8954d8496bc409b9feba9e3c"
+hash = "45a70849c882f4640038f7b187d43fd30b8049729da627ec1589d1ad77eb3dec"
 metafile = true
 
 [[files]]
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
+hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
 metafile = true
 
 [[files]]
@@ -1179,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "507c7a0c38080a544f1c03f070ccb7022813fb5f72625e1a1858f71dae90d2b9"
+hash = "10fc6be2bf781d31bc05f8818a3515fbd29d388ba32f13e9cc163add16016a26"
 metafile = true
 
 [[files]]
@@ -1199,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "29343584d66805c0d453bbd6a04bde62119a372ad6f2be32203a057cd5dd639b"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
@@ -1259,12 +1259,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "2d8c8b378fffd442ba69f54ef6f5ff12227bc7414487085c05bca2457a627b35"
+hash = "29d1cea9913dd854ba5b411fc632290f1b07cd1178b0309aee487fc2c8aa4e36"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "dced0ffca31ce53ae4a9a2bfb05a7724fe9182c7857b48490b182a691e61d7cb"
+hash = "547bfee7cdbf7d6af621716b4ffada185860fd95c2f29aad8d894c09108045b9"
 metafile = true
 
 [[files]]
