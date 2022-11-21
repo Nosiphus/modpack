@@ -1,13 +1,13 @@
 name = "Thermal Innovation"
-filename = "thermal_innovation-1.18.2-9.0.0.14.jar"
+filename = "thermal_innovation-1.18.2-9.1.0.15.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MNgLmnvM/versions/eLExVbSt/thermal_innovation-1.18.2-9.0.0.14.jar"
+url = "https://cdn.modrinth.com/data/MNgLmnvM/versions/QulCVml6/thermal_innovation-1.18.2-9.1.0.15.jar"
 hash-format = "sha1"
-hash = "576af4ce7d82223c08f519e0fab1361d0d367be0"
+hash = "3634269dd9c46a975344a9c25d937023f27a54a1"
 
 [update]
 [update.modrinth]
 mod-id = "MNgLmnvM"
-version = "eLExVbSt"
+version = "QulCVml6"

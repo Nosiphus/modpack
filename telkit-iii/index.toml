@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "c00fe4dc1f47693963aa372d4daad11eb190faf82018fe166e6e55e2a75621b3"
+hash = "98340d32bbb3e9d6e65f17b0605a9ce7423adcb73b1b9b468badfd88787dbae9"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "dd4c5cdae236b1ca38e944d71f2d4e907d6e9032c1a38c37cf4ca866b57763ab"
+hash = "2cd15385b52aa65fca2df56709b301b2342b8393ae8e21e5cfebfc76d751e94b"
 metafile = true
 
 [[files]]
@@ -1052,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.toml"
-hash = "a81e13fab8908cffb2c5a18842b5dde07380f56005699b4a10792d51208f21c2"
+hash = "f312dfc5bc8805e77065dc2db25eebf2bd53f8c068d18c21952018cbbe82de77"
 metafile = true
 
 [[files]]
