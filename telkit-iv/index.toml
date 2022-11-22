@@ -546,6 +546,11 @@ hash = "2f5f17fe6bf55f780c215c27c43faf0d2e35e27c159efe9c1032dd3017c414a6"
 metafile = true
 
 [[files]]
+file = "mods/redstonepen.pw.toml"
+hash = "a3f29a3de253e15a92d98314f1b7c8cd8ffe0a1d4546b673adc5542cf25d4a91"
+metafile = true
+
+[[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "29e27f178e86901b68ab0a1de003a91651c7b350c87aad26fa310f42359dbab6"
 metafile = true
