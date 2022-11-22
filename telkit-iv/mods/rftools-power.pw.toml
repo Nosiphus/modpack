@@ -1,13 +1,13 @@
 name = "RFTools Power"
-filename = "rftoolspower-1.18-4.0.9.jar"
+filename = "rftoolspower-1.19-5.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a340aa42bb2e4e92dda4ef2e3f7e45c9a921ed9d"
+hash = "169489bdda52f602051b3181edcc70a2dd1a6973"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4087998
+file-id = 4087995
 project-id = 290209
