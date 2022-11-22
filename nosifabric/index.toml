@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "b33a43e0351254f72871eb0bddf2a95d6b9fce0f53fe65af4fda04f1d6be3021"
+hash = "48b6557f6ebebed3125fa28714f943ced03b56d18bd288d8605f4c8ba714564b"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
+hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
 metafile = true
 
 [[files]]
@@ -929,7 +929,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.pw.toml"
-hash = "65446ae773fb8f4f84b02d909f3b1dd45ceb09f956ac67ab3d96d362451c8a91"
+hash = "b798d828b8977fc0d67f079484c9ecd7bcc8a421fc933862532bcceecac75656"
 metafile = true
 
 [[files]]
@@ -989,12 +989,12 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "2d89ce58c99df0222640f225661476b27415076d6735ae6261f0813764f4d1e7"
+hash = "21ca02aea1e39f2e33609d1f2342128f40d957429ea030345588d2386755473e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c8b4affa4d08e91c1806615f36acd403d29a43e8b7a61d1141e492b0b593809e"
+hash = "014aa43e2754f02f0503664394ba6b7a86e9fd10ed455c6521376546d75f843c"
 metafile = true
 
 [[files]]
@@ -1090,11 +1090,6 @@ metafile = true
 [[files]]
 file = "mods/led.pw.toml"
 hash = "c922a4dff188cb5be54bb1fc11d348ecc7ab66d7f18924038f6d2657e2ec73b6"
-metafile = true
-
-[[files]]
-file = "mods/lightning-power.pw.toml"
-hash = "701d3bfad4a24066400982683398223cc9ab874da659ddafda4b9c162a668983"
 metafile = true
 
 [[files]]
