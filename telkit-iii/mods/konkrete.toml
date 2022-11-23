@@ -1,13 +1,13 @@
 name = "Konkrete [Forge]"
-filename = "konkrete_forge_1.5.3_MC_1.16.2-1.16.5.jar"
+filename = "konkrete_forge_1.5.3-1_MC_1.16.2-1.16.5.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "6448ddf51d4460b16c1dc8b8a000cc65bee7d913"
+hash = "36a93a92dfe47db176bd2a5e6cebc10933beefc3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4031713
+file-id = 4103577
 project-id = 410295

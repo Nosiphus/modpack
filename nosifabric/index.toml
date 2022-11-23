@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "48b6557f6ebebed3125fa28714f943ced03b56d18bd288d8605f4c8ba714564b"
+hash = "9fd5d06269ad5f32cd24a4f528f7d0d612ce979bb8e855fbf8542ac77d239984"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -1034,7 +1034,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "215fb8df4474c3893d7ef048065ec87aa02b9e956ce2b8b6f0306ad8943da8b1"
+hash = "4d7ecd93d92bab7af57de8b71aa52676dc93df2b92991702af582b026f256448"
 metafile = true
 
 [[files]]

@@ -121,8 +121,18 @@ hash = "7625fd02a8edcfaf66ae149456ba29e237a4740b6f2540fd2886a0ecaca189b7"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "dc606dd7cea5c17fc97328119db8b0f009b1fa666cf45a11c020c3e6ab9f0449"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "da09ff889d400315d47690f3f2ef2d866013df06d0b6cbfb1dddaa97ede25f84"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "f9c72a1bafaa1b429530e206ad5934ddc04f1bd189abb01ece76e33fe1d4e4e9"
 metafile = true
 
 [[files]]
@@ -286,6 +296,11 @@ hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
 metafile = true
 
 [[files]]
+file = "mods/exlines-furniture.pw.toml"
+hash = "af03b103feb7708af2d0f475a9d228b6b8209fbaa4d34d56b56846afb79a1391"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "99f6a7efa6c8946aacfa1465ad8a2912cdf3233dc09a5788ad5d7f6d679836b4"
 metafile = true
@@ -323,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "bff4ebb2bf1832240dcedfcc5a10329829055e260299c1a7ddedb25f99af36bf"
+metafile = true
+
+[[files]]
+file = "mods/furnish-furnitures.pw.toml"
+hash = "371d96f0de1e27b8cb6f0337115db9125f348590fa891180810ed07d132c05fd"
 metafile = true
 
 [[files]]
@@ -506,6 +526,11 @@ hash = "a1c4adf9bd0f62ab36f02fe7a5717695b9ac1d8bfcdbc45f0bec609581c1dc5b"
 metafile = true
 
 [[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "436e48c262de638e8ee65ddaef97883a8ce77d2c1d4f183399ce2def81da7993"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
 metafile = true
@@ -591,6 +616,11 @@ hash = "a2bd82e29457a0f43533782fbd72928d1796a58cddde6f575e79df1d93fd0d46"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "bca1146af556c052527cb7ff9e928a825f8dc5755b1e5b848acb1239d346ceca"
+metafile = true
+
+[[files]]
 file = "mods/sit.pw.toml"
 hash = "094d9828ac94c8a01c0c66fe0818e1ba7062664f5335448d8994339945fedf2e"
 metafile = true
@@ -606,8 +636,33 @@ hash = "53f899833bd375ace59de920ac6d475fc4c9a670e10614aa2376c59115742a19"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "c1385682b26c1fe0d383dc43edc677652a5bd5ce2d3fdb88e41110c431bfad2b"
+metafile = true
+
+[[files]]
+file = "mods/tc-wireless-redstone.pw.toml"
+hash = "7ccd85637acc517aae61aa092e2cd6e47a987ed528a64bfdb8c96131464b57a5"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "353a0690b8d091e3289060b1030bd75adf483981837ec553f04f83d76ce8218e"
+metafile = true
+
+[[files]]
+file = "mods/u-team-core.pw.toml"
+hash = "afca22a760f1b0906bd35fe5ba82dc30b77977fefa72a9fc75fda0e26e258cd1"
+metafile = true
+
+[[files]]
+file = "mods/useful-railroads.pw.toml"
+hash = "c944eb52a5b9d7514dc9dbc984c94b60f824c0d1db018eda912509a5750acba3"
+metafile = true
+
+[[files]]
+file = "mods/waterlogged-redstone.pw.toml"
+hash = "1afb04d727a184895b8b59bbf1bf12d800cd75202e756735e4882cc880d8a199"
 metafile = true
 
 [[files]]
