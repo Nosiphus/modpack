@@ -131,11 +131,6 @@ hash = "da09ff889d400315d47690f3f2ef2d866013df06d0b6cbfb1dddaa97ede25f84"
 metafile = true
 
 [[files]]
-file = "mods/another-furniture.pw.toml"
-hash = "f9c72a1bafaa1b429530e206ad5934ddc04f1bd189abb01ece76e33fe1d4e4e9"
-metafile = true
-
-[[files]]
 file = "mods/applied-mekanistics.pw.toml"
 hash = "d3406728fc72fa787bdb5c45426f42af5930b711594dbfd4b26d830c8c00f9d4"
 metafile = true
