@@ -456,6 +456,11 @@ hash = "80b4df1d3dc5f480726b6aa0c66476e93434f973429b167df9a262a0004cdcfd"
 metafile = true
 
 [[files]]
+file = "mods/moressw.pw.toml"
+hash = "ff2c928b4615379d3bf840a3a75771990cc2f639d9c0d4ea210bc261d0df5c51"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "f374606bef77d773d4f010ee4a2db53c8b6cc1528783c03250c7fa53d46f727a"
 metafile = true
