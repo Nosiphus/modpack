@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "cc3e8f8294c9a464b35db291919cf9c793b6c67e635ec3216166ed3ae8b3d1e8"
+hash = "ef26e0e4cf34febf37508d1b7e45c4468c732750520c0f2b5ea02cfebdcb58af"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "707c18c2433cd8af34e6bc39468c0380be1c8f066de43b7d8a7ed511a9b56dc3"
+hash = "091b02bc3cd284cf2edcc61a568c4390333f3d3a523072a1449bd7560baa5fa2"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "75462e2eafe9f4abe0a66d36c6681c8b557930ea0bae4ebd234c9a99a5e756b4"
+hash = "a9298662321fc45773b3c7d8ee864eaf75162bd8a9d2e093ea3d0dde34b19106"
 metafile = true
 
 [[files]]
@@ -641,5 +641,5 @@ hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "8acf12d425bbce693aefc76e026068e21cf751196eeced9a10166bc40406c09a"
+hash = "306c5c2f659cb7a5a648bacb420464daf89264404f7d4ea899fe6eb50de7169f"
 metafile = true
