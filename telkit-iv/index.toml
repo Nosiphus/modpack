@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ModernUI/bootstrap"
+hash = "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+
+[[files]]
+file = "config/ModernUI/client.toml"
+hash = "0bac4cb4a3a14ab519a1993df9962ce1137f2357cfc11f7861f4a3ac9bfcb415"
+
+[[files]]
+file = "config/ModernUI/common.toml"
+hash = "f945d275a66ddec08c1cc3aa5d800675bea43ec270416a70a03fe32e9db7c7b5"
+
+[[files]]
+file = "config/ModernUI/text.toml"
+hash = "2444e0c8850ca8808a5a99379a6692e5a1a214e958004d01d0be513a0ea17f45"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "aeded4f82c92c5ab9debee0b420c4957788c3cdd38da329562a59e0832547514"
 
@@ -30,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "ef26e0e4cf34febf37508d1b7e45c4468c732750520c0f2b5ea02cfebdcb58af"
+hash = "bfaecc67091cfcf3442b69b11e4483097c7a90aa69dc5f5a8d1139ca301d7919"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -167,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "c75e3e0e5d526f4cbef340a56d252f3259b78e0fe44cdddd41875b0e1311c948"
+hash = "b91e3c6832adb2240c8ade066a5c624c47e9401ed96da50a359343e4feccf5d8"
 metafile = true
 
 [[files]]
@@ -471,6 +487,11 @@ hash = "80b4df1d3dc5f480726b6aa0c66476e93434f973429b167df9a262a0004cdcfd"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "4086ed578d54eb7f30fbda8d4356503491196cb4679f7889b643520e3bdf20e5"
+metafile = true
+
+[[files]]
 file = "mods/moressw.pw.toml"
 hash = "ff2c928b4615379d3bf840a3a75771990cc2f639d9c0d4ea210bc261d0df5c51"
 metafile = true
@@ -632,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c1385682b26c1fe0d383dc43edc677652a5bd5ce2d3fdb88e41110c431bfad2b"
+hash = "16b3073599a2b10d734db0487f02b85761ac0a9a1919d793246ed0e016aff7c3"
 metafile = true
 
 [[files]]
