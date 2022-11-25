@@ -507,11 +507,6 @@ hash = "043c1c03f5c16c4e085766aa801e9c8e3a59bedb61bfbc0aa403208c88c9801b"
 metafile = true
 
 [[files]]
-file = "mods/multiworld-mod.pw.toml"
-hash = "9a210588ea81d1e9db187d2e9faf589b47901a46381f588cc8f12bf377cb2201"
-metafile = true
-
-[[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "88f0897c904ae49ebbef8c5def79490ef00bcea49b5a5364f9e41c062ff051a3"
 metafile = true
