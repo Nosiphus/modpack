@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "bfaecc67091cfcf3442b69b11e4483097c7a90aa69dc5f5a8d1139ca301d7919"
+hash = "1a4549bda2806526ad2b30640aa130f77477caa4485acee04a6fc573c691de33"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/london-underground.pw.toml"
-hash = "e7ef6f1ac0ca4b31644ccf07993df22cdcf99a8bfbbb83d975beb123d03a8020"
+hash = "3d78f44beaed7b9ae621ed1a02ae8a0a8cba1f54d00ba50f0d1208624d95b4cb"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "165098db50a38b9f28c59561d495c835c40aaf6d4882f48cb7edb94bf20ca235"
+hash = "a8b6347005816d9c434e4aabc3553ea44e2d702948047952273cf96483f1fcbe"
 metafile = true
 
 [[files]]
@@ -504,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
 hash = "043c1c03f5c16c4e085766aa801e9c8e3a59bedb61bfbc0aa403208c88c9801b"
+metafile = true
+
+[[files]]
+file = "mods/multiworld-mod.pw.toml"
+hash = "9a210588ea81d1e9db187d2e9faf589b47901a46381f588cc8f12bf377cb2201"
 metafile = true
 
 [[files]]

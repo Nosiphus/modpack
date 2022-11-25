@@ -1,0 +1,13 @@
+name = "Multiworld (Fabric & Forge)"
+filename = "Multiworld-Forge-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef553fb6cb8f4d15af5ab71d94c98e04febee7a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3924292
+project-id = 511765
