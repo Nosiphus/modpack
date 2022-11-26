@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "1a4549bda2806526ad2b30640aa130f77477caa4485acee04a6fc573c691de33"
+hash = "ed810895c2480c109f3df643e2a3233b4e5f66ff93ba2a21371b1500aacf3ef5"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -237,6 +237,11 @@ hash = "7ecbf5bd076dcec257a31cbc5c0a6e0bd34e12fd29313c3cdbe9ac549d61fd1e"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "0ccff0caf3c20eb83464c6d614f879e4931bdcb2fa2638ca4bc4734a8c5942c9"
+metafile = true
+
+[[files]]
 file = "mods/colytra.pw.toml"
 hash = "8dfd35bb0315929f8b4cd8fa7674b03d6c87dacdd72bc035f96a42a53976ca16"
 metafile = true
@@ -248,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/compatoplenty.pw.toml"
-hash = "1d2c9fd3add5f27d30e784b167037ceaf5a9e4ec756d8f73407039677e6e9477"
+hash = "2a693955b7a91e8d3d666d80dcd5d4df465aa94025723c31146d7dec6c0e9c9a"
 metafile = true
 
 [[files]]
@@ -664,6 +669,36 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "353a0690b8d091e3289060b1030bd75adf483981837ec553f04f83d76ce8218e"
+metafile = true
+
+[[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "983858fac4978ead9207fd5b28d49802c024ff72a3c8bdeb36185df52919b968"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "a753d44040716e970f7f314bb1da2b96be2e336a4fa8ad98ff8d1a8f51935740"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "679a324089e80571315e8543fb6a0e4f5090893407907252dc3ceecdaef4f13d"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "26e344abf15867ac6eddfb35f7ac044e035fb5adf6011253a9110ce30cb4221d"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "7cb462a82be54af7c7dbd2a532e5682560a134b4d5003ebe276aedba38f77d77"
+metafile = true
+
+[[files]]
+file = "mods/thermal-locomotion.pw.toml"
+hash = "dd29d8a3452d59871a70783996e09fd4d7133e8b9a6fe0833d7e916d1e846b1f"
 metafile = true
 
 [[files]]

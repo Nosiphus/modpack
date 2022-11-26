@@ -255,7 +255,7 @@ customization {
   y = -11
   scale = 1.0
   alignment = left
-  value = Newest PureBDcraft Patch Collection: Tuesday, November 22, 2022
+  value = Newest PureBDcraft Patch Collection: Friday, November 25, 2022
 }
 
 customization {
