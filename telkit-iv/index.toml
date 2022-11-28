@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "741d0a0434760abb2c4ac005d00e98877c9748fd06ebfa5922dbec04bfebdd16"
+hash = "6b85bc33b51bcf9c9a51d9668dd43debe4975c5442e83cb4854763977d37b492"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -257,8 +257,18 @@ hash = "2a693955b7a91e8d3d666d80dcd5d4df465aa94025723c31146d7dec6c0e9c9a"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "7888581aab75ca835f111ff4d8072e3c2aa4338c3b1bf5d760ca5a4df43b8dd0"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "a94bec93c6e2f350d4bfd94d6f557fca51ef4358aa4a714e87816243537a6623"
+metafile = true
+
+[[files]]
+file = "mods/cosmos-library.pw.toml"
+hash = "a671567dabd31db3cf6450fd9edd7483db63b9d68991392255f3a7721f7828f2"
 metafile = true
 
 [[files]]
@@ -289,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "0a4351074d7b9e5b59794f374c3c8f7c1ea19b3f1b0d0e4774b557ec135ffe99"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-pockets-ii.pw.toml"
+hash = "602c84fdc32817b49faf23ad76cf39719fc930ad2973249ac14105125886b537"
 metafile = true
 
 [[files]]
@@ -349,6 +364,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "5643e74b61f089f40ed9f75714affc08f8fb30a735b298e15a7450662236a0b3"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials-forge.pw.toml"
+hash = "5b60c5cbc6b6a210856c49c73acf35076edaf484bc2387a7a9dea6d786c60de3"
 metafile = true
 
 [[files]]

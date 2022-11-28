@@ -1,0 +1,13 @@
+name = "Cosmos Library"
+filename = "cosmoslibrary-1.19.2-8.2.1.200-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "108945cf3e167146604fba62af3e058e09c4246f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4104706
+project-id = 282574
