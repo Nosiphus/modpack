@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "ed810895c2480c109f3df643e2a3233b4e5f66ff93ba2a21371b1500aacf3ef5"
+hash = "1ea4afe62422393f6aae0e273503a2b199801a618e7dc0ae1c60cf9fd676a765"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "b91e3c6832adb2240c8ade066a5c624c47e9401ed96da50a359343e4feccf5d8"
+hash = "dad6637870421d041b814d8a11dbbb23cbd44b60e1905e13b78a5e75e334e81d"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "6dc127e703a8ec9041657bedc13e2739495743f5878b1abacbc7a0e91594906d"
+hash = "52e48ec6907c9fba38819304325362bf532ceb904a838b75c29530480f11bc81"
 metafile = true
 
 [[files]]
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "ad12a513443b8826036a9dcd267ce6beefec7538b35beb7ab78a5bfe0e05cb87"
+hash = "63800317329d340d3550b00dda4fecb2861cc6a643c2390d34f446c550ff9f06"
 metafile = true
 
 [[files]]
@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "2f5f17fe6bf55f780c215c27c43faf0d2e35e27c159efe9c1032dd3017c414a6"
+hash = "b54d29c5eec814c5a98f873d8c97c50530886939f199a2cefd31f2e55c1cbdc4"
 metafile = true
 
 [[files]]
@@ -638,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "bca1146af556c052527cb7ff9e928a825f8dc5755b1e5b848acb1239d346ceca"
+hash = "8363783d897a18932ca2aabde2fccab11bcfaa0e54c71ec0186b6ef2f818be6e"
 metafile = true
 
 [[files]]
@@ -658,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "16b3073599a2b10d734db0487f02b85761ac0a9a1919d793246ed0e016aff7c3"
+hash = "154c50f5ebbcf625fb202b33556f12c3eeb0037bdb15961446bd6905325901c3"
 metafile = true
 
 [[files]]
