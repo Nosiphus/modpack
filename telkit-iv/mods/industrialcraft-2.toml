@@ -1,8 +1,0 @@
-name = "IndustrialCraft 2"
-filename = "industrialcraft-2-2.9.21+ex119-1.19.2-forge.jar"
-side = "both"
-
-[download]
-url = "https://jenkins.ic2.player.to/job/IC2/job/1.19/21/artifact/tmp/out/industrialcraft-2-2.9.21+ex119-1.19.2-forge.jar"
-hash-format = "sha1"
-hash = "b087feaa5820985d18b8630cb91d06b0c1b6a1dc"
