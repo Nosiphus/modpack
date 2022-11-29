@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "6b85bc33b51bcf9c9a51d9668dd43debe4975c5442e83cb4854763977d37b492"
+hash = "c8f69fb8a51574fbd12c408e993ff3f3c17f01a843effb29587404f393b27fee"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -157,11 +157,6 @@ hash = "091b02bc3cd284cf2edcc61a568c4390333f3d3a523072a1449bd7560baa5fa2"
 metafile = true
 
 [[files]]
-file = "mods/assembly-lines.pw.toml"
-hash = "072a7ad6d9f25d4618a95bb61f0ee00c253f3b10f74bcbe40890954412b5b3da"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ca5775104714b3a090e713fc649cef3985007eea5eb1b4ddf49407dbeae10acb"
 metafile = true
@@ -174,11 +169,6 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "3b25d129d50c154e26487294c1bad1d48b220e7ad28f7848452d8040a2344b78"
-metafile = true
-
-[[files]]
-file = "mods/ballistix.pw.toml"
-hash = "8b2f7a5d01a0dd74bd5ee5f7b1b24da6f44ce5a27a7371abf86f8822185c3ff5"
 metafile = true
 
 [[files]]
@@ -327,11 +317,6 @@ hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
 metafile = true
 
 [[files]]
-file = "mods/electrodynamics.pw.toml"
-hash = "9f81dcfe5e2a036d0e88b6b3461789ceb35c7b60a6a04332fb27c8f9a210e302"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "98c6baedba50e6e623e39b0769a70a94979b910bef965323a2497bc816cae7ec"
 metafile = true
@@ -437,11 +422,6 @@ hash = "da526f503d2a785c10a47c6f1a5a0b5abe097fd8a7e5a4812e1fdb91127b646f"
 metafile = true
 
 [[files]]
-file = "mods/london-underground.pw.toml"
-hash = "3d78f44beaed7b9ae621ed1a02ae8a0a8cba1f54d00ba50f0d1208624d95b4cb"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "3a86b79a7d8b20206b2fcec0d2117545ebead053d43e0b71dcbb94c8f0b8ef5e"
 metafile = true
@@ -492,11 +472,6 @@ hash = "a8b6347005816d9c434e4aabc3553ea44e2d702948047952273cf96483f1fcbe"
 metafile = true
 
 [[files]]
-file = "mods/mcjtylib.pw.toml"
-hash = "41a4e8b62d069708fad00a69de47d6c6eaa857f08cb264377bebe47adbfa1e76"
-metafile = true
-
-[[files]]
 file = "mods/mekanism-additions.pw.toml"
 hash = "42718e2bd46d2cac07514f5b41b5004294180aee1b0e0f56bdd9715bd8a11534"
 metafile = true
@@ -522,18 +497,8 @@ hash = "13400f582d2974dc86e75cdd9c5e7bea7104050e086b06559ddcc741bcabbc4b"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-transit-railway.pw.toml"
-hash = "80b4df1d3dc5f480726b6aa0c66476e93434f973429b167df9a262a0004cdcfd"
-metafile = true
-
-[[files]]
 file = "mods/modern-ui.pw.toml"
 hash = "4086ed578d54eb7f30fbda8d4356503491196cb4679f7889b643520e3bdf20e5"
-metafile = true
-
-[[files]]
-file = "mods/modular-forcefields.pw.toml"
-hash = "66ae01115673a26204a365a6150ce06b5ed5ad64ddded69dd43797e046ac1071"
 metafile = true
 
 [[files]]
@@ -574,11 +539,6 @@ metafile = true
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
 hash = "b1ae40294d5789c410291efac0da2f1340dfa5cc4d7110fde38fbe58ab8d7a0e"
-metafile = true
-
-[[files]]
-file = "mods/nuclear-science.pw.toml"
-hash = "ef11b94131b44e9a3959e5aaf4e9dc08c8d8656b2de9fc6a3081234d2dbc6c7c"
 metafile = true
 
 [[files]]
@@ -644,36 +604,6 @@ metafile = true
 [[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "a3f29a3de253e15a92d98314f1b7c8cd8ffe0a1d4546b673adc5542cf25d4a91"
-metafile = true
-
-[[files]]
-file = "mods/rftools-base.pw.toml"
-hash = "29e27f178e86901b68ab0a1de003a91651c7b350c87aad26fa310f42359dbab6"
-metafile = true
-
-[[files]]
-file = "mods/rftools-builder.pw.toml"
-hash = "e35e0abff1c5f4b041baad16555bbcae1b89025616db73eeb64fc44448c3f187"
-metafile = true
-
-[[files]]
-file = "mods/rftools-control.pw.toml"
-hash = "d7d9ec94b91f30a7189eea03d0c92b1f7b1940d5527b6a4472e3485eef7bdce6"
-metafile = true
-
-[[files]]
-file = "mods/rftools-power.pw.toml"
-hash = "259e1d0d0e57b13c98ccc78fdac9b0792eb163684fc10cbf9ca017081db0beea"
-metafile = true
-
-[[files]]
-file = "mods/rftools-storage.pw.toml"
-hash = "26faba306700d46d381eb082edd9f5ff00f6a64b39fba0d2d944be43893a2191"
-metafile = true
-
-[[files]]
-file = "mods/rftools-utility.pw.toml"
-hash = "1bc7b87319da1b8209d6c23a08d05608deab7093b60e2a84a701a3434c74c15d"
 metafile = true
 
 [[files]]
@@ -744,16 +674,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "dd29d8a3452d59871a70783996e09fd4d7133e8b9a6fe0833d7e916d1e846b1f"
-metafile = true
-
-[[files]]
-file = "mods/u-team-core.pw.toml"
-hash = "afca22a760f1b0906bd35fe5ba82dc30b77977fefa72a9fc75fda0e26e258cd1"
-metafile = true
-
-[[files]]
-file = "mods/useful-railroads.pw.toml"
-hash = "c944eb52a5b9d7514dc9dbc984c94b60f824c0d1db018eda912509a5750acba3"
 metafile = true
 
 [[files]]
