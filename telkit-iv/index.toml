@@ -402,11 +402,6 @@ hash = "96a4da300a5cda462c63a9481524f72d41d2fff6ab7152828da0d7f31381e033"
 metafile = true
 
 [[files]]
-file = "mods/industrialcraft-2.toml"
-hash = "6682f8b2c9937f62f2231c812900f35fe7f6bafc70fe79cbfd891a75c5b19573"
-metafile = true
-
-[[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "755a8345636199e68830426bb03873a2395517d719c82dfb9a349d09fe970ea9"
 metafile = true
