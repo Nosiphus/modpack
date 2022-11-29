@@ -1,0 +1,13 @@
+name = "Modular Force Fields Systems"
+filename = "Modular Forcefields-1.19.2-0.1.0-2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fff808c7fb17fd87312dadd149fb5804b86007fd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4087166
+project-id = 322896
