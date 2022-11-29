@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "da09ff889d400315d47690f3f2ef2d866013df06d0b6cbfb1dddaa97ede25f84"
+hash = "4fdaef874eac0b26c883cdfe984d24d0ecf77858fef8665fdb850968016b4ed0"
 metafile = true
 
 [[files]]
@@ -154,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "091b02bc3cd284cf2edcc61a568c4390333f3d3a523072a1449bd7560baa5fa2"
+metafile = true
+
+[[files]]
+file = "mods/assembly-lines.pw.toml"
+hash = "072a7ad6d9f25d4618a95bb61f0ee00c253f3b10f74bcbe40890954412b5b3da"
 metafile = true
 
 [[files]]
@@ -169,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "3b25d129d50c154e26487294c1bad1d48b220e7ad28f7848452d8040a2344b78"
+metafile = true
+
+[[files]]
+file = "mods/ballistix.pw.toml"
+hash = "8b2f7a5d01a0dd74bd5ee5f7b1b24da6f44ce5a27a7371abf86f8822185c3ff5"
 metafile = true
 
 [[files]]
@@ -278,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "89380765949409c04908ac783bc6be0363e1db7c5773c6919dd43628f27e714c"
+hash = "61ce95654a33c10e7c54c121f720c3bb58af8d99b2ba9521ae08556f629b6cc1"
 metafile = true
 
 [[files]]
@@ -314,6 +324,11 @@ metafile = true
 [[files]]
 file = "mods/editsign.pw.toml"
 hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "9f81dcfe5e2a036d0e88b6b3461789ceb35c7b60a6a04332fb27c8f9a210e302"
 metafile = true
 
 [[files]]
@@ -384,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/hammer-lib.pw.toml"
 hash = "96a4da300a5cda462c63a9481524f72d41d2fff6ab7152828da0d7f31381e033"
+metafile = true
+
+[[files]]
+file = "mods/industrialcraft-2.toml"
+hash = "6682f8b2c9937f62f2231c812900f35fe7f6bafc70fe79cbfd891a75c5b19573"
 metafile = true
 
 [[files]]
@@ -517,6 +537,11 @@ hash = "4086ed578d54eb7f30fbda8d4356503491196cb4679f7889b643520e3bdf20e5"
 metafile = true
 
 [[files]]
+file = "mods/modular-forcefields.pw.toml"
+hash = "66ae01115673a26204a365a6150ce06b5ed5ad64ddded69dd43797e046ac1071"
+metafile = true
+
+[[files]]
 file = "mods/moressw.pw.toml"
 hash = "ff2c928b4615379d3bf840a3a75771990cc2f639d9c0d4ea210bc261d0df5c51"
 metafile = true
@@ -554,6 +579,11 @@ metafile = true
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
 hash = "b1ae40294d5789c410291efac0da2f1340dfa5cc4d7110fde38fbe58ab8d7a0e"
+metafile = true
+
+[[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "ef11b94131b44e9a3959e5aaf4e9dc08c8d8656b2de9fc6a3081234d2dbc6c7c"
 metafile = true
 
 [[files]]
@@ -653,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "a2bd82e29457a0f43533782fbd72928d1796a58cddde6f575e79df1d93fd0d46"
+hash = "e92aab27854455dcd7f063340f08b5233d09f4dde976613e845d19613ab8d5a7"
 metafile = true
 
 [[files]]
