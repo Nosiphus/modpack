@@ -617,6 +617,11 @@ hash = "0b2704b5b3e727946827614c6852073fc01478a770f345281842dff6cec79496"
 metafile = true
 
 [[files]]
+file = "mods/pluto.pw.toml"
+hash = "d0aaada0e53b9740378b0f517ae969af7785d4cec9962b6492232a7032934e0c"
+metafile = true
+
+[[files]]
 file = "mods/projecte.pw.toml"
 hash = "e7dc8d7cdaaf2b78aeb912382d45bd9e003d7ed90d9662bde329ec664e1888ad"
 metafile = true
