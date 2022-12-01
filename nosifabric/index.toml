@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "9fd5d06269ad5f32cd24a4f528f7d0d612ce979bb8e855fbf8542ac77d239984"
+hash = "6665fdfc09f27cf63a02404048426a34f7f0c7f77da084bbe9ad7bbed01a5c93"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -784,7 +784,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedreborn.pw.toml"
-hash = "14b962ffada8b21ec71bf5597e20257f6448d251b6eb3ef3bf9e5f3bdf0be7e9"
+hash = "04d2407d8183b2fca737ce18e95a3f1914380b54011df3461ad8d045b06b649f"
 metafile = true
 
 [[files]]
@@ -799,7 +799,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f88d29fa84e82cfa254aa4bef6f2ec739c9a269c4566b66be7b3c89dd6e27180"
+hash = "222161c6cc9458fd7de3efbf9e99a3173a0bd99ad53ca311bd1597d57c7273b8"
 metafile = true
 
 [[files]]
@@ -844,12 +844,12 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "cb26574a1fa20ea279b722a7dab37ee96e8946f693242b2d4096c145f80802b6"
+hash = "ab11c99ace12ad9fb23421b896274cb3b3aa0d8e34f8692bd75b00d06e69f9e2"
 metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "599849db42f634fec547028019c6f4c88da9e874e073773abee8d33d4a8bd1aa"
+hash = "cd0fc96c044e809723e56aac532474d86f3f5478cbca15e54df530bbfaef8d38"
 metafile = true
 
 [[files]]
@@ -924,7 +924,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "ea57c9a912ed73e1571cad209903b6a61d06b8167f07d1e7506c1d23e1100eed"
+hash = "1b2f9d83d8133cbd0575aebc8a98d40d023c8ae5cb7bb9735cf3700ec2865fd3"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "014aa43e2754f02f0503664394ba6b7a86e9fd10ed455c6521376546d75f843c"
+hash = "5153b742252cd104d2fd71eea311d7523ba1b808ef832f1b8a9b7ede7c12a6e2"
 metafile = true
 
 [[files]]
@@ -1004,7 +1004,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
+hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
 metafile = true
 
 [[files]]
@@ -1144,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "d3b441fc147721fe2c498ccd17809ce2b5dc6d9714d33d66ef4e69d61e907e88"
+hash = "10ebe497b4e92b8490a74b2088c1c2565a7a947f0fb0fb05ca5a8e1e73013882"
 metafile = true
 
 [[files]]
@@ -1164,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "b6ca967b9c71b6f86576e2856c8620526df7d2563bb4ea3d3188e7e18aa6b102"
+hash = "a9b35dd577c0475e57176eaa615af6c1d4998abca0d8252cc5080f40bac6e957"
 metafile = true
 
 [[files]]
@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "10fc6be2bf781d31bc05f8818a3515fbd29d388ba32f13e9cc163add16016a26"
+hash = "f46c3653350886c083d776e6d529c6e97a6b8aaf7f297a89f8d226917fb08c39"
 metafile = true
 
 [[files]]
@@ -1249,17 +1249,17 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+hash = "6cc079b02382d648565590fe6297ec0f8f506f3b44bf0e69f5234790e1bcd9f2"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "29d1cea9913dd854ba5b411fc632290f1b07cd1178b0309aee487fc2c8aa4e36"
+hash = "689cd721deb33671713fb9782c3e132eef73a6b1d553cf85070ce91b72c5d95f"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "d4e2b4012f363389d466eae43c8633a7987ddf8c3f589a6b4995f5b51d948748"
+hash = "91413f23be33f30f6fecd49ef53ef03b0ab3b145fe0a92323d0effb4a49ddd82"
 metafile = true
 
 [[files]]
@@ -1274,7 +1274,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "fbc7cf43256806a71a7ea1ee1c05bccfd94be736c5def2c2a5ed1908753e501f"
+hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ffb60b34a189fb99645973751f4334b6e8cd22dfdc40cc10ff07c1bccbcc4e41"
+hash = "db6b8affea2bd00af88e12d4f7308f2546ee522a942f8d132f415e7e70b373c7"
 metafile = true
 
 [[files]]

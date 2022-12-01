@@ -1,13 +1,13 @@
 name = "Macaw's Windows"
-filename = "mcw-windows-2.0.3bfabric-mc1.19.jar"
+filename = "mcw-windows-2.1.0fabric-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2a66f7d2e35010499f2994a51afed8379d06b02b"
+hash = "ae2aa7601cdc44399517af2d07e0c1685055dfa5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3830462
+file-id = 4110531
 project-id = 363569

@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "e1bba1f646553f88f2b452a7123d38062ab707a78f4563e61a7fb7996ea3d130"
+hash = "4ec9ed94288e4809951e647ff88bec8106f4994a9d1fcd23e51b5b3d9c63e6a7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -962,7 +962,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.toml"
-hash = "bbab093709cabb06ebb6f80825b4e6e9b51c358b70a9d55eb737d827fc4895b7"
+hash = "99916b53ac6066342d1fc0fb9500189b519326386c9c3eaa009a25bae77a2d2d"
 metafile = true
 
 [[files]]
@@ -1007,7 +1007,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "c146defcb55203d7a379d1dae33437e2b4848d872eb8d5bf756a66be1625494d"
+hash = "92cc4404ae3e16f11d488c4aa2e79c1cfe271a2bf27d5ebe9e401b38dc21ea3a"
 metafile = true
 
 [[files]]
