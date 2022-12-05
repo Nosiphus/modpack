@@ -1,13 +1,13 @@
 name = "Music Maker Mod"
-filename = "xercamusic-1.19.2-1.0.0.jar"
+filename = "xercamusic-1.19.2-1.0.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8c056e821ef1e3c1c1ad30c729b1ace7e660f4a2"
+hash = "14c22880f7633ee878a2561294cca192280518a0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3947219
+file-id = 4131738
 project-id = 341448
