@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "f1631de7d82b87323614a8a24ff6df86c718ffd4b3afb6d401d01ec210962f70"
+hash = "466c9a049ed9987adc8fe0777a1ef43460481a20ac9621ac6da5bc14a4c6d509"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -738,12 +738,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "61785eedc897c2aa217e2109d6161e1dd0f7e30eba10d112c83429269890b402"
+hash = "5b463a3e766aa443f2eafe3c999871efe030688a5cc4b9512882d1e9fc87f585"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "87625c7d17e7ec5171994a92da3db4c28dac42a9bde01c8944d061137f34c1fb"
+hash = "3b60dd61e2b9cc9bc39037a8e0c8a55020fdbbeb47fb5a31ed3c06e2d457a4b0"
 metafile = true
 
 [[files]]
