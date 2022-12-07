@@ -437,6 +437,11 @@ hash = "da526f503d2a785c10a47c6f1a5a0b5abe097fd8a7e5a4812e1fdb91127b646f"
 metafile = true
 
 [[files]]
+file = "mods/littleframes.pw.toml"
+hash = "d184c713256f9cc0271e3c51c9a95762fc90eccdffe1de5282f266e4436ebc09"
+metafile = true
+
+[[files]]
 file = "mods/london-underground.pw.toml"
 hash = "242f727462770df92c9350f8839fb47840127d824ffc9caaab6e66351782a3df"
 metafile = true
@@ -579,11 +584,6 @@ metafile = true
 [[files]]
 file = "mods/nuclear-science.pw.toml"
 hash = "ef11b94131b44e9a3959e5aaf4e9dc08c8d8656b2de9fc6a3081234d2dbc6c7c"
-metafile = true
-
-[[files]]
-file = "mods/online-picture-frame.pw.toml"
-hash = "4abbb2976aefff5fd1f059dd24feb90256b15a7944951ef23e78411106c6cf70"
 metafile = true
 
 [[files]]
