@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
@@ -988,11 +988,6 @@ hash = "3abde6a97b135d55d118b688418055e21cf49c89e9baf590b09b449312975bca"
 metafile = true
 
 [[files]]
-file = "mods/expanded-storage.pw.toml"
-hash = "d2420455abb5c08a3a4692a9aa828f95e0a34fa575b03ae041329b5ac16421c5"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5153b742252cd104d2fd71eea311d7523ba1b808ef832f1b8a9b7ede7c12a6e2"
 metafile = true
@@ -1059,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f1480d6ab6b5be038d817e0ed9bf8e35d0c81a5902e8f816c474e59af3bd3e29"
+hash = "2ad6a17bdb69e4f27e6bf8645346fd045d64c0514e97ab85a8401a6f4bf650a9"
 metafile = true
 
 [[files]]
@@ -1094,7 +1089,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "54eae21d1a19b029280faf5b4a94534dabbf25d2c2fecfe3ec05891ea55635a3"
+hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
