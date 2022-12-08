@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "7541a34848be2335a7fb4ce84c77e67857af53c45584eef9494312c4b1c81d30"
+hash = "dd9e64ba2544e58e672c67271b6574a55782d10568fe19dc0e8e7ff2b15c6c14"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -1029,12 +1029,12 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "b41e371121224024f82fcf0838bb34206b2eb55e42a7e46dddf1463b4f07a5aa"
+hash = "535e337441504b81e85adf518546f47230c577d8d8cf9468ced463003b75ad96"
 metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "4d7ecd93d92bab7af57de8b71aa52676dc93df2b92991702af582b026f256448"
+hash = "63abc798591351fddc8069cf92991ffe6e058f939e259a27d284270e835e9530"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
+hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
 metafile = true
 
 [[files]]
@@ -1094,7 +1094,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
+hash = "54eae21d1a19b029280faf5b4a94534dabbf25d2c2fecfe3ec05891ea55635a3"
 metafile = true
 
 [[files]]
@@ -1154,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "d6ca2210847eba97a436f1ad635a53a5b17c9d0e07ef5c661a00ab50b12e281d"
+hash = "02c4d6f80d6d004e13a188c73c197f6faffcef32614b681f252fca09ef8b9caf"
 metafile = true
 
 [[files]]
@@ -1164,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "a9b35dd577c0475e57176eaa615af6c1d4998abca0d8252cc5080f40bac6e957"
+hash = "cc0c48211c28ba36fe23ea975a96bd1e4c94de8cf6e155c14d3280190a93f5a7"
 metafile = true
 
 [[files]]
@@ -1179,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
+hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
 
 [[files]]
@@ -1259,7 +1259,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "82be5ef759fddb09aae36dea77308cd59fc7319853cd5ef9ccecd95a3c2a2db2"
+hash = "1a75ab909f95a000853f8ae9c7ba4af0b0d7c65841abb29a8eb5970e823fd891"
 metafile = true
 
 [[files]]
@@ -1354,7 +1354,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "fd46de6c3c5d14189e12daa71b81e697a248fbeac9b1c0b2d71bb8f61a84605b"
+hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
