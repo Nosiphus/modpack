@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
-hash = "da526f503d2a785c10a47c6f1a5a0b5abe097fd8a7e5a4812e1fdb91127b646f"
+hash = "698c2b65f3b6a94090ac237251fbc9706fa981d762314686f8f6028c8bc2a689"
 metafile = true
 
 [[files]]
