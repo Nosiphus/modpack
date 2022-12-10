@@ -1,13 +1,13 @@
 name = "U Team Core"
-filename = "u_team_core-1.19.2-4.4.3.235.jar"
+filename = "u_team_core-1.19.2-4.4.3.236.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5522a7bae141611cdc1ebfe2f6d18130fd408c15"
+hash = "a1977f037c452091da63dbccceed63387a948a24"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4069195
+file-id = 4153767
 project-id = 273744
