@@ -687,6 +687,11 @@ hash = "380174a8c050fb8342d2e09cf769a58af7ca9746091f4daf25797375681df479"
 metafile = true
 
 [[files]]
+file = "mods/unifine.pw.toml"
+hash = "6f6103b985f2d2417293f5e86939323b7caa341cac85abb07db8f0a2b4061cba"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies-control.toml"
 hash = "eaa3d0082370257570894e26bfdcb7e441f876fb7dcd06dc351e126c9dd35d23"
 metafile = true

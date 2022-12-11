@@ -17,6 +17,10 @@ file = "config/ModernUI/text.toml"
 hash = "2444e0c8850ca8808a5a99379a6692e5a1a214e958004d01d0be513a0ea17f45"
 
 [[files]]
+file = "config/computercraft-client.toml"
+hash = "ce3e34235dbed98c8f9f07a0c1a4a5eeed4ddb5a370ab283a38f87474abcf5fe"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "aeded4f82c92c5ab9debee0b420c4957788c3cdd38da329562a59e0832547514"
 
@@ -46,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "4bece25e25ed5db40fc20c8a83a46bfb62fddfaad5527898cce4a90c97beb351"
+hash = "fcd65d8eab7e4ae73d29a5315ec5636dc5470b3a7d634cab0505ef2037f040a7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -107,6 +111,10 @@ hash = "fb9277787edfe5016afdadc2c128855593c6cc324adf04b1bfd9946ed7bd8d7c"
 [[files]]
 file = "config/fancymenu/panoramas/primary/properties.txt"
 hash = "280d8fbf33a3c8adf4e10cbf7e139b6a034b6e0d9fcc00418559c91d21082e02"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "bcc9b6bc0bc829f96a71381c2360a10e0bd2ff12d5419189450dc1776aef6593"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -628,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "340c07732ba85ddd7add3c52a0cce183ab961970d300d8c389f4d80eb9c5218e"
+hash = "8fa14b1fd19bfa4a3ef18f9422e1c165a4c6db6dba6ad4005ca362dc94bf5b9e"
 metafile = true
 
 [[files]]
@@ -708,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "da5d7444b513281ce09102607c4f0f97b6fde8395b808c0c93b52f3cdeefbc74"
+hash = "20c40c9a0ada4132b482abd78762f78d26ca0f26a32d44a27e4843536a4b9ee3"
 metafile = true
 
 [[files]]
