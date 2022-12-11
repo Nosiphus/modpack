@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "dd9e64ba2544e58e672c67271b6574a55782d10568fe19dc0e8e7ff2b15c6c14"
+hash = "ef22e5a183cc906d2f0331e1228a39d53f9e7fc8b45186de17f52cef712eac5c"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "a3b079d2a092784d2019e2443c1e47f3e08de10a0bdeab732067c5e45351a96c"
+hash = "d930cef1a8fac8f24ae0bd3b1f0fc07781f9a1a8c68ef1464d5ffe1b51af7f6e"
 metafile = true
 
 [[files]]
@@ -844,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
-hash = "ab11c99ace12ad9fb23421b896274cb3b3aa0d8e34f8692bd75b00d06e69f9e2"
+hash = "bd21befb0fa945159638844e06cba6a5e298785866508a95a100026a10dac0a8"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "37031b97299b444d87cebb4c40091fca6130cc1ffd5d5eac7bd56ff1406cfa10"
+hash = "c19d5ad0b3b30fc4d9f1a712b0686f267bbd08b825e5439817b585195f7d0797"
 metafile = true
 
 [[files]]
@@ -909,7 +909,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "bf9c6667b396a24d340e90311be9001817e2942b9eb693737473db6a5ac1257d"
+hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "2ad6a17bdb69e4f27e6bf8645346fd045d64c0514e97ab85a8401a6f4bf650a9"
+hash = "6911ad165964bf683549426e6be93b7a86d2e576f2dac9316cdec6615036f9e0"
 metafile = true
 
 [[files]]
@@ -1149,7 +1149,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "02c4d6f80d6d004e13a188c73c197f6faffcef32614b681f252fca09ef8b9caf"
+hash = "7f8551034d9e4212d4eaaeb2e18404050c7f8ba6885a9baedc93d8c641abb418"
 metafile = true
 
 [[files]]
@@ -1284,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "79870ab97caf526e6599d2d429ef778848935bbaf2c7020948e203afbb3f32bc"
+hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
 metafile = true
 
 [[files]]
