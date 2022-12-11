@@ -612,11 +612,6 @@ hash = "a1c4adf9bd0f62ab36f02fe7a5717695b9ac1d8bfcdbc45f0bec609581c1dc5b"
 metafile = true
 
 [[files]]
-file = "mods/packet-size-double-forge.pw.toml"
-hash = "d1a4267ca6e3e348ac42025a79ba4cfac8720e98ce521a0c0345a917a83cc49b"
-metafile = true
-
-[[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "436e48c262de638e8ee65ddaef97883a8ce77d2c1d4f183399ce2def81da7993"
 metafile = true
@@ -668,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "b54d29c5eec814c5a98f873d8c97c50530886939f199a2cefd31f2e55c1cbdc4"
+hash = "6d611596626bedad9eed44b9e2261e6024c73db936c4b0e21c35680b6a2f6670"
 metafile = true
 
 [[files]]
