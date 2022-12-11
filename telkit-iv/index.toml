@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "8fa14b1fd19bfa4a3ef18f9422e1c165a4c6db6dba6ad4005ca362dc94bf5b9e"
+hash = "340c07732ba85ddd7add3c52a0cce183ab961970d300d8c389f4d80eb9c5218e"
 metafile = true
 
 [[files]]
