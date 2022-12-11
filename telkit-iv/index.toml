@@ -147,6 +147,11 @@ hash = "0cadff5cf99f69881fa07016c48106562d8eee295774109cfab3ce1574d0b3c7"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "f010c267e8cdf731ee1fa7ae99dafe82341bbdee440475856b12d42bf1a933e0"
+metafile = true
+
+[[files]]
 file = "mods/applied-mekanistics.pw.toml"
 hash = "d3406728fc72fa787bdb5c45426f42af5930b711594dbfd4b26d830c8c00f9d4"
 metafile = true
@@ -219,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "c72297485eeb8ce7464544b35c7b22814c84288ac7e3eb0c21cc9b2f636e0be1"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "b94e9de3c8c954baa48c4fe0c0b55745aa1121b0f364e09179c316d0ef28b3fb"
 metafile = true
 
 [[files]]
@@ -342,6 +352,11 @@ hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "ce2b6e0075e19966241735325011caec1d9c9827101f69962af4799e919d722e"
+metafile = true
+
+[[files]]
 file = "mods/exlines-furniture.pw.toml"
 hash = "af03b103feb7708af2d0f475a9d228b6b8209fbaa4d34d56b56846afb79a1391"
 metafile = true
@@ -364,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "848a019486e5abcd59e4db96779e5c76e30b90bcdf212028dddfa61c90476c1a"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
@@ -392,11 +412,6 @@ hash = "a97c162978d3d213bb65294224522a8ab28e76bea89caa9759cf6231e39c0992"
 metafile = true
 
 [[files]]
-file = "mods/furnish-furnitures.pw.toml"
-hash = "371d96f0de1e27b8cb6f0337115db9125f348590fa891180810ed07d132c05fd"
-metafile = true
-
-[[files]]
 file = "mods/hammer-lib.pw.toml"
 hash = "96a4da300a5cda462c63a9481524f72d41d2fff6ab7152828da0d7f31381e033"
 metafile = true
@@ -413,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7350054a8723463df1c5075edb270feabfd0e7fb26d482b3195af015603b1ad2"
+hash = "0cd9be9c43f01272d749c431ce28c19a8f4632c71800c64411a6fc614c5f1cb4"
 metafile = true
 
 [[files]]
@@ -594,6 +609,11 @@ metafile = true
 [[files]]
 file = "mods/optifine.toml"
 hash = "a1c4adf9bd0f62ab36f02fe7a5717695b9ac1d8bfcdbc45f0bec609581c1dc5b"
+metafile = true
+
+[[files]]
+file = "mods/packet-size-double-forge.pw.toml"
+hash = "d1a4267ca6e3e348ac42025a79ba4cfac8720e98ce521a0c0345a917a83cc49b"
 metafile = true
 
 [[files]]

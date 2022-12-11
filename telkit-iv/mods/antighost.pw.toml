@@ -1,0 +1,13 @@
+name = "AntiGhost"
+filename = "antighost-1.19.1-forge42.0.1-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.19.1-forge42.0.1-1.1.2/antighost-1.19.1-forge42.0.1-1.1.2.jar"
+hash-format = "sha1"
+hash = "986d374d7aaa158e442eef39c4b161ee6346ba87"
+
+[update]
+[update.modrinth]
+mod-id = "Jw3Wx1KR"
+version = "iDNuC4km"
