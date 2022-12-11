@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "ef22e5a183cc906d2f0331e1228a39d53f9e7fc8b45186de17f52cef712eac5c"
+hash = "249ac0d5a0481f85087bd71002213609768953a7675fc72e9bfda73a7a2e0735"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -1028,6 +1028,11 @@ hash = "535e337441504b81e85adf518546f47230c577d8d8cf9468ced463003b75ad96"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "63abc798591351fddc8069cf92991ffe6e058f939e259a27d284270e835e9530"
 metafile = true
@@ -1329,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "1d57f1ced2a2ebac344a9dc391fa83d4a51a9973b33ff9bc66556e19ceb2c568"
+hash = "a1eb5512ca5b0be0561e17d4197056f8e9d68f87bc4eff59c2b3a9e77a92e664"
 metafile = true
 
 [[files]]

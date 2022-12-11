@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "466c9a049ed9987adc8fe0777a1ef43460481a20ac9621ac6da5bc14a4c6d509"
+hash = "5a17e2dd7f2f402b19cdd335b62608cc65d4a42704b4142f369425b130737ab4"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -282,8 +282,8 @@ hash = "dabd3f62a86f35439721e69e21d7e768245653bf293861a29d41fb3bd017db0b"
 metafile = true
 
 [[files]]
-file = "mods/foamfix-optimization-mod.toml"
-hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
+file = "mods/foamfix.pw.toml"
+hash = "bd1d32f59a0c07dde51ea5431f6f419736bfeb53217983bc523c8ca4ce420181"
 metafile = true
 
 [[files]]

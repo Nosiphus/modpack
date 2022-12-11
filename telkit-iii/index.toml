@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "36ae86ba890b7e3ff904409eec33e47dc92e276fbca7955266d8c4e60c2a4224"
+hash = "c2a983aee9ac2e46797a25de4029458544d3c905266c28682181362d22a542c9"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -511,6 +511,11 @@ hash = "3231a7df6f463e48d91a0c45da6e2e52d8e7c114eecd425e87b3954248373632"
 metafile = true
 
 [[files]]
+file = "mods/antighost.pw.toml"
+hash = "4824a12ff73d1a6612e940dda09b38323a7e831259613a6c7f4a6d2fb7ecfb24"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "2ba32a0deb9fac9eb2137c0cb807669d2d7464e007747dd115bf81bec480d250"
 metafile = true
@@ -681,6 +686,11 @@ hash = "dcacecd6dbf889d0d76695ddab09a3ac123e3788e4a5d52cfbe2bae9ce38354d"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "94615d62e6aa4eae9315377416ec33f075ef6e4d5ed4bff51561cb2ff0f03759"
+metafile = true
+
+[[files]]
 file = "mods/extended-lights-mod.toml"
 hash = "6ff812d35282aa90cee687dc61e3b4639428325ed9c1adbdda3211d40279a0d8"
 metafile = true
@@ -718,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.toml"
 hash = "fb20bbe40ab9e760c5c60e8ddda08a525ed905aca4a45da4766e70a578a74901"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9229256d490bb93c7194d09fe3ff151e2573d1514b0d515697f0e024f522757e"
 metafile = true
 
 [[files]]
