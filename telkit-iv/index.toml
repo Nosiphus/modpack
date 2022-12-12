@@ -700,6 +700,11 @@ hash = "d7d9ec94b91f30a7189eea03d0c92b1f7b1940d5527b6a4472e3485eef7bdce6"
 metafile = true
 
 [[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "02682ba7c960e74aa6a21c5daf6a053539342a962abeea27c324b67942f1243d"
+metafile = true
+
+[[files]]
 file = "mods/rftools-power.pw.toml"
 hash = "259e1d0d0e57b13c98ccc78fdac9b0792eb163684fc10cbf9ca017081db0beea"
 metafile = true
