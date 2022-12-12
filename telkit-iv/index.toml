@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "fcd65d8eab7e4ae73d29a5315ec5636dc5470b3a7d634cab0505ef2037f040a7"
+hash = "9f35b7a1031fa4b4b5559055424d09f060e7a83b633c37c1f2a1108ac137f6b6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/biggerreactors.pw.toml"
-hash = "496a7f679faaec10cfbfda5af8a63da08d84a4373e03f23ac4b63d393f4da016"
+hash = "4472c509eeab73d7022f7f4c68887cc27e185b4d92195bef8fc7f8093d1b6cc1"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "2515f68217da6eed81888a3fad75be77689c05d56ba1eb97cacb4015b98283ba"
+hash = "57539c643df321dfcccd2460747dbaff14eb116d34def5f0bf468eefed99c98f"
 metafile = true
 
 [[files]]
@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "340c07732ba85ddd7add3c52a0cce183ab961970d300d8c389f4d80eb9c5218e"
+hash = "8fa14b1fd19bfa4a3ef18f9422e1c165a4c6db6dba6ad4005ca362dc94bf5b9e"
 metafile = true
 
 [[files]]
@@ -661,12 +661,12 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "c38f9c7cdfa099761c5bc7fd64fc9e46e39317f33197b7b267b5ba7a84098e90"
+hash = "2b917cd523af8f2fbfcf3408c14a7a70cfeb29c15e9c0f9dbc227c95c0429915"
 metafile = true
 
 [[files]]
 file = "mods/quartz.pw.toml"
-hash = "186e832d2335944d14de5e37eb7c08857fa65704647fc7ec615029bb9aa5e29b"
+hash = "5077f41db09af0771fe0be5638ee1774ea7cd78339bb2e7f4c4177a207b7dd0c"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "20c40c9a0ada4132b482abd78762f78d26ca0f26a32d44a27e4843536a4b9ee3"
+hash = "48fd8f600684441670f56cabe8f9ec2473dd2e063c71c3d5b05dea1f2a020a3d"
 metafile = true
 
 [[files]]
