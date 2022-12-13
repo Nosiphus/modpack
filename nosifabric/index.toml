@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "249ac0d5a0481f85087bd71002213609768953a7675fc72e9bfda73a7a2e0735"
+hash = "7bc347e51bcc441312da8d7015897da0f4aab90e1f3f30b6707f5b1d57291d1f"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5153b742252cd104d2fd71eea311d7523ba1b808ef832f1b8a9b7ede7c12a6e2"
+hash = "de8978857fa72b8367e2b3c91a4ed0066e98cfb3d14a7dd95016e91b17e3d99b"
 metafile = true
 
 [[files]]
@@ -1154,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "7f8551034d9e4212d4eaaeb2e18404050c7f8ba6885a9baedc93d8c641abb418"
+hash = "b4274350597cbf40331d183ace399988049bd41971f5acab28815b0bf49c9a27"
 metafile = true
 
 [[files]]
@@ -1234,7 +1234,7 @@ metafile = true
 
 [[files]]
 file = "mods/quarry-reborn.pw.toml"
-hash = "bcd8f8ae65803011eb0b58f34a324490a7351b0e2bf5f921f1ee79dcf4f442bf"
+hash = "67cdf1d01031f6973195d15af20ba51a52b4fbdfa868b46077db6f1665adcc78"
 metafile = true
 
 [[files]]
@@ -1254,12 +1254,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "b80d2c3e7f014940b9eb8c1db7f854d5d361f1a3b6b36ce5e6496c9b8d1b11fb"
+hash = "6340a88921b62b5e3f688fa0808817e8cb338a725b070df52405bc26e7e5b49f"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1a75ab909f95a000853f8ae9c7ba4af0b0d7c65841abb29a8eb5970e823fd891"
+hash = "3c1887a5e3c034669c0e180d61fcf3a7446b61c1f112dfd09347851d00a6dcae"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "42b159eedc16220556fdd6220a82512e4b52e09a2e19ac2aa63f10f23e821da8"
+hash = "eb1bde8fc12fe16bde75234d4c5c8a1894c7939acdc4d8cda303044cdbf0d9da"
 metafile = true
 
 [[files]]

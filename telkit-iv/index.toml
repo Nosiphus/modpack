@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "02e7f4fc0f112bd0d6a47c55eb388b4500b9c640db30186508a0c0192b569a0f"
+hash = "5ea14239e0c551bb1e1a529c95b141271ecbd2b6cdb0ae548a8dc3a4fe7c5ac2"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -123,6 +123,14 @@ hash = "46ed0db4764d65cc448d7787fa12c65fb474e28108e002cb161af1909dce54db"
 [[files]]
 file = "config/mca.json"
 hash = "be5236776c70787b804f60d93ae597d8de6c517c07a57736c61b75c1cce09550"
+
+[[files]]
+file = "config/thermal-common.toml"
+hash = "e2d8b519fa9c591beddca42f2cb762ac220e84a5ca388b345d1124be078c68a3"
+
+[[files]]
+file = "config/thermal_integration-common.toml"
+hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -301,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmos-library.pw.toml"
-hash = "a671567dabd31db3cf6450fd9edd7483db63b9d68991392255f3a7721f7828f2"
+hash = "ddc6f6edbe9429170b543acabdd3e8410b4da6539d6711c45880ca7ce278e985"
 metafile = true
 
 [[files]]
@@ -336,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensional-pockets-ii.pw.toml"
-hash = "cd913483c93d528f38a15f9d421a177b1185e09696f05a68f73e1ae2f1052939"
+hash = "b326ade7c46320e02bb5b0806f91ba371c57d89a025467ec3889f933937bb18d"
 metafile = true
 
 [[files]]
@@ -751,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5ad7dca2b24790e03cc3c85d033b9922907bfe6d1860e965f57ece52230af073"
+hash = "895bb8e1c8b8b95b7d243bf076bec0e2722125965be13a9f73728372c725eb08"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Dimensional Pockets II"
-filename = "dimensionalpocketsii-1.19.2-8.2.1.60-universal.jar"
+filename = "dimensionalpocketsii-1.19.2-8.2.1.90-universal.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "145e7b4fd4651501ea4951a01b83d4d32355835d"
+hash = "164c7ec41841d444e5812354d06c74be806adc1f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4125194
+file-id = 4171203
 project-id = 282573
