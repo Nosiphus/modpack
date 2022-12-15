@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "b124718bd97cb9eb74dc8ccc2e9f96d7b9eb7a9ed67380459498a9c29a597e6c"
+hash = "053cc77f590284bd220809d31e4fc607a2f8badb4568c2e402fe20b97d1d60c0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "cf5538f4a5f9aca00118214ba4b004bc3cee6acc7b1fb9941887c191fb76ce08"
+hash = "0506eae1f3c72ad33a37ad8eaa2fbeebaedb2f9cf630461f5265d672473ebc44"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "bea89faf335c7c8cbb0e37c223770d98d73a420738745ec47700ed97857df871"
+hash = "308b5db27efdb9f3a70a996660e153f67b4942d9524b3b8bb69b73933764e60a"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "8d6741aac70eda5d24e9c17409f56b8ac07f0473bbd34d3f2003b90390344281"
+hash = "498cf27e98bde8b2a5d6e631aef5b0baa2be66def483adf4ece2375ccbc7c040"
 metafile = true
 
 [[files]]
@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "8fa14b1fd19bfa4a3ef18f9422e1c165a4c6db6dba6ad4005ca362dc94bf5b9e"
+hash = "2461d644682f7acf64ee4bf4a5480f321600a708e8aaa0d590776b35cfca81ab"
 metafile = true
 
 [[files]]
@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "02682ba7c960e74aa6a21c5daf6a053539342a962abeea27c324b67942f1243d"
+hash = "1cb588d25a1c80d825260adbeacaef204c458ed9d69fde0674f94b05c55a25a7"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "48fd8f600684441670f56cabe8f9ec2473dd2e063c71c3d5b05dea1f2a020a3d"
+hash = "ee97b73daab748f5e7a31a14f23e094911d902fb7567318ece660aaddd82bdcd"
 metafile = true
 
 [[files]]
