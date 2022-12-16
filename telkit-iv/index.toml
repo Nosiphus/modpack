@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "8975c7658d56f117080dcc539475c4bf23b24ea510c410709fea8a936e16a319"
+hash = "3c069f1a351280b97fc8d7cde3aaa74e6dd14b9ede830677a6a5c12f37226270"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "fa72da143ce3f6b598020b4ee5cc94c6e338535146f94fe468023a86691a7e91"
+hash = "85e9b8f568b9db744ffabf4d9e31ba4e1f57d7fdf4a1fd5f90a8e7cb24033611"
 metafile = true
 
 [[files]]
@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "fba946b98cef98361e246323266b50bdaf8e4969f55a926df6c105016a923bef"
+hash = "c25cc8abc22dbed945a612e2d7dd795b3abf705ab9deabdac2113424bb763f8a"
 metafile = true
 
 [[files]]
