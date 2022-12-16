@@ -1,13 +1,13 @@
 name = "The London Underground"
-filename = "MTR-LU-Addon-forge-1.19.2-3.2.0-1.6.jar"
+filename = "MTR-LU-Addon-forge-1.19.2-3.2.0-1.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2e836011352e192fcf35497110522104edb19153"
+hash = "dabfac624f9fffed6f0961897589c8ecf3ed3ef2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4126768
+file-id = 4181521
 project-id = 545686

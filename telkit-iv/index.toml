@@ -479,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/london-underground.pw.toml"
-hash = "242f727462770df92c9350f8839fb47840127d824ffc9caaab6e66351782a3df"
+hash = "221bd6171b6612ba888ab73b6c9a4748bf7b708ec613dcb60cabd77a29626d68"
 metafile = true
 
 [[files]]
@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "fba946b98cef98361e246323266b50bdaf8e4969f55a926df6c105016a923bef"
+hash = "c25cc8abc22dbed945a612e2d7dd795b3abf705ab9deabdac2113424bb763f8a"
 metafile = true
 
 [[files]]
@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "2461d644682f7acf64ee4bf4a5480f321600a708e8aaa0d590776b35cfca81ab"
+hash = "1fbd7ae42fb097ef32d597dfd6be9f4cbc9c7913257b8b0ed049550a80781b46"
 metafile = true
 
 [[files]]
