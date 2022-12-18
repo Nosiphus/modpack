@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "4e15dd5ea83c62a237a80c41fac125d8f22dcbd5f282c6922e4aceae5961ba87"
+hash = "c4f6338fdcc6f5168a3779ee950b5ee3a597e33f10527a48cfe383f57e63bdd2"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "0ccff0caf3c20eb83464c6d614f879e4931bdcb2fa2638ca4bc4734a8c5942c9"
+hash = "9842a952faa6ca8f3c4d741ac53f05c2f966bd8c008256edfdceb8dffed2de57"
 metafile = true
 
 [[files]]
@@ -649,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "a3fa690f86ddcee698752958a501824a6c888b9a6e52e5df77cea7dc1370203c"
+hash = "c774f72c300c9656cba2eee100b0f9d70ca3576e782cbcb999ac530c9bcc02d6"
 metafile = true
 
 [[files]]
@@ -754,7 +754,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "53f899833bd375ace59de920ac6d475fc4c9a670e10614aa2376c59115742a19"
+hash = "7b4458a7677e9fa9ba063949798313169aa34caad56cd69b0d529c8287e4b325"
 metafile = true
 
 [[files]]
