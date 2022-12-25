@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "64b9c64890a92c6d1b582ad3c763aa445a329f23e386120e86f2e5a8ff8573df"
+hash = "78c80c38821657fc9bc79dfd03ae8fd5dbc1981106cbc6b87554b67cd686c600"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "b94e9de3c8c954baa48c4fe0c0b55745aa1121b0f364e09179c316d0ef28b3fb"
+hash = "2a236dee3fe1e9516b6bc7a333ca53214ae6d7513d61b7cfb80d20075d2a52f0"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "17e0aabcf756322de5b612b85f9cdee3609eb06aadc9898d5049ea6ae2407bfe"
+hash = "9823677318de3ce0516d864f2be203e851ae3abf8254535cd099a7ea152beff1"
 metafile = true
 
 [[files]]
@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "c25cc8abc22dbed945a612e2d7dd795b3abf705ab9deabdac2113424bb763f8a"
+hash = "8ed4748f47ec24e784c2bb92c3dbdd8097331355558dfd4b04d39563ce83d520"
 metafile = true
 
 [[files]]
