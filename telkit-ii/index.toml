@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "2f42d7017a15f1eada8e099c02da8475c1aa4426d99bd1acfa70280b19a8e096"
+hash = "511cae135c41bfa2c5279042b84ddfbb1a79894c562a810d85e82cfd86caf322"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -562,11 +562,6 @@ hash = "648d73d771c651175fea5d08e4ba4e9e6eefb3a6817a8c2095ba2c0d99aa7f34"
 metafile = true
 
 [[files]]
-file = "mods/reborncore.pw.toml"
-hash = "210ac01b61f9b387b1406c05b788d2dafae7c261756d814b27ba99400391865b"
-metafile = true
-
-[[files]]
 file = "mods/redstone-flux.toml"
 hash = "f765ddd60c05f7a8920fed0efbab743f127d382b39f1b2e5a605451eace0cbff"
 metafile = true
@@ -629,16 +624,6 @@ metafile = true
 [[files]]
 file = "mods/surge.toml"
 hash = "fbc80eda6ffc444db4ab316424f5a818d0d6076bd06fc8d72f2f798870cc91d6"
-metafile = true
-
-[[files]]
-file = "mods/techreborn.pw.toml"
-hash = "a54a03942ed382d2d195f63e386c5bff4ef6c521b3b1a3d2a1d8fa4283e2c99b"
-metafile = true
-
-[[files]]
-file = "mods/terrarium.pw.toml"
-hash = "f304fe93546ad5c6c342331b3fb369558022853fe9a240361f2e0a2d2de750fd"
 metafile = true
 
 [[files]]
@@ -714,11 +699,6 @@ metafile = true
 [[files]]
 file = "mods/vanillafix.toml"
 hash = "e734ca128c2798e2af22a6127b7d7c61d94a0c07455d31863a8d4b0496fde0c1"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "0af91e64926856848449b73fcd31a7fe37c1756fdb905ccbb97cd603218275f9"
 metafile = true
 
 [[files]]
