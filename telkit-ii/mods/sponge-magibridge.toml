@@ -1,0 +1,8 @@
+name = "MagiBridge"
+filename = "MagiBridge-API7-2.13.jar"
+side = "server"
+
+[download]
+url = "https://ore.spongepowered.org/Eufranio/MagiBridge/versions/2.13/download"
+hash-format = "sha1"
+hash = "a018a92c9d8f2c69c649977bc01264a9f5cccf68"

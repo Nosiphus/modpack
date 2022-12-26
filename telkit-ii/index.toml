@@ -612,6 +612,31 @@ hash = "7214a4d4ed465308592ecab07315827a20728e81eee1371d16fd4ed56e574cd8"
 metafile = true
 
 [[files]]
+file = "mods/sponge-magibridge.toml"
+hash = "8cfe851bcd2464c0d7d234924bb4d874a74dd856436eb546d295191c66d34a4d"
+metafile = true
+
+[[files]]
+file = "mods/sponge-nucleus.toml"
+hash = "0b00fa752045f3a4dd343e084739175ecb5b8d306ef0b2040e88c1a44133483e"
+metafile = true
+
+[[files]]
+file = "mods/sponge-nuvotifier.toml"
+hash = "92796255337d8e3a171644769477834885ddbd26c3ec69ecfc1e05a3aeba0a37"
+metafile = true
+
+[[files]]
+file = "mods/sponge-redprotect.toml"
+hash = "5b3399da9397c1e196c8b855576b98d81c000052dfb17d5addfb026ac47d70d6"
+metafile = true
+
+[[files]]
+file = "mods/sponge-spongeforge.toml"
+hash = "29f44033d6b046ff18d12f7ffc19f9754688ae24b798503eb6415ed2e6fcbd5a"
+metafile = true
+
+[[files]]
 file = "mods/stackie.toml"
 hash = "d2efa3a3e5ef1d5b3ddaa632e8c32a5b62492aa84892ae90643379ed43b711ac"
 metafile = true
