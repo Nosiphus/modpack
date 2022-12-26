@@ -357,6 +357,11 @@ hash = "899f03d3c5e69b79df67faa81c5771a1262a6580bd14e74ccf47a925d3fb384a"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "b45723f984aa3fefed48b5c578acab57978f3c7f387f6e4eff6693cdfbd86b7e"
+metafile = true
+
+[[files]]
 file = "mods/lucraft-core.toml"
 hash = "105031e11594eddce89d92e2485d9589e1fd039d5a932d824eb68d0b844738dc"
 metafile = true
@@ -744,16 +749,6 @@ metafile = true
 [[files]]
 file = "mods/wtp-whats-this-pack.toml"
 hash = "27aefc50decff561bdd9c314d456f7c788eed6024f24cb2a93b05b8b0b67f77f"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "acc07dc2b2a87b746b235775ce885fb5d5f90d141e7a16563c53a1e649eb448d"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "3b60dd61e2b9cc9bc39037a8e0c8a55020fdbbeb47fb5a31ed3c06e2d457a4b0"
 metafile = true
 
 [[files]]
