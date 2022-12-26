@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "174976e31b343e9604ce2d7deee5bdab515aae5c8fd98c6643fee73b26f0f81d"
+hash = "7da799b467df37fba3b4da009522f3d7c8f23a2dbd0e2328f40dd73cbdfdbe95"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "d930cef1a8fac8f24ae0bd3b1f0fc07781f9a1a8c68ef1464d5ffe1b51af7f6e"
+hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
 metafile = true
 
 [[files]]
@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/another-furniture.pw.toml"
-hash = "b265c77ee1b136362d82b8662a5045d57dcf5b21c9503b347122057d17dc1830"
+hash = "82a7535fae2844c327b9305daeef0a0de4e3c3044c14f3e8969b7f21ccd6792e"
 metafile = true
 
 [[files]]
@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "de8978857fa72b8367e2b3c91a4ed0066e98cfb3d14a7dd95016e91b17e3d99b"
+hash = "d5125dcf51d480c8e0f95ef01387e356df1fb21cd1dd5dde75b0ade06a8e44dd"
 metafile = true
 
 [[files]]
@@ -1024,7 +1024,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "535e337441504b81e85adf518546f47230c577d8d8cf9468ced463003b75ad96"
+hash = "215ff73b0f9091633859380e589ff0fccb7e42551f273d509d197210e07f372f"
 metafile = true
 
 [[files]]
@@ -1079,7 +1079,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "94690110840b6ac0d257ce753a5d2ef91f85762d7eab874a6ab1922c4d504ce5"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
@@ -1104,7 +1104,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "966a9fcb0a3830d292e24ce61fbbb4c9f7546b1153a0b8a44bc7efc83b0bd42e"
+hash = "46abacb059a2af9fe270f2be6c714ac7d5eeee71b4a9fa2f20ac047438a12cab"
 metafile = true
 
 [[files]]
@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "19a1dc455a68328d5a8449cb59849b1c4ee3189e3f49a8bbc15e15a4df25788b"
+hash = "b16dd6d03444954164f412bdbbf33c23e88a28daf83fa4628027c6b3e167107a"
 metafile = true
 
 [[files]]
@@ -1134,17 +1134,17 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "32746a6c2808791d1fbcb95883ee6cb001fc6c536c9dd0146abc821167bbb651"
+hash = "249a3b661bc2cb8c2945757fcf6d28debe00fc11208b73829b3e89f70d943b68"
 metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "5dd16ad9b4057da6697197872580a42f92cbc3bf2a464871b8ff349163ea3f98"
+hash = "0f191d91738977153ad953a306e8c154e0abb87b35a33b1d397d0131395df02d"
 metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "10ebe497b4e92b8490a74b2088c1c2565a7a947f0fb0fb05ca5a8e1e73013882"
+hash = "b96fddaa1229e5f1194af728e987800ce250f98cf2bbef345735ab316c0fd4f0"
 metafile = true
 
 [[files]]
@@ -1154,7 +1154,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "1ad40d21a4ba8c641565916d3c41eaf9f572f3a3b31ab30d9b02e86768afac88"
+hash = "c6009e79d3a878a31b5b0905e2af351b1842c31d790d0350d2bd14246f683107"
 metafile = true
 
 [[files]]
@@ -1164,17 +1164,17 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "cc0c48211c28ba36fe23ea975a96bd1e4c94de8cf6e155c14d3280190a93f5a7"
+hash = "c6ffa25aacda0741ce4ab693197e266b1dc5eaca81a9a209335c7535ccbd07ce"
 metafile = true
 
 [[files]]
 file = "mods/modern-dynamics.pw.toml"
-hash = "c2f97f77d10e0bcb2d3ab8fa90689a4e83a835ca49192e14c49273e49384729e"
+hash = "e18348cdd6fe4f8e38186414065aafda150c7c29e7c39a4d2af1103a6397af9e"
 metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "f46c3653350886c083d776e6d529c6e97a6b8aaf7f297a89f8d226917fb08c39"
+hash = "dd116c4ba5097e5888baeb144b0a757f0d9ade2a8cf98c90395ea26bb38318db"
 metafile = true
 
 [[files]]
@@ -1259,7 +1259,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "3c1887a5e3c034669c0e180d61fcf3a7446b61c1f112dfd09347851d00a6dcae"
+hash = "6bcb14868f8f7e5756b9cc96de54f4948a4f13120e4e76f4193c3c71890ffe1e"
 metafile = true
 
 [[files]]
@@ -1274,7 +1274,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
+hash = "13a974dccf1da0cc52326355ebea5004a6a5d1dd2098d157b418045c04a747c9"
 metafile = true
 
 [[files]]
@@ -1284,7 +1284,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "53843b76c33ecf7910248cd1c941920adf23f81130a9155997d911199dce0816"
+hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "eb1bde8fc12fe16bde75234d4c5c8a1894c7939acdc4d8cda303044cdbf0d9da"
+hash = "c36d522fabbfefbb9dcde8eba4f7233b43b3c01b0c144a75c1bc5f72eb8ec01d"
 metafile = true
 
 [[files]]
@@ -1304,12 +1304,12 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
-hash = "199bf931e17458fa299e16fc5f761241dde9ff1f9e62fe33e52acdcc1fcc2aa0"
+hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "a9976fea7491f95ccbb26494960f36393f0fac4de8e4941650343a57bd43c005"
+hash = "a99b5d1a81e18e09cdef73cf5140c57427a1e59f4c39f19f942f9bfaf002dd48"
 metafile = true
 
 [[files]]

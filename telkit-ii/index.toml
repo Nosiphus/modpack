@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "5a17e2dd7f2f402b19cdd335b62608cc65d4a42704b4142f369425b130737ab4"
+hash = "2f42d7017a15f1eada8e099c02da8475c1aa4426d99bd1acfa70280b19a8e096"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.toml"
-hash = "6dc26859fcc62c01c0166c476af534be119bf7b80863f2088012d905d65d6484"
+hash = "bb0145fe9765794b5c74a2ed48311ecbcfbb9ba259c0d2442669d463ef4fd1bf"
 metafile = true
 
 [[files]]
@@ -743,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "5b463a3e766aa443f2eafe3c999871efe030688a5cc4b9512882d1e9fc87f585"
+hash = "acc07dc2b2a87b746b235775ce885fb5d5f90d141e7a16563c53a1e649eb448d"
 metafile = true
 
 [[files]]
