@@ -89,7 +89,7 @@ hash = "f1c654d6d341035629ed725f9529d465001db4e2cd5e0d044f00c0f3459fcc6d"
 
 [[files]]
 file = "config/foamfix.cfg"
-hash = "57f4dfea298fa2bb0c47955f7a25dfe20fe23352a943d57120efda0ec507ef25"
+hash = "e332d5bae845f479d3e9848d3f1868362077110a86402449129749a4f884aaaa"
 
 [[files]]
 file = "config/forge.cfg"
@@ -597,8 +597,8 @@ hash = "11f7045a1dc0b815f045b9598e49f2abb8c76b1aeac0b6cdadb262179304c504"
 metafile = true
 
 [[files]]
-file = "mods/security-craft.pw.toml"
-hash = "19bf4b98bf0f30ed8faf681b6d8f580d28240d3b4486b7a8055bdff09e6d18ca"
+file = "mods/security-craft.toml"
+hash = "4f622c6c7430dd7780d3c9bf0d67d78c084424fec3059d532590f54a5119501c"
 metafile = true
 
 [[files]]
