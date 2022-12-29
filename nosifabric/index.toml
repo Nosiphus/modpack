@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "1a8c9970bbebd5296130d60a66891938a870dc0b25f9af69beafd4ebe7934279"
+hash = "95a1ca0f23de0a5ef2930b1009b76b42dac824b5510f9a560bd58c392f48b9da"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -999,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
 metafile = true
 
 [[files]]
@@ -1024,7 +1024,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-fabric.pw.toml"
-hash = "215ff73b0f9091633859380e589ff0fccb7e42551f273d509d197210e07f372f"
+hash = "16fc59591efb4837d79d0851af0284cafb7f886d5e595635206acb85129779b6"
 metafile = true
 
 [[files]]
@@ -1144,7 +1144,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "b96fddaa1229e5f1194af728e987800ce250f98cf2bbef345735ab316c0fd4f0"
+hash = "5ee8fe6018c7ad0fba0a3aa434aae95c7c3aee860f14262276459c4cfbbde17c"
 metafile = true
 
 [[files]]
@@ -1259,7 +1259,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1384ec6332b4a2a4c71a6a49b7e5fd721dd2baa53757ddbf95be0c29811c0797"
+hash = "d8c33633d54c2be5df1ab46f0b864a51079a4523f1df12bccfa908746c962cb4"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c36d522fabbfefbb9dcde8eba4f7233b43b3c01b0c144a75c1bc5f72eb8ec01d"
+hash = "26574964ff2a96d6b5acd1dd81fa9204aa3963900dd37e045e588d360795e302"
 metafile = true
 
 [[files]]
