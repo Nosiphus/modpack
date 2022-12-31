@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "3be6ad1fee1aab5d8af5d92f5e7858387b329ec7c7299ae38e004abadf34e894"
+hash = "0802610b15d1b5605291d85c9bea8258955320b39552e12245afe7eb69e73bdb"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ce2b6e0075e19966241735325011caec1d9c9827101f69962af4799e919d722e"
+hash = "df08408e2ece40e3dd267cef3829229f72a5f1da8ad6f69f5a6dd1f4ab98d7e4"
 metafile = true
 
 [[files]]
@@ -578,6 +578,11 @@ hash = "66ae01115673a26204a365a6150ce06b5ed5ad64ddded69dd43797e046ac1071"
 metafile = true
 
 [[files]]
+file = "mods/morecommands.pw.toml"
+hash = "ded300a23d3470bce3303cc4a5803bee247b9b0901eae00a7db825af27e0e07d"
+metafile = true
+
+[[files]]
 file = "mods/moressw.pw.toml"
 hash = "ff2c928b4615379d3bf840a3a75771990cc2f639d9c0d4ea210bc261d0df5c51"
 metafile = true
@@ -759,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4b445b86e6782c518a28a767a6d8bbea0d92303e6b7c912b54a86dedad4e0ef6"
+hash = "6db1628579ca5c69295fe54cadf93f1fcc387c808728d311466c36571904285f"
 metafile = true
 
 [[files]]
