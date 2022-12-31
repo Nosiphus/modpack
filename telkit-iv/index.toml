@@ -578,11 +578,6 @@ hash = "66ae01115673a26204a365a6150ce06b5ed5ad64ddded69dd43797e046ac1071"
 metafile = true
 
 [[files]]
-file = "mods/morecommands.pw.toml"
-hash = "ded300a23d3470bce3303cc4a5803bee247b9b0901eae00a7db825af27e0e07d"
-metafile = true
-
-[[files]]
 file = "mods/moressw.pw.toml"
 hash = "ff2c928b4615379d3bf840a3a75771990cc2f639d9c0d4ea210bc261d0df5c51"
 metafile = true
