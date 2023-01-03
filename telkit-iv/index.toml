@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "0802610b15d1b5605291d85c9bea8258955320b39552e12245afe7eb69e73bdb"
+hash = "61da442fa488a99b1191dc537d7685ac84881a041a505b773981d0672947fec5"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "2a236dee3fe1e9516b6bc7a333ca53214ae6d7513d61b7cfb80d20075d2a52f0"
+hash = "e05571cff1bbac31baa4ea016652de3b16c3ad9a7289d93d608a917c1e72c0ab"
 metafile = true
 
 [[files]]
@@ -374,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ce2b6e0075e19966241735325011caec1d9c9827101f69962af4799e919d722e"
+hash = "9c164062ffd0c84aca4fd3a76f0542f24c1faffee1f60f318f67c2933344f441"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "4deb17d9393c7554d0d44cdee54066799507dcdb71a5e791da29db03fdb95a6d"
+hash = "871ea2a1ea123faac4659e52950da092d630d622f8404cc44387908175cec8a0"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "13400f582d2974dc86e75cdd9c5e7bea7104050e086b06559ddcc741bcabbc4b"
+hash = "99b06405e5b91fe0ef929d3c6b4e900d41a77650fac52c63b6373902e1346587"
 metafile = true
 
 [[files]]
