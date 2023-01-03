@@ -122,7 +122,7 @@ hash = "46ed0db4764d65cc448d7787fa12c65fb474e28108e002cb161af1909dce54db"
 
 [[files]]
 file = "config/mca.json"
-hash = "be5236776c70787b804f60d93ae597d8de6c517c07a57736c61b75c1cce09550"
+hash = "84ad678ea3cc04e0cecc78262b88aab70b203b9ea53d3099b99937f611a52a66"
 
 [[files]]
 file = "config/thermal-common.toml"
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "e05571cff1bbac31baa4ea016652de3b16c3ad9a7289d93d608a917c1e72c0ab"
+hash = "2a236dee3fe1e9516b6bc7a333ca53214ae6d7513d61b7cfb80d20075d2a52f0"
 metafile = true
 
 [[files]]
