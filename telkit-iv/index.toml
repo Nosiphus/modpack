@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "61da442fa488a99b1191dc537d7685ac84881a041a505b773981d0672947fec5"
+hash = "36ce9b233d13f1a1a555a80cb9c99aad7af366b6df57f4983be61c3cc308581d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "d50cc812fec409db84152d4bb054af69d31504903d80c22d61d685507a3cf01a"
+hash = "4a9d0bae7a9a88ccfac620547d4141435527a58aa0bf51882bcda0e2c7f94a21"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "2a236dee3fe1e9516b6bc7a333ca53214ae6d7513d61b7cfb80d20075d2a52f0"
+hash = "b8ced2165f19c76c01600133a5a52230798c80b3e7065e2cbf646083732689f4"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "783760651608bf3b7920cac63024b86b6f6a8582e6428bad604576da808d7e2a"
+hash = "3743a1c7f35ba323f0bdd72a31693d9a322bedf6b7d0133bb3b41ae0fd81a621"
 metafile = true
 
 [[files]]
@@ -749,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
-hash = "473d69de1cc0bffb63ad597031c09c73edc93c9cdb40753b48edc135dc7a60fe"
+hash = "3ffd58bdf22e510d48a98a8a2482d4f641f95b601121c9bcb0ba7648adbd455e"
 metafile = true
 
 [[files]]
