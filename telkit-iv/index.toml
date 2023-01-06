@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "738b3e26e283618777cf27feb57967c7ceb0eb6b92fc6812feeabde0881a9502"
+hash = "cc0783f43e11970a7e5ab9326178e420d5606a7c54c315c173530b7871131156"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "b8ced2165f19c76c01600133a5a52230798c80b3e7065e2cbf646083732689f4"
+hash = "4b822ce6cc7d1d5185db001ab833bb65f92aeec1d598167e3c43d7c7d02e6804"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "415f2a58a78a45d7d67a1666c80739ce18577df0690fab53b559b7de4e26cafa"
+hash = "c301784776ca356a1dcbe717f35e234625f85665c03465aec2fb1063653f83a5"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/dcintegration.pw.toml"
-hash = "478addacc65bcedf90d6433dd558faabb4f0d218ad1620259ca26ac32cd43a12"
+hash = "7c4fa79b289882e8cabedff436f559b5cebfc50a6fa645cacf276aaca5d66957"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "66ed53a036a9be2ccb8a9cd70b5a8eb9d2dcc4f88f22b681eec207312d2cb3b5"
+hash = "cfeb7bc1cda3b23fd72d5ff7b96ecd18604f0c6e22c56aae3c42942a2951ff8b"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6db1628579ca5c69295fe54cadf93f1fcc387c808728d311466c36571904285f"
+hash = "cceceb864b5b1d06738868e2e5881f125631edc6dc142ca3aa2f519c5c03736e"
 metafile = true
 
 [[files]]
@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/useful-railroads.pw.toml"
-hash = "c944eb52a5b9d7514dc9dbc984c94b60f824c0d1db018eda912509a5750acba3"
+hash = "ba16b1ec1ebb44c485c39f3d2f073248b3a573f5b7c9686c2c2b72928a545ec6"
 metafile = true
 
 [[files]]
