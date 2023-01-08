@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/moressw.pw.toml"
-hash = "942d759d22b0cb75f7b752d10dc8e46e60a11659b0f30ac85379dfc26d577d2a"
+hash = "ff2c928b4615379d3bf840a3a75771990cc2f639d9c0d4ea210bc261d0df5c51"
 metafile = true
 
 [[files]]
