@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "86a59fcad63fbcea87715a53e91268b73cc1a80773df00f0eb47fd26c638b425"
+hash = "934bd2d86b5187631a09baa9751f73c2921fe5af5b16daaf6ecd46929ed6e196"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "4b822ce6cc7d1d5185db001ab833bb65f92aeec1d598167e3c43d7c7d02e6804"
+hash = "f34441de5797b618c6490f7b09eda4f24cf7e21e7d458f6adc8463d5816f7190"
 metafile = true
 
 [[files]]
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "0cd9be9c43f01272d749c431ce28c19a8f4632c71800c64411a6fc614c5f1cb4"
+hash = "42cd7e16cef498c9d24df3bdcbc53fadcd4a2165f5f1b987f466705a1c201cf3"
 metafile = true
 
 [[files]]
@@ -464,12 +464,12 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "807a56b73d801a8bfbb8ee127ee1306c8b8f68f60f9e8f44acbb9327b6a4f4c5"
+hash = "660a7415900b60424e3a731706f4cb8eab47021b1199f2137c53013cdde6211d"
 metafile = true
 
 [[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
-hash = "698c2b65f3b6a94090ac237251fbc9706fa981d762314686f8f6028c8bc2a689"
+hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/moressw.pw.toml"
-hash = "ff2c928b4615379d3bf840a3a75771990cc2f639d9c0d4ea210bc261d0df5c51"
+hash = "942d759d22b0cb75f7b752d10dc8e46e60a11659b0f30ac85379dfc26d577d2a"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "043c1c03f5c16c4e085766aa801e9c8e3a59bedb61bfbc0aa403208c88c9801b"
+hash = "6e1e82ccb321fc987875b7379b7b03d246832c41b6d5ed4a1753480dd9283934"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "0b2704b5b3e727946827614c6852073fc01478a770f345281842dff6cec79496"
+hash = "054de9dba3becc755a344d1ee9219752c2b836d9966b8db11ecec9b9db5469fe"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "cfecf96c098f3817ed451f64cda3a83fdf14c56b5ff1437dc379d65f07d1d379"
+hash = "50a5e5407682c7c29a72b42ada700455493ee0bf9b3a80e4c42d5be9a47f4ec7"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "cceceb864b5b1d06738868e2e5881f125631edc6dc142ca3aa2f519c5c03736e"
+hash = "3876c130f7a70b2b6e1e1d62e2bf0b22ed6683131eb0afb5e017dbe88fa01501"
 metafile = true
 
 [[files]]

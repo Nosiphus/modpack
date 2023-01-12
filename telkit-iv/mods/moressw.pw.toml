@@ -1,13 +1,13 @@
 name = "More Slabs Stairs and Walls"
-filename = "more_stairs_slabs_and_walls-1.1.0-1.19.2.jar"
+filename = "mssw-forge-1.19.2-2.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bdBzXqbS/versions/dogLbtUU/more_stairs_slabs_and_walls-1.1.0-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/bdBzXqbS/versions/IAVwKKRQ/mssw-forge-1.19.2-2.2.0.jar"
 hash-format = "sha1"
-hash = "b9cc854c463c2d788015a205ac8e6902924b7378"
+hash = "6e4649472777b6c70bfc9a8f1b83ff7a1edd395b"
 
 [update]
 [update.modrinth]
 mod-id = "bdBzXqbS"
-version = "dogLbtUU"
+version = "IAVwKKRQ"
