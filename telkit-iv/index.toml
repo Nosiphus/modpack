@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "934bd2d86b5187631a09baa9751f73c2921fe5af5b16daaf6ecd46929ed6e196"
+hash = "347c49bcb50ae7f26e7e9b6a398bf4ffdb2559619030e27a6d4eb3af766abcab"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -449,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "42cd7e16cef498c9d24df3bdcbc53fadcd4a2165f5f1b987f466705a1c201cf3"
+hash = "4ff9dff720fc9ddb483ad6721b9b78f6940105f3ab0c533a950c30acd2bf84f8"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/moressw.pw.toml"
-hash = "ff2c928b4615379d3bf840a3a75771990cc2f639d9c0d4ea210bc261d0df5c51"
+hash = "6140a304d46043d96ad7cfec914d081d46b408bb988bcdbd9be9f741af2c8eb6"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "50a5e5407682c7c29a72b42ada700455493ee0bf9b3a80e4c42d5be9a47f4ec7"
+hash = "e2c5e4e6e96280f7deb137ba53eb1d6267c01551c2aa1dccc51fa170d2ce49fc"
 metafile = true
 
 [[files]]
