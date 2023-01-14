@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "95a1ca0f23de0a5ef2930b1009b76b42dac824b5510f9a560bd58c392f48b9da"
+hash = "94b83b0cf10bfa9febbcf7278109fbd155ce2321a3e11d5b8c2c7b1b4a3d2411"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -794,7 +794,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "79953d7df91b0d2605c1c897019f7ddc072c55735441a3cce93800c73bf2e0f6"
+hash = "fe0c6414ed16ae36a3dfe45408659d5ac1855ff56095a1e85f1646ac5134f349"
 metafile = true
 
 [[files]]
@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "2db492a7ec0d37888c765c6d3a4a362de8b1539cfcaf97138176cb1e115d5da0"
+hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
 
 [[files]]
@@ -974,7 +974,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2516d3f962c3ba80990fd6db90adacbd764b6099dbfc0af4e233c6e685bf5448"
+hash = "c57806fe492a2b1f1c26c8b0495fda455e7622ac2754f1818012c3ee74f26f97"
 metafile = true
 
 [[files]]
@@ -989,7 +989,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d5125dcf51d480c8e0f95ef01387e356df1fb21cd1dd5dde75b0ade06a8e44dd"
+hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
 metafile = true
 
 [[files]]
@@ -1034,7 +1034,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "63abc798591351fddc8069cf92991ffe6e058f939e259a27d284270e835e9530"
+hash = "7ae83690f725e59e7d527fc272e16a120a7fa683f25b4e4142b121b3828ecfc5"
 metafile = true
 
 [[files]]
@@ -1054,12 +1054,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
+hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "6911ad165964bf683549426e6be93b7a86d2e576f2dac9316cdec6615036f9e0"
+hash = "30674895795238465a459627b3866840012db27328d9b5b5a319bfdcf4f65915"
 metafile = true
 
 [[files]]
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
-hash = "072c99965d0ee1273885c6934ca214b3b25b36898a55aa3f0748c53d293aa339"
+hash = "4f3f6cc0a4504670b2f5cce2de9b162c575cb0719eb406af06d1e5948d9bef93"
 metafile = true
 
 [[files]]
@@ -1159,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "13400f582d2974dc86e75cdd9c5e7bea7104050e086b06559ddcc741bcabbc4b"
+hash = "99b06405e5b91fe0ef929d3c6b4e900d41a77650fac52c63b6373902e1346587"
 metafile = true
 
 [[files]]
@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "dd116c4ba5097e5888baeb144b0a757f0d9ade2a8cf98c90395ea26bb38318db"
+hash = "7f2adc84303b278117efe707e7b3db89bfae0d987535582c67809750a9456f09"
 metafile = true
 
 [[files]]
@@ -1259,7 +1259,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "d8c33633d54c2be5df1ab46f0b864a51079a4523f1df12bccfa908746c962cb4"
+hash = "c70f7d34c3653cc2dd737bd4603438f5a15048269f1029e3c35c0ac7db012df6"
 metafile = true
 
 [[files]]
@@ -1274,7 +1274,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "13a974dccf1da0cc52326355ebea5004a6a5d1dd2098d157b418045c04a747c9"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "26574964ff2a96d6b5acd1dd81fa9204aa3963900dd37e045e588d360795e302"
+hash = "f32a81d66cdf147fb1a0a487f067bff74f8e101258cc551eaa232ef27ba5eea9"
 metafile = true
 
 [[files]]
@@ -1334,7 +1334,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "a1eb5512ca5b0be0561e17d4197056f8e9d68f87bc4eff59c2b3a9e77a92e664"
+hash = "c3ac0a55d9ad70ffd09246354dd3da272b35adf8543ba0654b3bd885d80e0830"
 metafile = true
 
 [[files]]
