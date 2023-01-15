@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "7b4dade5b4cdf74707244d584e8105c5f27f0d9386b85c90ce5c803d7c907d63"
+hash = "db64cf0c356d9099ecf6081bec350ea5c3a455468dd53cf11c341e5d9d4bded6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "48161126e4843d12e3203942b6cd67068e2bc997cf85477761c0de1b8aff3994"
+hash = "68ffae45121468e8205b8be4d2d67b723928de3ffb1aeda068eea3d6c9d246e0"
 metafile = true
 
 [[files]]
@@ -680,6 +680,11 @@ metafile = true
 [[files]]
 file = "mods/quartz.pw.toml"
 hash = "5077f41db09af0771fe0be5638ee1774ea7cd78339bb2e7f4c4177a207b7dd0c"
+metafile = true
+
+[[files]]
+file = "mods/radon.pw.toml"
+hash = "7bdf4e86620a8dcd88ad32d9e983412077cb2fb70ddffc99d9e1f5a2f2a94a1f"
 metafile = true
 
 [[files]]
