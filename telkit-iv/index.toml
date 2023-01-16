@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "db64cf0c356d9099ecf6081bec350ea5c3a455468dd53cf11c341e5d9d4bded6"
+hash = "841a7273ab6b5d1c3791bf185fcaa5e03620f9e2347429a306380f8faa7c71ae"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "0506eae1f3c72ad33a37ad8eaa2fbeebaedb2f9cf630461f5265d672473ebc44"
+hash = "5234ca3708a7308de0c84948a56a1ea1b538d23114315d65fd62899f866be7c3"
 metafile = true
 
 [[files]]
@@ -389,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "d2578406c17fe441980cf0d9f91bd033885a210923689b53dddb10ac99ba280b"
+hash = "78a522b50f3af9be297a7bf8cc5a9fa69a2a7fbfcbd8dc57dfa941da8e66a64b"
 metafile = true
 
 [[files]]
@@ -589,7 +589,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "6e1e82ccb321fc987875b7379b7b03d246832c41b6d5ed4a1753480dd9283934"
+hash = "52e6e1762bf2c2b71c21049be937f9e7b6ced29987002ead032ea0bc18933f13"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "054de9dba3becc755a344d1ee9219752c2b836d9966b8db11ecec9b9db5469fe"
+hash = "2a3d0a097540d53896e6eb9ca951ab54b525b73f40f248b68986faa4a1bf4d62"
 metafile = true
 
 [[files]]
