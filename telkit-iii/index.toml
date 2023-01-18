@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "6f34402db8628d1ae49c026c5c690b5adc03ec449aa9aa6d0ff69f11892f7d5a"
+hash = "cd447f83a44310354763a0db6b42e7d97e9f2df6c889427b0ff36c103eab18c3"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -542,7 +542,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.toml"
-hash = "d67a3fd5f36f1566488ecab3b9230b15a18ae6041e2835a74b0ce4deb41d920e"
+hash = "47b90fdea54bb7b8b04680eddcddd2aec88603b0db1832356b54b1484e6df1f3"
 metafile = true
 
 [[files]]
@@ -651,11 +651,6 @@ hash = "03935c0948c7ecdd5a26d8284ae8bb7426a03589503ddc1f988a3dc11a149144"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.toml"
-hash = "9fc831e0fb0c47502281d3e4ba1efe8089224930dc302b351a80b157bb38100f"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks-modded-compat.toml"
 hash = "ccbf1aea0abb24c8d66ad260511195ae1a138dedde2caa3b9fc6ac877f367eef"
 metafile = true
@@ -697,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.toml"
-hash = "d9696920eca229d3ed537ed9b95f74c339b6b6f3536edd705c4c3c88cd215114"
+hash = "9864abeed7279a7dfd8d4f5cc85a879e8cac0bfa66f8dadb26a566eb9919b458"
 metafile = true
 
 [[files]]
@@ -712,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "516c8054e9d66c65cc6855e7e23a57afbc03e026ce1b2d9b2c8aea9e81648ce2"
+hash = "2e9d1969f5c0c734b1ee29501aedd2a933ff4678eb948f6314bcdc5c0b5980f4"
 metafile = true
 
 [[files]]
@@ -747,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.toml"
-hash = "59f6d3d1ff6634ad23715bfc9cee4322c60afc0084e6ee7f65acf98dc966e53b"
+hash = "61a07650d73f277d3be7a4f243066b3e092d969a244b205704232a85688a9538"
 metafile = true
 
 [[files]]
@@ -757,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.toml"
-hash = "b34edf78fb348ba4e0e7622fad2525a0be7694c615d20174e7ee84ac045d081f"
+hash = "01674a4647f9bfa4da78d2e86110198aea844d5e30fab7ffc22db39b4ee78d51"
 metafile = true
 
 [[files]]
@@ -792,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "8683b197ce3d55ec135df70bee02764a95e6173da2f713c9414019bc30f65e27"
+hash = "fce4670ac3cf6ba4f3d3cee95cb1a1b120309123567e628206a4fca8fafd2f42"
 metafile = true
 
 [[files]]
@@ -837,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.toml"
-hash = "dde30d2add908476086f82332beac103521be12323c80693a05e6c5e3084bb67"
+hash = "fb1d012f5ae621b291ec876593c88660ace1439799c1300a3df69f2a08c7da97"
 metafile = true
 
 [[files]]
@@ -1022,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "92cc4404ae3e16f11d488c4aa2e79c1cfe271a2bf27d5ebe9e401b38dc21ea3a"
+hash = "0eb5ddd92230dd8016c818a540394a539015426bf40492dbcd536fd7f9b280ec"
 metafile = true
 
 [[files]]
@@ -1037,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.toml"
-hash = "4ffe053f67de3859fcf802650e83dfaaeedd27447967876bb960d7fef9685ec9"
+hash = "d4bce1c3817491413891c173805c2ffa855fd08609db2615699d610b129cfd54"
 metafile = true
 
 [[files]]
@@ -1122,7 +1117,7 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.toml"
-hash = "e4d1712d6608dc1b0dae5e79867d37aad491ae5cd0ac12b1b088fe28980080a3"
+hash = "17af2aef245b102ea0a2938d7ca1a2b74c7f7a36e5821317657c0a8accd151b1"
 metafile = true
 
 [[files]]

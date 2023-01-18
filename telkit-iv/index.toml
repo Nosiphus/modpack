@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "841a7273ab6b5d1c3791bf185fcaa5e03620f9e2347429a306380f8faa7c71ae"
+hash = "48ce41edd00f8e7a3103006077d4c7917302b7fcfb040e8c2ca5f3f427dfaa33"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -328,11 +328,6 @@ hash = "dd6b3a499a5b71b8cb879e95adc419a57f1013ff8d3adeb22c198c9d237c053b"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "7c4fa79b289882e8cabedff436f559b5cebfc50a6fa645cacf276aaca5d66957"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
 metafile = true
@@ -434,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "2c6ee89fd2772ed0e99345df485b129241438815cdafd6075e893dba23022033"
+hash = "f9d3d58086ece12762e16dde17a2a22c58435ae4c92ae3c735673a1cb4538fcc"
 metafile = true
 
 [[files]]
@@ -444,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9823677318de3ce0516d864f2be203e851ae3abf8254535cd099a7ea152beff1"
+hash = "252464afa4c8178c9fa77608f6d0f3f8b40867aba84e92d40b829a598a11db30"
 metafile = true
 
 [[files]]
@@ -579,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/moressw.pw.toml"
-hash = "6140a304d46043d96ad7cfec914d081d46b408bb988bcdbd9be9f741af2c8eb6"
+hash = "0ef35696c69acab6fd0ca2a55de2f8a492670a0444cfc05c75f116a0ecfda077"
 metafile = true
 
 [[files]]
@@ -674,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "3a6065a7f6160e44f5f584c1d073a801d71148d6e3054e9c26f44f77e197a3ef"
+hash = "015c29dbb4fcfe15bbb488d1f8d16ed81be77f25dbea23ea14f6e3be20b45a10"
 metafile = true
 
 [[files]]
@@ -739,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e2c5e4e6e96280f7deb137ba53eb1d6267c01551c2aa1dccc51fa170d2ce49fc"
+hash = "b615f7446eedfef0a632116e68fdcb1133cc67c70c0182f25d17619529cb1cb5"
 metafile = true
 
 [[files]]
@@ -754,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
-hash = "3ffd58bdf22e510d48a98a8a2482d4f641f95b601121c9bcb0ba7648adbd455e"
+hash = "15a9f0c0ae8a81ee1b78eeab5ea82312e3710148f911122f103b778640f295de"
 metafile = true
 
 [[files]]
@@ -764,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3876c130f7a70b2b6e1e1d62e2bf0b22ed6683131eb0afb5e017dbe88fa01501"
+hash = "e0f915bb6923231c06156011929b75a7a0cb0036982a700c3cb17e43c61f0804"
 metafile = true
 
 [[files]]

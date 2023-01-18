@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "511cae135c41bfa2c5279042b84ddfbb1a79894c562a810d85e82cfd86caf322"
+hash = "c2fd4f9c0c21e4629bf2d84e24bb22b89aef2feb15efe4586f10240ba61bfbfc"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -614,11 +614,6 @@ metafile = true
 [[files]]
 file = "mods/sound-filters.toml"
 hash = "7214a4d4ed465308592ecab07315827a20728e81eee1371d16fd4ed56e574cd8"
-metafile = true
-
-[[files]]
-file = "mods/sponge-magibridge.toml"
-hash = "8cfe851bcd2464c0d7d234924bb4d874a74dd856436eb546d295191c66d34a4d"
 metafile = true
 
 [[files]]
