@@ -85,7 +85,7 @@ hash = "f46eda57fa1bcca7d5f2dfe24679f91faea150c5e26a87cddc0a8e4ca73a55a9"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "f1c654d6d341035629ed725f9529d465001db4e2cd5e0d044f00c0f3459fcc6d"
+hash = "007ce69456cba5e7c43c3507c5c8bef5fb6e36c6e28dd4e07234f6b3db2c1ab2"
 
 [[files]]
 file = "config/foamfix.cfg"

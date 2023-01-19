@@ -190,7 +190,7 @@ hash = "c180d94a979017e5a7969e5f23dfc257f61a4c28fa38ab8bf10716c8dc3cfbb0"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "d705c2e7828779b5e47173831b53f205d0b2348b4fda9ad18664dcc41fef8cc8"
+hash = "b8eeae83911ea0687fec6ba07447b68ce7157298dc72df9fe365287f8861fc70"
 
 [[files]]
 file = "config/doubleslabs-client.toml"
@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "cd447f83a44310354763a0db6b42e7d97e9f2df6c889427b0ff36c103eab18c3"
+hash = "a8c843a2f743da6dd1a8de07c65dea0817006df85b465f920ba99aad9e132d1c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.toml"
-hash = "fb1d012f5ae621b291ec876593c88660ace1439799c1300a3df69f2a08c7da97"
+hash = "cdf32b69a661bf5372823df3eb802b8b6401f73586dda71bb8dc98305fdeb1b8"
 metafile = true
 
 [[files]]
