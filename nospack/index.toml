@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/noslabs.toml"
-hash = "57a91694879c7758fa6a56372c39ee15110156c5c7f83eff2baf50853d75dd26"
+hash = "4c933628c4d211c24eb7484ce764b935c625c0783ba2c196098e46985ed176e7"
 metafile = true
 
 [[files]]
