@@ -3,6 +3,6 @@ filename = "discocraft-2.0.2-10.26.2019.jar"
 side = "both"
 
 [download]
-url = "https://www.nosiphus.com/minecraft/mods/discocraft/releases/discocraft-2.0.2-10.26.2019.jar"
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/discocraft/1.12.2/discocraft-2.0.2-10.26.2019.jar"
 hash-format = "sha1"
 hash = "7382bd550c359c7ea37b07a6b13d0bd38d914881"

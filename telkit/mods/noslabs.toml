@@ -3,6 +3,6 @@ filename = "noslabs-1.7.10.jar"
 side = "both"
 
 [download]
-url = "https://www.nosiphus.com/minecraft/mods/noslabs-custom-blocks/releases/noslabs-1.7.10.jar"
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/noslabs-custom-blocks/1.7.10/noslabs-1.7.10.jar"
 hash-format = "sha1"
 hash = "9454bbb748b899788a7f3a5f847c2133edc57867"

@@ -1379,7 +1379,7 @@ metafile = true
 
 [[files]]
 file = "mods/noslabs.toml"
-hash = "979779fbbd9a1c4dbd8b4533d968707272d6c3dc5dac179f3efb220f7217cc51"
+hash = "74cd1cecc8f3b85ebef3954b2191310041c6636f3658e7baa4692f4550029e45"
 metafile = true
 
 [[files]]
