@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "4893521d2cfeba7741355831ab83dd82423abef959fa90144dd1d9937abef134"
+hash = "983a5b759d7693175839a50718107409b6016697b7a2fa33d48a825aa0d638e1"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "de4f41c84db936e2105e108c34de2870ee7d63760b56fc8abbe91a92c4509308"
+hash = "d64d00ca7a0ccb9ed315112474126567d4d0a4ff72483aae224430612cac88f5"
 metafile = true
 
 [[files]]
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "8a7a2149991b19bbab83e68d25344dbb510f019fcb3a298fd5beeb52db4bf186"
+hash = "9e3fe13ce4bf46ccdd2e32bf745d518997936642fd1fdaef9f525977baed942f"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "19da7c51ffdfc92ba7814adb09bcd2a845ef1714b1fa847095b82da5c95b7f19"
+hash = "30a98c2d143d15fd3916892e63bb0269f4b1124d09220315959f62e3afbf7d0d"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "ce0f8003e8048019fd382ac9cbf918dd767226a383242076b9c77c05d0c86ce8"
+hash = "46d9872d94bf2441c15caddc4086a5761112901fba5c1cc07167d073328a10e6"
 metafile = true
 
 [[files]]
@@ -559,7 +559,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "8ed4748f47ec24e784c2bb92c3dbdd8097331355558dfd4b04d39563ce83d520"
+hash = "68562134bcbce609aa8f5d3f5591d26b097ad678be1437ce583d75388b0259a7"
 metafile = true
 
 [[files]]
@@ -694,37 +694,37 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "d9ea9006e5b314bd4c2535968155cd812d67a97f3fb0795005e84bc0dcebe129"
+hash = "4eb43d34fbb732b7b9a6b64f5414bbe660b1feb2e6d0726f25730167e24e4ed1"
 metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "89239fc5932776163b3eb46e064adfbbafffe12e1a54079a20142249c4739563"
+hash = "83c2cf9be7eb74f0e42bfbd9c329bd86ef82c985e44f27cf8f16b3e2e7f91aca"
 metafile = true
 
 [[files]]
 file = "mods/rftools-control.pw.toml"
-hash = "d7d9ec94b91f30a7189eea03d0c92b1f7b1940d5527b6a4472e3485eef7bdce6"
+hash = "47c8d286a6dabda35e161ca8abb44217bd892359909024b490c516caeb4fe497"
 metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "8345a20d574eacb010dee940502ad907c064509bec7376939a698b0613192787"
+hash = "97b4c57e330547b8270fa601caf4cd00ab56644fc9a92ebab56193c345380a5f"
 metafile = true
 
 [[files]]
 file = "mods/rftools-power.pw.toml"
-hash = "259e1d0d0e57b13c98ccc78fdac9b0792eb163684fc10cbf9ca017081db0beea"
+hash = "762910ee28a687c6116ec87c7962e37b20e043850b2322bc246a5068a7cd4021"
 metafile = true
 
 [[files]]
 file = "mods/rftools-storage.pw.toml"
-hash = "26faba306700d46d381eb082edd9f5ff00f6a64b39fba0d2d944be43893a2191"
+hash = "7c7ee8f569c19b4f968d7049cb55d7b44e7b74f53f602b5e8c49b60d1a99a3d7"
 metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "603d3f2a2bf3c730c3a3b470d414f5585cb7e71d8ffcaa66004fcf29601cf039"
+hash = "200ed7debb30529a02a4afd7f6e24b51db6af1875bd36fbaebbf03458dfe3caa"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "d44da27c774c6444b818dc045924bd5f505e3ae6375501100e09655067ecede0"
+hash = "30e961e4f80abb991cc7c0b980d00c2a4d4c8c9d6707a630c4dd0390aa89f5c2"
 metafile = true
 
 [[files]]
