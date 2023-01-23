@@ -1,8 +1,8 @@
 name = "OptiFine"
-filename = "preview_OptiFine_1.19.2_HD_U_I1_pre4.jar"
+filename = "OptiFine_1.19.2_HD_U_I1.jar"
 side = "client"
 
 [download]
-url = "https://onedrive.live.com/download?cid=74BEC8DDAEDC9203&resid=74BEC8DDAEDC9203%21177&authkey=AKpINgWLi9sY3-M"
+url = "https://onedrive.live.com/download?cid=74BEC8DDAEDC9203&resid=74BEC8DDAEDC9203%21180&authkey=AFHqCPU-RuxpuCs"
 hash-format = "sha1"
-hash = "35ef18f953bbea9a4cba6e14d0731d56f888114f"
+hash = "f304c56c7ab9119ce4269f2b019cd4668f48376d"

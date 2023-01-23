@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "983a5b759d7693175839a50718107409b6016697b7a2fa33d48a825aa0d638e1"
+hash = "bd14cd1baf750c5f4d4c3bb90675b09f06d9d6499620595af620f731e96e8657"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.toml"
-hash = "a1c4adf9bd0f62ab36f02fe7a5717695b9ac1d8bfcdbc45f0bec609581c1dc5b"
+hash = "a62b46939d242648a89e5cac7c25a5d0424d36c7225b4b42b7a25d03fd6d5d19"
 metafile = true
 
 [[files]]
@@ -694,7 +694,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "4eb43d34fbb732b7b9a6b64f5414bbe660b1feb2e6d0726f25730167e24e4ed1"
+hash = "1e076ed7119b33dae285004ac3cdd0f347f0e680a938553549a2d3437f82e73b"
 metafile = true
 
 [[files]]
