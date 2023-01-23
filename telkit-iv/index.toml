@@ -34,7 +34,7 @@ hash = "d92225b3c17b087f568ad4c9cd6ca0c8d83eb7b9efb6ba29da035f1b673bf498"
 
 [[files]]
 file = "config/defaultoptions/optionsshaders.txt"
-hash = "dfa1cb1469c620dcdf77b58f017ad9bd4ede31064f6a9a5358ef0a970b63acd4"
+hash = "8d39c932e6cf83941b11aa4a430e9148717878aaf20f8faf1177f7cf3bbe39ac"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -843,10 +843,10 @@ hash = "2c5bea7b53f5f6aa29722c229b5efb2c1020a5be4559662f12a506f439534988"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.6.zip.txt"
+file = "shaderpacks/ComplementaryShaders.txt"
 hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "306c5c2f659cb7a5a648bacb420464daf89264404f7d4ea899fe6eb50de7169f"
+hash = "ca43e37d0903a2633c0d68d1b9be974cdbfc66bb24881ff8bd120f974620f674"
 metafile = true
