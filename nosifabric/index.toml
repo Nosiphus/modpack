@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "6c8473e10d14a065a0b77edadf4960cc5e501413f38380bd12ed3c3809fdc1d6"
+hash = "aae11170fe72cad86ff4ef513ea6eed4af2a458b233ec4ee153848382dee1dd7"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -849,7 +849,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
-hash = "cd0fc96c044e809723e56aac532474d86f3f5478cbca15e54df530bbfaef8d38"
+hash = "3c1d62aa0d3fdaffa6262a66d6ad980d608e03d56f29b88b85b61cdd4b72fc4a"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "c19d5ad0b3b30fc4d9f1a712b0686f267bbd08b825e5439817b585195f7d0797"
+hash = "b22fb603eab45ffe52a5ef7d44835cb41590646adecfe467ddd91d66f6570588"
 metafile = true
 
 [[files]]
@@ -984,7 +984,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
+hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
 metafile = true
 
 [[files]]
@@ -1114,7 +1114,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "5cdf721f41fbc4371c3cfd50d74016d9bb0f37bf4f1089e2aaa0fe0dd4ec130b"
+hash = "f4fdb82265f6fcff7dafcff59bd579ac335b37b16808e094e940d819233cfe77"
 metafile = true
 
 [[files]]
@@ -1159,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "c6ffa25aacda0741ce4ab693197e266b1dc5eaca81a9a209335c7535ccbd07ce"
+hash = "8bf6e9bdd6b70f85d531bed96d94b5a8af6dcb80c7257919e7e462e1d5dc6de6"
 metafile = true
 
 [[files]]
@@ -1249,12 +1249,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "6340a88921b62b5e3f688fa0808817e8cb338a725b070df52405bc26e7e5b49f"
+hash = "442aa2f4615ccf6a2a307d9f45a15c9789a29fa0848ca0c5350a93e941a770e2"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "14f5b32e3586d0c6ef5d58592f9ca7430d4b59e78e69973123a7339c11e1eace"
+hash = "5cf3f81549c6f557ad61bfae01f7a306b62d2e9df6d3875bdcee6976e7eb4a83"
 metafile = true
 
 [[files]]
@@ -1289,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "302af37e1da31339ce22a5aefc3676928a7dedbed1620f16c17ce327eb834b53"
+hash = "9b2acff3e884e46ff1c48274ed887b0dbe6e10a19c87930ade3a78510c7122d8"
 metafile = true
 
 [[files]]
@@ -1314,7 +1314,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "e05ac0c6b80847a3fbde8bb6ffa220dabe2690fb7f77b3f04af458901095eb32"
+hash = "0e87c2ff28e24ef808b475af9e45452cce6216c624523bf756acce1fde23ac2c"
 metafile = true
 
 [[files]]
@@ -1339,12 +1339,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "5031396a7cf279acf8b4c14183a1d8dbbfc287d3e82b3c6926544a8b4cd43c0c"
+hash = "124b52dd8e11a45a31446cde30e64174bba2dfd4dfbd3d3c5c63986e81ee5ffe"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
+hash = "17d831dc9a5939806f745aadeb8a0b11b0f1c7f587043e0d1aa77f40c76f73b9"
 metafile = true
 
 [[files]]

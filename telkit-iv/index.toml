@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "bd14cd1baf750c5f4d4c3bb90675b09f06d9d6499620595af620f731e96e8657"
+hash = "9313200386e9270170244dc394771e16f90bb2f2fdf5cff67c18e17de3ae6347"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/blue-power.pw.toml"
-hash = "c54a8920288a57a8ed5143b887cf871e2df2f167f679056bfcfcd124e9ca4e89"
+hash = "ec767659104773abec89a8a7808b50fe7d85b54782d3568f59a7cb842ad43664"
 metafile = true
 
 [[files]]
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "9e3fe13ce4bf46ccdd2e32bf745d518997936642fd1fdaef9f525977baed942f"
+hash = "8aeeaaa51dad882f07a69f1fc62a30caf0686ca6fbaac3c472b5e8e57cd76326"
 metafile = true
 
 [[files]]
@@ -669,7 +669,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "80e3f468ef6860c0b136543f44adcfeef9516c5f6761916488226f49e00936a5"
+hash = "2fe0d8d6b9dc02c1579dc65910ac26f046db707c2ed0813e9b347a7320e5ffd5"
 metafile = true
 
 [[files]]
@@ -714,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-power.pw.toml"
-hash = "762910ee28a687c6116ec87c7962e37b20e043850b2322bc246a5068a7cd4021"
+hash = "c216a97a40765f7d7a72baa83e9edcc6c240fc10d396f5fbe9c8d5dbbc608d31"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "8a3d18dc89796c940c11687fda979c77e70c3c7a7b1a25c0de2f424ebe2ba57a"
+hash = "4e3e294cd6b47b61eb29681197b13101ff563d34408031e77a1fdc1d6ecde347"
 metafile = true
 
 [[files]]
@@ -749,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
-hash = "15a9f0c0ae8a81ee1b78eeab5ea82312e3710148f911122f103b778640f295de"
+hash = "d1ebfdb1dcf0e863beb7f316ef8c12e74780384f457e237d0fbe1b297e464847"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "30e961e4f80abb991cc7c0b980d00c2a4d4c8c9d6707a630c4dd0390aa89f5c2"
+hash = "bca3971129be41bd019a5f31a4001a1418c862d88acc309d4d563f0179621540"
 metafile = true
 
 [[files]]
@@ -829,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b65c785a1a59b4a18362eeaa8f1b13759987a7d6b9cd18c4444f187c93527ab6"
+hash = "8029da90db75285803b3399681254bd758fcd4ae3167ed0a6ce9e0da20a83c9d"
 metafile = true
 
 [[files]]

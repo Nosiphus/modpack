@@ -1,13 +1,13 @@
 name = "Blue Power"
-filename = "bluepower-1.19.2-0.8.301-alpha-universal.jar"
+filename = "bluepower-1.19.2-0.8.309-alpha-universal.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "55f406b41ac234f59334d220da57c87c6dc3331c"
+hash = "49ac59bf305307c934b74e06b7bcac76adf49b7e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4027575
+file-id = 4368880
 project-id = 223099
