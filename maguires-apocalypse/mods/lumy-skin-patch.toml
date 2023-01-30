@@ -1,0 +1,13 @@
+name = "Lumy Skin Patch"
+filename = "LumySkinPatch-1.0.12.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "08eeeb96662b3bad83489c8e4f30d5e86d6d2589"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4000526
+project-id = 288957

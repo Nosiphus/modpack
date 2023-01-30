@@ -1,0 +1,8 @@
+name = "World War II Content Pack"
+filename = "WW2-Content.Pack-1.7.10-4.10.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FlansMods/FlansMod/releases/download/v4.10.0/WW2-Content.Pack-1.7.10-4.10.0.jar"
+hash-format = "sha1"
+hash = "82cae3429b940e1c3d052f96c39ad6daff05e784"

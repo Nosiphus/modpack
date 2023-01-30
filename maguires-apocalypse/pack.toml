@@ -1,0 +1,13 @@
+name = "Maguire's Apocalypse"
+author = "Nosiphus"
+version = "2023.01.30"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b953788a632eb2fb8da64c59d2050178cb28e1333ea9f947ad7bb36e3c0d5c12"
+
+[versions]
+forge = "10.13.4.1614"
+minecraft = "1.7.10"

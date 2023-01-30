@@ -1,0 +1,8 @@
+name = "Mecha Parts Content Pack"
+filename = "Mecha.Parts-Content.Pack-1.7.10-4.10.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FlansMods/FlansMod/releases/download/v4.10.0/Mecha.Parts-Content.Pack-1.7.10-4.10.0.jar"
+hash-format = "sha1"
+hash = "b49c616864ed3257cd93eda2216f70fc040d7269"

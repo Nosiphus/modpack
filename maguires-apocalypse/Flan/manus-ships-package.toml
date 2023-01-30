@@ -1,0 +1,8 @@
+name = "Manus Ships Package"
+filename = "Manus Ships Package 4.1-Content Pack-1.7.10-4.10.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/flans-mod-content-packs/1.7.10/Manus%20Ships%20Package%204.1-Content%20Pack-1.7.10-4.10.0.jar"
+hash-format = "sha1"
+hash = "1c5b32314e983254528b8b19a5599e78a37beacb"

@@ -1,0 +1,8 @@
+name = "Fallout"
+filename = "1.7.10-Fallout-v0.2.2.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/fallout/1.7.10/1.7.10-Fallout-v0.2.2.1.jar"
+hash-format = "sha1"
+hash = "7b58ea2019a00aca392b6c78514aea25b1587f71"

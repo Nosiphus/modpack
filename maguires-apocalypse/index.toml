@@ -1,0 +1,200 @@
+hash-format = "sha256"
+
+[[files]]
+file = "Flan/manus-civil-package.toml"
+hash = "650758903a9a952e879f2362e0a4c2559bc1a574fd48c986ca205027c974af3f"
+metafile = true
+
+[[files]]
+file = "Flan/manus-dayz-package.toml"
+hash = "0387c9a9a77e531fd3bf148ef469f5fd3493025b3403e1cb1208d922cc7b9a40"
+metafile = true
+
+[[files]]
+file = "Flan/manus-ships-package.toml"
+hash = "5cb8a5914e08c4d9db5cc5d1f45674cf5f794bad0850ab4b2b5a171904bcb39b"
+metafile = true
+
+[[files]]
+file = "Flan/manus-warhammer-package.toml"
+hash = "e9696fb8a16898906f14b38f24a263b7a19780992ec7a51ac3c79eb1c47d2b8a"
+metafile = true
+
+[[files]]
+file = "Flan/manus-wwii-package.toml"
+hash = "7ac4720f552faff3ce555be6b60a166c18eaf3224edf81dad2e3b151a1060474"
+metafile = true
+
+[[files]]
+file = "Flan/mecha-parts-content-pack.toml"
+hash = "bb566542989b9e40faae90137f4ba8bce3fd1f156ca57d29037c7e868d5915b2"
+metafile = true
+
+[[files]]
+file = "Flan/minecraft-smp-parts-package.toml"
+hash = "d0321ad73ab30a711858cd5597d25ed010b19cba5e84b1ecdab356c44ee2adbc"
+metafile = true
+
+[[files]]
+file = "Flan/modern-warfare-content-pack.toml"
+hash = "3e9dd9b4d492407c9fdfa72a3ac3eaf5e163f1f908b9032aea7c50ef8a898181"
+metafile = true
+
+[[files]]
+file = "Flan/nerf-content-pack.toml"
+hash = "2a882c16d7721152213e87b9ed6b2875881a98d56f2848dbe792a20d0c0987a6"
+metafile = true
+
+[[files]]
+file = "Flan/simple-parts-content-pack.toml"
+hash = "eff4a77b226a952c809a7f1dfab790ed559eb7b4f8c1752abcda4f36b146f243"
+metafile = true
+
+[[files]]
+file = "Flan/titan-content-pack.toml"
+hash = "a6839c47b1786a33b088c2e90f52e22f7c30fedf5c04e168a8d023d032ef5f0b"
+metafile = true
+
+[[files]]
+file = "Flan/world-war-ii-content-pack.toml"
+hash = "ed677ab5a6e197d2e5663236cf76fe3035aee914e910be9d8de4ce7f0b4c0452"
+metafile = true
+
+[[files]]
+file = "Flan/ye-olde-content-pack.toml"
+hash = "5829b5a6bc8435677fb248a58f12f76ac2d5273c5bc045ab2b602d31e4a4403c"
+metafile = true
+
+[[files]]
+file = "config/WTP.cfg"
+hash = "5cf07e370050c964ebbf1f3d50218ee8e587295de2b9c956eb4700ef699d93df"
+
+[[files]]
+file = "mods/1.7.10/codechickenlib.toml"
+hash = "e5523908b0aab06a733cd32a5d90fa0947eeb36239775d17b3f0c4720bcd24a2"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.toml"
+hash = "946e3a9326e7d13447ab6605b7147b0f794f3e124608e7c9f56d4d5c0a62f7bd"
+metafile = true
+
+[[files]]
+file = "mods/balkons-weaponmod.toml"
+hash = "18fdaaa569205e0f9e022093f78721ae1b738a4b566685c185d76e72d0489dde"
+metafile = true
+
+[[files]]
+file = "mods/codechickencore.toml"
+hash = "35789dc301b4b18e7b6eea42cb4b753e67be4739cbf1c3492bd110ca597e5647"
+metafile = true
+
+[[files]]
+file = "mods/fallout.toml"
+hash = "30aaf25c1e98deb2e3872046b57fc847bd44c6f84fc24c23335d0f05604272b5"
+metafile = true
+
+[[files]]
+file = "mods/fastcraft.toml"
+hash = "00a0cbb9783b08e4a3a464506a49f1a1edc987cd184a6008ebb4c15f9f54b4ed"
+metafile = true
+
+[[files]]
+file = "mods/flans-mod.toml"
+hash = "3ccb69899dcdd682add186f6dee0871b3966a26db10919906f82ca594be55eb9"
+metafile = true
+
+[[files]]
+file = "mods/fullscreen-windowed-borderless-for-minecraft.toml"
+hash = "479d3e7d32c61fbe03176a4c47df6ea31cec01f51fb1bc763771f4bb826b1da3"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.toml"
+hash = "c56f858ba23a7debb5d1735590c899f56a252df39afd8ca216280aaeed3c7733"
+metafile = true
+
+[[files]]
+file = "mods/liteloader.toml"
+hash = "615797e7b3dc402b7a4947a0c7a95142b9c5ca0ed00706ad0e7c939122d9e8e8"
+metafile = true
+
+[[files]]
+file = "mods/lumy-skin-patch.toml"
+hash = "1159a37caba40a8d58e75fd1a5ec1d84a10934bb1be64d182b2a6dd449c44cf2"
+metafile = true
+
+[[files]]
+file = "mods/more-player-models.toml"
+hash = "93c29b03482b81a2cb570ced345352d84c0e266a48f384f48a86b0417ed17d25"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.toml"
+hash = "5dcf5051f83afe7cb33bf2854b37cd9c1d9735959cebe0cfeb697c604d221c5d"
+metafile = true
+
+[[files]]
+file = "mods/nei-addons.toml"
+hash = "6ff83024a079eb7964cc28292ee852dd58248c02b5a3b07fa88c39daf371d297"
+metafile = true
+
+[[files]]
+file = "mods/nei-integration.toml"
+hash = "66004a4b5d118535e23a7e9c95d3caee5824127d101de709db2c6eef3610e171"
+metafile = true
+
+[[files]]
+file = "mods/notenoughitems.toml"
+hash = "76ac8753f080cc6accc263fa6f6f423ba1acd50f3fd50b64dff4e12b4c7cfa47"
+metafile = true
+
+[[files]]
+file = "mods/optifine.toml"
+hash = "a0e6c4bcf722e2826ef4b4286f2667e14fa0bfb3706cc71aed92fb97a0c28dc5"
+metafile = true
+
+[[files]]
+file = "mods/player-api.toml"
+hash = "84691281aabe7fa2fb7df688a270257ae2cc5c0f06677411034617295715970e"
+metafile = true
+
+[[files]]
+file = "mods/render-player-api-enhancer.toml"
+hash = "0e9afbb5ce75ba3432259c5c448d26ad0b63ab014161df2ce56443318e4d59cb"
+metafile = true
+
+[[files]]
+file = "mods/render-player-api.toml"
+hash = "623184f1646be45a3046f794bc8b1b395585b2833b31e097f72448fa21e22682"
+metafile = true
+
+[[files]]
+file = "mods/voxelmap.toml"
+hash = "37b6b9f95ab18b513e1507dce964c080614fce1ebb0d9f52fd54d7c5a433a37a"
+metafile = true
+
+[[files]]
+file = "mods/waila-plugins.toml"
+hash = "730fb65363c0465b49cf463468534564d1214e1d3e7232dc619e13c577df8508"
+metafile = true
+
+[[files]]
+file = "mods/waila.toml"
+hash = "70cc8478e060dc7eca302bf62fa26ed240ea1ae5edacaf06c7f388d742ed9bb1"
+metafile = true
+
+[[files]]
+file = "mods/wawla.toml"
+hash = "f919e305e4d735d6c3b95c98075f868fd908297adef3d9c97bcb27173c934e2e"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.toml"
+hash = "d3d419ecc82e7701bf92c304169dd37e1986ce2a98849b60b28d63504c24a1c2"
+metafile = true
+
+[[files]]
+file = "mods/wtp-whats-this-pack.toml"
+hash = "92dcd353d4a4897a6a7fbd2301acf8b98aee83e00da1fb35a46969bcdab81ad8"
+metafile = true

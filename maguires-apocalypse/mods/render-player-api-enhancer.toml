@@ -1,0 +1,8 @@
+name = "Render Player API Enhancer"
+filename = "RenderPlayerAPIEnhancer-1.7.10-1.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/render-player-api-enhancer/1.7.10/RenderPlayerAPIEnhancer-1.7.10-1.4.jar"
+hash-format = "sha1"
+hash = "21c362facb2276d75cca806ed75b4469e05ae076"
