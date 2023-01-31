@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "c2fd4f9c0c21e4629bf2d84e24bb22b89aef2feb15efe4586f10240ba61bfbfc"
+hash = "376c2ce9179bce7e9a9f6a6baf105efc431860d31f17b4e47d1ee09b4d94ba22"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.toml"
-hash = "7e10026a87cb512dc24dc89ab80bc6eee32463f28bd7b179e709ab17f54ecc90"
+hash = "c70c2367fb5c5afd927591cdee8d0f8af1b9be56984f517febb7225055d25ed5"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "ae330b544e16da4ceafeda93946605d70ddee06be29980e60b2ed510e132e363"
+hash = "ad31b269f91a5d20469089ecfb8bbf9e9966f30b39ad75368d7203a4992e0a02"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Project Red - Integration"
-filename = "ProjectRed-1.16.5-4.13.0-beta-22-integration.jar"
+filename = "ProjectRed-1.16.5-4.13.0-beta-23-integration.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d0d6cf715b88e34a91b0df672d2a984cb5751b76"
+hash = "286f3b56c7625e701eaa32ac8dd4dae086f0be0d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4367807
+file-id = 4373455
 project-id = 229045

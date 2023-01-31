@@ -1,13 +1,13 @@
 name = "Mekanism Additions"
-filename = "MekanismAdditions-1.19.2-10.3.5.473.jar"
+filename = "MekanismAdditions-1.19.2-10.3.6.475.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/a6F3uASn/versions/7LrzFGph/MekanismAdditions-1.19.2-10.3.5.473.jar"
+url = "https://cdn.modrinth.com/data/a6F3uASn/versions/JwMMWmrc/MekanismAdditions-1.19.2-10.3.6.475.jar"
 hash-format = "sha1"
-hash = "98e1906ae2a260ac23414c01d4f37ceeb289a8bb"
+hash = "9ed2ea6cfc559bb32e26e3b0aed5a3695eca36c5"
 
 [update]
 [update.modrinth]
 mod-id = "a6F3uASn"
-version = "7LrzFGph"
+version = "JwMMWmrc"

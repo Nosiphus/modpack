@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "9313200386e9270170244dc394771e16f90bb2f2fdf5cff67c18e17de3ae6347"
+hash = "91dae0b9c094771519fae88b371958f6876a1c68f9fa6e4e6708d1c046032049"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "5234ca3708a7308de0c84948a56a1ea1b538d23114315d65fd62899f866be7c3"
+hash = "139a92b6e1cc541a1b06b7e76f23fddf3a13ae234561813e46215a8b8cb4cfc8"
 metafile = true
 
 [[files]]
@@ -529,27 +529,27 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "46d9872d94bf2441c15caddc4086a5761112901fba5c1cc07167d073328a10e6"
+hash = "36acc77a443481eb5f251735f7bb71658710926f7b7d8295cf8e3297ca02bcfc"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "42718e2bd46d2cac07514f5b41b5004294180aee1b0e0f56bdd9715bd8a11534"
+hash = "d5ae889ceb2c58334c7d93e544df0155484b063f339f16e6fef1b74e2c12b419"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "c810e2c0f01b83c27f41df997bd3c123aedf3805eea560350e8d8458463431be"
+hash = "a3f4dac95070ab04cac2e788faa5de6687039962c63a215d4f9d40e8d7570f64"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "c517818ba48e4011d75cd233d04b4bd4c7109d131b56dda5243f90d55c257309"
+hash = "92e97b51baf007b5bb675eabd0513e360abe2cec46b450638aa37c9872708ac8"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "ebfccd65ee03d802e56df625e083332d3dea920092214ff17c7ddd71de058351"
+hash = "1f80c7b924eecf86ada8f9f83aa403e66a851399a8b3b5362606620fb98e3c2b"
 metafile = true
 
 [[files]]
@@ -694,12 +694,12 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "1e076ed7119b33dae285004ac3cdd0f347f0e680a938553549a2d3437f82e73b"
+hash = "eab780ccd1fc0505a46c130375171803d8f2e52771cf57146b9298c59b3837d1"
 metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "83c2cf9be7eb74f0e42bfbd9c329bd86ef82c985e44f27cf8f16b3e2e7f91aca"
+hash = "c55023e025bba2890f895010ba2c46cf1fd6187b015dfe106b285a39b18dee06"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "200ed7debb30529a02a4afd7f6e24b51db6af1875bd36fbaebbf03458dfe3caa"
+hash = "eda968347213340b3e95c81d4e75d781cee94672f199eb1a7a6b7b28061bc991"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "4e3e294cd6b47b61eb29681197b13101ff563d34408031e77a1fdc1d6ecde347"
+hash = "6e0c854a8acebf4bce08c9e47fb80bc5581aedbdbf0b83548a4f4edef74e91b3"
 metafile = true
 
 [[files]]
