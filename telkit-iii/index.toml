@@ -927,27 +927,27 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.toml"
-hash = "d3a9e63d1b95b5709d08239797af57d38d2d3b52ac9b0376981da3e343eaaf8a"
+hash = "f0096834bab698cb83075f5783e54ab0c7be9de956f6bcb4a149ecbc98a78d9d"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.toml"
-hash = "7352f278f51e53ed60c5835ed15bf79c3d2675f4436ca15e16feda9352e5f3aa"
+hash = "72bef48e7166bf86077c02c0365fc03a3647589f6837ce12960b6883c4ca289c"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.toml"
-hash = "f7391e1417ce145de58aab68dea03b73f3ab93fc7bf545d9ce8aa00db11eb12c"
+hash = "38d31221846018407cd35857a34a5c7231c4856b6ba571b0abf4543054f06f5a"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.toml"
-hash = "1a4fb4b5a6123ac150aae221614d9f568545842ad3886798a10d69abc644d68b"
+hash = "0a9920f08c9095c1d265003ef5fad7560d9aedf2a19638b2a9e00ed8d4d8460b"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.toml"
-hash = "dc8d340e7eb1f3b7dba51a8a95234e305317f1c6815bb1b287ae5837e61bc955"
+hash = "fd1c41721fe6834a55f59edba2ee48fb9d09ca8019be65bf133aa4d73bf432d6"
 metafile = true
 
 [[files]]
