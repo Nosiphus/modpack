@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "91dae0b9c094771519fae88b371958f6876a1c68f9fa6e4e6708d1c046032049"
+hash = "8ff8524a3abea0b2396e03d3e3546a36c57e40f9d25bb047f0382ab1054bba9c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "98c6baedba50e6e623e39b0769a70a94979b910bef965323a2497bc816cae7ec"
+hash = "e86c9572866ad59cd5b2bc381fd30c1e4668d40ba0020e451952f47b62048cd9"
 metafile = true
 
 [[files]]
@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
-hash = "f374606bef77d773d4f010ee4a2db53c8b6cc1528783c03250c7fa53d46f727a"
+hash = "d7a6e463e3c1b898e3760ac96566202012f854ce556f8b05fbb6a39cd343ba66"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "bca3971129be41bd019a5f31a4001a1418c862d88acc309d4d563f0179621540"
+hash = "e4fc87da81fe4c270e8eb718c68ab0eb3167d2a754a6fa54470e0ae14520c016"
 metafile = true
 
 [[files]]
