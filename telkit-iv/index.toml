@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "8ff8524a3abea0b2396e03d3e3546a36c57e40f9d25bb047f0382ab1054bba9c"
+hash = "b76f5242a908a37f59c3cf674daf9c249c7bf42f030727bc14d9d048e3dfa571"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -534,22 +534,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "d5ae889ceb2c58334c7d93e544df0155484b063f339f16e6fef1b74e2c12b419"
+hash = "6fe784a30ccc9ffa8ebbc4c643b4ce6dba7c6faf649e689aad02a6746ec485af"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "a3f4dac95070ab04cac2e788faa5de6687039962c63a215d4f9d40e8d7570f64"
+hash = "67703ee533d7342cac2a9e49f40ea5195b34616000cbed82ad49ff054b22f5f2"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "92e97b51baf007b5bb675eabd0513e360abe2cec46b450638aa37c9872708ac8"
+hash = "7dd251e3032435c59f38b9f674ef2218d31dadbc41458fdbbaede8e70d9daa97"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "1f80c7b924eecf86ada8f9f83aa403e66a851399a8b3b5362606620fb98e3c2b"
+hash = "acf740f0f3722a6eabe812fff90190fe023231795f929c6d3cb22edebcda19ca"
 metafile = true
 
 [[files]]
@@ -699,7 +699,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "c55023e025bba2890f895010ba2c46cf1fd6187b015dfe106b285a39b18dee06"
+hash = "469c7b225f2beab138d22e4794d80dfab5548a0a1d35919a0eed50e49ab6622b"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "6e0c854a8acebf4bce08c9e47fb80bc5581aedbdbf0b83548a4f4edef74e91b3"
+hash = "a1c0d4b48a3e64014daad7769eee2d6b09cc3379ce39fa5907beaf659dcd89d7"
 metafile = true
 
 [[files]]
