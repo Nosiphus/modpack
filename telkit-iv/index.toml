@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "b76f5242a908a37f59c3cf674daf9c249c7bf42f030727bc14d9d048e3dfa571"
+hash = "bbee24992197d970014779b1d7ec714f4ceaa3029534728904d92a669cb9b4a0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-mekanistics.pw.toml"
-hash = "d3406728fc72fa787bdb5c45426f42af5930b711594dbfd4b26d830c8c00f9d4"
+hash = "39f6eb4903fa071fd9e5df37b6fb3c71c5484a0c171f733f7d86a57d3a5a3575"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "7eb22bf7dc27b4d8bb04fdaf09b41da044844a2804121ca05324165668c875b7"
+hash = "cfb01f521fbb8b8f0064207bc5e274868007a0efed4fcf7b314c5b516d7894b9"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "36acc77a443481eb5f251735f7bb71658710926f7b7d8295cf8e3297ca02bcfc"
+hash = "20d0182fd10b73bd53c1a468efafdd661d99baa40fe169a39ff38eff38397fe8"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "99b06405e5b91fe0ef929d3c6b4e900d41a77650fac52c63b6373902e1346587"
+hash = "011d578c88b0bf6bcb25afd42d314c1c2c25adf90c87ca39458a3ccf2f2072b5"
 metafile = true
 
 [[files]]
@@ -689,27 +689,27 @@ metafile = true
 
 [[files]]
 file = "mods/redstonepen.pw.toml"
-hash = "a3f29a3de253e15a92d98314f1b7c8cd8ffe0a1d4546b673adc5542cf25d4a91"
+hash = "c1b377aa271063023987845955a1d472b06094e65ee56c9a52b00e94d97fda53"
 metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "eab780ccd1fc0505a46c130375171803d8f2e52771cf57146b9298c59b3837d1"
+hash = "c52a0fb788751e1661e11b3383c2558a85b791548a3da5baac46b66f4be7df93"
 metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "469c7b225f2beab138d22e4794d80dfab5548a0a1d35919a0eed50e49ab6622b"
+hash = "b936c54afdfee5bc12d6f6f0ab1a6eef6b5cf181ebab5ad225852ebc4267c0f5"
 metafile = true
 
 [[files]]
 file = "mods/rftools-control.pw.toml"
-hash = "47c8d286a6dabda35e161ca8abb44217bd892359909024b490c516caeb4fe497"
+hash = "dae1c09a2150ffcc2569ac14b8e4c55dc10c4d9f2f96c800cdc917547b2093cc"
 metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "97b4c57e330547b8270fa601caf4cd00ab56644fc9a92ebab56193c345380a5f"
+hash = "6f6a4046c12131e77c902a4344663b21c31773ea8555823b7edec8d272d3367a"
 metafile = true
 
 [[files]]
@@ -724,7 +724,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "eda968347213340b3e95c81d4e75d781cee94672f199eb1a7a6b7b28061bc991"
+hash = "d0acc1b51fcc780477515b48f5d9576e9ed1c3f9e25ef0cbd03181954ffff0b0"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a1c0d4b48a3e64014daad7769eee2d6b09cc3379ce39fa5907beaf659dcd89d7"
+hash = "a453d6e83ea7ba407b85ff6df822b89264d203dc72a5aca1fdc4a968e145935f"
 metafile = true
 
 [[files]]
