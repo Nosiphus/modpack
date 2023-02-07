@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "bbee24992197d970014779b1d7ec714f4ceaa3029534728904d92a669cb9b4a0"
+hash = "a10a8b82714efba4d2096a121b2d7bd0d8c0fc712f6c025ba61e2fdf254ea588"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8d1ec188efcba9505dbdb6e64b6df702d510dee21ebb0d24b8d58f93ee07db87"
+hash = "c0737aed914926fae77727ed67cfd46c1504fc1ce5a5b704e3669a3307898507"
 metafile = true
 
 [[files]]
@@ -274,12 +274,12 @@ metafile = true
 
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
-hash = "7ecbf5bd076dcec257a31cbc5c0a6e0bd34e12fd29313c3cdbe9ac549d61fd1e"
+hash = "79d38d4c976dadf89d2fd2978a0af50894ae0373fd784fecb369e47beda145bf"
 metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "9842a952faa6ca8f3c4d741ac53f05c2f966bd8c008256edfdceb8dffed2de57"
+hash = "a2210ab6bdeac9cda23f91b24ccebe58f72c8d0b4ee8db07f2f4c35f7b556595"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "011d578c88b0bf6bcb25afd42d314c1c2c25adf90c87ca39458a3ccf2f2072b5"
+hash = "d9b86f46e3d45ccf7158ee48463e8fc2efc1921a0f9fea085c892e51acce9532"
 metafile = true
 
 [[files]]
@@ -774,32 +774,37 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-cultivation.pw.toml"
-hash = "983858fac4978ead9207fd5b28d49802c024ff72a3c8bdeb36185df52919b968"
+hash = "79bb000c750a9f954eeaf389798c82bb6b9b5562a238960a7e3921811ea8c783"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "606d0bb0a11dfd6775ba11a47026f72288998d23f203482394feda59d2ca5ea6"
 metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
-hash = "a753d44040716e970f7f314bb1da2b96be2e336a4fa8ad98ff8d1a8f51935740"
+hash = "7b2ba7c6b0421a4c480bb42b7e201dd32e8d4c9104544df9a27ca79e036877d9"
 metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
-hash = "679a324089e80571315e8543fb6a0e4f5090893407907252dc3ceecdaef4f13d"
+hash = "afd9b2b50903a0b5d73fd367349db2f492dbc07c79721e8ed0b9c1ba87870eb1"
 metafile = true
 
 [[files]]
 file = "mods/thermal-innovation.pw.toml"
-hash = "26e344abf15867ac6eddfb35f7ac044e035fb5adf6011253a9110ce30cb4221d"
+hash = "3761d232156cabdbbb40a7753ef1025ba84dd45afa6c67ee3dec56a75dccdbbb"
 metafile = true
 
 [[files]]
 file = "mods/thermal-integration.pw.toml"
-hash = "7cb462a82be54af7c7dbd2a532e5682560a134b4d5003ebe276aedba38f77d77"
+hash = "ff91f09971f6e934d1fcfc6a849f672dad73f74277985c677d005023f3fb1560"
 metafile = true
 
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
-hash = "dd29d8a3452d59871a70783996e09fd4d7133e8b9a6fe0833d7e916d1e846b1f"
+hash = "7f7c1131124c2d3d044f393cd1995812db60a4ff9d636b08d8b3bd0997b587e3"
 metafile = true
 
 [[files]]
