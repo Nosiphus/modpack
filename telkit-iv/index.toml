@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "a10a8b82714efba4d2096a121b2d7bd0d8c0fc712f6c025ba61e2fdf254ea588"
+hash = "d4c9d3e8de3f38a52e187b18cfe5b467d519ca2c04cc9997420b00878d6e2fd2"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.pw.toml"
-hash = "f010c267e8cdf731ee1fa7ae99dafe82341bbdee440475856b12d42bf1a933e0"
+hash = "7961a7438ef8b4c33f7b356319bd338bb8db592da949e846be54314610dbeb79"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/cofh-core.pw.toml"
-hash = "a2210ab6bdeac9cda23f91b24ccebe58f72c8d0b4ee8db07f2f4c35f7b556595"
+hash = "e23bf79734607ac718d7ef76a45eac20387af0ce0f30b3d0ea40d31245671290"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "4ff9dff720fc9ddb483ad6721b9b78f6940105f3ab0c533a950c30acd2bf84f8"
+hash = "3771e470a987db1273b97e7e58e290ffd626f3835c27c99c434097fafa232cb4"
 metafile = true
 
 [[files]]
@@ -534,22 +534,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "6fe784a30ccc9ffa8ebbc4c643b4ce6dba7c6faf649e689aad02a6746ec485af"
+hash = "a1ac9c0763440f61cd6fdd9adfa6ae9d24ac5e6765c5b71ec4cfead35844595a"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "67703ee533d7342cac2a9e49f40ea5195b34616000cbed82ad49ff054b22f5f2"
+hash = "18b7078accdf5f230705bf5c405fc75f39cd3b37d90241a4b7d72cebe6426301"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "7dd251e3032435c59f38b9f674ef2218d31dadbc41458fdbbaede8e70d9daa97"
+hash = "4c9f6abc41449b05fe24ed8f74f2ddf4e78d27f1afe70c5e91eaca8aa187cb95"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "acf740f0f3722a6eabe812fff90190fe023231795f929c6d3cb22edebcda19ca"
+hash = "36c25d922ab4bb5ad97830a940ecbcbbac4d0df7fe79c3aaf4b66b134ee66896"
 metafile = true
 
 [[files]]
@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "6f6a4046c12131e77c902a4344663b21c31773ea8555823b7edec8d272d3367a"
+hash = "8db5188ef097c96b5edb70957f9cf9cbbf526282f33b9f1e63b02774344adc98"
 metafile = true
 
 [[files]]
@@ -764,7 +764,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc-wireless-redstone.pw.toml"
-hash = "7ccd85637acc517aae61aa092e2cd6e47a987ed528a64bfdb8c96131464b57a5"
+hash = "8b6332b8891d8dbac8ad43a489d21cbb61efb06a392246d0d5dc44f7b3a9b42b"
 metafile = true
 
 [[files]]
