@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/assembly-lines.pw.toml"
-hash = "072a7ad6d9f25d4618a95bb61f0ee00c253f3b10f74bcbe40890954412b5b3da"
+hash = "ce9042550b149f0c40fa5b6d31ee6cd85ba316a641b30ff265ba17473826b086"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "8b2f7a5d01a0dd74bd5ee5f7b1b24da6f44ce5a27a7371abf86f8822185c3ff5"
+hash = "9b42e44a64932801094ef396020512dbc3ceab83fe4b424903ab4fc5fff9613f"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "9f81dcfe5e2a036d0e88b6b3461789ceb35c7b60a6a04332fb27c8f9a210e302"
+hash = "651c4861f23a93cfc1a6ae7982c2fe8507b31ca4d797186fe53ec3cbe6a26eb9"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-forcefields.pw.toml"
-hash = "66ae01115673a26204a365a6150ce06b5ed5ad64ddded69dd43797e046ac1071"
+hash = "5daa98cc65588de29e1a477e7b4332e359b4e178fd30fed8e91da0ab37f851d1"
 metafile = true
 
 [[files]]
@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "ef11b94131b44e9a3959e5aaf4e9dc08c8d8656b2de9fc6a3081234d2dbc6c7c"
+hash = "f9569f16129070a9dacc1680f7d5942b6fd993b91526daaf6ddf616d0781045e"
 metafile = true
 
 [[files]]
