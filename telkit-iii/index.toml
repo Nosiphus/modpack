@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "07b502af73e7d8c2452c66c16b528f73a82b077c812e569a92ebc3520e96113f"
+hash = "8a78ab543c60a4d4025502d815ab69dbdae20a6408f6bde6a4577098841a034f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.toml"
-hash = "aa15177c0ebb689e4a2c8fa62c2a5c1580e80832c75eae167d608e3522101293"
+hash = "92170f6f2e524cb6c3cc5d6b333279724fc1bd3c8597722de4f74f6cbe374edf"
 metafile = true
 
 [[files]]
@@ -1047,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/terraforged.toml"
-hash = "23341a567ccdf8f55b2ead0839a8b47b07fa94673faf0ac9af2c0a2d3663a22a"
+hash = "7bbf54434862a6dd542312aad3b18ae97a52a6c3aa09abaff23015ccb50674e0"
 metafile = true
 
 [[files]]

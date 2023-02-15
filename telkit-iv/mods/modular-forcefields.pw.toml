@@ -1,13 +1,13 @@
 name = "Modular Force Fields Systems"
-filename = "Modular Forcefields-1.19.2-0.1.0-2.jar"
+filename = "Modular Forcefields-1.19.2-0.1.1-0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fff808c7fb17fd87312dadd149fb5804b86007fd"
+hash = "99c97079f54bfbcd70a273070b7e8b127f6cea57"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4087166
+file-id = 4395074
 project-id = 322896

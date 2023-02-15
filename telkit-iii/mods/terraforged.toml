@@ -1,13 +1,13 @@
 name = "TerraForged"
-filename = "TerraForged-1.16.5-0.2.16-BETA-2.jar"
+filename = "TerraForged-1.16.5-0.2.16.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3460/560/TerraForged-1.16.5-0.2.16-BETA-2.jar"
 hash-format = "sha1"
-hash = "ac38f4e41a82145dadf26b38cab8a086077a90b5"
+hash = "d52862f9f9d6106c281eb718de2c47d7ab3abcc0"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3460560
+file-id = 4044290
 project-id = 363820

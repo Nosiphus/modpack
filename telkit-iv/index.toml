@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "02fd3450fe0355884dda262aa267fe7b01afa4299455ae3f0a5f648c3894a3ca"
+hash = "b4e13c074cc50d15f1d7a7772a857a971364c4a3c102e79d0dd71a7f970cd658"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/assembly-lines.pw.toml"
-hash = "072a7ad6d9f25d4618a95bb61f0ee00c253f3b10f74bcbe40890954412b5b3da"
+hash = "ce9042550b149f0c40fa5b6d31ee6cd85ba316a641b30ff265ba17473826b086"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "8b2f7a5d01a0dd74bd5ee5f7b1b24da6f44ce5a27a7371abf86f8822185c3ff5"
+hash = "9b42e44a64932801094ef396020512dbc3ceab83fe4b424903ab4fc5fff9613f"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/blue-power.pw.toml"
-hash = "ec767659104773abec89a8a7808b50fe7d85b54782d3568f59a7cb842ad43664"
+hash = "b2126664f9e894c7c8f92855eaac6a55d85332d2c749ba41ef40b747d3ddc9b2"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "3bc013bf034fac6d11af173906783032df602b8bd5e48f9bebca669e9f81f7cd"
+hash = "eedea915275815b220b4e9b5879785ced31d4eb536240a957f45c23d2ac338db"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "dd6b3a499a5b71b8cb879e95adc419a57f1013ff8d3adeb22c198c9d237c053b"
+hash = "631125f531212972909034e3daa7022e93fa1ea037350d3265e958e8af5b8bf0"
 metafile = true
 
 [[files]]
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "9f81dcfe5e2a036d0e88b6b3461789ceb35c7b60a6a04332fb27c8f9a210e302"
+hash = "651c4861f23a93cfc1a6ae7982c2fe8507b31ca4d797186fe53ec3cbe6a26eb9"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "1fe7efd88b0af0fa27200e04d6506bac719d8d010b654e67b1e1d3a9febefab4"
+hash = "93be579c5a7d0bde438284958086d6e1b8838a95b4a3c41df97d5a5b4c2d4f0e"
 metafile = true
 
 [[files]]
@@ -459,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "660a7415900b60424e3a731706f4cb8eab47021b1199f2137c53013cdde6211d"
+hash = "9206e44fbc91a547ba101892d5412a4bab3b9236261c2f1471184ef02232bfd6"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-forcefields.pw.toml"
-hash = "66ae01115673a26204a365a6150ce06b5ed5ad64ddded69dd43797e046ac1071"
+hash = "5daa98cc65588de29e1a477e7b4332e359b4e178fd30fed8e91da0ab37f851d1"
 metafile = true
 
 [[files]]
@@ -614,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "ef11b94131b44e9a3959e5aaf4e9dc08c8d8656b2de9fc6a3081234d2dbc6c7c"
+hash = "f9569f16129070a9dacc1680f7d5942b6fd993b91526daaf6ddf616d0781045e"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a453d6e83ea7ba407b85ff6df822b89264d203dc72a5aca1fdc4a968e145935f"
+hash = "0220986418fcce5fb9bc7de801253b0605db40c1aa866bc90329a1fbaacb4ed1"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e4fc87da81fe4c270e8eb718c68ab0eb3167d2a754a6fa54470e0ae14520c016"
+hash = "ef1521e139baca2e41acf505b01f47b44d02f2bb46ee7bf260976bac85d4c7be"
 metafile = true
 
 [[files]]
@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-dynamics.pw.toml"
-hash = "606d0bb0a11dfd6775ba11a47026f72288998d23f203482394feda59d2ca5ea6"
+hash = "b859368c881897b4a0574dce971748f2735af00df110a2b6c30405389a0114d3"
 metafile = true
 
 [[files]]
