@@ -1,13 +1,13 @@
 name = "Buildcraft"
-filename = "buildcraft-A-3.7.2.jar"
+filename = "buildcraft-A-1.5.2-3.7.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/719/726/buildcraft-A-3.7.2.jar"
 hash-format = "sha1"
-hash = "9dd2923a2138423d0e6cadbd974a6384ebf756b5"
+hash = "f2abc4a5d54d2c7b2771024da3c44dbb41beda7a"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 719726
+file-id = 4393389
 project-id = 61811

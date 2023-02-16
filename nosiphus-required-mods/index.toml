@@ -18,7 +18,7 @@ hash = "da90082684222388e3f7c05f049ae1348ddff746b2256f791ec8ec3dc907ff77"
 
 [[files]]
 file = "config/ComputerCraft.cfg"
-hash = "a79b7abf98d7c69afee3429471a2745aeb69e2b33a9b6f3211b2dd2d688ff377"
+hash = "89838686dafea3e68ca36be2d4cd562be1ff528d3e1b28daa2c9529ba29594b6"
 
 [[files]]
 file = "config/Galacticraft/core.conf"
@@ -47,10 +47,6 @@ hash = "10459f63d31173adea709d90d9146949f7660d0bd1c14e75be8e76f22e372879"
 [[files]]
 file = "config/MinecraftWero.cfg"
 hash = "fe976cd27335b98ddc557a91950b42b304f79594b9257f1ffaba8df67960ada9"
-
-[[files]]
-file = "config/MorePlayerModels.cfg"
-hash = "30237f666cda666c5a5bf457abafc5c5cf80e0867e59a85b2f16af5793ce6b08"
 
 [[files]]
 file = "config/NEI.cfg"
@@ -138,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft.toml"
-hash = "6c78a3e0b23f35f1209c0535160f69e1e8fccbc6fcd1b13af339e7af9ab45136"
+hash = "75018ff8d2c5947fd8baa4d45407c611aa7d6837f4c62b82008e4a480935a448"
 metafile = true
 
 [[files]]
