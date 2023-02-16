@@ -843,6 +843,21 @@ hash = "83581f046e550740aac9976d8a51717ec5811da1864db51578f99b611380b4a4"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "ab6dc95a659eae917ed5afa8ce4c4540be91d3e77290902b37eb6a08f0537f5f"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "9035885fc165866b1634e10b5b9b65ff1335cd9b10d1592d67197c9d8594ebd3"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "73c1b707adeed63cdd1e7a2813daba8f4361307734ed35f3433a04f989501562"
+metafile = true
+
+[[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "f751aa50e3f1dc61d89bbec46242f2580188e84abf02ef20932265458d713d3e"
 metafile = true
