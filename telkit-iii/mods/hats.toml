@@ -1,13 +1,13 @@
 name = "Hats"
-filename = "Hats-1.16.5-10.3.3.jar"
+filename = "Hats-1.16.5-10.3.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3548/423/Hats-1.16.5-10.3.3.jar"
 hash-format = "sha1"
-hash = "ccddd5d5cb23e041a544a2128e91c46fecb0b6ec"
+hash = "821334dbe61b8a5469806335667e3447b59dc9d6"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3548423
+file-id = 4397370
 project-id = 229073
