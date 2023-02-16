@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/AppliedEnergistics.cfg"
-hash = "b2e4807dcd188a252e081ee9b074d5a24aa80ba5c6d8b83066e38f893ae09bd4"
+hash = "adf254668c5a922b1aea4def0bd97d4d19ad19dc97c21b5a8a466a7e1c6d2abd"
 
 [[files]]
 file = "config/BiblioCraft.cfg"
-hash = "4411f4619c0f0057d0866d9985f09bcc6e01a26db6e0e57a6df143c0b8d52be4"
+hash = "5a9c46e2558929b2aa0689df39c94ea9a3d7bdc55ce3647b9ff6cd7e75a690a7"
 
 [[files]]
 file = "config/BigReactors/BigReactors.cfg"
@@ -22,7 +22,7 @@ hash = "3f2327a8ee838795d4269d2f84ac344b21bcbefa26ee829de34bb1edcdbc70dc"
 
 [[files]]
 file = "config/ComputerCraft.cfg"
-hash = "382a3c3a3d9451d53fbba5c4e64862515844eee222556314230330ada763e555"
+hash = "86c09fe0648e5ed0c7705189800143c3926d20dd2bb4832c6bc1efd9990efffb"
 
 [[files]]
 file = "config/Galacticraft/chunkloading.conf"
@@ -30,7 +30,7 @@ hash = "4fa16d4873444866f9232fa0c2a09eb329e97fbb741151d52c0285b4d7051679"
 
 [[files]]
 file = "config/Galacticraft/core.conf"
-hash = "49c656e880f14ecf529e4d7233ac4d850dba8cc9d527ba345bfd48cc5ad1304c"
+hash = "39276a51f8a2d2cefaae6b981cd45415dcb63b0f91e0916b793b2f52f4c2034a"
 
 [[files]]
 file = "config/Galacticraft/mars.conf"
@@ -46,7 +46,7 @@ hash = "d2335bc252c5c3c48db9f056382587f5a9b7186fef47627e30dc197f8aa63641"
 
 [[files]]
 file = "config/GollumCoreLib/GollumCoreLib.cfg"
-hash = "673880bde0204736604bf2b6a9515da0545e4dc99acc1ddb35cb35849254152c"
+hash = "f94e4caa53136748c830b1a01b6cb7d9771463e636b8b2a554b91bf2a742f9ed"
 
 [[files]]
 file = "config/GollumCoreLib/buildings/GollumCoreLib.cfg"
@@ -78,15 +78,15 @@ hash = "4dd5f4cf61bf1395cbb8144cc4ce92661b7eb41335778fc1001be2ae07e9647d"
 
 [[files]]
 file = "config/MCA/ModProps.properties"
-hash = "c97e7cb1d2c52be5ef5e24a06a403c63c0fe811e240b0358d7da44b78aac9205"
+hash = "f5a11b8cb9f971b0f36ee772c84e8a9bee06064018a08ac969c0d002e76d131b"
 
 [[files]]
 file = "config/Mekanism.cfg"
-hash = "af66220e4ca128a8cf332c8c1d76fe4fa9a89ca5082df977bf4edce76247fe47"
+hash = "290a4013383cfaddf5167bf675e152412299fa8be85c66f66909556b7448a7c7"
 
 [[files]]
 file = "config/NEI.cfg"
-hash = "cfee545ceecc13a9f278a26c8adbc9d477c40a4234f86ca08561c387d8ef63ed"
+hash = "2cc2b7b98a697e0a775c27b5e134fc6fb4418a10de89f9c3312b95a9cd3cbcc7"
 
 [[files]]
 file = "config/NEIServer.cfg"
@@ -118,11 +118,11 @@ hash = "2b49e713774c78f7fc23cdbb97a2981d55a2fa89c212293043fbccb5c344d7bc"
 
 [[files]]
 file = "config/WirelessRedstone.cfg"
-hash = "61f31100e3126ab5df0cdb784dfe5321581cd95b215eb4f336c39ec86ec0b9ec"
+hash = "34bd4a9f42c3875160193dd68e84c35b9a1f6a1ebe801d126d13a8e4f84820f9"
 
 [[files]]
 file = "config/buildcraft/main.conf"
-hash = "40251b8e4da46003a882067e6d4e52f2feac6fd3717faf94f8d35aa2ad62e149"
+hash = "f32bd500922f798984212b410dbd4c484867f22a56548cf76755a811b0accabc"
 
 [[files]]
 file = "config/cfm.cfg"
@@ -130,7 +130,7 @@ hash = "d0be873c9028d8d69d1197cbe79fc5084e292333adf803bf43d948da82adc4b1"
 
 [[files]]
 file = "config/cofh/CoFHCore.cfg"
-hash = "f594a73a0540b727e7ed9f3899d2dd350cfe9f06317875ece1cc18cdc4d675d9"
+hash = "8d34dc16dc0b5451a983ec76f547cc263bcda04f6f1da27109ad81995c29ffa1"
 
 [[files]]
 file = "config/cofh/CoFHLoot.cfg"
@@ -174,7 +174,7 @@ hash = "143db37f3a0e0699b35dd126995047532a474b173e9467e227ac5523904652ce"
 
 [[files]]
 file = "config/cofh/ThermalExpansion.cfg"
-hash = "db19a28ad94cab866cf59a5a9853a31798e0145d4b78f59aded067275d41dc60"
+hash = "45e604741381495e550f8ffbc1e20ea6ac7e9fb64ef821b7b081b3ce97f5f55f"
 
 [[files]]
 file = "config/cofh/WorldCustomGen.txt"
@@ -198,11 +198,19 @@ hash = "b56afe7fc480f3781a66e583d75878a82cce0d1b00751eb2378f7b68f2ae46bb"
 
 [[files]]
 file = "config/modstats.cfg"
-hash = "c32d0f66032b067a2d0e7dc910acb856da4053c3f99d36be8d2de0b1c0676962"
+hash = "877c4118d17a27447983cd02b7716d937a8b87cfb826e8baaa3584f59f536a66"
 
 [[files]]
 file = "config/multipart.cfg"
 hash = "cc475747228ed5deef46231cae252c03413b0b3c52dceac84bcd26f65a3f0c6c"
+
+[[files]]
+file = "config/railcraft/modules.cfg"
+hash = "6143db10a0be68014a2469c1b82daf812038067716435665584bee1704b76a0c"
+
+[[files]]
+file = "config/railcraft/railcraft.cfg"
+hash = "5911e2e8c14192e8ac80077f3350eb6e43c4714c8b43074b3976ddc84ac4fe4b"
 
 [[files]]
 file = "config/worldedit/worldedit.properties"
@@ -386,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/project-red-world.toml"
 hash = "9d7cebed10debd87f7c80476c3affee93077ba8dbdbd05fdf00c735dc2783461"
+metafile = true
+
+[[files]]
+file = "mods/railcraft.pw.toml"
+hash = "eb21e24cdac229f642416e427165dd147d56a2fae44225c0df5fdd034bd9c52c"
 metafile = true
 
 [[files]]
