@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/AppliedEnergistics.cfg"
-hash = "7dfc6f422c50a495a35e8ad13794121ab2ff98a4e610d28b5a283acc68c18ae0"
+hash = "ebb9b71b8832ad1fe83ae07ba544d7af79bdff1654ba5e34ff6d983b87042f45"
 
 [[files]]
 file = "config/BiblioCraft.cfg"
-hash = "56865d362adf33f48129899d882a230d9c26417c4eb9dbfc90fe547b5f2e3ef5"
+hash = "3a721f77a86d591f5a6ade309c883e0847fe29a9cd552f16b6afd694e415668f"
 
 [[files]]
 file = "config/CCTurtle.cfg"
@@ -22,7 +22,7 @@ hash = "b470c9f3a87f8355755197efc3bd6abd55f80f6e2db2f0533346556382bff1f9"
 
 [[files]]
 file = "config/ComputerCraft.cfg"
-hash = "e383e363a5e685fb8a94b75a82028f2a63f14b1a3e86af39b1b09ee409c03038"
+hash = "00bd71993c979c129499ceb0690aed58be4420d60ff7abb96a21151e2516d59a"
 
 [[files]]
 file = "config/EnderStorage.cfg"
@@ -66,7 +66,7 @@ hash = "ce81ad037efb5d81a9921e7e9faf83d051b047d063523c84470687826d22d678"
 
 [[files]]
 file = "config/MCA/ModProps.properties"
-hash = "e685e3233dc95ee442e4a1c1383e4d46ca310daba3ae5e09609f0774a9c4faec"
+hash = "7dbbef0eb1dc74711532ebb29a3f6a109d023e5d5ba89d0af2b0f5ef9e1718e2"
 
 [[files]]
 file = "config/Mekanism.cfg"
@@ -122,11 +122,11 @@ hash = "a1cfbb44c9d93f5e9439b14056c6811050c3cc7a91ddab53190e602a512e11ec"
 
 [[files]]
 file = "config/buildcraft/main.conf"
-hash = "324dd19d61979647786c4740584bdb67ce640f138051533c263a416349bafb93"
+hash = "cac7d65cf56f21e5ac9d042f7a98fb3d59be689c6db051a330bc5d6aeb316b10"
 
 [[files]]
 file = "config/cofh/thermalexpansion.cfg"
-hash = "9830ca8f594cf4d5f09bf7305127c6e9a9906b66bbd869d681ea934140908e94"
+hash = "40487e2c3bd5665b05195531619955d81ac0ee9cc30305b0e70cdc9edce04108"
 
 [[files]]
 file = "config/forge.cfg"
@@ -154,7 +154,7 @@ hash = "d1b61b7486eb3fa4d1b356490fc59acbd9bc2559ec0bacc385c2498ba3acb943"
 
 [[files]]
 file = "config/modstats.cfg"
-hash = "c32d0f66032b067a2d0e7dc910acb856da4053c3f99d36be8d2de0b1c0676962"
+hash = "877c4118d17a27447983cd02b7716d937a8b87cfb826e8baaa3584f59f536a66"
 
 [[files]]
 file = "config/railcraft/modules.cfg"
@@ -162,7 +162,7 @@ hash = "a72b98f7267a647e215b98894346c0e6ecfe4678e692c4491b1277a2452d94ae"
 
 [[files]]
 file = "config/railcraft/railcraft.cfg"
-hash = "558c9f75d4e5670cc6277870a7402f2063772b0f7545e119a17ae7ab317175e1"
+hash = "37c9ebbc4cf411cf6ef5534b4c815e5aa93ff320b4426f0911863614ca669aa1"
 
 [[files]]
 file = "config/redpower/redpower.cfg"
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft.pw.toml"
-hash = "203fb9101db8d548983926d9c340451a2d34f9e6835a29d443cbc446ae5af9d8"
+hash = "ad30e43f7a0f83b7034b9c0f0b588e40251f597c78a6e5f358563b194c589115"
 metafile = true
 
 [[files]]
@@ -338,8 +338,8 @@ hash = "f343a245f89fb1d2d80d88f5a02388271d68b6e90fa5ebcd2898368e2b342e99"
 metafile = true
 
 [[files]]
-file = "mods/railcraft.toml"
-hash = "ad4dd7c6afaf82e7d016feeed814c92a8ba8d7577a5082eb36ea12019a135bec"
+file = "mods/railcraft.pw.toml"
+hash = "993d15d871577cc2c8b9ab42134b3773e6110ee9c6e70bfb3df55ba75c944a90"
 metafile = true
 
 [[files]]
