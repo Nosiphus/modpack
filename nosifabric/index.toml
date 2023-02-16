@@ -878,11 +878,6 @@ hash = "70e614e6a8149999081d1f5199daa61d5499d694c51b3b7947b958fcc056afde"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "188b1f6587b9bcdc3788ae404ad891e5c552b64d3397257cdeab43dd611232df"
-metafile = true
-
-[[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
@@ -920,6 +915,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "b1aa83bed8ef891dff38190701b48f6dd70085c26159f9316334bbe85b935ead"
 metafile = true
 
 [[files]]
