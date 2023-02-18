@@ -1,13 +1,13 @@
 name = "ICBM - Classic"
-filename = "ICBM-classic-1.12.2-4.2.0-missileRewritePreview.jar"
+filename = "ICBM-classic-1.12.2-4.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "85472009875c7d2297082313e899f38b99b196e1"
+hash = "a2cbd6d8a728d321e1e66058c071057d6b8668f4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4370408
+file-id = 4399322
 project-id = 244451

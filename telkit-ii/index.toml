@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "0c9178217dbb21aabe90e8cdfefc10fc443c172ec5380e3834ed9076db63db1b"
+hash = "c27d726330d10f93f13fafdd4fd4a646c2819127d50651bce7a9e679a548a9b8"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/galacticraft-legacy.toml"
-hash = "fc9c489374f3aa9f32be40191d0d25e17d8906f6458a545e30cf4ff6b85ebaad"
+hash = "1e470a72b6e3b2c14dd377c1d34f962aa1efe603a61f4ca8db3afe7c8298b5b4"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.toml"
-hash = "c70c2367fb5c5afd927591cdee8d0f8af1b9be56984f517febb7225055d25ed5"
+hash = "249da55ae86fd98155a61f3653e4285fdc9922f962a2ca848eb11bfc1af4eabe"
 metafile = true
 
 [[files]]
@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.toml"
-hash = "4f622c6c7430dd7780d3c9bf0d67d78c084424fec3059d532590f54a5119501c"
+hash = "757e3f17ab5406d44c132b9c20b9deb6c46cc3e1bc12fa66a5a53cbeaa3dc3f9"
 metafile = true
 
 [[files]]

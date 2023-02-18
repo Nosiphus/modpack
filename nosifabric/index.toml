@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "a6188c47cc68611b6a1fa206cbe942402b663578b7b1e45d32008fc15960e260"
+hash = "5e72cd05f0f3154c30a48b1f8c578de59635e09b77bb753f49371f731784b0f5"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -1184,7 +1184,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
+hash = "64445b9959187d2d1c7ebb4aa60efd1c65f110d7548e352faf4ab3468ef49c9a"
 metafile = true
 
 [[files]]

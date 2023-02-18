@@ -1,13 +1,13 @@
 name = "Electrodynamics"
-filename = "Electrodynamics-1.19.2-0.7.1-2.jar"
+filename = "Electrodynamics-1.19.2-0.7.1-4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e977029259c970cd0c722cc092db1893b067abd8"
+hash = "f34e00215f7e70daf52381a3060dd411554dc86a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4396915
+file-id = 4399782
 project-id = 316867
