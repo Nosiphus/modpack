@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "4d6c9cc12416f6aa33e1fc0e53c9faeab06d99115de00002b0b3eb490f6cdad4"
+hash = "1ce6b78f382656791ac212e6debfa86b1f77952068d32f82ca802ed2a5baa514"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -178,11 +178,6 @@ hash = "c0737aed914926fae77727ed67cfd46c1504fc1ce5a5b704e3669a3307898507"
 metafile = true
 
 [[files]]
-file = "mods/assembly-lines.pw.toml"
-hash = "ce9042550b149f0c40fa5b6d31ee6cd85ba316a641b30ff265ba17473826b086"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ca5775104714b3a090e713fc649cef3985007eea5eb1b4ddf49407dbeae10acb"
 metafile = true
@@ -195,11 +190,6 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "3b25d129d50c154e26487294c1bad1d48b220e7ad28f7848452d8040a2344b78"
-metafile = true
-
-[[files]]
-file = "mods/ballistix.pw.toml"
-hash = "eb08f0bcbd80a2472a0299a692031d1135e6beb238f3ce438d152462f772e921"
 metafile = true
 
 [[files]]
@@ -259,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "d64d00ca7a0ccb9ed315112474126567d4d0a4ff72483aae224430612cac88f5"
+hash = "c04bec90ab6272b34e95298b429d2189c9e29a19f1497c1755d02c78ccebfa20"
 metafile = true
 
 [[files]]
@@ -350,11 +340,6 @@ metafile = true
 [[files]]
 file = "mods/editsign.pw.toml"
 hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
-metafile = true
-
-[[files]]
-file = "mods/electrodynamics.pw.toml"
-hash = "1c39ba74cf0c1c2c4d39e8e8a87904d3218d85c7bb24a8a3c7652d0de2f50a99"
 metafile = true
 
 [[files]]
@@ -554,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "d9b86f46e3d45ccf7158ee48463e8fc2efc1921a0f9fea085c892e51acce9532"
+hash = "8be043e4f22e62d6616cbf0dba81ab3ddc55bc75cab5c2c82a8cc16951760a97"
 metafile = true
 
 [[files]]
@@ -565,11 +550,6 @@ metafile = true
 [[files]]
 file = "mods/modern-ui.pw.toml"
 hash = "498cf27e98bde8b2a5d6e631aef5b0baa2be66def483adf4ece2375ccbc7c040"
-metafile = true
-
-[[files]]
-file = "mods/modular-forcefields.pw.toml"
-hash = "5daa98cc65588de29e1a477e7b4332e359b4e178fd30fed8e91da0ab37f851d1"
 metafile = true
 
 [[files]]
@@ -610,11 +590,6 @@ metafile = true
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
 hash = "b1ae40294d5789c410291efac0da2f1340dfa5cc4d7110fde38fbe58ab8d7a0e"
-metafile = true
-
-[[files]]
-file = "mods/nuclear-science.pw.toml"
-hash = "06748ea99e96b79f29920a00485da5165b9e1718e3e7a282ee4e52dcf18cabc7"
 metafile = true
 
 [[files]]
