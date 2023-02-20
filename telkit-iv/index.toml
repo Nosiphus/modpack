@@ -178,6 +178,11 @@ hash = "c0737aed914926fae77727ed67cfd46c1504fc1ce5a5b704e3669a3307898507"
 metafile = true
 
 [[files]]
+file = "mods/assembly-lines.pw.toml"
+hash = "ce9042550b149f0c40fa5b6d31ee6cd85ba316a641b30ff265ba17473826b086"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ca5775104714b3a090e713fc649cef3985007eea5eb1b4ddf49407dbeae10acb"
 metafile = true
@@ -190,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "3b25d129d50c154e26487294c1bad1d48b220e7ad28f7848452d8040a2344b78"
+metafile = true
+
+[[files]]
+file = "mods/ballistix.pw.toml"
+hash = "eb08f0bcbd80a2472a0299a692031d1135e6beb238f3ce438d152462f772e921"
 metafile = true
 
 [[files]]
@@ -340,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/editsign.pw.toml"
 hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "1c39ba74cf0c1c2c4d39e8e8a87904d3218d85c7bb24a8a3c7652d0de2f50a99"
 metafile = true
 
 [[files]]
@@ -553,6 +568,11 @@ hash = "498cf27e98bde8b2a5d6e631aef5b0baa2be66def483adf4ece2375ccbc7c040"
 metafile = true
 
 [[files]]
+file = "mods/modular-forcefields.pw.toml"
+hash = "5daa98cc65588de29e1a477e7b4332e359b4e178fd30fed8e91da0ab37f851d1"
+metafile = true
+
+[[files]]
 file = "mods/moressw.pw.toml"
 hash = "0ef35696c69acab6fd0ca2a55de2f8a492670a0444cfc05c75f116a0ecfda077"
 metafile = true
@@ -590,6 +610,11 @@ metafile = true
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
 hash = "b1ae40294d5789c410291efac0da2f1340dfa5cc4d7110fde38fbe58ab8d7a0e"
+metafile = true
+
+[[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "06748ea99e96b79f29920a00485da5165b9e1718e3e7a282ee4e52dcf18cabc7"
 metafile = true
 
 [[files]]
