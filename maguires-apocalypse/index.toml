@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "d248993afd75f45594ce0f84f01d1dae6f60359cad0b1f3242a27ff90c395975"
+hash = "a1a82a56a3ac7b9db7204fe4324f67f691e367bec1d3e14d94fee8f37e132e20"
 
 [[files]]
 file = "mods/1.7.10/codechickenlib.toml"
@@ -92,11 +92,6 @@ metafile = true
 [[files]]
 file = "mods/endercore.toml"
 hash = "52831cc84a6bbd5e7a5356b9e8b40ab63823ec5c2cd010a7540b894e7c90929f"
-metafile = true
-
-[[files]]
-file = "mods/fallout.toml"
-hash = "30aaf25c1e98deb2e3872046b57fc847bd44c6f84fc24c23335d0f05604272b5"
 metafile = true
 
 [[files]]
