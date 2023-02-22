@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "c27d726330d10f93f13fafdd4fd4a646c2819127d50651bce7a9e679a548a9b8"
+hash = "60576464512a38fcca37aaaee4a2ec779aeafa2bba274241cf42c724f934ea22"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.toml"
-hash = "249da55ae86fd98155a61f3653e4285fdc9922f962a2ca848eb11bfc1af4eabe"
+hash = "a04dbbe35b997ff0ab62661284f48df7f0f890be595d8fba171a9af394f9e7eb"
 metafile = true
 
 [[files]]
@@ -377,18 +377,8 @@ hash = "7612e1eca7d6a6aa2571f523c7e5140f3b0d95fd07203b691587dd3c221c1d03"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-generators.toml"
-hash = "36c79a746e1c06732f729e3e0fcf91f537785e5f337043ad1f0bf20ecd01eddd"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-tools.toml"
-hash = "1c5e13061e9ef0f48b9dc505790303f6fdd7384a0336fca6ebcfb14726875a8a"
-metafile = true
-
-[[files]]
-file = "mods/mekanism.toml"
-hash = "48eb4712374a913e3bee28e4d5be3f4a7b3cb95bf514b6eca34b1633d83f5a8e"
+file = "mods/mekanism-1.12.2-community-edition.pw.toml"
+hash = "3a0bd24360d355e80ce4f2e80f8a4b49b4f7bb77f2ed65cb08fd3eadabcbc79e"
 metafile = true
 
 [[files]]
