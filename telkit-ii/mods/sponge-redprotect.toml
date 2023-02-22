@@ -1,8 +1,0 @@
-name = "RedProtect"
-filename = "RedProtect-7.7.3-b410-Universal.jar"
-side = "server"
-
-[download]
-url = "https://mediafilez.forgecdn.net/files/3658/907/RedProtect-7.7.3-b410-Universal.jar"
-hash-format = "sha1"
-hash = "02dc8b9d51faad80f25259ea8c5466550158cad4"

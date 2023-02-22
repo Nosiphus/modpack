@@ -1,8 +1,0 @@
-name = "NuVotifier"
-filename = "nuvotifier.jar"
-side = "server"
-
-[download]
-url = "https://github.com/NuVotifier/NuVotifier/releases/download/v2.7.3/nuvotifier.jar"
-hash-format = "sha1"
-hash = "ea5706adcd7070183ad81241a95fb6875e39b95e"

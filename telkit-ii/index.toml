@@ -89,7 +89,7 @@ hash = "007ce69456cba5e7c43c3507c5c8bef5fb6e36c6e28dd4e07234f6b3db2c1ab2"
 
 [[files]]
 file = "config/foamfix.cfg"
-hash = "e332d5bae845f479d3e9848d3f1868362077110a86402449129749a4f884aaaa"
+hash = "9ee7475ffcdad742b9e884264ddf35323f402d6a1d0e984a1570a8df83c0622a"
 
 [[files]]
 file = "config/forge.cfg"
@@ -289,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/forestry.toml"
 hash = "35a9769f4044848a610fd760d64faa4cde76b740408e6cc86c22455d8fb5ddbf"
+metafile = true
+
+[[files]]
+file = "mods/forge-essentials-74735.pw.toml"
+hash = "5b2d78307332cab96696f3760d9b0b7653bf4c193f7141095cfca1ebc5c10cf6"
 metafile = true
 
 [[files]]
@@ -604,26 +609,6 @@ metafile = true
 [[files]]
 file = "mods/sound-filters.toml"
 hash = "7214a4d4ed465308592ecab07315827a20728e81eee1371d16fd4ed56e574cd8"
-metafile = true
-
-[[files]]
-file = "mods/sponge-nucleus.toml"
-hash = "0b00fa752045f3a4dd343e084739175ecb5b8d306ef0b2040e88c1a44133483e"
-metafile = true
-
-[[files]]
-file = "mods/sponge-nuvotifier.toml"
-hash = "92796255337d8e3a171644769477834885ddbd26c3ec69ecfc1e05a3aeba0a37"
-metafile = true
-
-[[files]]
-file = "mods/sponge-redprotect.toml"
-hash = "5b3399da9397c1e196c8b855576b98d81c000052dfb17d5addfb026ac47d70d6"
-metafile = true
-
-[[files]]
-file = "mods/sponge-spongeforge.toml"
-hash = "29f44033d6b046ff18d12f7ffc19f9754688ae24b798503eb6415ed2e6fcbd5a"
 metafile = true
 
 [[files]]

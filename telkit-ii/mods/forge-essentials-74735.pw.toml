@@ -1,0 +1,13 @@
+name = "ForgeEssentials"
+filename = "forgeessentials-1.12.2-12.3.124-server.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "2c10b982a421429e748eb23dbfd6b7264ffff3ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4365600
+project-id = 74735
