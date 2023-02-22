@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "342f0669faf2de9d25145437348b7e31657e37ca6df87df6fe840f312e54b4d1"
+hash = "20b9899def184685570100b7776b037ebeb7c17a514c72853177e4dfb57236f0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "0220986418fcce5fb9bc7de801253b0605db40c1aa866bc90329a1fbaacb4ed1"
+hash = "453f2ab7254bc7e1aecf593ece28ba1a3fbe28215734bb43f0c57bc4269d45ac"
 metafile = true
 
 [[files]]
@@ -853,5 +853,5 @@ hash = "69453a0d8000744e964b0d03917926a6dea6b18b5d82f79bf9a8374a3f73a62b"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "ca43e37d0903a2633c0d68d1b9be974cdbfc66bb24881ff8bd120f974620f674"
+hash = "991287cf3d4ac8552f11e8a854b7b8b199a087d53a782ec0c507899b8111cdf0"
 metafile = true
