@@ -292,8 +292,8 @@ hash = "35a9769f4044848a610fd760d64faa4cde76b740408e6cc86c22455d8fb5ddbf"
 metafile = true
 
 [[files]]
-file = "mods/forge-essentials-74735.pw.toml"
-hash = "5b2d78307332cab96696f3760d9b0b7653bf4c193f7141095cfca1ebc5c10cf6"
+file = "mods/forge-essentials-74735.toml"
+hash = "34bd5784badc79fa68b6385c54af780013e4c7a5b41cc04587009fba9d1124cc"
 metafile = true
 
 [[files]]
