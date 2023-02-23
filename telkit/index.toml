@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "6a02b1443e7b54f03a044427ca4e62a3c1bf0d4810427fa99259611725006291"
+hash = "270974d75724ace3b7b89edf1d8af1db1371b0e6fcf86bc11225babdbd0143e0"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -906,14 +906,6 @@ file = "config/fw.cfg"
 hash = "9a68c6c8a0a95eb09becae04583e6aa1e4c6f1c21025c017fa52be633717fa9f"
 
 [[files]]
-file = "config/gliby_vc/ClientSettings.ini"
-hash = "d9144ac42f5dd19787157ad73cd6edf1590758ada55e8f773ac6f94f210b9065"
-
-[[files]]
-file = "config/gliby_vc/ServerSettings.ini"
-hash = "e4433b4a582faf0ff5fd2da1fa2e718b67840f3eb798c7eaac9ff5b8f5c2c13f"
-
-[[files]]
 file = "config/iChunUtil.cfg"
 hash = "1dbcdc0867b5234042a510389517fc6c30ff1d4efb24f38af5f705e430679806"
 
@@ -948,22 +940,6 @@ hash = "d68830bf49e1acd78ec7be5a4f59f842f96044d095f9e5521daba3af7088f9b5"
 [[files]]
 file = "config/musiccraft.cfg"
 hash = "105502e92040a0801a69145bafdff970e5deaefb1409360fa80212ceffc02d51"
-
-[[files]]
-file = "config/mystcraft/balance.cfg"
-hash = "ce73cf79d8982bfe7a5dfee697054c1a025c75c8ad7d4f8605458a4b8f757727"
-
-[[files]]
-file = "config/mystcraft/core.cfg"
-hash = "cdd1c25649b8ab810b906a5c168a1d81dab93aafa7e7943cc3202483784fe401"
-
-[[files]]
-file = "config/mystcraft/instabilities.cfg"
-hash = "076d5da0399d0b3cf5c4a2f0f1c15e1257aa5517a71572796f6929e11ac86c8d"
-
-[[files]]
-file = "config/mystcraft/symbols.cfg"
-hash = "d29e713a17d0087d803a1fd2bc258e49fd4c7c4d65d4302105819eb353607a06"
 
 [[files]]
 file = "config/neiintegration.cfg"
@@ -1313,18 +1289,8 @@ hash = "8bf77391c131bd77b22a02326b7ce0eafcb49e1a0efa09b22721b19eae77f91d"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-generators.pw.toml"
-hash = "5f5992c2b4eb188270c10ea48f7e0eb5fa5a5a5bec074eabbf56cff5288350ac"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-tools.pw.toml"
-hash = "23f23a89b24ad8b5d3369fd5853c0ce70d60008272c879cc4edfc6d8817616cf"
-metafile = true
-
-[[files]]
-file = "mods/mekanism.pw.toml"
-hash = "5ee90de742eb3fe586a9f31132b32af4fc86c51c768a7ab5105e4adc13e0f4c5"
+file = "mods/mekanism-1.7.10-community-edition.pw.toml"
+hash = "0cb45097261322f03101fbb0b4a559a6b9f8bbd1f502df0afb01b41fc064ddac"
 metafile = true
 
 [[files]]
