@@ -1,0 +1,13 @@
+name = "Music Maker Mod"
+filename = "xercamusic-1.16.5-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qQpWCN75/versions/v4i8vz6N/xercamusic-1.16.5-2.0.2.jar"
+hash-format = "sha1"
+hash = "4b6d07017b76b64f4d6b3ad361dd400cf2619c21"
+
+[update]
+[update.modrinth]
+mod-id = "qQpWCN75"
+version = "v4i8vz6N"

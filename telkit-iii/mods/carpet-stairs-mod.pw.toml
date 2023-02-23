@@ -1,0 +1,13 @@
+name = "Carpet Stairs Mod"
+filename = "carpetstairsmod-1.16.4_v1.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9995a91fefdec3992c0e1ea3e9576d4ce0ecef4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3186923
+project-id = 361689

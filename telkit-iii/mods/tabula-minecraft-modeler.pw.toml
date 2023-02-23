@@ -1,0 +1,13 @@
+name = "Tabula – Minecraft Modeler"
+filename = "Tabula-1.16.5-10.5.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df6fc858b335f2d715a87d03a0e477a40607c91b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3548425
+project-id = 229092

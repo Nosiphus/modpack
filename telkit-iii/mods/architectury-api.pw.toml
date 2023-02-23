@@ -3,7 +3,7 @@ filename = "architectury-1.32.66.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1.32.66+forge/architectury-1.32.66.jar"
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1.32.66%2Bforge/architectury-1.32.66.jar"
 hash-format = "sha1"
 hash = "e0f8a7569e033feea68e3d18e243ba13b36b0a9d"
 

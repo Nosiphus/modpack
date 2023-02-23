@@ -1,0 +1,13 @@
+name = "ColorUtility"
+filename = "ColorUtility-[1.16.5]-forge-2.0.1serverfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e2ec98eb1fa3b5b2cd714fa000d0d710f23ea24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3375857
+project-id = 259957

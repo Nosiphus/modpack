@@ -1,0 +1,13 @@
+name = "Comforts"
+filename = "comforts-forge-1.16.5-4.0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SaCpeal4/versions/hQP0wrCY/comforts-forge-1.16.5-4.0.1.5.jar"
+hash-format = "sha1"
+hash = "1f186af5e871419feeb2c03d60b7908994956c3c"
+
+[update]
+[update.modrinth]
+mod-id = "SaCpeal4"
+version = "hQP0wrCY"

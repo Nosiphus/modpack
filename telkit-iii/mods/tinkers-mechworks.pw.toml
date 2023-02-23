@@ -1,0 +1,13 @@
+name = "Tinkers' Mechworks"
+filename = "TMechworks-1.16.3+-2.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fzl1Nrfy/versions/KuEj4a8R/TMechworks-1.16.3%2B-2.2.5.jar"
+hash-format = "sha1"
+hash = "28f5e39d2308e073b837b4326054952d65bc9f6f"
+
+[update]
+[update.modrinth]
+mod-id = "Fzl1Nrfy"
+version = "KuEj4a8R"

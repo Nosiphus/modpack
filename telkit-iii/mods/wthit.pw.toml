@@ -1,0 +1,13 @@
+name = "WTHIT"
+filename = "wthit-2.10.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/forge-2.10.2/wthit-2.10.2-forge.jar"
+hash-format = "sha1"
+hash = "d1dd811c131116c2f78ec1d2d3a8f40c4dc9ff67"
+
+[update]
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "jYlq21ZV"
