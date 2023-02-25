@@ -1,13 +1,13 @@
 name = "ReAuth"
-filename = "ReAuth-1.19-Forge-4.0.6.jar"
+filename = "ReAuth-1.19-Forge-4.0.7.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "db9ddb9167b10d5d7645ee437b4d2f73ec6bfb0b"
+hash = "a77cdb9dda452c0b7e3ef225d04c1aa0bf99e3b7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4120086
+file-id = 4408013
 project-id = 237701

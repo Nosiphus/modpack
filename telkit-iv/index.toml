@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "20b9899def184685570100b7776b037ebeb7c17a514c72853177e4dfb57236f0"
+hash = "5e11239c0e51739f8b090904bf72c14d1e53f97fc6210488e5a2659584adbb6e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -684,7 +684,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "6d611596626bedad9eed44b9e2261e6024c73db936c4b0e21c35680b6a2f6670"
+hash = "71ea9ac031814496a679ede967bbd8db9b765a2725dbfddee7f0b90e653abd38"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "453f2ab7254bc7e1aecf593ece28ba1a3fbe28215734bb43f0c57bc4269d45ac"
+hash = "4932c23c8228894af61844bab27073f9d189a061459ccc4f14c8dbd94c0e238c"
 metafile = true
 
 [[files]]
