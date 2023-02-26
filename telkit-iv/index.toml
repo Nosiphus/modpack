@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "5e11239c0e51739f8b090904bf72c14d1e53f97fc6210488e5a2659584adbb6e"
+hash = "ba68e39275e9ad44bf4004f42b5718b793c6b71f1b06a7b817a8be6a55d6fb3d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f6cbf049bf3d857ff70736e3cae7cb3b3cf42fe01142e7b38c1520e9209428f2"
+hash = "3d6d399c190ef1ab296c64373c8879c65edc45ca2f1027fe42963ea8f437d3b7"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "0a4351074d7b9e5b59794f374c3c8f7c1ea19b3f1b0d0e4774b557ec135ffe99"
+hash = "a59c931036c547cd42a8db98826ec4e253b05e497b4e1f2b33e5e311894ab379"
 metafile = true
 
 [[files]]
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "8be043e4f22e62d6616cbf0dba81ab3ddc55bc75cab5c2c82a8cc16951760a97"
+hash = "539937d4d78ebaa077d576d96bda7d57502b1e01d45d29b72d14730a8f6af267"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "a36fe2d95652e6916e61f417425d2f20fb0fade182e5e76d304ab48ab8c6077d"
+hash = "d79e69ac9640755d74ef264dca2041152542eae9227981b75b70108eaa5a75e8"
 metafile = true
 
 [[files]]
@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "780bc593db70bbef51a5836b1e025b9120881f80d50c3fc9b10b4f0761ba5de1"
+hash = "95c92994b4280d2cc43cd9b430f736a4a6971e1fa2421b0d93d24d78d53ee00f"
 metafile = true
 
 [[files]]
@@ -734,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "4932c23c8228894af61844bab27073f9d189a061459ccc4f14c8dbd94c0e238c"
+hash = "8b931cc221d3868b20fc3f7c81168b25cc95fa4dccdcea5e5e31b1fd11094d02"
 metafile = true
 
 [[files]]
@@ -759,7 +759,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5ee2c0d175a1018ca40e6ded917f9db40dadc120888388612bee5d6eb2ac26c5"
+hash = "f34239e9b16a6c52001f5311aa81313ee543163a2f24c820a4fb7cd0c7b226e3"
 metafile = true
 
 [[files]]
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "127ff154daff24db7e5bfd928eb8580254f90565480bf70a4f6739bb92b75d63"
+hash = "42b960ac0123f953a21e3375929005de69da48e434b62b1525f2462152e18f2d"
 metafile = true
 
 [[files]]
