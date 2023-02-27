@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Mekanism/world.toml"
+hash = "290963b728184c13fea494c2caa50c3ebd36ad098bba6684a75a0a720e349dde"
+
+[[files]]
 file = "config/ModernUI/bootstrap"
 hash = "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
 
@@ -42,7 +46,7 @@ hash = "1b8614ccd1c3af620a0cd666c3cf4c9a366bc2230d675ccdfff47f9df62146e6"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "fc9e1993f67ad661d6b4474e16c0cda5d74319564fed2db5c18ef638cab8f893"
+hash = "b80e12ee5d9b1b5f1b9694d384b4763c82962108001f5a6e741fb13488ff54a0"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -50,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "ba68e39275e9ad44bf4004f42b5718b793c6b71f1b06a7b817a8be6a55d6fb3d"
+hash = "cc8ff50d24e4c6c97be248c6602c972e76ef7fb2b0cc86625c928afcf858692d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -62,23 +66,23 @@ hash = "5009175d12de13e4ca5c3d54089b1b716bed663469e11fd1ff160b99a136a3d2"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
-hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
 
 [[files]]
 file = "config/fancymenu/locals/en_us.local"
-hash = "01b9e0b0b0332e282798041e16badf6804bec9b46edcd279a5c6d9110ae31ffe"
+hash = "6e5f6a7fce57921106335d54801ca78557bfb7db45bb10122240ec9fb6503b34"
 
 [[files]]
 file = "config/fancymenu/locals/pl_pl.local"
-hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
 
 [[files]]
 file = "config/fancymenu/locals/pt_br.local"
-hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
 
 [[files]]
 file = "config/fancymenu/locals/zh_cn.local"
-hash = "b9c3dfadba74762bfea5837060ca5bfb4dfd3b1fbcd65fb6c0d190df4ec611d6"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
 
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
@@ -86,31 +90,35 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_0.png"
-hash = "5403003afe60c964d68c42d294beaa9a96d85a783917f6c8b380d95d644cacc9"
+hash = "ca027b5fade536efe5c9a37366d4a8bc1d0e4780d44f7f0847a50547e0769bd3"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_1.png"
-hash = "439d38a7f21eabbaf9269186844827a596fda28919ad2edff59d22b03aa5b8a8"
+hash = "b4663622f38304ca5da411e267bbd5d8bbf8192bfd6ad907b1dccf6cdf423c16"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_2.png"
-hash = "6becc1fb63bffcbcd8a635ff53b7c284942f0a326170aeaf43eb2362174a1ef8"
+hash = "bc17aa7d101a89f272868b2b4ad9071025357e05c4e1d74ad8d86fd801110c3c"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_3.png"
-hash = "abdd8c255b9f1b3f5ec4fc168518606656dd7ded9a061196941e643f1cd96495"
+hash = "6a72da1b33c1038b0d4e64ab2745516b93d55d669c6650cc8e90d1eed1e9ec6f"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_4.png"
-hash = "38792d1f31a03b17ea12b418e4a847393a8ef39a5e8dbc974f9e9a8f5b25599e"
+hash = "e16239f43bfda5d06afb44ff74003db1da5075ce7abfd781ea5a37ac16f5ca9f"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_5.png"
-hash = "fb9277787edfe5016afdadc2c128855593c6cc324adf04b1bfd9946ed7bd8d7c"
+hash = "08d322b24f21a3580fca8ee46137e4ec3fa493d388a10e3514046427bd941e28"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/properties.txt"
 hash = "280d8fbf33a3c8adf4e10cbf7e139b6a034b6e0d9fcc00418559c91d21082e02"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -125,12 +133,20 @@ file = "config/mca.json"
 hash = "84ad678ea3cc04e0cecc78262b88aab70b203b9ea53d3099b99937f611a52a66"
 
 [[files]]
+file = "config/pfm.toml"
+hash = "6766d8f6c90f09f96f74274829db94858bbf45775c2b27375edd853635249453"
+
+[[files]]
 file = "config/thermal-common.toml"
-hash = "e2d8b519fa9c591beddca42f2cb762ac220e84a5ca388b345d1124be078c68a3"
+hash = "fa78b625b56da62579feb7665ba9a63136f962379a9bc634b1235e96eecc4512"
 
 [[files]]
 file = "config/thermal_integration-common.toml"
 hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
+
+[[files]]
+file = "defaultconfigs/electrodynamics_ore_config.txt"
+hash = "91bf9108745cb8f310780c2e2ff74c0c72e68d9cfe8cd4cfc5135d658d29f5d9"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -564,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "498cf27e98bde8b2a5d6e631aef5b0baa2be66def483adf4ece2375ccbc7c040"
+hash = "baacd73979452838959ee26b777a4a9f2b3e5f1d6d4d62714d8e254378ffb03e"
 metafile = true
 
 [[files]]
