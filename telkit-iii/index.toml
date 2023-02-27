@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "f6efa0b75809b27af651f8e29bad1d9efd5d9c343f974aa1b5769c8c04ca0793"
+hash = "dd3a39d7322f7cc76883d58c54cd6f4d01d9d61fadebb1ef057ceca7e3dafd77"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "875da41a0b91191c68920446ff622a733673655fb9c3e5fbe531f90f90017554"
+hash = "0556e37102b980f50920f096a73700a54a651287d9be40dc4db6d0a1dec83d39"
 metafile = true
 
 [[files]]
