@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "60576464512a38fcca37aaaee4a2ec779aeafa2bba274241cf42c724f934ea22"
+hash = "b8091fb17527011e413b077842a14ded21e386fe26606dd6b6c4e503b41a36df"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.toml"
-hash = "648d73d771c651175fea5d08e4ba4e9e6eefb3a6817a8c2095ba2c0d99aa7f34"
+hash = "53105a0a24ba4be58571b056a85e09d7f3840777c7a6c6f6520c55620388e77a"
 metafile = true
 
 [[files]]

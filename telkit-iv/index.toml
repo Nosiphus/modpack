@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "cc8ff50d24e4c6c97be248c6602c972e76ef7fb2b0cc86625c928afcf858692d"
+hash = "006b271d7ce2b645961801455c313ef771d3bad736535db2c52cb61b033e91f8"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "3d6d399c190ef1ab296c64373c8879c65edc45ca2f1027fe42963ea8f437d3b7"
+hash = "3e0c5d45fb7e26965b780ecf0e49044515ba14dd9811f2c1105c143428ce4488"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "93be579c5a7d0bde438284958086d6e1b8838a95b4a3c41df97d5a5b4c2d4f0e"
+hash = "9985600713a699c940c7b202ff6b5594cc4cfbba78af24c2c899338184a71050"
 metafile = true
 
 [[files]]
@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "a1fa94b2d3a997c75f170cb46c0e576c0aa5981573128fe10d14958b712061f6"
+hash = "5228a707c05ff3c093357ba94c7b92290af0bd9d10c0567bd232a728788d61af"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "8b931cc221d3868b20fc3f7c81168b25cc95fa4dccdcea5e5e31b1fd11094d02"
+hash = "cb03db92a6a1e74063ba6dcb72cdb869eea518a1499fac260b5ac6f4ff0f92e6"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f34239e9b16a6c52001f5311aa81313ee543163a2f24c820a4fb7cd0c7b226e3"
+hash = "b6085507b222085a07d3b9b8a41072c137ad26daefc84c317fbe6a6ac6406ec8"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "42b960ac0123f953a21e3375929005de69da48e434b62b1525f2462152e18f2d"
+hash = "846fa05b2d6656b3ae92491cf3036c61c54493e4bfd13e024c417d3915767550"
 metafile = true
 
 [[files]]
