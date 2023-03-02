@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensional-pockets-ii.pw.toml"
-hash = "b326ade7c46320e02bb5b0806f91ba371c57d89a025467ec3889f933937bb18d"
+hash = "20405d488ee1fd0024a786f5e85d5f0ca1a43df5655a47a991987c4217426bd5"
 metafile = true
 
 [[files]]
@@ -685,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "2fe0d8d6b9dc02c1579dc65910ac26f046db707c2ed0813e9b347a7320e5ffd5"
+hash = "f8729f643f2eb0c2c08c77cb14330c4122d0b72342d445fefb6f02694d1ebf72"
 metafile = true
 
 [[files]]
