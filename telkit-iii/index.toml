@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "dd3a39d7322f7cc76883d58c54cd6f4d01d9d61fadebb1ef057ceca7e3dafd77"
+hash = "986c8d22beb708ac62bcdfaacdfcc2e447a237d7f17edb7a6878d216fd7173c0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "2869256a89f1013125bbce5fc62265e47012ad09fd3b2cc53f37919bc3c8a042"
+hash = "736dbe1ea51b7798b21045657291f02b530875fd94b98c084de4acedc9999f2b"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "8bef5d24dfaf0e0f4ab02f5775837eb4deeb5e7a4ccc047b2d21050a53532a3e"
+hash = "050f882929090fdb685f47d6aff5ace38c92ef60665ef96c5dcf56edc672438b"
 metafile = true
 
 [[files]]

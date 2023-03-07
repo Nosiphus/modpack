@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "006b271d7ce2b645961801455c313ef771d3bad736535db2c52cb61b033e91f8"
+hash = "67d2407ff81e2eb29b6db0778adecdb5991ebbc65757223692dbba050a3dada1"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "3e0c5d45fb7e26965b780ecf0e49044515ba14dd9811f2c1105c143428ce4488"
+hash = "d5547bc321a0da618255a990aa9c46630033c02d0065ae116e659af100b811bb"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "823537b84dc4c55889d23255e42248e6eeb02fad57c46aa694b6ce26451a4a86"
+hash = "ca21d903bd9eb0b338e88da5edad929a66ac01cca6d52c92c1855f45f8728178"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "78a522b50f3af9be297a7bf8cc5a9fa69a2a7fbfcbd8dc57dfa941da8e66a64b"
+hash = "b99133d54264591eb86f42439bfc16074885eb78fc99d57c114b16ad625f98fa"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "d0674dbe5d5d5661f8746475cb28439e580e61f9fc0ea7f42c6c5a58c77d655f"
+hash = "0c0819e3f1ca43c84af57322e215cd56c8b94a1b620dd021000e0af5775e8af5"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "7adaec9445bd86e869733a94ed619bb0be266c6c09dd4b8b82ea3a2b32205290"
+hash = "1107357f27bb0b33921d00b2d85b3457e11978e19991c29f965a9d4f24a874a0"
 metafile = true
 
 [[files]]
@@ -685,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "f8729f643f2eb0c2c08c77cb14330c4122d0b72342d445fefb6f02694d1ebf72"
+hash = "41788b94bb98ef1ed7a23b45c40e57ce691da3dbb0b31a2022ece7d228caec90"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "cb03db92a6a1e74063ba6dcb72cdb869eea518a1499fac260b5ac6f4ff0f92e6"
+hash = "1cc126c41944a119596c10b694c64a064e0628df7c714d7e3bda2734ee083ac6"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b6085507b222085a07d3b9b8a41072c137ad26daefc84c317fbe6a6ac6406ec8"
+hash = "b220eae176b1469b18290f9cf2abf83dd8acc4b2913a4793ab3eb24b5bbc69d8"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "846fa05b2d6656b3ae92491cf3036c61c54493e4bfd13e024c417d3915767550"
+hash = "f229396defb73008f0cb5603c45603ec41b3b142871c347104a6cb47d5dc2906"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "8029da90db75285803b3399681254bd758fcd4ae3167ed0a6ce9e0da20a83c9d"
+hash = "cc382411f5441697d42dc13e7241c4b0d37e17a15abb79fefe192c82fd210c57"
 metafile = true
 
 [[files]]
