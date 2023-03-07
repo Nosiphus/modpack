@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "67d2407ff81e2eb29b6db0778adecdb5991ebbc65757223692dbba050a3dada1"
+hash = "c0700f13a214f43173ceb24cfff4ff5df0c708cc43269b3f430cc701c8a9776d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/assembly-lines.pw.toml"
-hash = "ce9042550b149f0c40fa5b6d31ee6cd85ba316a641b30ff265ba17473826b086"
+hash = "c11ad857a58b0a43e6d7871172505a20f3f9a1b74680c4d6e763b99ce903957a"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "eb08f0bcbd80a2472a0299a692031d1135e6beb238f3ce438d152462f772e921"
+hash = "d3099f45136c1c859027b1fd4a38fdfead9a2fceade38906e93871be2fc9bdae"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "e7a31bca2c89624f212365c8ba63364652ae7163af1b0d6effafb4f1b27c2d42"
+hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "1c39ba74cf0c1c2c4d39e8e8a87904d3218d85c7bb24a8a3c7652d0de2f50a99"
+hash = "bb8df6457cb8062ada72b88b5304bad3bc7269e36e01cedb80942c7f3a8ecae1"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/modular-forcefields.pw.toml"
-hash = "5daa98cc65588de29e1a477e7b4332e359b4e178fd30fed8e91da0ab37f851d1"
+hash = "371ce04024fc40bec7dbac56d77b3e5f2368ac3066aec01ee4281abeacd422da"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "06748ea99e96b79f29920a00485da5165b9e1718e3e7a282ee4e52dcf18cabc7"
+hash = "b5a5650f0ac96092ec136e457f5df6221ba1af71e2fa70380607fce861d9d055"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "2a3d0a097540d53896e6eb9ca951ab54b525b73f40f248b68986faa4a1bf4d62"
+hash = "c0b9b0aa4259472773ae10d6933563ba8c22ec54095c6c53f45ac260ec01ebc8"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1cc126c41944a119596c10b694c64a064e0628df7c714d7e3bda2734ee083ac6"
+hash = "84585b4c9a920f09bc05628df49aa9541c21637b99c4dd068c1d3501395c4af6"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Assembly Lines"
-filename = "Assembly Line-1.19.2-0.5.1-0.jar"
+filename = "Assembly Line-1.19.2-0.5.2-0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "28b73d81d01e8fa3323fe4d0f4e956770ed8d13c"
+hash = "330f64bbea4f531b604b9cd328941c225c3c2321"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4395077
+file-id = 4427132
 project-id = 404360
