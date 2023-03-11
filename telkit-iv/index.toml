@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "c0700f13a214f43173ceb24cfff4ff5df0c708cc43269b3f430cc701c8a9776d"
+hash = "bbe6e0b404a0ae82cda8f12bc557253e0a71219ce0d4609ec503b4c70db83df2"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "ca5775104714b3a090e713fc649cef3985007eea5eb1b4ddf49407dbeae10acb"
+hash = "ab6059d0f5dc8a94f28aab571b0503549a1a7489af3c481b1d2cace11819d18b"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "c96b29cfe3005467c10ee5552bacf520bb02cf3777b891cea1f20df38c5db2ed"
+hash = "8cba34db000d783d7df7b46991feef57dbbe803d4a3909abf9df2c5a3ba8e7d4"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "bb8df6457cb8062ada72b88b5304bad3bc7269e36e01cedb80942c7f3a8ecae1"
+hash = "eb0e3f2829a84b60865297668c79a17f8d6fcb8e2b18ad1e5b301d0117a20768"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "68ffae45121468e8205b8be4d2d67b723928de3ffb1aeda068eea3d6c9d246e0"
+hash = "bda73a1d97e537c127c41709488634518d8759bb7ab7de7444b9c9260d3fe20e"
 metafile = true
 
 [[files]]
@@ -530,12 +530,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "33403c389f24da10df20c769fedfd08866712bd173ef9c916dc4e33e444f127b"
+hash = "b2d7d550238a9224ad82f0db86e9dcb0b038eaa91f5a7d563bdca6887f3d8c52"
 metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "85e9b8f568b9db744ffabf4d9e31ba4e1f57d7fdf4a1fd5f90a8e7cb24033611"
+hash = "ccae58379e56d3148c08a27bcd825b1c7f50c984f7d970d5235dae638b3b4f51"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "84585b4c9a920f09bc05628df49aa9541c21637b99c4dd068c1d3501395c4af6"
+hash = "d0abada2d852dd7506dce478ec8d81d24a8e82cbfe6013a29ed53d4cfabf41ac"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b220eae176b1469b18290f9cf2abf83dd8acc4b2913a4793ab3eb24b5bbc69d8"
+hash = "731bd7c4f118f19f8c3dd954ce4021bc1d5072169d8add1c23ad831502e25fb0"
 metafile = true
 
 [[files]]

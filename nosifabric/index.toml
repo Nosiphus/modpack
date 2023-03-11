@@ -402,7 +402,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "0c111c103a518cdfc5f6f89d1f1f56a3997c4b96bb27fc23376676deb8688185"
+hash = "4f70ba8bd482c113fdb63893391d315c73b8d89554cc85f0832d63f72f26f777"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "05190346d8cd9d0144dfeac6c68f766fb9f34e0b916483d5360b4883b60b282d"
+hash = "85af96424d4081c9e0bfffd6be417b880c5a44d1ea4cd3d9dc30401a0c82f7c1"
 metafile = true
 
 [[files]]
@@ -864,7 +864,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "b22fb603eab45ffe52a5ef7d44835cb41590646adecfe467ddd91d66f6570588"
+hash = "802417d1c24f779c3fda82006012747309b11038c37d5c2f64a96257ad88dfa3"
 metafile = true
 
 [[files]]
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+hash = "28b3808ae3e3e5bcc8f2a6dfe40c539a2e55afd3687e41c681dc408021e395ef"
 metafile = true
 
 [[files]]
@@ -1139,12 +1139,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "249a3b661bc2cb8c2945757fcf6d28debe00fc11208b73829b3e89f70d943b68"
+hash = "e5fd62acfa586a4066ba2ba88b3de175ebfca4f9aea9beb7beb63a0076c88301"
 metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "0f191d91738977153ad953a306e8c154e0abb87b35a33b1d397d0131395df02d"
+hash = "eb4071fdeee678fce838bc85391981b0d66a558a30ab15b12890e6d8d842cda7"
 metafile = true
 
 [[files]]
@@ -1159,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "d37bb82a29fd540ca6d4773b70b04dbcd584d580e80a783fa188841a17294c16"
+hash = "fb6e32b96cd00f2ff808fbddddf2e3d7d833b7c14b5e9db1f7a4f828b5b57ed9"
 metafile = true
 
 [[files]]
@@ -1264,7 +1264,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e1a41c2b6fa9008ff67b7e01764c644261ec8140c9bbac0d6cd519c91523f270"
+hash = "4bc1407ea1df8a6fc74aa5f388c726f1f0d27152acca06d74c77e61507eb936f"
 metafile = true
 
 [[files]]
@@ -1299,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f2a171e88b560ebdd271df77d21ce6543ffa479cb51b72a188ebc461a5c5d09e"
+hash = "95ae046f35ec27df513544e45a0c0b93bfd538e549b3015825fa78371871de06"
 metafile = true
 
 [[files]]
