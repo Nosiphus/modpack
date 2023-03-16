@@ -57,6 +57,10 @@ file = "config/GollumCoreLib/buildings/JammyFurniture.cfg"
 hash = "404e305bb7b09e98102a5f495229a541bccd753ac7a4b032136b463de7bdf781"
 
 [[files]]
+file = "config/Hats.cfg"
+hash = "09b0c4fb89aed170a95136fb90939538f2b090e9402fea29c4a03d473ed08e7e"
+
+[[files]]
 file = "config/IC2.cfg"
 hash = "e2d43451b3b575b13735023bacd5fb0db1d4bbe5ce4b38a47113fa1f2d96ddc7"
 
@@ -83,6 +87,10 @@ hash = "f5a11b8cb9f971b0f36ee772c84e8a9bee06064018a08ac969c0d002e76d131b"
 [[files]]
 file = "config/Mekanism.cfg"
 hash = "290a4013383cfaddf5167bf675e152412299fa8be85c66f66909556b7448a7c7"
+
+[[files]]
+file = "config/Morph.cfg"
+hash = "687cfcbd9e545fbffb8d2dd37aceced9318bcc1ea0d2a68e2ae901b28b1d15f7"
 
 [[files]]
 file = "config/NEI.cfg"
