@@ -222,48 +222,48 @@ hash = "fb5df35b0681b47a5c97173ee54d1b1f49185bf9a92c790ae33703035ffb53ef"
 metafile = true
 
 [[files]]
-file = "mods/1.6.4/forge-multi-part.toml"
-hash = "44303698064e6c78eb315d67caa54e419fefebeb87027f025eae3181612e1d8e"
+file = "mods/1.6.4/forge-multi-part.pw.toml"
+hash = "8c2d3369c8cd8d2e6b569f6298456ea3948000e5d9c6b1c26e4e452467914faf"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-1.toml"
-hash = "47dd3c66b081a792dac9e8a7ad34efd2e23bb2af153302ce0d2143bed79fb980"
+file = "mods/applied-energistics-1.pw.toml"
+hash = "73be5e85c829f668b52d36a39b35b759296eb9afa73d7ede44d00f0ae9f2ec52"
 metafile = true
 
 [[files]]
-file = "mods/bibliocraft.toml"
-hash = "b70abce406c4d499d1fb5fd003d21b00d5ee5da64edb10ad3d93d4401c5f73d8"
+file = "mods/bibliocraft.pw.toml"
+hash = "79804cc59dd13f3a6a3f99c66d3113d577d944940a0c4736f432226945fbec3f"
 metafile = true
 
 [[files]]
-file = "mods/big-reactors.toml"
-hash = "6ab137ea98dc3b5fa382d695193ec982d134a25ab6a66686089ef5b7b1d93d73"
+file = "mods/big-reactors.pw.toml"
+hash = "42dee221d3d2de8f19c806e61f19985ddd29f788738a8cfb615c17404db98746"
 metafile = true
 
 [[files]]
-file = "mods/buildcraft.toml"
-hash = "09cd2b604d4fed9fe39bd5d7f9e6f57176e646d5784b657ce971b571d7f8a2bf"
+file = "mods/buildcraft.pw.toml"
+hash = "d322e47a85ae750077b57d537ec8679b6b77b6cf059789e3933ab06a81f1b447"
 metafile = true
 
 [[files]]
-file = "mods/carpenters-blocks.toml"
-hash = "ce9b71d454afc3699c7109ba2efdd336f9287100c81b2f3cb69e6319e4dde7b2"
+file = "mods/carpenters-blocks.pw.toml"
+hash = "0f243806facf09060c872f4898a1bad4d4b40883ebafc12e35d3b0da400d3198"
 metafile = true
 
 [[files]]
-file = "mods/codechickencore.toml"
-hash = "3c653e7796a8f9e8a6cf826696cd88d62ef62b3bea8ebf15f7167e6dd0a60b81"
+file = "mods/codechickencore.pw.toml"
+hash = "28e2bb0db32793e42a20f4feb01e0c6348125c5005710e22a825b5d78e6a8914"
 metafile = true
 
 [[files]]
-file = "mods/cofh-core.toml"
-hash = "6e44e181e7b293b6641ab80eaf23ab671f1444a68823f258de7215b9a79e15bd"
+file = "mods/cofh-core.pw.toml"
+hash = "35560ec16bd3ad0ddf9a35ee6d126fb312c3abefcbf55b2d6ebaf7045af977f4"
 metafile = true
 
 [[files]]
-file = "mods/computercraft.toml"
-hash = "31c3e9c9aee3caceea6a4af831debf8a20085c8e1e84a7d104444501a1574c43"
+file = "mods/computercraft.pw.toml"
+hash = "b2606db4efb83ad46b6dc915a7f3aa1d4fca6b8bbe6e727be111f8334ea4e46a"
 metafile = true
 
 [[files]]
@@ -282,6 +282,11 @@ hash = "e6db40659cc0264342090b2cdc4ecc7260b71fa67f5d1c7ca5bc613d4dd1b575"
 metafile = true
 
 [[files]]
+file = "mods/hats.pw.toml"
+hash = "bd73746cf886473d3c0336e59592ce4925ed63e62e6189e1c1e3201be5a68157"
+metafile = true
+
+[[files]]
 file = "mods/ic2-fixes.toml"
 hash = "a1e87edcdf9e2251d914b0f92586e8f9cf729c1b41994dd86276bc3c748f9117"
 metafile = true
@@ -292,8 +297,13 @@ hash = "da10bcbdef3a62a9be6037f109ac3a5cec2fcd1262660ab59b004017cfde4a07"
 metafile = true
 
 [[files]]
-file = "mods/icbm.toml"
-hash = "f7916ce7879c006d8e1171bb7774448e6e2c3a84c405056bd073f73c6281181c"
+file = "mods/icbm.pw.toml"
+hash = "8b557095cd08825827c7f7c869273f63bc23d694fb7faa6b8c960fb7771987a8"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "0806c6029a6fac15b0843e0490e752d76c6b02cbb3a4d26c51a82d4132119dd3"
 metafile = true
 
 [[files]]
@@ -312,8 +322,8 @@ hash = "a8af80178279c0abed5dd6d8e08ec9e6b64670033b9cd55f284ada8b67bf1c05"
 metafile = true
 
 [[files]]
-file = "mods/lumy-skin-patch.toml"
-hash = "1159a37caba40a8d58e75fd1a5ec1d84a10934bb1be64d182b2a6dd449c44cf2"
+file = "mods/lumy-skin-patch.pw.toml"
+hash = "d6be35d24952ede5109e46c289c32018dcf701151131f7447a8d2ec4fd4668e0"
 metafile = true
 
 [[files]]
@@ -342,6 +352,11 @@ hash = "b9e57e98bc0d07bdced4f4cbf2d8982aee3c071b375a3dbe4f42dee339bd7885"
 metafile = true
 
 [[files]]
+file = "mods/morph.pw.toml"
+hash = "40b6a358f75e10b86ea25557c03ad13ccb8389d4ff72c6e1b2b5cbbb33bc6d20"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfish-furniture-mod.toml"
 hash = "725f7f6ffe9eba6f872660d97b8176902629845057e03f66561e45e5d66d0fe8"
 metafile = true
@@ -357,8 +372,8 @@ hash = "4c933628c4d211c24eb7484ce764b935c625c0783ba2c196098e46985ed176e7"
 metafile = true
 
 [[files]]
-file = "mods/notenoughitems.toml"
-hash = "ef2edd583ce5cf4aba6d3579a00beaa5ce6947c0602cf0557c20c5e78bfeb147"
+file = "mods/notenoughitems.pw.toml"
+hash = "5a198bf5096925b32c41a233d822edde363f01ab910aae1cb826c4bddee7f146"
 metafile = true
 
 [[files]]
@@ -402,8 +417,8 @@ hash = "eb21e24cdac229f642416e427165dd147d56a2fae44225c0df5fdd034bd9c52c"
 metafile = true
 
 [[files]]
-file = "mods/resonant-engine.toml"
-hash = "add24a43d409b0fcf6b243ad955026d9a9763da7ce1afce866e0c5de2a2b2cf3"
+file = "mods/resonant-engine.pw.toml"
+hash = "c2e795ca85cb4c8fa1562263ee6a94457e1e77470d4c5663fb28680fb89bb33a"
 metafile = true
 
 [[files]]
@@ -432,8 +447,8 @@ hash = "e4006a771a31af14fc88da5d52c73cf815d26a9b2e5a3dcb0463650bd9911e28"
 metafile = true
 
 [[files]]
-file = "mods/thermal-expansion.toml"
-hash = "7e79c1bc9f1706c3550a5cd975ca95184ae9420800a2ae89fa18f726b66cd869"
+file = "mods/thermal-expansion.pw.toml"
+hash = "1ab85344c915f9c51b7904f688f49c7f17115bbb0972f10dc8c855a109aef266"
 metafile = true
 
 [[files]]
@@ -442,18 +457,18 @@ hash = "97bc2c936d5bd5729ba98f6710461bd6445f18ad83ef44ff900e41eb2cf04181"
 metafile = true
 
 [[files]]
-file = "mods/waila.toml"
-hash = "f5a08152223437976c8a14a5f6f477ac4a97d2ce84f914ddae8101140f776dd8"
+file = "mods/waila.pw.toml"
+hash = "a2b9374c296e95dd2ca4e95b772f7cd0121775da7b673058af3a59967e8fa186"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.toml"
-hash = "40e7f4502fac27d8172e560b3755687fdcb584fb72e9678b870fec055ffdc9b1"
+file = "mods/worldedit.pw.toml"
+hash = "3c12cc3a89805cd1a517ac9449aade9ebdcac72546933043f51aa022fd36c778"
 metafile = true
 
 [[files]]
-file = "mods/wr-cbe-universal.toml"
-hash = "6830a62d4f9d533edd83129890df9b2dd6138f9eeb209920ae76ff48829d7555"
+file = "mods/wr-cbe-universal.pw.toml"
+hash = "81dc26e53cf448e0597557bd158aba57725e7d4ffac06c8fbb573d612072e7cb"
 metafile = true
 
 [[files]]

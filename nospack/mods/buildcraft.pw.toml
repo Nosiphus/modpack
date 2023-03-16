@@ -3,9 +3,9 @@ filename = "buildcraft-A-1.6.4-4.2.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/764/912/buildcraft-A-1.6.4-4.2.2.jar"
 hash-format = "sha1"
 hash = "494b9334012ba65c969556197bee7915350f81ab"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

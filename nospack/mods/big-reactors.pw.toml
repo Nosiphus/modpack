@@ -3,9 +3,9 @@ filename = "BigReactors-0.3.4A2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2282/580/BigReactors-0.3.4A2.jar"
 hash-format = "sha1"
 hash = "b6c67ffd5e7e5b77e9a5a91bbb6b93987a786cb2"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

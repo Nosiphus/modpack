@@ -3,9 +3,9 @@ filename = "appeng-rv14-finale3-mc16x.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2212/864/appeng-rv14-finale3-mc16x.jar"
 hash-format = "sha1"
 hash = "af3e36d89f3e88e0c2f26d4ce2c04b43d55ce12d"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

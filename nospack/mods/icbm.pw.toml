@@ -3,9 +3,9 @@ filename = "ICBM-1.4.2.386.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2218/541/ICBM-1.4.2.386.jar"
 hash-format = "sha1"
 hash = "35d7a83f1e4af46f4962537102ac9cf69fae5335"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

@@ -1,6 +1,6 @@
 name = "Lumy Skin Patch"
 filename = "LumySkinPatch-1.0.12.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

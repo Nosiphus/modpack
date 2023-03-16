@@ -3,9 +3,9 @@ filename = "WR-CBE-1.6.4-1.4.0.7-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2233/234/WR-CBE-1.6.4-1.4.0.7-universal.jar"
 hash-format = "sha1"
 hash = "4323355b5afb1f1d41e35197b001dde09ea2c58f"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
