@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "b8091fb17527011e413b077842a14ded21e386fe26606dd6b6c4e503b41a36df"
+hash = "9db244b56dc5dc3b008ad23c3f77188dc947f608f0f826f558aeaf0cfbbbbe52"
 
 [[files]]
 file = "mods/1.12.2/baubles.toml"
@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.toml"
-hash = "757e3f17ab5406d44c132b9c20b9deb6c46cc3e1bc12fa66a5a53cbeaa3dc3f9"
+hash = "3f42498d79852cfef3e57386ff69b917f9adc32bd9b00cc9821cf20b7af4a7b8"
 metafile = true
 
 [[files]]

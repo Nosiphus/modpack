@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "eee087b17883b4d2c2050f6b46286f7ff6d8e45587a169a37c0371160c57f374"
+hash = "68816c0ed1196fadaf270e99eeb39a81bd86c5ca017b26fe8d54943a7d305d34"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "9985600713a699c940c7b202ff6b5594cc4cfbba78af24c2c899338184a71050"
+hash = "30800f89601d48dda6a2fe21505f116b4b7c04460f6c0b9cf0f1b8f195380361"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "9206e44fbc91a547ba101892d5412a4bab3b9236261c2f1471184ef02232bfd6"
+hash = "ddfd557d336761ad7930548f24322cb8c771aa1e0187b13a51dea268b9690d3e"
 metafile = true
 
 [[files]]
