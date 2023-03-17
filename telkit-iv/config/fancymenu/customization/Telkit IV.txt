@@ -248,7 +248,7 @@ customization {
   y = -21
   scale = 1.0
   alignment = left
-  value = Telkit IV: Thursday, March 16, 2023
+  value = Telkit IV: Friday, March 17, 2023
 }
 
 customization {

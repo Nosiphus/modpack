@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "68816c0ed1196fadaf270e99eeb39a81bd86c5ca017b26fe8d54943a7d305d34"
+hash = "1b5de361e900bc79f983a7aaafa2cec313511d5d6cb71daa400de7fe79b46574"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -154,6 +154,11 @@ hash = "822acea1296bed2244d313189bd2cd6438ece4f49fa129bf1e371c9306f06243"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "8e8765636053306d4be9aa1bdefe1c58a8fefa7ef7578af4cd8f533836415bb1"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "bb9e00a7361499399b42d5fab089e5bc66d283889a821df94d0919b8d18b05fd"
 metafile = true
@@ -220,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "d5547bc321a0da618255a990aa9c46630033c02d0065ae116e659af100b811bb"
+hash = "04aebaf91c1d6eb8a50dcbe7b229d56af0e71a2fd09b0729c1ac330b8f47c199"
 metafile = true
 
 [[files]]
@@ -251,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/borderless.pw.toml"
 hash = "4b75fd7d47d17dd2b68d4e28417364c997cd3acbff194f73ef80ed8bba588189"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "72b4e9baeb3065481aeaf244de7c664c10d5c791991fff6bf626a472d713cc0e"
 metafile = true
 
 [[files]]
@@ -425,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "bda73a1d97e537c127c41709488634518d8759bb7ab7de7444b9c9260d3fe20e"
+hash = "a95cb512b1693032596f4a1d56642f492e7b2c76ac79c103d6270b079c155809"
 metafile = true
 
 [[files]]
@@ -580,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "68562134bcbce609aa8f5d3f5591d26b097ad678be1437ce583d75388b0259a7"
+hash = "f1f753affb6a7a8d1e677c8b5766fd9c13e787d975549b334e0c3e4943e26423"
 metafile = true
 
 [[files]]
@@ -670,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "c0b9b0aa4259472773ae10d6933563ba8c22ec54095c6c53f45ac260ec01ebc8"
+hash = "147e4b537c61350cf5736868390c7595024a0c0c0e35f1c89e79a95a2797d1ef"
 metafile = true
 
 [[files]]
@@ -711,6 +721,16 @@ metafile = true
 [[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "c1b377aa271063023987845955a1d472b06094e65ee56c9a52b00e94d97fda53"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "33cc52a7f9ad1791b4f86624456ca36516825ed9f017cd42b51d46b001004386"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5ee6f060fa38f2d4bfd908148985ac78b3b70300f9e18d90c44fe44fc8d2e187"
 metafile = true
 
 [[files]]
@@ -845,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "f229396defb73008f0cb5603c45603ec41b3b142871c347104a6cb47d5dc2906"
+hash = "36cf2f1624de3bd30a8e5795ae43bfd2024d1952c1f0dca08a4568939333f7f5"
 metafile = true
 
 [[files]]
