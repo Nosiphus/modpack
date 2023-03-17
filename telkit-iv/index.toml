@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "1b5de361e900bc79f983a7aaafa2cec313511d5d6cb71daa400de7fe79b46574"
+hash = "08959579953ae7b3f9c81f4c8f1d04ce000c2ef78a6ae5ea756a6502c487f03a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "8cba34db000d783d7df7b46991feef57dbbe803d4a3909abf9df2c5a3ba8e7d4"
+hash = "c8631f3fd8be077cf68e2223c121a058e559531e13746e562d1acaa3ec04b4ed"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "715544660831e05bfe6d840509f1fd6760168e2786712bbc0887505d223864d9"
+hash = "63c3c1e2e772f8e9ff4883015739eabc6f81d5befb0d18f1eea29edc7bee0420"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "36eed844bf12ab45187814ce9475c17be9663c49e71d8a281932041a759ba85f"
+hash = "1c875559e332845da82b993e288e429505ed2f8d2f2636993ec7e0fa8e17dfb1"
 metafile = true
 
 [[files]]
