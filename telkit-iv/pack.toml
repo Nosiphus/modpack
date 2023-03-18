@@ -1,12 +1,12 @@
 name = "Telkit IV"
 author = "Nosiphus"
-version = "2023.03.17"
+version = "2023.03.18"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f3dc8dc444c77ad1aa216e1e4d3384e423f7def3b0972966085a29a7945a1e61"
+hash = "2d70118515729c7bdf1f279a298fa95d1495f36a415ba956fa6c7b238da9ac5c"
 
 [versions]
 forge = "43.2.7"
