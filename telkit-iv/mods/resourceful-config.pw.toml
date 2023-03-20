@@ -1,13 +1,13 @@
 name = "Resourceful Config"
-filename = "resourcefulconfig-forge-1.19.2-1.0.19.jar"
+filename = "resourcefulconfig-forge-1.19.2-1.0.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/M1953qlQ/versions/qKRFSQCB/resourcefulconfig-forge-1.19.2-1.0.19.jar"
+url = "https://cdn.modrinth.com/data/M1953qlQ/versions/6k0hdREk/resourcefulconfig-forge-1.19.2-1.0.20.jar"
 hash-format = "sha1"
-hash = "04886a4f931944d04ba37cd4ef45bc36eba32d6f"
+hash = "cf00a655e73e9a7aeb8e3cc3d305c62d04cd8d0b"
 
 [update]
 [update.modrinth]
 mod-id = "M1953qlQ"
-version = "qKRFSQCB"
+version = "6k0hdREk"

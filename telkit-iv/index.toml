@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "a80434e98bfdbeb5e584b9b59bd376b43a3f938a28138d78971a3d1f314ec492"
+hash = "c20a8ebe4b17f33fa9d09a992d9070b69f88c0b6d5d4bf1321f13742c44663f4"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "a95cb512b1693032596f4a1d56642f492e7b2c76ac79c103d6270b079c155809"
+hash = "dd5cf460a9d9d333b07e6a9043319a016221f47e3ca70abefbbbdc1f1c1b92ee"
 metafile = true
 
 [[files]]
@@ -515,12 +515,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "4f9b471bb0b8b1ef4fbe97a912475bb970ad8110eefbe9b9e5d17da513e189ac"
+hash = "864b977898a944f14f98e5a75a4a4d841c9a28c523d94657d8c5ce4929ad4ef6"
 metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "cfb01f521fbb8b8f0064207bc5e274868007a0efed4fcf7b314c5b516d7894b9"
+hash = "89bf482b8a586bd748e9b3c0c12bcacaa08cc698482ab77de75ac63d95008036"
 metafile = true
 
 [[files]]
@@ -561,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "0a7edf681664e37cbaa592b4f4260d6ba80268f46084b8d99069aa9c264f5b70"
+metafile = true
+
+[[files]]
+file = "mods/mcef-forge.pw.toml"
+hash = "5793df7a9409ec4531073287075be18a6bd64267acd88071f615b6fa6c558f84"
 metafile = true
 
 [[files]]
@@ -730,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "33cc52a7f9ad1791b4f86624456ca36516825ed9f017cd42b51d46b001004386"
+hash = "b551987417640fee1dd523b43db90757bbc0377be7638fff3b0d76a6b7785c93"
 metafile = true
 
 [[files]]
@@ -780,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "d0abada2d852dd7506dce478ec8d81d24a8e82cbfe6013a29ed53d4cfabf41ac"
+hash = "a47140f4e0fad8a556dc1722e50284c4d9c19e876ecd88f17e28f374c58d8e98"
 metafile = true
 
 [[files]]
@@ -805,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5c8fea5b38c0b3821508d37623b14a6ca6cb91a3a4062adcdc5828b66bccbcd2"
+hash = "23992875d41da7c3f4530e1134aaecc2b38b5394813a42b0cda5c68312d748a1"
 metafile = true
 
 [[files]]
@@ -871,6 +876,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "36cf2f1624de3bd30a8e5795ae43bfd2024d1952c1f0dca08a4568939333f7f5"
+metafile = true
+
+[[files]]
+file = "mods/webdisplays.pw.toml"
+hash = "532b6eb4deb5f238c13b6be27ef8778f2bfc41612d124aa4509cbce1ccb3b571"
 metafile = true
 
 [[files]]
