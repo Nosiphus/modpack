@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "b1ae40294d5789c410291efac0da2f1340dfa5cc4d7110fde38fbe58ab8d7a0e"
+hash = "58cbf64f2a4b8e32eb3f2e786f6758d1a662139c8500cf931d3ccefbf39ae5c2"
 metafile = true
 
 [[files]]
