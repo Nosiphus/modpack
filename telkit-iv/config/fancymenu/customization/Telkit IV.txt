@@ -248,7 +248,7 @@ customization {
   y = -21
   scale = 1.0
   alignment = left
-  value = Telkit IV: Monday, March 20, 2023
+  value = Telkit IV: Tuesday, March 21, 2023
 }
 
 customization {
@@ -260,7 +260,7 @@ customization {
   y = -11
   scale = 1.0
   alignment = left
-  value = Newest PureBDcraft Patch Collection: Monday, March 20, 2023
+  value = Newest PureBDcraft Patch Collection: Tuesday, March 21, 2023
 }
 
 customization {

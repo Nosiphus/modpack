@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "c20a8ebe4b17f33fa9d09a992d9070b69f88c0b6d5d4bf1321f13742c44663f4"
+hash = "dee66b62a15655664dce58750a7abc6f83923a64f276003519fa8599a9e0e760"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -145,10 +145,6 @@ file = "config/thermal_integration-common.toml"
 hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
-file = "defaultconfigs/electrodynamics_ore_config.txt"
-hash = "91bf9108745cb8f310780c2e2ff74c0c72e68d9cfe8cd4cfc5135d658d29f5d9"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "822acea1296bed2244d313189bd2cd6438ece4f49fa129bf1e371c9306f06243"
 metafile = true
@@ -204,11 +200,6 @@ hash = "c0737aed914926fae77727ed67cfd46c1504fc1ce5a5b704e3669a3307898507"
 metafile = true
 
 [[files]]
-file = "mods/assembly-lines.pw.toml"
-hash = "56eddfce90c8a4e15ebc244c14b2e922e6ef150e811da69f2e08a45300c933c6"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ae8887615e5e14d52bd739ce195044faea6308d748dc7bc996f005630a11f39d"
 metafile = true
@@ -221,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "3b25d129d50c154e26487294c1bad1d48b220e7ad28f7848452d8040a2344b78"
-metafile = true
-
-[[files]]
-file = "mods/ballistix.pw.toml"
-hash = "d3099f45136c1c859027b1fd4a38fdfead9a2fceade38906e93871be2fc9bdae"
 metafile = true
 
 [[files]]
@@ -290,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "c04bec90ab6272b34e95298b429d2189c9e29a19f1497c1755d02c78ccebfa20"
+hash = "c324a6791dbb090123f20d2d870e2beaa0d15df69ac3596b19422f3bedff7869"
 metafile = true
 
 [[files]]
@@ -320,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "a9298662321fc45773b3c7d8ee864eaf75162bd8a9d2e093ea3d0dde34b19106"
+hash = "9c9ab3b7230c71a79f6fe40d2421633c3d7e9b6362f10d1042693a6e61e48e89"
 metafile = true
 
 [[files]]
@@ -379,13 +365,13 @@ hash = "b827a36de171d3a4203e61a815d45416eec8986ce7c54101c7d517b50597118f"
 metafile = true
 
 [[files]]
-file = "mods/editsign.pw.toml"
-hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
+file = "mods/dynamic-electricity.pw.toml"
+hash = "7c073a8467de8d084e0396284f57daa0622089932e4780bf2a84de08572e0c8e"
 metafile = true
 
 [[files]]
-file = "mods/electrodynamics.pw.toml"
-hash = "63c3c1e2e772f8e9ff4883015739eabc6f81d5befb0d18f1eea29edc7bee0420"
+file = "mods/editsign.pw.toml"
+hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
 metafile = true
 
 [[files]]
@@ -450,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
-hash = "5b60c5cbc6b6a210856c49c73acf35076edaf484bc2387a7a9dea6d786c60de3"
+hash = "007c054293f65aa26f8b77b10a70bb419cc82688ec75a999817477c0291db6f9"
 metafile = true
 
 [[files]]
@@ -594,6 +580,11 @@ hash = "36c25d922ab4bb5ad97830a940ecbcbbac4d0df7fe79c3aaf4b66b134ee66896"
 metafile = true
 
 [[files]]
+file = "mods/mffs.pw.toml"
+hash = "b28677b8f8f735ebabc13578051f1b6295034df44310e0e51bcfc3c4cd0ea93b"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "539937d4d78ebaa077d576d96bda7d57502b1e01d45d29b72d14730a8f6af267"
 metafile = true
@@ -606,11 +597,6 @@ metafile = true
 [[files]]
 file = "mods/modern-ui.pw.toml"
 hash = "baacd73979452838959ee26b777a4a9f2b3e5f1d6d4d62714d8e254378ffb03e"
-metafile = true
-
-[[files]]
-file = "mods/modular-forcefields.pw.toml"
-hash = "371ce04024fc40bec7dbac56d77b3e5f2368ac3066aec01ee4281abeacd422da"
 metafile = true
 
 [[files]]
@@ -651,11 +637,6 @@ metafile = true
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
 hash = "b1ae40294d5789c410291efac0da2f1340dfa5cc4d7110fde38fbe58ab8d7a0e"
-metafile = true
-
-[[files]]
-file = "mods/nuclear-science.pw.toml"
-hash = "1c875559e332845da82b993e288e429505ed2f8d2f2636993ec7e0fa8e17dfb1"
 metafile = true
 
 [[files]]
@@ -785,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "a47140f4e0fad8a556dc1722e50284c4d9c19e876ecd88f17e28f374c58d8e98"
+hash = "04bb767424411616e0e9cf12222103971d7a6e07a75fea592bb09aae30e1a4c4"
 metafile = true
 
 [[files]]
