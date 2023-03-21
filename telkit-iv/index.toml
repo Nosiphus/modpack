@@ -365,11 +365,6 @@ hash = "b827a36de171d3a4203e61a815d45416eec8986ce7c54101c7d517b50597118f"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-electricity.pw.toml"
-hash = "7c073a8467de8d084e0396284f57daa0622089932e4780bf2a84de08572e0c8e"
-metafile = true
-
-[[files]]
 file = "mods/editsign.pw.toml"
 hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
 metafile = true
@@ -766,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "04bb767424411616e0e9cf12222103971d7a6e07a75fea592bb09aae30e1a4c4"
+hash = "9cfea9280717f5ff71cc63d0e8129e6c8d1e8ef168ea7d911b96a682abefbae7"
 metafile = true
 
 [[files]]
