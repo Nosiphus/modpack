@@ -490,11 +490,6 @@ hash = "d184c713256f9cc0271e3c51c9a95762fc90eccdffe1de5282f266e4436ebc09"
 metafile = true
 
 [[files]]
-file = "mods/london-underground.pw.toml"
-hash = "c716fbb09777bcb1039c61749f0d14d118fbad511c03786ac3e850619cafbaf8"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "864b977898a944f14f98e5a75a4a4d841c9a28c523d94657d8c5ce4929ad4ef6"
 metafile = true
@@ -582,11 +577,6 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "539937d4d78ebaa077d576d96bda7d57502b1e01d45d29b72d14730a8f6af267"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-transit-railway.pw.toml"
-hash = "f1f753affb6a7a8d1e677c8b5766fd9c13e787d975549b334e0c3e4943e26423"
 metafile = true
 
 [[files]]
