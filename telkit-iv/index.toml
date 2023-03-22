@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/mffs.pw.toml"
-hash = "b28677b8f8f735ebabc13578051f1b6295034df44310e0e51bcfc3c4cd0ea93b"
+hash = "7a5224d1f732eb583266a8a7efad5e0ff048fd9906f28b630df6d437f58a3de3"
 metafile = true
 
 [[files]]
@@ -621,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "58cbf64f2a4b8e32eb3f2e786f6758d1a662139c8500cf931d3ccefbf39ae5c2"
+hash = "0a647ad9d449f021b61537944afdfa326be7cd62be512cf52d6d817c6d2dbfdc"
 metafile = true
 
 [[files]]
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "9cfea9280717f5ff71cc63d0e8129e6c8d1e8ef168ea7d911b96a682abefbae7"
+hash = "9df82f2a34dfda42ad5da2f477444f464591f311cd6f4be84aec89f0654552fc"
 metafile = true
 
 [[files]]
