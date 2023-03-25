@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "dee66b62a15655664dce58750a7abc6f83923a64f276003519fa8599a9e0e760"
+hash = "322b1ec4f139d6ec37c47a1f0980d8721a7490db7bd5ae6e59158d5c6140e1fa"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "8e8765636053306d4be9aa1bdefe1c58a8fefa7ef7578af4cd8f533836415bb1"
+hash = "82c526d3329017fad175753f9f266702425c7bbdc8f11ffe6e4cc34ddbbcb819"
 metafile = true
 
 [[files]]
@@ -651,12 +651,12 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "c774f72c300c9656cba2eee100b0f9d70ca3576e782cbcb999ac530c9bcc02d6"
+hash = "aa8c4fb537bda92d0ea2a72a917a5ec50922740c8000e280e210e336b495ff4f"
 metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "147e4b537c61350cf5736868390c7595024a0c0c0e35f1c89e79a95a2797d1ef"
+hash = "e6da4b32eaf7fb4ea61b2c0d66b816b19bef704385378c4125975a0b08a008e1"
 metafile = true
 
 [[files]]
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "9df82f2a34dfda42ad5da2f477444f464591f311cd6f4be84aec89f0654552fc"
+hash = "0fed43cdc399870545b580fca5e166c93424cb4e1320b85c4007d623b7f9f972"
 metafile = true
 
 [[files]]
@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "23992875d41da7c3f4530e1134aaecc2b38b5394813a42b0cda5c68312d748a1"
+hash = "0a8b5936dd91ded3d7679a2d1639ac3aa2466caa9b9ea12b35f088aa67b56449"
 metafile = true
 
 [[files]]
