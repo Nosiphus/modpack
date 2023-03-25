@@ -5,22 +5,6 @@ file = "config/Mekanism/world.toml"
 hash = "290963b728184c13fea494c2caa50c3ebd36ad098bba6684a75a0a720e349dde"
 
 [[files]]
-file = "config/ModernUI/bootstrap"
-hash = "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
-
-[[files]]
-file = "config/ModernUI/client.toml"
-hash = "0bac4cb4a3a14ab519a1993df9962ce1137f2357cfc11f7861f4a3ac9bfcb415"
-
-[[files]]
-file = "config/ModernUI/common.toml"
-hash = "f945d275a66ddec08c1cc3aa5d800675bea43ec270416a70a03fe32e9db7c7b5"
-
-[[files]]
-file = "config/ModernUI/text.toml"
-hash = "2444e0c8850ca8808a5a99379a6692e5a1a214e958004d01d0be513a0ea17f45"
-
-[[files]]
 file = "config/computercraft-client.toml"
 hash = "ce3e34235dbed98c8f9f07a0c1a4a5eeed4ddb5a370ab283a38f87474abcf5fe"
 
@@ -577,11 +561,6 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "539937d4d78ebaa077d576d96bda7d57502b1e01d45d29b72d14730a8f6af267"
-metafile = true
-
-[[files]]
-file = "mods/modern-ui.pw.toml"
-hash = "baacd73979452838959ee26b777a4a9f2b3e5f1d6d4d62714d8e254378ffb03e"
 metafile = true
 
 [[files]]
