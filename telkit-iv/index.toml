@@ -5,6 +5,22 @@ file = "config/Mekanism/world.toml"
 hash = "290963b728184c13fea494c2caa50c3ebd36ad098bba6684a75a0a720e349dde"
 
 [[files]]
+file = "config/ModernUI/bootstrap"
+hash = "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+
+[[files]]
+file = "config/ModernUI/client.toml"
+hash = "0bac4cb4a3a14ab519a1993df9962ce1137f2357cfc11f7861f4a3ac9bfcb415"
+
+[[files]]
+file = "config/ModernUI/common.toml"
+hash = "f945d275a66ddec08c1cc3aa5d800675bea43ec270416a70a03fe32e9db7c7b5"
+
+[[files]]
+file = "config/ModernUI/text.toml"
+hash = "2444e0c8850ca8808a5a99379a6692e5a1a214e958004d01d0be513a0ea17f45"
+
+[[files]]
 file = "config/computercraft-client.toml"
 hash = "ce3e34235dbed98c8f9f07a0c1a4a5eeed4ddb5a370ab283a38f87474abcf5fe"
 
@@ -205,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/biggerreactors.pw.toml"
-hash = "4472c509eeab73d7022f7f4c68887cc27e185b4d92195bef8fc7f8093d1b6cc1"
+hash = "56e12d552626e9733a7b78ab481f5f71d7052e33641a9c26341c2f10cd2b1146"
 metafile = true
 
 [[files]]
@@ -564,6 +580,11 @@ hash = "539937d4d78ebaa077d576d96bda7d57502b1e01d45d29b72d14730a8f6af267"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "498cf27e98bde8b2a5d6e631aef5b0baa2be66def483adf4ece2375ccbc7c040"
+metafile = true
+
+[[files]]
 file = "mods/moressw.pw.toml"
 hash = "0ef35696c69acab6fd0ca2a55de2f8a492670a0444cfc05c75f116a0ecfda077"
 metafile = true
@@ -660,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/quartz.pw.toml"
-hash = "5077f41db09af0771fe0be5638ee1774ea7cd78339bb2e7f4c4177a207b7dd0c"
+hash = "2b75f412dc6528d3538e7ebc86cf55e89647def16a73d4dc2a5977d15620c0fa"
 metafile = true
 
 [[files]]
@@ -755,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0a8b5936dd91ded3d7679a2d1639ac3aa2466caa9b9ea12b35f088aa67b56449"
+hash = "4574fec04a7b5c6cb014dfa67c9cc298938c64665402b670739a825c2f34f1b1"
 metafile = true
 
 [[files]]
