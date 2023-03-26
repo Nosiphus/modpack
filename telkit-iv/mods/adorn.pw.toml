@@ -1,13 +1,13 @@
 name = "Adorn"
-filename = "Adorn-3.8.1+1.19.2-forge.jar"
+filename = "Adorn-3.8.2+1.19.2-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E6FUtRJh/versions/lYSclF7q/Adorn-3.8.1%2B1.19.2-forge.jar"
+url = "https://cdn.modrinth.com/data/E6FUtRJh/versions/V8eVUHAF/Adorn-3.8.2%2B1.19.2-forge.jar"
 hash-format = "sha1"
-hash = "5050833f1b331312237d21549ac19a26d216affb"
+hash = "4afdc69f0636a55e9d42e086fea44688062b11f6"
 
 [update]
 [update.modrinth]
 mod-id = "E6FUtRJh"
-version = "lYSclF7q"
+version = "V8eVUHAF"

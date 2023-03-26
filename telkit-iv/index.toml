@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "322b1ec4f139d6ec37c47a1f0980d8721a7490db7bd5ae6e59158d5c6140e1fa"
+hash = "8861ea89b61c0335321e39c1ea9f57cc28215f5af9a0167222a31c6bbe6f5fa9"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "bb9e00a7361499399b42d5fab089e5bc66d283889a821df94d0919b8d18b05fd"
+hash = "0c84cad8a1d02e392c330af456c32db649874277bb5bdde84ff71b1cadb6907d"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/mffs.pw.toml"
-hash = "7a5224d1f732eb583266a8a7efad5e0ff048fd9906f28b630df6d437f58a3de3"
+hash = "68bea6de4dc4a2f69813e9a5d475b705b934030a83259a6c8219c667c632a4a7"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/quartz.pw.toml"
-hash = "2b75f412dc6528d3538e7ebc86cf55e89647def16a73d4dc2a5977d15620c0fa"
+hash = "b0cce912965659490eb5154d3b39a7b55833b7bf4a077a1fc99c82508a4fa0cd"
 metafile = true
 
 [[files]]
