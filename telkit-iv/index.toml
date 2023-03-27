@@ -430,6 +430,11 @@ hash = "871ea2a1ea123faac4659e52950da092d630d622f8404cc44387908175cec8a0"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "3f7d197783f02abc2cb7e85a6071f82067fc5d5a441fde4f5a7b94a96002dbc8"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
 hash = "007c054293f65aa26f8b77b10a70bb419cc82688ec75a999817477c0291db6f9"
 metafile = true
@@ -751,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "0fed43cdc399870545b580fca5e166c93424cb4e1320b85c4007d623b7f9f972"
+hash = "3f619cbae495c7372ae7e3badbdc07f1af06f6a4c59d8d8f0e23d59c261d9542"
 metafile = true
 
 [[files]]
@@ -776,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4574fec04a7b5c6cb014dfa67c9cc298938c64665402b670739a825c2f34f1b1"
+hash = "6280f872e9ad38a701bf319c416445c42593f262f5657126a45de0ca4f31751f"
 metafile = true
 
 [[files]]
