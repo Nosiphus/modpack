@@ -430,11 +430,6 @@ hash = "871ea2a1ea123faac4659e52950da092d630d622f8404cc44387908175cec8a0"
 metafile = true
 
 [[files]]
-file = "mods/from-the-fog.pw.toml"
-hash = "3f7d197783f02abc2cb7e85a6071f82067fc5d5a441fde4f5a7b94a96002dbc8"
-metafile = true
-
-[[files]]
 file = "mods/ftb-essentials-forge.pw.toml"
 hash = "007c054293f65aa26f8b77b10a70bb419cc82688ec75a999817477c0291db6f9"
 metafile = true
