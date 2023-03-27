@@ -130,7 +130,7 @@ hash = "46ed0db4764d65cc448d7787fa12c65fb474e28108e002cb161af1909dce54db"
 
 [[files]]
 file = "config/mca.json"
-hash = "84ad678ea3cc04e0cecc78262b88aab70b203b9ea53d3099b99937f611a52a66"
+hash = "fb51e5dd9ab931a29e707d496a44662664930f2ac9acc8ffcfc33eb8da479fc5"
 
 [[files]]
 file = "config/pfm.toml"
