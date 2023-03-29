@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "06fac9cec9d62b1b3b51a90e8800444e128870326a1e8fd66956fb7c16f99e2a"
+hash = "bd28a58fe8aa61a970d803e3c2d7b154b77c0174e1c85b7e7e1f0f3a4f661784"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "7888581aab75ca835f111ff4d8072e3c2aa4338c3b1bf5d760ca5a4df43b8dd0"
+hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "21d205e7348282137e292481d560ff7b5a5c2c30cc34b9f73ef3a7d23cb0daaf"
+hash = "5d19b19a26583060c8923c080f04fd3486caab8a8d3754f86cae06513d6f3cf3"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "41788b94bb98ef1ed7a23b45c40e57ce691da3dbb0b31a2022ece7d228caec90"
+hash = "9be407e9e7137e655a52252f35b562c74774ddfe7edc13f1c899c759024a7add"
 metafile = true
 
 [[files]]
@@ -711,17 +711,17 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "5228a707c05ff3c093357ba94c7b92290af0bd9d10c0567bd232a728788d61af"
+hash = "d38e6cf68678bcaabf500e24c39e90855fd3806a0b5974e1508c7b8d32e4f037"
 metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "b936c54afdfee5bc12d6f6f0ab1a6eef6b5cf181ebab5ad225852ebc4267c0f5"
+hash = "827e6867fafab804055044b05351300322e5c6978ab21e58b85e2f7f7fef80a0"
 metafile = true
 
 [[files]]
 file = "mods/rftools-control.pw.toml"
-hash = "dae1c09a2150ffcc2569ac14b8e4c55dc10c4d9f2f96c800cdc917547b2093cc"
+hash = "07224e3d73371db05cd08826d4645fb43a7270bf540c1b0abbade4b4a1b5806f"
 metafile = true
 
 [[files]]
@@ -731,17 +731,17 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-power.pw.toml"
-hash = "c216a97a40765f7d7a72baa83e9edcc6c240fc10d396f5fbe9c8d5dbbc608d31"
+hash = "a7671b78f5c5ec7e3af25d049b864702fb6df0977eb22fdfd6159b3b45cd9fd4"
 metafile = true
 
 [[files]]
 file = "mods/rftools-storage.pw.toml"
-hash = "7c7ee8f569c19b4f968d7049cb55d7b44e7b74f53f602b5e8c49b60d1a99a3d7"
+hash = "5a52da72ec44a5cb7d7ad15a3cfd398cad52814dd9bdcf720086fad4b01dddc7"
 metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "d0acc1b51fcc780477515b48f5d9576e9ed1c3f9e25ef0cbd03181954ffff0b0"
+hash = "71fa14ae7817aaeaf13d3dc2c39df9b25afef03efe28ec4d4ab54b2dfbcc589a"
 metafile = true
 
 [[files]]
@@ -836,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterlogged-redstone.pw.toml"
-hash = "1afb04d727a184895b8b59bbf1bf12d800cd75202e756735e4882cc880d8a199"
+hash = "0bd7ebc97c65a677e4eb66f8228e597cb050d133eb25683a90e9326bafdf1f82"
 metafile = true
 
 [[files]]
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "a7a10e577d8e02e18fbe3c1d1b438a28a6e09fa81205d05e7a08317f15330a2f"
+hash = "8864d293597b091718a16d2ac2a40f3fa8e13d9de1c9c712a5d050b6069f2c74"
 metafile = true
 
 [[files]]
@@ -866,7 +866,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "2c5bea7b53f5f6aa29722c229b5efb2c1020a5be4559662f12a506f439534988"
+hash = "3131982e29e54eb8481f5fcbeb018ae831d8cc58c7faa457870eccb370ac4939"
 metafile = true
 
 [[files]]

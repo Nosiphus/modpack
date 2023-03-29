@@ -1,13 +1,13 @@
 name = "Waterlogged Redstone"
-filename = "wlrs-1.12.8-1.19.2.jar"
+filename = "wlrs-1.13.0-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b2eaeef584df625603cdcde6a9e0f4a0c3c13153"
+hash = "ee03cc680d6750222c8ec4d816dc5d9e407937a0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4053711
+file-id = 4464467
 project-id = 468618
