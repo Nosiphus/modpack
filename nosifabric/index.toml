@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "4f70ba8bd482c113fdb63893391d315c73b8d89554cc85f0832d63f72f26f777"
+hash = "35273ea2a77fb4a28eb4dae68b23ef28ff0a4acbbed23dcadb0b9713c5fe55e1"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -124,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "7eb713cf4d4d0062fb34f3fa61c987fffc2c2859636adc193a1a3bc7cbeb31be"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "0a1cfc43b53a2b4e6c42a048f345c888a0fcef685109733aa67aacb077d0b75e"
 metafile = true
 
 [[files]]
@@ -344,11 +349,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
-metafile = true
-
-[[files]]
-file = "mods/paladins-furniture.pw.toml"
-hash = "01f683dadd3f63757d23029fcce9463f17568a88fbe30590500893b6f2d7cf45"
 metafile = true
 
 [[files]]
