@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "bd28a58fe8aa61a970d803e3c2d7b154b77c0174e1c85b7e7e1f0f3a4f661784"
+hash = "3409970715c9edfe93e6a9f3d32dea1e86dcec16f0cda81bbcdbe436bf017a48"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -875,5 +875,5 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "991287cf3d4ac8552f11e8a854b7b8b199a087d53a782ec0c507899b8111cdf0"
+hash = "21a4254064e87e86ae5af4da52d47b600bada0e03e82a5a9f3e5f693d9ad0ac7"
 metafile = true

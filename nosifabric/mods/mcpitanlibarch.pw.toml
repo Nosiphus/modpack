@@ -1,13 +1,13 @@
-name = "MCPitanLib (Fabric/Forge)"
-filename = "mcpitanlibarch-1.4.9-1.19-fabric.jar"
+name = "MCPitanLibarch"
+filename = "mcpitanlibarch-1.5.7-1.19.4-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/GnV9tXSx/mcpitanlibarch-1.5.7-1.19.4-fabric.jar"
 hash-format = "sha1"
-hash = "baf6cef1ab68404704180fbb88389f03a4e9c3c3"
-mode = "metadata:curseforge"
+hash = "0f4f47e4a10bf7fc97b4f652540a4f57a7fb4201"
 
 [update]
-[update.curseforge]
-file-id = 4428027
-project-id = 682213
+[update.modrinth]
+mod-id = "uNRoUnGT"
+version = "GnV9tXSx"
