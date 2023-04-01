@@ -1,13 +1,13 @@
 name = "Advanced Reborn"
-filename = "AdvancedReborn-1.19.4-1.1.7.jar"
+filename = "AdvancedReborn-1.19.4-1.1.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4a20db1053699f6a29e5f3656ff4520a79ac71ae"
+hash = "71a92a8b2edd4ec93c0b2776e1c7d534d4ab0b76"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4440633
+file-id = 4466844
 project-id = 543089

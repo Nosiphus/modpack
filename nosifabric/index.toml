@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "35273ea2a77fb4a28eb4dae68b23ef28ff0a4acbbed23dcadb0b9713c5fe55e1"
+hash = "d10e2d0c36af69edf78243c2d616f5bef00f1ae0348fcc35e5f301e240c2b092"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedreborn.pw.toml"
-hash = "6f8018b15fd303912bbb0d98d55a417a6a7ac9e4ff423411f1ce42b72ac90763"
+hash = "13d134e8fd872b5faf1710caa0c43d26bc1785dc06ed2c693e292e82227f23ea"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
@@ -254,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "c880ebfe6d340e4da7fe935f1a3cdcff84d3db7f4efe8fb3d12839b6d08c7aed"
+metafile = true
+
+[[files]]
+file = "mods/item-alchemy.pw.toml"
+hash = "49c49a9b94805ccc57f1721ea10aaf7260c0335b2064787dac8461a446813e06"
 metafile = true
 
 [[files]]
@@ -328,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "9ebf7d094784581495ce1d5f18b4db83028dfa9d5120fea27e542d592bb686af"
+hash = "3c94cf062932e7c115f5f5566de6b160fe6565ea4428c56de7542c57d00fbf0b"
 metafile = true
 
 [[files]]
@@ -394,6 +399,11 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "6979b981f8b46f27c93d5b5250508f4145b3bb5ab1181071381aa134b2a0db59"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "1a1fe77a77f1eca3924e372b930f3fdfcbe65dbee2779cf54c86baece94ba354"
 metafile = true
 
 [[files]]
