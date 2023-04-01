@@ -402,6 +402,11 @@ hash = "6979b981f8b46f27c93d5b5250508f4145b3bb5ab1181071381aa134b2a0db59"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "4315ca17d384f3392b506316ea39cfede07682393589884d22d02c48dbc951ec"
+metafile = true
+
+[[files]]
 file = "mods/traverse.pw.toml"
 hash = "1a1fe77a77f1eca3924e372b930f3fdfcbe65dbee2779cf54c86baece94ba354"
 metafile = true
