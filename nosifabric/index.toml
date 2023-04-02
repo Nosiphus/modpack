@@ -347,6 +347,11 @@ hash = "9966fa77d57235f7460b84632e7b89188b2944787f23214f87a10908f5aed867"
 metafile = true
 
 [[files]]
+file = "mods/more-slabs-stairs-and-walls.pw.toml"
+hash = "a8c2b5d2766b347f74c61eb3f2afb5616de751852b922fd067bda1381209a102"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "7f06dfee6a1e50d504c8626934d73027ce36fecf6b0aabaf3236b2f7aa5ac757"
 metafile = true
