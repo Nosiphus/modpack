@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "2828c3295d325981b27aed67fbbc7f158b09a6db010b6281c8e2172264dd9055"
+hash = "82cbca800261c9bfdca740663bcc874673f5697b9d1ac9adbba8fa190ea262f0"
 metafile = true
 
 [[files]]
@@ -412,11 +412,6 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
-file = "mods/moonlight.pw.toml"
-hash = "eb6ad65bc55853f87bbd72085e690fd914318b94e3108bb6583b8da4363f480b"
-metafile = true
-
-[[files]]
 file = "mods/more-slabs-stairs-and-walls.pw.toml"
 hash = "7f8dc1df7afd5581d2f95d4000fb932d027e89378c54f121d2b817f510462920"
 metafile = true
@@ -462,6 +457,11 @@ hash = "79bc2d7e581506568ba61701f5d36dbbc19f415b4a59c5172b007e22032b6710"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "14d20bc071d90b561dfc54fac81d1afcb425b124b227ed121ff5fb6997f6f159"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
 metafile = true
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "fa40cbaa91a6197fe5c6ef2d59380b56f668e418d1afe0768a4663c3d6c1ac3c"
+hash = "ff80faf2979049f984eeafc518dccbc670933406016915d41c0d08967e23e191"
 metafile = true
 
 [[files]]
