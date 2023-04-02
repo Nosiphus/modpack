@@ -1,0 +1,13 @@
+name = "More Slabs Stairs and Walls"
+filename = "mssw-fabric-2.4.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bdBzXqbS/versions/KFoS6drW/mssw-fabric-2.4.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "dba8c3a488f2583d7099e9fd2b98c19309d4f6d2"
+
+[update]
+[update.modrinth]
+mod-id = "bdBzXqbS"
+version = "KFoS6drW"
