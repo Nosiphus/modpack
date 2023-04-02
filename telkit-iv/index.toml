@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "c70bdf0704340a42ac6a73e2045d196b1ab543a5b2deb8a0505bff328301a5d0"
+hash = "4cd5f905424d34597b682a7eb46bd9d94d9e66becce69679d914cb6e22d11703"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "9be407e9e7137e655a52252f35b562c74774ddfe7edc13f1c899c759024a7add"
+hash = "87b294d176cda59d720f6c1e83bf488785cc71aa40ce49731c8045ab98e1bc40"
 metafile = true
 
 [[files]]
@@ -726,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "95c92994b4280d2cc43cd9b430f736a4a6971e1fa2421b0d93d24d78d53ee00f"
+hash = "5a9b6b78cbcf8b84841daeeee1539e00ebb9f0a0a18628ea3e2b7ef1bcdf852a"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
-hash = "d1ebfdb1dcf0e863beb7f316ef8c12e74780384f457e237d0fbe1b297e464847"
+hash = "a77b67c1cfce2b892bd0761c9c743e46c27952b22a54c0c049ce2c8d2a56aa43"
 metafile = true
 
 [[files]]
@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "af446f2c8d3041667b2b4045f6e2b0ed814ef2dd7b564af4b459ca812cdb4c5e"
+hash = "c3f4f6f530b8abce0297d601c3db1586e2d732245aa6d74049e3bd07f1c26b49"
 metafile = true
 
 [[files]]
@@ -866,7 +866,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "968380fad51df98c9c2b4c8e889219156a91a1d39783f1c5405abf4ba0ec0eda"
+hash = "06e34aa1f08ecee17f789fb87aac9cc9095a31e54401ea75489cf83e89884d1e"
 metafile = true
 
 [[files]]

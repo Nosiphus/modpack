@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "d10e2d0c36af69edf78243c2d616f5bef00f1ae0348fcc35e5f301e240c2b092"
+hash = "63011ddd6b6631af5c17b7c32619e869f1b5be6b14be5060f9e3fce1e63c55e7"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "3c94cf062932e7c115f5f5566de6b160fe6565ea4428c56de7542c57d00fbf0b"
+hash = "907a6595f379530082e7772bc1367426bbccc2ba51587e50bbd012a01d9c557a"
 metafile = true
 
 [[files]]
@@ -354,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "7ba36f832275607c7f98ccdbf26ff79491e580dd39ac6d2ef5699079140647e3"
 metafile = true
 
 [[files]]
@@ -419,6 +424,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "8c4513ec1597cdfee5fde5e31ec61a114ca80c2f7b9f1a117427986317ecda50"
+metafile = true
+
+[[files]]
+file = "mods/wiredredstone.pw.toml"
+hash = "b2dc3db7670e7b3a42da21fde868c9daf3c602f2ad88d16130c1e9944f0633b9"
 metafile = true
 
 [[files]]
