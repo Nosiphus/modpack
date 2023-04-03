@@ -662,8 +662,8 @@ hash = "c2f83774a9967453865917241dc982e1aabba10f5aeba4389244e2d77fc2d04d"
 metafile = true
 
 [[files]]
-file = "mods/too-many-efficiency-losses.pw.toml"
-hash = "0051c3b051dd94db2ce230cf78d0795ad4b2b17a7f4de12cf2915a79bba69369"
+file = "mods/too-many-efficiency-losses.toml"
+hash = "72803887206673e54ea48eff1ee5b392b7090bd96f50160a9021dd8dc3bba344"
 metafile = true
 
 [[files]]

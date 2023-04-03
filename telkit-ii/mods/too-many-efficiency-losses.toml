@@ -3,9 +3,9 @@ filename = "tmel-1.12.2-1.4.0.0.jar"
 side = "both"
 
 [download]
+url = "https://edge.forgecdn.net/files/2742/442/tmel-1.12.2-1.4.0.0.jar"
 hash-format = "sha1"
 hash = "f11b7b6cfe6bc5ef81f47f195693b2ea87309e3f"
-mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
