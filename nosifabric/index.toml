@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "cca9f7267885d16ce0a8682b98188871a26be291376ac887b898b236d56c3a95"
+hash = "a727492155330fe4dc41c907c1b99b497b1529257bcb44d3ff3958bc3572f14d"
 metafile = true
 
 [[files]]
@@ -447,9 +447,9 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders.zip.txt"
-hash = "52d313a3ed6732daa40359330c1f4228835a3fe62097f997dea50bcae4cab52a"
+hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "21a4254064e87e86ae5af4da52d47b600bada0e03e82a5a9f3e5f693d9ad0ac7"
+hash = "896203f3b661e22c29ce2398c96cf31f1aa2e57dc5148d834c10fce3f7cea7c9"
 metafile = true

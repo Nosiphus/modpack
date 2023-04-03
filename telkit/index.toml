@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "270974d75724ace3b7b89edf1d8af1db1371b0e6fcf86bc11225babdbd0143e0"
+hash = "8450fcffee95ffe1244c691ebd5fad142cc24e0c4e019b60a94b41ff0831d35b"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1571,3 +1571,12 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "e245a0225902d19be4a52f6ce5b078bd960c5dc93056c40b108448de2b456797"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders.zip.txt"
+hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
+
+[[files]]
+file = "shaderpacks/complementary-shaders.toml"
+hash = "896203f3b661e22c29ce2398c96cf31f1aa2e57dc5148d834c10fce3f7cea7c9"
+metafile = true

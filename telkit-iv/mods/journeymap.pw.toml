@@ -1,13 +1,13 @@
 name = "JourneyMap"
-filename = "journeymap-1.19.2-5.9.4-forge.jar"
+filename = "journeymap-1.19.2-5.9.5-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/b5LyaDOA/journeymap-1.19.2-5.9.4-forge.jar"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/yxIdQZei/journeymap-1.19.2-5.9.5-forge.jar"
 hash-format = "sha1"
-hash = "a5d664da522ee97c92ac2551a0b7590a7f7db9d5"
+hash = "0404564567838205a78b89edcbe348e4b62e0882"
 
 [update]
 [update.modrinth]
 mod-id = "lfHFW1mp"
-version = "b5LyaDOA"
+version = "yxIdQZei"
