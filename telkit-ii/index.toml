@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "4caa2023ad2d35ebbca7311f21e8f4aeb26479c6f23ccd51a3b5d147a2b62be9"
+hash = "3f42498d79852cfef3e57386ff69b917f9adc32bd9b00cc9821cf20b7af4a7b8"
 metafile = true
 
 [[files]]
@@ -688,7 +688,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "35c5459d972f1ddcb8587a2351200d7c1cbbf1309e96bf9e1ba90697c2c8e9bb"
+hash = "63b0ede69837efd19885bd9f31444393423387a8555d2280836d9b839592edf1"
 metafile = true
 
 [[files]]
