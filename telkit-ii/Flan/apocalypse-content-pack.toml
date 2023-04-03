@@ -1,8 +1,0 @@
-name = "Apocalypse Content Pack"
-filename = "Apocalypse-Content.Pack-1.12.2-5.6.0-beta.10.jar"
-side = "both"
-
-[download]
-url = "https://github.com/FlansMods/FlansMod/releases/download/v5.6-beta.10/Apocalypse-Content.Pack-1.12.2-5.6.0-beta.10.jar"
-hash-format = "sha1"
-hash = "014b13273c9a45f0c2853b32846f8dde7ddd8fec"

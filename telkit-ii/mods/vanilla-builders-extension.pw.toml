@@ -1,0 +1,13 @@
+name = "Vanilla Builders Extension"
+filename = "Vanilla Builders Extension-1.12.2-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b660d7353e80a33a96c7c62db730ac8319bdb2bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2693350
+project-id = 264480

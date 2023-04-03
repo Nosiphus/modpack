@@ -1,13 +1,13 @@
 name = "Solar Flux Reborn"
-filename = "SolarFluxReborn-1.16.5-16.4.9.jar"
+filename = "SolarFluxReborn-1.16.5-16.4.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0c3220c7ce4cb6e568280103e89a302e97ef5a3b"
+hash = "40b9d9e90e2bc6d3d5cfe00ddb3eabb5bfb0f2dd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4297952
+file-id = 4469241
 project-id = 246974

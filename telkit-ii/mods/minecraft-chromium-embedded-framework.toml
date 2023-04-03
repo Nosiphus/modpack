@@ -1,8 +1,0 @@
-name = "Minecraft Chromium Embedded Framework"
-filename = "mcef-1.12.2-1.11b.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Nosiphus/legacy-mods/raw/main/mcef/1.12.2/mcef-1.12.2-1.11b.jar"
-hash-format = "sha1"
-hash = "fb70438f9de4e20b99ce906e09ea72aa0831364d"

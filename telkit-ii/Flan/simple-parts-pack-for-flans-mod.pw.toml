@@ -1,0 +1,13 @@
+name = "Simple Parts Pack for Flan's Mod"
+filename = "Simple Parts-Content Pack-1.12.2-5.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0070a31d356f87d02774d1f64947e9a4d4e60a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3195603
+project-id = 409248

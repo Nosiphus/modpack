@@ -1,0 +1,13 @@
+name = "Modern Weapons Pack for Flan's Mod"
+filename = "Modern Warfare-Content Pack-1.12.2-5.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec52d608cf0217d9571353bb31431aa1ba151411"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3260604
+project-id = 317312

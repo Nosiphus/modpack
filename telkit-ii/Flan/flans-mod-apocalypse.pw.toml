@@ -1,0 +1,13 @@
+name = "Flan's Mod: Apocalypse"
+filename = "Apocalypse-Content Pack-1.12.2-5.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4dc333918cb739889959987b98ccd76356bd4034"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3278092
+project-id = 436175

@@ -1,0 +1,13 @@
+name = "Mecha Parts Pack for Flan's Mod"
+filename = "Mecha Parts-Content Pack-1.12.2-5.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6ab260211429e4820300976b1612da84a75f1efa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3195602
+project-id = 409252

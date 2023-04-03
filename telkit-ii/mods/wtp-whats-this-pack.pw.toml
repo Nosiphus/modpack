@@ -1,0 +1,13 @@
+name = "WTP - What's This Pack"
+filename = "wtp-1.12.1-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "2277568888"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2470449
+project-id = 221658

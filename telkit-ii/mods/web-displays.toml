@@ -1,8 +1,0 @@
-name = "Web Displays"
-filename = "webdisplays-1.12.2-1.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Nosiphus/legacy-mods/raw/main/web-displays/1.12.2/webdisplays-1.12.2-1.1.jar"
-hash-format = "sha1"
-hash = "425efdf9c855098d1ca4352bd364629a034ee753"

@@ -1,0 +1,13 @@
+name = "CraftingTable IV"
+filename = "CraftingTableIV-1.12.2-1.5.123.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1bda6b4f9b9df2bc0b76f01c06458d3adce34227"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2998879
+project-id = 231840

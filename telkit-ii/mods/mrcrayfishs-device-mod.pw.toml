@@ -1,0 +1,13 @@
+name = "MrCrayfish's Device Mod"
+filename = "device-mod-0.4.1-1.12.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42419f1b8296fd142b00d2f5f582ea81d07d51d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2564790
+project-id = 283055

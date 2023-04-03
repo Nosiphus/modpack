@@ -1,0 +1,13 @@
+name = "WW2 Pack for Flan's Mod"
+filename = "WW2-Content Pack-1.12.2-5.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa138ecc99bd1d232def1c02b4908448a755e4bd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3195607
+project-id = 409259

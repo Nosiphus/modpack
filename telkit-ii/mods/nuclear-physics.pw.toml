@@ -1,0 +1,13 @@
+name = "Nuclear Physics"
+filename = "nuclearphysics-1.12.2-0.1.40.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfbbe6ddcd4572b959f24f9323f0f3ea40751606"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2624162
+project-id = 274186

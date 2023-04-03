@@ -1,0 +1,13 @@
+name = "Titan Pack for Flan's Mod"
+filename = "Titan-Content Pack-1.12.2-5.7.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c2454b47c04f8ad251a8de382d60f5a11f6b165"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3195604
+project-id = 409260

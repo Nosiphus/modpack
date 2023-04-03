@@ -1,0 +1,13 @@
+name = "Ye Olde Pack for Flan's Mod"
+filename = "Ye Olde-Content Pack-1.12.2-5.8.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "526a1408527ebd0bc18b26d14b18bf3ac9eea487"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3260603
+project-id = 409257

@@ -1,0 +1,13 @@
+name = "Zombie Content Pack for Flan's Mod"
+filename = "Zombie-Content Pack-1.12.2-5.8.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01ebe60eb16ae31f15f6fdf25cbbea0140c04943"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3272498
+project-id = 409255

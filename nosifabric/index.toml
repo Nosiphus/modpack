@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "510e29861a6dacc95692398fda1d6a0cc4d4bc571ec820a1e0184901e1f5a628"
+hash = "6f22b9f849f27c937601c2ff1e73fdbaf690b8c0b0243f469d72ec7a28e0fa1c"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -75,6 +75,10 @@ hash = "280d8fbf33a3c8adf4e10cbf7e139b6a034b6e0d9fcc00418559c91d21082e02"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
+file = "config/mca.json"
+hash = "fb51e5dd9ab931a29e707d496a44662664930f2ac9acc8ffcfc33eb8da479fc5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -238,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "e2059ce47bd114c0506097c777742fde0fe3797e5a227308c754bf24ccfe3db3"
+hash = "493f0ce724cb000cd4d406e042b06dc8fe00d19af7621049f5e2461a8863b0a1"
 metafile = true
 
 [[files]]

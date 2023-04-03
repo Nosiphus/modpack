@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "37f8a13c81f839377b9c277c528bb1af87ccb396d8c9db5967ae37b60700ede0"
+hash = "2690552c81b42f6f4b04b351bf0ef5522a7f357ed3446e3ed81b8a725892d593"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "6faa5de6c3caef254ba106b78624091a0e17090db9cf68f4ae042250fdd940dc"
+hash = "210ca8e8817f8f6fa220f73f72a119a1fd2a959313528ceb73d3b554a7bc5d8a"
 metafile = true
 
 [[files]]
@@ -742,7 +742,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "61a07650d73f277d3be7a4f243066b3e092d969a244b205704232a85688a9538"
+hash = "d83366ef8ecfcbfdaa6bc00748c854a4497b0665e0d253b3199012661d4408c5"
 metafile = true
 
 [[files]]
@@ -1027,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
-hash = "d4bce1c3817491413891c173805c2ffa855fd08609db2615699d610b129cfd54"
+hash = "b75818853c10c8fbc3ecbb8f4eae402a61e0a5fe82ee42c382f904e22e986483"
 metafile = true
 
 [[files]]
