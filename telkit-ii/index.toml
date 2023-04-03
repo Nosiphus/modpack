@@ -89,7 +89,7 @@ hash = "007ce69456cba5e7c43c3507c5c8bef5fb6e36c6e28dd4e07234f6b3db2c1ab2"
 
 [[files]]
 file = "config/foamfix.cfg"
-hash = "9ee7475ffcdad742b9e884264ddf35323f402d6a1d0e984a1570a8df83c0622a"
+hash = "1eee7c01ee4a41a9823016a2f7b696efbe18f81a1434ad36805c1445ccae163f"
 
 [[files]]
 file = "config/forge.cfg"
