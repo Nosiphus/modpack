@@ -1,6 +1,6 @@
 name = "Sound Device Options"
 filename = "moresoundconfig-1.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

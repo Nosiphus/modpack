@@ -1,6 +1,6 @@
 name = "WTP - What's This Pack"
 filename = "wtp-1.12.1-1.4.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "murmur2"

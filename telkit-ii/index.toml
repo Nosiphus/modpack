@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "fcb4a5a64f66ff529907e6e3ef3834154971d8921379e21c910738650a07af44"
+hash = "e7e6da256b8d29493d74f216a745f55c848e32ba9efdd84bfc877a4f6134d5df"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterfps.pw.toml"
-hash = "3be157f6924a51edca3ade05d9a2c9e16e13e376c874fa6eecb11d0bf6c0a2db"
+hash = "5ee1167714d6d6fa3bdf92dab2c17fd3b0edff8827e7bad181f5f2e2f8a4f766"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "5144fa02693d183e30f35cf4fe84c62ec366a65ce26724b277eb07c9c940b371"
+hash = "2d93ed5044fafbbabeab41598ff9de1ed8234e9e43f6330a4c5c090836f9b834"
 metafile = true
 
 [[files]]
@@ -298,12 +298,12 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "2571263ec4228ca6c6d2cdbf677bbb7b07622382163f606630304696ba5d4abc"
+hash = "a9f6a8afd76ec0197998bd8e7efe05c64b9daf5a1052ffb6dc60804b392f4806"
 metafile = true
 
 [[files]]
 file = "mods/fullscreen-windowed-borderless-for-minecraft.pw.toml"
-hash = "1e11617d2d018647a41b00d6d04d57994e525be01d0cb22fccdffbe9919f358f"
+hash = "72627b960c308206175a275372af9812264c1e79a4d6fd18803aada599b9da23"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-sound-config.pw.toml"
-hash = "0e441cd0488974c8df21a7a2b13c988b5c416487615943d0e8b4e0ae41396b20"
+hash = "797a2e2cebfc6944e421694655ef0bfc611799cd6885c62927774b088acd9131"
 metafile = true
 
 [[files]]
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "a838f03dba134738d13747ea4f70a3dcdcc92fda838024fac85288e7c19c4e54"
+hash = "53105a0a24ba4be58571b056a85e09d7f3840777c7a6c6f6520c55620388e77a"
 metafile = true
 
 [[files]]
@@ -603,12 +603,12 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-font.pw.toml"
-hash = "141a24db12cf5167dd2446d7d68c49ddf238ff6c48d588cd14440af5b42a5787"
+hash = "8f18aeb339a5c9f0576a69e5ae0c6f27cf32b7abbbf303415338a995ce4aaeda"
 metafile = true
 
 [[files]]
 file = "mods/sound-filters.pw.toml"
-hash = "0cf8f002a5c13f8e06aaec8fe631e9469c6d32e701d3dfa3aceb7fd1ce27fe2f"
+hash = "f111153fa99abf794602fb50a853d1f8f05c1acbbca099d813389564cd4ead3d"
 metafile = true
 
 [[files]]
@@ -628,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/texfix.pw.toml"
-hash = "c7a205d96c898c9d1ed408e008361dc00028eb38af7d35d6eb39fb82625407ea"
+hash = "40082a5e9c6c2241cee849115db4fe16e09f7adf4d201d1943c998a1a8d6c81b"
 metafile = true
 
 [[files]]
@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/unifine.pw.toml"
-hash = "d397d726daad363e9aceb5e7381292eef93e00bfde806a9d25f3660e31c21bb4"
+hash = "6f6103b985f2d2417293f5e86939323b7caa341cac85abb07db8f0a2b4061cba"
 metafile = true
 
 [[files]]
@@ -718,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/wtp-whats-this-pack.pw.toml"
-hash = "5072ecc9975f2eeca28c721e1d6743108463d31222105d587f8be07a10ba8ae2"
+hash = "6a43593f8b5aae6f204f22be114d1d05cc3d58bf5367abfb40324b5b1d8a2642"
 metafile = true
 
 [[files]]

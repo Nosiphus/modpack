@@ -1,6 +1,6 @@
 name = "Fullscreen Windowed (Borderless) for Minecraft"
 filename = "FullscreenWindowed-1.12-1.6.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
