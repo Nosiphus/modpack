@@ -21,6 +21,10 @@ file = "config/ModernUI/text.toml"
 hash = "2444e0c8850ca8808a5a99379a6692e5a1a214e958004d01d0be513a0ea17f45"
 
 [[files]]
+file = "config/ad_astra.toml"
+hash = "dd895ec1c9b27786cdf3c1ffd0d998cf31cd3ef316b7f7079dc91f4bf64f837b"
+
+[[files]]
 file = "config/computercraft-client.toml"
 hash = "ce3e34235dbed98c8f9f07a0c1a4a5eeed4ddb5a370ab283a38f87474abcf5fe"
 
@@ -54,7 +58,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d9ce26deb920695349c907cbed2d0fd8815a67fa7be64629df18380900ab2044"
+hash = "9a47febd1baeaaef1544d72383f7480115b2d4b50a7e3bb9c898cb76debc1d5a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -196,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c0737aed914926fae77727ed67cfd46c1504fc1ce5a5b704e3669a3307898507"
+hash = "6d494e07259ad63215a5057af1885d5fa47bd0986afe4a4e56e8b22e9c6b664f"
 metafile = true
 
 [[files]]
