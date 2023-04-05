@@ -1,6 +1,6 @@
 name = "VoxelMap"
 filename = "forgemod_VoxelMap-1.10.12_for_1.16.5.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
