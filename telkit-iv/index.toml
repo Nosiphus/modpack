@@ -58,7 +58,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "9a47febd1baeaaef1544d72383f7480115b2d4b50a7e3bb9c898cb76debc1d5a"
+hash = "1d4814bb9b7e4eba19f3b58ff700a5e693743c311be5235eb1a67c90d2b068a2"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "5d43bd2508030342dd9e1eecf1d2966cea313fb02c603239895879a0afce9a7b"
+hash = "1da84083956e1a31e7214de338f110f42f13d8af513188a4bc28cbd064320692"
 metafile = true
 
 [[files]]
@@ -746,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-utility.pw.toml"
 hash = "e0dc17b2ca9a8b7b39f3d54648f3446ef1d28fbb9902a776cdb86065b57d4183"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+hash = "3a177354c225fb6435a984c51449ce24a052daf6c115b12cd71d12f737a8c6a0"
 metafile = true
 
 [[files]]

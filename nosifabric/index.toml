@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "d7156bd0095542565a1afd587c0dfa0f58fae3382db6ea548e21a23a457a9fec"
+hash = "09e0af412d9043e8d9469bd5050ffb8505a72d8f113fbf3224bf54c4a489d9bd"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9fd477e1641d3e008b49089f7650e1023b8e0bbd7105231b60c8ebc7882906ad"
+hash = "5e259934dcbb1f7a3935e778a4614abf486b81d0da7ba4f11585d3784498b5c4"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "f402c849032229dd64df455576bc0da500cd42fcc55fea4ec4aaa1763acf71bf"
+hash = "d6e81bf4e803c113716aabbd84c2a53506c2f25517cc67246276b6f34666fedc"
 metafile = true
 
 [[files]]
@@ -393,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "2b01227abdbacbd225cefc8d4f459bfc63f1fdff2d0cef858c4113647df05711"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "dedc389d562394114f39f256cc079a9240d1c45d371e697e24b3eedaf1e4a12a"
 metafile = true
 
 [[files]]
