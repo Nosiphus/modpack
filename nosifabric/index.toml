@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
+hash = "b7a10565ba673dd7e429f5961d565b6c805164f3415cb5e3a7030a57b80ff032"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "26eeab2582eb992271c3b12d2352cb161d9a78817311103f5d2788af6dc3a9cc"
+hash = "c680fc9f48ecd8cb80bcc7cb61ad2d7281ca10c34e2e26914625d69e01837845"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "d6e81bf4e803c113716aabbd84c2a53506c2f25517cc67246276b6f34666fedc"
+hash = "72b342824e70f7c596c24f8c94a4452b97514db457a1cc79a5f38510e43b049c"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "9c1e05d4be7493815fef81e986ccf26040f30a1551acffe055171a396fcefe7e"
+hash = "165aad9f2090d110e4d3e7836316e9de28623dddf1f6c32b01e84120f384ec29"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "1ea0d9a4c962654f3742bdcf9a957444fefe309cb8bc55c6dae9a58476793662"
+hash = "bb11ed246fe6d8493136ece123261a80f5d2b63dd9500408f75ac97b5fbdce1a"
 metafile = true
 
 [[files]]
