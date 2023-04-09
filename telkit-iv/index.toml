@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "dd5cf460a9d9d333b07e6a9043319a016221f47e3ca70abefbbbdc1f1c1b92ee"
+hash = "2daf19578758a3771cad93c65e365c65427c776f8ddf8543b3d9bef49250d1e8"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/mffs.pw.toml"
-hash = "68bea6de4dc4a2f69813e9a5d475b705b934030a83259a6c8219c667c632a4a7"
+hash = "e63917fe015907421d15cdc17b59ad790227805f0b10b111eeef709794af0808"
 metafile = true
 
 [[files]]
@@ -794,6 +794,16 @@ hash = "f8f7cbc0daf05063e9d314d9492a87b2484d97e812a418d9a07b9099bb664021"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "4c9539a6d5f8e98809bc518b9ee8231b6c515c58a1f74d9b88b71a6fff26ba03"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "bcd528752aed95a241d007a7b1d803f839448c95317a264b4f4181e4cad283dc"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "eab45c93eea75067a496b7048c52d1827af264e0f5e5a0594996d8d604124fbf"
 metafile = true
@@ -806,6 +816,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
+metafile = true
+
+[[files]]
+file = "mods/tesseract.pw.toml"
+hash = "85e63be2e90ac87794de3bc687fc2ccf226bb4c3b5db884a2b2ba19d8e6ff678"
 metafile = true
 
 [[files]]
