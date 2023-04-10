@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "e4a9c29cb3befbf9ca8096f978621e373bd71af77c093a045020a2f215d9de8f"
+hash = "58620fdcccd9414ed240626f88a6c0eb2daa39c0ba9d9124ee964497d71ab410"
 
 [[files]]
 file = "mods/1.12.2/baubles.pw.toml"
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.pw.toml"
-hash = "a04dbbe35b997ff0ab62661284f48df7f0f890be595d8fba171a9af394f9e7eb"
+hash = "495f9db2259224e1320193d41b5c3c2e57f4845fddd986eb28e8411a02c4c40c"
 metafile = true
 
 [[files]]

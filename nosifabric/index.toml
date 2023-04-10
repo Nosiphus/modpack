@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "09e0af412d9043e8d9469bd5050ffb8505a72d8f113fbf3224bf54c4a489d9bd"
+hash = "309eaf24039735913658c3751c6e3517e9f2140c90f74c86b0b886191adcf5d7"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "72b342824e70f7c596c24f8c94a4452b97514db457a1cc79a5f38510e43b049c"
+hash = "c2e68b65e87e6fe0f90b39aa51b696855ca5de31c1b049b68766bc18fc0e28b0"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c880ebfe6d340e4da7fe935f1a3cdcff84d3db7f4efe8fb3d12839b6d08c7aed"
+hash = "60a78e25d2180c559f671bff385131be02a49d9c5a650b988995dbf3aaae6660"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "907a6595f379530082e7772bc1367426bbccc2ba51587e50bbd012a01d9c557a"
+hash = "d56f2f2c1271cffdd82f335b4e0fa80a57cac08bb2129870e37eacf5c282fc82"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "1a1fe77a77f1eca3924e372b930f3fdfcbe65dbee2779cf54c86baece94ba354"
+hash = "8ac41affba787eb76da74fc66c756fdeba5b16f3ee61b917d813a83438f6c8bf"
 metafile = true
 
 [[files]]
