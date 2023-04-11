@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.pw.toml"
-hash = "495f9db2259224e1320193d41b5c3c2e57f4845fddd986eb28e8411a02c4c40c"
+hash = "a04dbbe35b997ff0ab62661284f48df7f0f890be595d8fba171a9af394f9e7eb"
 metafile = true
 
 [[files]]
