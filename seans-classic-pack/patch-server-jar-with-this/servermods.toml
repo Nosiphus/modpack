@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://github.com/Nosiphus/legacy-mods/raw/main/seans-classic-pack/b1.7.3/servermods.zip"
 hash-format = "sha1"
-hash = "ea8c5088e1cae312fdf9a591ba5773357ae37578"
+hash = "9ded66fa58bb73fce95ec04675b11f0fb14496f7"

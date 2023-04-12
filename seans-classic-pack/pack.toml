@@ -1,12 +1,12 @@
 name = "seans-classic-pack"
 author = "Nosiphus"
-version = "2022.09.17"
+version = "2023.04.12"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "aa820228b622de019cb57fb43402b07ba0db354460e9b13142e29b7ab27eb9cc"
+hash = "40b68d0cf6cde9765342a212bffe83d154d5e9d72eb27f0cce1ad7f7afb3688e"
 
 [versions]
 minecraft = "b1.7.3"
