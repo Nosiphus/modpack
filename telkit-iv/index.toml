@@ -58,7 +58,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "752cb77396c1cc522ef0d2a89b33ec8bae76ba7c1a8040ac41e3a2aa5bac5825"
+hash = "2ee009239624620e0f762d168fe253634ec7c1529c2aadbdd3573551e69ba16f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "f34441de5797b618c6490f7b09eda4f24cf7e21e7d458f6adc8463d5816f7190"
+hash = "67ef9dce396b533cf7bb3ddd844baf208cbc450e9e3f26fe4dea6ced087918ea"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastworkbench.pw.toml"
-hash = "848a019486e5abcd59e4db96779e5c76e30b90bcdf212028dddfa61c90476c1a"
+hash = "babc92991000f76c7ec49585f4eda04b140d8599c790cd7ea59d1c9dc006de8d"
 metafile = true
 
 [[files]]
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/pluto.pw.toml"
-hash = "7645409d373455afd45db86e9e90876fff20d6b5b2470a3ba4002b385b4027c7"
+hash = "c90d1f76411f74e449eb7a170406303b8106b743e45d1dbb6641fd4e6f2702cd"
 metafile = true
 
 [[files]]
