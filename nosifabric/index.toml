@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "c175325d62539ce68f60e58470f5941431c5a893a46d1ee9a24fda5384a9a9bc"
+hash = "fde09d39119be94e3e500f18ee15ab2b4088f209cbd0dc9adce969aee312e443"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -156,11 +156,6 @@ hash = "d6f35b0161fa88f25c25f2d376ce50c7e7336ed00a68fdf66d74932e06b28d0d"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "2393668f05c9062f95075532c112a18df9d328996a34ad527411540fc07a42b7"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
 metafile = true
@@ -206,6 +201,11 @@ hash = "f79066b3ffea3422060184f8a8b5dd68faa51f987c27ed92f5aca9fb46009ffd"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "90e948ebe0bb1255cad6afefc394f7b94dc26d05907c687a475c258bcd5e0b81"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
@@ -213,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "49576a9f64054a932e5bfe6cbe897ce03f556f5a8c5bb79e06795bfa65798253"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "69e868895f682268915c2bcde2c2193075a63cb9c99171a8918bdea8409e9ace"
 metafile = true
 
 [[files]]
