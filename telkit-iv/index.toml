@@ -58,7 +58,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "5c2c109fd72c472630e8692e1a3995f4ca2393e5b81d7efa3402f3cda35197a8"
+hash = "c6f533bfc9546d316aee2fb27c367c6f9b29c6bc22fa4aa2f3c8044e6723a8aa"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ca21d903bd9eb0b338e88da5edad929a66ac01cca6d52c92c1855f45f8728178"
+hash = "350ab620f74b8385cc5f172bb445296a51e005d707e3a726e870b28132529e53"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e650e0a0179c4878980dba815366b3b7e017a7b4f65cb5d6138bae6d02bac065"
+hash = "ec517326311870553f501b1cea0a453b67419a2663a3d3c4eb3422a0eb21f67c"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "2d36ac39cf0c787501ebf3f6a4853b9bd899475e0d7be35a10c06a90e8a043ab"
+hash = "d3e09af69cb3ee5a3c4c006130c0f463c04b937af27f4ca870b8a7c867c61d10"
 metafile = true
 
 [[files]]
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "8864d293597b091718a16d2ac2a40f3fa8e13d9de1c9c712a5d050b6069f2c74"
+hash = "006446250c84ffa01b3f2e44bf5a3df151d8c25c900e75ef98092f8411e07cc4"
 metafile = true
 
 [[files]]
