@@ -3,6 +3,6 @@ filename = "Galacticraft-Planets-1.7-3.0.12.504.jar"
 side = "both"
 
 [download]
-url = "https://micdoodle8.com/new-builds/GC-1.7/504/Galacticraft-Planets-1.7-3.0.12.504.jar"
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/galacticraft/1.7.10/Galacticraft-Planets-1.7-3.0.12.504.jar"
 hash-format = "sha1"
 hash = "2931653ca3c9d4357c1c7e95642cd8ba1374dd66"

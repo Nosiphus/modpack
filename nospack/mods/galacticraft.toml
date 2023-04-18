@@ -3,6 +3,6 @@ filename = "Galacticraft-1.6.4-2.0.14.1098.jar"
 side = "both"
 
 [download]
-url = "https://micdoodle8.com/new-builds/GC-1.6/1098/Galacticraft-1.6.4-2.0.14.1098.jar"
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/galacticraft/1.6.4/Galacticraft-1.6.4-2.0.14.1098.jar"
 hash-format = "sha1"
 hash = "6aec118dc3bd0de3341a99e03781f89cb5538ee1"

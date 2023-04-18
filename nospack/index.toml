@@ -276,12 +276,12 @@ metafile = true
 
 [[files]]
 file = "mods/galacticraft-planets.toml"
-hash = "582dd4b3df615e93c39311bc2f3efea95835b1e0690d3674b24d04d47fddc761"
+hash = "a08bf78818fd911428015e9e3f2ed6ff708e6ca1954bee581a64745378d859ae"
 metafile = true
 
 [[files]]
 file = "mods/galacticraft.toml"
-hash = "0fd97f4de19af1b0057c5ba1f883349da8d2272db7ec187468e580d743bf8781"
+hash = "67bd3f930817796802445c8ac588ecad8ec2204c7a5541dcd53cff11a25bbd22"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/micdoodlecore.toml"
-hash = "70dc8f8f4181f62875d86cebb397865dc57f244c5fab03157134dec81bd46032"
+hash = "3c8f352004e6d100eaa8d7cdb95cd64e1aaf1216265134a747375076ee7a2da1"
 metafile = true
 
 [[files]]

@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "coremods/galacticraft.toml"
-hash = "796ef9eb1d810e2608ae0ebd9100fff77f864dbf0a7041160ec467ef576b120b"
+hash = "0c44b99178b7c3eed9184e9836dedb1a453ff9526e6e92fd407669561bb32044"
 metafile = true
 
 [[files]]
