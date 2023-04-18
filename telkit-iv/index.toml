@@ -58,7 +58,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "c6f533bfc9546d316aee2fb27c367c6f9b29c6bc22fa4aa2f3c8044e6723a8aa"
+hash = "dde92103d420b2d8fb9729575eae121e319d5b08fc0052b44dc74fb04be3d494"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "5a0d3501bfc33baed245ac72b7bf15cb9d11f51c9080f9f1390bf67729c29f50"
+hash = "cdc7731058e40ef2f8c78ad6abfd3953f246f4552c470595af92bfa69b446774"
 metafile = true
 
 [[files]]
@@ -589,6 +589,11 @@ hash = "278e91bf254193e7eb6cf78b80a31cdcdf7806c79a87b83e789ba64600859d14"
 metafile = true
 
 [[files]]
+file = "mods/mob-capturing-tool.pw.toml"
+hash = "022ea598ea6d34875cec564155c7555c5549e511647d27a03195991e6cc8e00c"
+metafile = true
+
+[[files]]
 file = "mods/modern-ui.pw.toml"
 hash = "498cf27e98bde8b2a5d6e631aef5b0baa2be66def483adf4ece2375ccbc7c040"
 metafile = true
@@ -735,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "2ffd0ec4057298b1226ddde146e0442b03dbff83145c0aabfa4eaeb568ea4839"
+hash = "a1f5d18103f43d84f208a2f6ebd99fb88815a2f45fe50d111f2bb0e4a83c2e3b"
 metafile = true
 
 [[files]]
