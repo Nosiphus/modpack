@@ -58,7 +58,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "dde92103d420b2d8fb9729575eae121e319d5b08fc0052b44dc74fb04be3d494"
+hash = "9e4efdd37a78812de8573b5b8a893fba424916127d97952c797a193673eced49"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "dde52cc24b32fb00a73285cbd6e41fc2db104fadef37b5aeced42e90bcf4f47f"
+hash = "8a1bfd35d4650272a978a81dc03343d4062156c355857997481427e68c06d72a"
 metafile = true
 
 [[files]]
@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "d3e09af69cb3ee5a3c4c006130c0f463c04b937af27f4ca870b8a7c867c61d10"
+hash = "3f4f7d68888e171dd0b0636d513ab605b30ab983242b06233c2dba66e21f6f58"
 metafile = true
 
 [[files]]
