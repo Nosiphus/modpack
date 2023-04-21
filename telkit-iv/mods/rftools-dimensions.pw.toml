@@ -1,13 +1,13 @@
 name = "RFTools Dimensions"
-filename = "rftoolsdim-1.19.2-9.1.6.jar"
+filename = "rftoolsdim-1.19.2-9.1.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c34f33971d6beee69c5311d1fc08039715591579"
+hash = "f146adba14c8e005524a4ab220dcd615b35e9129"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4495499
+file-id = 4500201
 project-id = 240950

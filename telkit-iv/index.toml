@@ -58,7 +58,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "9e4efdd37a78812de8573b5b8a893fba424916127d97952c797a193673eced49"
+hash = "9138e5d05149494d4c73a78cab8b70f335e7b2b214c7b24af0acb830b10dff02"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "67ef9dce396b533cf7bb3ddd844baf208cbc450e9e3f26fe4dea6ced087918ea"
+hash = "6382f1cb5838cfcc236f0c62da825f0b8079a1bd0289d48bbc652f2bb9b1d44d"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "9c9ab3b7230c71a79f6fe40d2421633c3d7e9b6362f10d1042693a6e61e48e89"
+hash = "5de1c8b85b74ef9c2cabda3e70fec7e84c02b745f0036ab747acda9492af89bf"
 metafile = true
 
 [[files]]
@@ -405,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "7a418aa1611d2f290f5df2c698b95339efac5b6e5a37f0f49a508c6bd32e7d29"
+hash = "525256b2af979b1f5b0200241f58f181381d926152f7fcd322e722882325959e"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastworkbench.pw.toml"
-hash = "babc92991000f76c7ec49585f4eda04b140d8599c790cd7ea59d1c9dc006de8d"
+hash = "5db298a5768d41bc516ac521d95588ff074e5af6bd17567628d10f319ebd85ae"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "8cc76cce0b77e62ba5e3fc894e56c899202c73b1032045c34135a227df6da7a5"
+hash = "26803327926f5c9293df6c46661c55e8f3ad21c8250e8121a6986dcb1c783218"
 metafile = true
 
 [[files]]
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "e6da4b32eaf7fb4ea61b2c0d66b816b19bef704385378c4125975a0b08a008e1"
+hash = "cb0af91d7b5f99b46022e3af2ef7e128028f6a2f91feb0a8f4fa22e9556f30b3"
 metafile = true
 
 [[files]]
@@ -740,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "a1f5d18103f43d84f208a2f6ebd99fb88815a2f45fe50d111f2bb0e4a83c2e3b"
+hash = "466c654c4368a2e53319c83c33704a0a655bc442c3166455124814312c629c0e"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "3a177354c225fb6435a984c51449ce24a052daf6c115b12cd71d12f737a8c6a0"
+hash = "412518df24c3d4f2f9dc08e8061c239711d724568fd740f192dc797487c29aa0"
 metafile = true
 
 [[files]]
@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "3f4f7d68888e171dd0b0636d513ab605b30ab983242b06233c2dba66e21f6f58"
+hash = "2240cb92765b61c84f5c2cfe73c9c913cfea565da349e5dc936b7930284c5430"
 metafile = true
 
 [[files]]
