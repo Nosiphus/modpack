@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "f06abb25693bb259697330a5882ca7c039a953761e266fdfcbbb22eac0552118"
+hash = "af377eb4053be5c811373de3241b3ff4120efdea8e3fab397573d80302b5f41c"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "90e948ebe0bb1255cad6afefc394f7b94dc26d05907c687a475c258bcd5e0b81"
+hash = "3eb9dc5713bd1208fb710dc134c50d7bc4217c2128f4f91abe9a08a0a660c5c9"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "49576a9f64054a932e5bfe6cbe897ce03f556f5a8c5bb79e06795bfa65798253"
+hash = "f2aabdd214e4e6f5694480372d0d864e7a22f9f683a215faf018836fc1f2bcd9"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7857d46b41b5c4a2a9a11fd17572a266c633064ac026b72588e0f4afcb296942"
+hash = "3fcfa480ee797c4c520a033f2d4ccc532a0761565e9f2de8011901821c960128"
 metafile = true
 
 [[files]]
@@ -242,12 +242,12 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "6539af83331cc1f9a1f7522b4d8f0a392be27c0da04b4a97a5b5f14a014a939d"
+hash = "90fa141fc54ad36d06304d1eb8df32fd7fa6719db3cd5ead980170f2c26fe3f9"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "c2e68b65e87e6fe0f90b39aa51b696855ca5de31c1b049b68766bc18fc0e28b0"
+hash = "4b27f443394f896a153e845c7363c561cd93989c364de86acd659a7f1ef94b22"
 metafile = true
 
 [[files]]
@@ -352,12 +352,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "ac519bc5639f80a7a150e1748638bdd283374f97f876cfd380bd3dd7cd9019c7"
+hash = "b8637d34d5e142b7de5ff0ffdcefc664ec322ea0528a251bfbc3d99e1c8986e9"
 metafile = true
 
 [[files]]
 file = "mods/more-slabs-stairs-and-walls.pw.toml"
-hash = "a8c2b5d2766b347f74c61eb3f2afb5616de751852b922fd067bda1381209a102"
+hash = "638a20e6020256f2834f3be8dcfb01df04822a71ab8fefe5cedec8360e11b8f4"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "4315ca17d384f3392b506316ea39cfede07682393589884d22d02c48dbc951ec"
+hash = "b64b1d449c080224b7edf3260d1d474e58179411a1401d657a98841b9c974ace"
 metafile = true
 
 [[files]]

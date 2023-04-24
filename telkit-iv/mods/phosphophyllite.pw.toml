@@ -1,13 +1,13 @@
 name = "Phosphophyllite"
-filename = "phosphophyllite-1.19.2-0.6.0-beta.7.jar"
+filename = "phosphophyllite-1.19.2-0.6.0-beta.7.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c1b1ddbebf7f29c8f3bbe80287365c9665812ead"
+hash = "1b47b960b92eda720e61178a78f61f408c1fc31a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4457878
+file-id = 4504205
 project-id = 412551
