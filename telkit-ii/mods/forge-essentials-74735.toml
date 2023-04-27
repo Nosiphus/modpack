@@ -1,13 +1,8 @@
 name = "ForgeEssentials"
-filename = "forgeessentials-1.12.2-12.3.124-server.jar"
+filename = "forgeessentials-1.12.2-12.4.125-server.jar"
 side = "server"
 
 [download]
-url = "https://edge.forgecdn.net/files/4365/600/forgeessentials-1.12.2-12.3.124-server.jar"
+url = "https://edge.forgecdn.net/files/4502/909/forgeessentials-1.12.2-12.4.125-server.jar"
 hash-format = "sha1"
-hash = "2c10b982a421429e748eb23dbfd6b7264ffff3ef"
-
-[update]
-[update.curseforge]
-file-id = 2468387
-project-id = 233019
+hash = "ae27d17db858caa8abdf73a3f2bc1c1157823e75"
