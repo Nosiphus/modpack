@@ -58,7 +58,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "9550ec1725e448a5273122b14f49c30604ce7045575ecf84d210c674849370e4"
+hash = "1e1c37a1544177c0cb64683b88ac27ad27b2cdc2152e1fa5139ad15afd41c918"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6b5459292f51da149d1a9b86ee397e6f979909aa2e8fb0f7643eb15e62a31f29"
+hash = "e2df7bd03b226031e733bb3c56abd311a724c36ff484ee10c99760f9682a61e1"
 metafile = true
 
 [[files]]
@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "006446250c84ffa01b3f2e44bf5a3df151d8c25c900e75ef98092f8411e07cc4"
+hash = "147a6a38c377b6dcf0bd04bbacc1d485395355289efd13c1a1386bbe1d5c0c04"
 metafile = true
 
 [[files]]
