@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "4492d2a0ceae461fdf4a394fd8eb7e8b5c06e4b2beff09b5db44881b563ed9e6"
+hash = "e16e6958de2e0726059e7e4d5407d5367514d1ac7a29b07959961ff38923c67f"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "76f2681c9b261e72a357bc0a0eecc7e8ba8794b4d4437ca29ea113dad1c62a2b"
+hash = "e6cd2d111beae6934394fbc7ae3c99dfefbad8e4a263c975690e278df8e808a5"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3fcfa480ee797c4c520a033f2d4ccc532a0761565e9f2de8011901821c960128"
+hash = "6592715d9a03bbafbfa9c4688f5ee436df29239d9b7808f1f964724568ec0bb9"
 metafile = true
 
 [[files]]
@@ -257,12 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
+hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "853c3c3509313aecaa5db6c01f6a94419ec0128ec7630b7bf8caf46e80dec67a"
+hash = "348131a334da655904b65a1acde31161e2791729904b86b5596714584cc6929d"
 metafile = true
 
 [[files]]
@@ -272,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "a727492155330fe4dc41c907c1b99b497b1529257bcb44d3ff3958bc3572f14d"
+hash = "265bf6a87ce8651ef1b8c8b491144e9c1ba6cc20a4c83a0534a05e48fff9d96c"
 metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "165aad9f2090d110e4d3e7836316e9de28623dddf1f6c32b01e84120f384ec29"
+hash = "8c69b7d8db91f811486d0e044bbd84df98546c056eb2b644a67572099a39b943"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-slabs-stairs-and-walls.pw.toml"
-hash = "638a20e6020256f2834f3be8dcfb01df04822a71ab8fefe5cedec8360e11b8f4"
+hash = "acbfd082a60e01976860d0a90cd1646ef3f1395e666d0acafe8ccf5d7ae4a346"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "8c4513ec1597cdfee5fde5e31ec61a114ca80c2f7b9f1a117427986317ecda50"
+hash = "3e47e96754b329dd2541c7f1e9ff626a6da7c764fe6ed80d73a63de417a6baf5"
 metafile = true
 
 [[files]]

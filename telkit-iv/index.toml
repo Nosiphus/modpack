@@ -58,7 +58,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "937aa9266fa0ad1e86c29497601298f41f37f850458a3ce1acfe78058ee35ac3"
+hash = "4cfd176ce6ad9c66fdcfad5403efaef6b2f49eecde80f4e4a21b4a70255335dd"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "a9bde84baabb3c6072ca9aff9c8b261321c19340b284d04c017e8db17a7f76e6"
+hash = "5d1ede7e168845c919175bd5a5af71b3d98b7d9eccafea724bf73496b39d8aec"
 metafile = true
 
 [[files]]
@@ -480,12 +480,12 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "1924619ce3beb4aa87d9bd34eb76061b6beae1330373a5beb688e085b011e836"
+hash = "6565b62cadb7fe868a1c10d7f71e813d0f634e9ef0c93869a0e04a65bcbe58c9"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "ddfd557d336761ad7930548f24322cb8c771aa1e0187b13a51dea268b9690d3e"
+hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "278e91bf254193e7eb6cf78b80a31cdcdf7806c79a87b83e789ba64600859d14"
+hash = "09512e9ef834581330eae8258e513a08db37989af76bfd5fcc0ea900693227a4"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/moressw.pw.toml"
-hash = "0ef35696c69acab6fd0ca2a55de2f8a492670a0444cfc05c75f116a0ecfda077"
+hash = "b35036f8f2344eda9f9290c2c9fd31efcd0012fcb6b91530657f36f0b06bb2c6"
 metafile = true
 
 [[files]]
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "3fb16981d76b6a50515924bd0b3b8e225287bcea5c00dfb10d7f40fc3d2098b7"
+hash = "60bd665bbfc2add17c9840fcae15a58e7eb23cdf4bfb555e67c299f88667ca44"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "412518df24c3d4f2f9dc08e8061c239711d724568fd740f192dc797487c29aa0"
+hash = "16529fed98f5d9098fda7c274114334348195201d3646e13878acf4aaca496bf"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e2df7bd03b226031e733bb3c56abd311a724c36ff484ee10c99760f9682a61e1"
+hash = "0b6393c70998e998b5631bcd62233d17e8e6f9c6cb076e6cb679392921e69ded"
 metafile = true
 
 [[files]]
@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "36cf2f1624de3bd30a8e5795ae43bfd2024d1952c1f0dca08a4568939333f7f5"
+hash = "13bb623253a2afb39fb4577d110ac9c14c4ed5bd42ef37fed99f71cd0974a1ee"
 metafile = true
 
 [[files]]

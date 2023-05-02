@@ -1,13 +1,13 @@
 name = "More Slabs Stairs and Walls"
-filename = "more-slabs-stairs-and-walls-fabric-3.0.0+1.19.4.jar"
+filename = "more-slabs-stairs-and-walls-fabric-3.0.1+1.19.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bdBzXqbS/versions/7VyuHqMd/more-slabs-stairs-and-walls-fabric-3.0.0%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/bdBzXqbS/versions/s5aSGu0z/more-slabs-stairs-and-walls-fabric-3.0.1%2B1.19.4.jar"
 hash-format = "sha1"
-hash = "6377b56b1c09f0acf66bdead2fe2ec6a616aafeb"
+hash = "84a91b20424dad052ab2ee150ab17b21d24ce178"
 
 [update]
 [update.modrinth]
 mod-id = "bdBzXqbS"
-version = "7VyuHqMd"
+version = "s5aSGu0z"
