@@ -126,7 +126,7 @@ hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
 file = "config/flywheel-client.toml"
-hash = "bcc9b6bc0bc829f96a71381c2360a10e0bd2ff12d5419189450dc1776aef6593"
+hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
 
 [[files]]
 file = "config/forge-client.toml"
