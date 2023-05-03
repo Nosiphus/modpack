@@ -1,13 +1,13 @@
 name = "FTB Essentials (Forge)"
-filename = "ftb-essentials-1902.2.0-build.62.jar"
+filename = "ftb-essentials-1902.3.0-build.72.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bf0f8080fead12615a0b5148e7ec80627696b811"
+hash = "b023d0954488eeb1c04d808952c2b0c5ba4d7a56"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4449109
+file-id = 4519767
 project-id = 410811
