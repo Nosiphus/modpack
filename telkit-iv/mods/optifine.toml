@@ -1,0 +1,8 @@
+name = "OptiFine"
+filename = "OptiFine_1.19.2_HD_U_I1.jar"
+side = "client"
+
+[download]
+url = "https://onedrive.live.com/download?cid=74BEC8DDAEDC9203&resid=74BEC8DDAEDC9203%21180&authkey=AFHqCPU-RuxpuCs"
+hash-format = "sha1"
+hash = "f304c56c7ab9119ce4269f2b019cd4668f48376d"
