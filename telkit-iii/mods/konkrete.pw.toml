@@ -1,13 +1,13 @@
 name = "Konkrete"
-filename = "konkrete_forge_1.6.0_MC_1.16.2-1.16.5.jar"
+filename = "konkrete_forge_1.6.1_MC_1.16.2-1.16.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/J81TRJWm/versions/uEKuuG60/konkrete_forge_1.6.0_MC_1.16.2-1.16.5.jar"
+url = "https://cdn.modrinth.com/data/J81TRJWm/versions/MFN5Cgup/konkrete_forge_1.6.1_MC_1.16.2-1.16.5.jar"
 hash-format = "sha1"
-hash = "4b0a3a8ba5b89596d8cb411a06c7fd0afeb9f975"
+hash = "13ea55667d6b85e67e2f17a739f483c0e8df122e"
 
 [update]
 [update.modrinth]
 mod-id = "J81TRJWm"
-version = "uEKuuG60"
+version = "MFN5Cgup"

@@ -1,13 +1,13 @@
 name = "Architectury API"
-filename = "architectury-1.32.67.jar"
+filename = "architectury-1.32.68.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/MDMnIYXn/architectury-1.32.67.jar"
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Zw57dVyl/architectury-1.32.68.jar"
 hash-format = "sha1"
-hash = "6a5dd3dbdaa17976efde50dce607bd81a0cc5268"
+hash = "ebd266dd51de8f4dd99c9b4731e35b8340734cda"
 
 [update]
 [update.modrinth]
 mod-id = "lhGA9TYQ"
-version = "MDMnIYXn"
+version = "Zw57dVyl"
