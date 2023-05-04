@@ -329,11 +329,6 @@ hash = "7b8944c22e5deef4ec333194484db891130d683613e7ed9714e90f2c4ee77fed"
 metafile = true
 
 [[files]]
-file = "mods/controllable.pw.toml"
-hash = "6988619d9b3d610cf8bd03693f86fcb238c4648285be5e763c30ce8fcb19ead5"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "ff54075e027c8b92cd02c42e5030108cffb34358b92fd3ab4adcaf47c9d5b898"
 metafile = true
@@ -846,6 +841,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "7b4458a7677e9fa9ba063949798313169aa34caad56cd69b0d529c8287e4b325"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "61799bc6367ee86a72fe54b131576cbbc6f4dbe1a1a134d561e83b02a72691be"
 metafile = true
 
 [[files]]
