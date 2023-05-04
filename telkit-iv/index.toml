@@ -5,22 +5,6 @@ file = "config/Mekanism/world.toml"
 hash = "290963b728184c13fea494c2caa50c3ebd36ad098bba6684a75a0a720e349dde"
 
 [[files]]
-file = "config/ModernUI/bootstrap"
-hash = "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
-
-[[files]]
-file = "config/ModernUI/client.toml"
-hash = "0bac4cb4a3a14ab519a1993df9962ce1137f2357cfc11f7861f4a3ac9bfcb415"
-
-[[files]]
-file = "config/ModernUI/common.toml"
-hash = "f945d275a66ddec08c1cc3aa5d800675bea43ec270416a70a03fe32e9db7c7b5"
-
-[[files]]
-file = "config/ModernUI/text.toml"
-hash = "2444e0c8850ca8808a5a99379a6692e5a1a214e958004d01d0be513a0ea17f45"
-
-[[files]]
 file = "config/ad_astra.toml"
 hash = "dd895ec1c9b27786cdf3c1ffd0d998cf31cd3ef316b7f7079dc91f4bf64f837b"
 
@@ -626,11 +610,6 @@ metafile = true
 [[files]]
 file = "mods/mob-capturing-tool.pw.toml"
 hash = "022ea598ea6d34875cec564155c7555c5549e511647d27a03195991e6cc8e00c"
-metafile = true
-
-[[files]]
-file = "mods/modern-ui.pw.toml"
-hash = "498cf27e98bde8b2a5d6e631aef5b0baa2be66def483adf4ece2375ccbc7c040"
 metafile = true
 
 [[files]]
