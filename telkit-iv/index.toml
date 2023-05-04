@@ -58,7 +58,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "8208bafd4b730cf1c134c3f7c3f575e79d5963d7efd6ce7a2a56225e0aba9970"
+hash = "f22b911d63cc1f490252d9f1c534784e16652455ec0be293804a48e093bbc2a0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d494e07259ad63215a5057af1885d5fa47bd0986afe4a4e56e8b22e9c6b664f"
+hash = "fcabb4357f5f82f9a010a55a1e4758d5e8aaafee04b36614ad60861889b887db"
 metafile = true
 
 [[files]]
