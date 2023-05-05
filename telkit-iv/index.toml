@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "f22b911d63cc1f490252d9f1c534784e16652455ec0be293804a48e093bbc2a0"
+hash = "00a935af8f4cedbf38c1fcc629be60618e1aff497d56ea55e11b3e6a843aa96e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "0c84cad8a1d02e392c330af456c32db649874277bb5bdde84ff71b1cadb6907d"
+hash = "fc26aa88f0e3959f0e3b3defee94279d398fcfdb71b9337fbefb1ea255930423"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "350ab620f74b8385cc5f172bb445296a51e005d707e3a726e870b28132529e53"
+hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
@@ -714,7 +714,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "bb7589595dc071e855b768e7f1eb9c634a57003dd08544a39ad5f9f270637baa"
+hash = "df8c5e337e227d83571f71e10fad4039250ec84c68b9e13c03c8264e3a74cf39"
 metafile = true
 
 [[files]]
@@ -944,7 +944,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "147a6a38c377b6dcf0bd04bbacc1d485395355289efd13c1a1386bbe1d5c0c04"
+hash = "401c6b37623f5bd91c284271ae041e43fa8ba9432f807b1a2cddfc5cb44ec1e3"
 metafile = true
 
 [[files]]
@@ -964,3 +964,4 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
 hash = "648e631e0ae705b3f45da4d21e90e19b83f412d5c42dc7b011f77099a37e1c82"
+metafile = true
