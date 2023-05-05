@@ -358,6 +358,11 @@ hash = "a59c931036c547cd42a8db98826ec4e253b05e497b4e1f2b33e5e311894ab379"
 metafile = true
 
 [[files]]
+file = "mods/devices-mod.pw.toml"
+hash = "92d452a4df5de066a65f57869e65e232e1b1c094dcedbb724742b86e5ca58033"
+metafile = true
+
+[[files]]
 file = "mods/dimensional-pockets-ii.pw.toml"
 hash = "20405d488ee1fd0024a786f5e85d5f0ca1a43df5655a47a991987c4217426bd5"
 metafile = true
