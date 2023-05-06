@@ -125,6 +125,10 @@ file = "config/pfm.toml"
 hash = "6766d8f6c90f09f96f74274829db94858bbf45775c2b27375edd853635249453"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "8196cc9d963e90d040151fd9dd95fc7536831b163b8511fb460a9a23863efddd"
+
+[[files]]
 file = "config/thermal-common.toml"
 hash = "fa78b625b56da62579feb7665ba9a63136f962379a9bc634b1235e96eecc4512"
 
@@ -390,11 +394,6 @@ metafile = true
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
-metafile = true
-
-[[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "afd88b5eb89d7c91e05ac76c600a2cc6224b0f3a04c524ce5a72820c7932b914"
 metafile = true
 
 [[files]]
@@ -939,7 +938,7 @@ metafile = true
 
 [[files]]
 file = "mods/webdisplays.pw.toml"
-hash = "532b6eb4deb5f238c13b6be27ef8778f2bfc41612d124aa4509cbce1ccb3b571"
+hash = "cd9d841633c074ff1ba27899a75ad007574a7025034636852f60d4b3f9758ef9"
 metafile = true
 
 [[files]]
@@ -969,4 +968,3 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
 hash = "648e631e0ae705b3f45da4d21e90e19b83f412d5c42dc7b011f77099a37e1c82"
-metafile = true
