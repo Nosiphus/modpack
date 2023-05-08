@@ -1,0 +1,13 @@
+name = "Aquarium"
+filename = "aquarium-1.19.2-1.0.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02eef34d0bbfed3b723765ec41fce2c53e6dbd3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4523142
+project-id = 858321
