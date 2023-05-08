@@ -1,13 +1,13 @@
 name = "Atlantis"
-filename = "atlantis-2023.3.18-1.19.2-1.6.0-forge.jar"
+filename = "atlantis-2023.5.8-1.19.2-1.7.0-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cf1a760e64b013e942bb800f5128844feb181b7b"
+hash = "fedf2acd03543f6d7f37f38b2f072b3e7573729e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4444951
+file-id = 4528708
 project-id = 355418

@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/atlantis.pw.toml"
-hash = "ee82227f1885f9e9bc8089973aeef8640e04489aeca8fa4d25047abeff3d3191"
+hash = "58c23d745785176b7219e6f251229a582edc5c154c21c7701eada4961b502c16"
 metafile = true
 
 [[files]]
@@ -407,6 +407,11 @@ hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
 metafile = true
 
 [[files]]
+file = "mods/eer-reforged.pw.toml"
+hash = "618489fc544bd0846e0e27e91fd8e01f41dac79c9a9716c74128c2367b2b01ea"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "c6e329194f0891f148e8f3054b0d38b44390ecfc9867d507dcd315da7d59ebaf"
 metafile = true
@@ -602,11 +607,6 @@ hash = "5793df7a9409ec4531073287075be18a6bd64267acd88071f615b6fa6c558f84"
 metafile = true
 
 [[files]]
-file = "mods/mcgltf.pw.toml"
-hash = "d31c1bd110efd60c5d63be00cf2588d467f4f15eab163955eebfb376fef41e05"
-metafile = true
-
-[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "5da4f927ed15f0cb187a5fc90af5ba7772e257521cc9537d095bc2287a44de09"
 metafile = true
@@ -638,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "278e91bf254193e7eb6cf78b80a31cdcdf7806c79a87b83e789ba64600859d14"
+hash = "09512e9ef834581330eae8258e513a08db37989af76bfd5fcc0ea900693227a4"
 metafile = true
 
 [[files]]
