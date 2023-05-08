@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcgltf.pw.toml"
-hash = "2ff6c63002ef9eb214d6692f506c56efec87b089b1f5cf4e126ad4367e29a552"
+hash = "d31c1bd110efd60c5d63be00cf2588d467f4f15eab163955eebfb376fef41e05"
 metafile = true
 
 [[files]]
