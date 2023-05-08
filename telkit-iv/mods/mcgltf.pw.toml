@@ -1,0 +1,13 @@
+name = "MCglTF"
+filename = "MCglTF-1.19.2-Forge-2.0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72c1aeeec337b3a0dd965309155e5e94282a3f04"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4367042
+project-id = 591547

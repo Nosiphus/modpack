@@ -197,6 +197,11 @@ hash = "fcabb4357f5f82f9a010a55a1e4758d5e8aaafee04b36614ad60861889b887db"
 metafile = true
 
 [[files]]
+file = "mods/atlantis.pw.toml"
+hash = "ee82227f1885f9e9bc8089973aeef8640e04489aeca8fa4d25047abeff3d3191"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ae8887615e5e14d52bd739ce195044faea6308d748dc7bc996f005630a11f39d"
 metafile = true
@@ -214,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "04aebaf91c1d6eb8a50dcbe7b229d56af0e71a2fd09b0729c1ac330b8f47c199"
+metafile = true
+
+[[files]]
+file = "mods/bettas.pw.toml"
+hash = "2d3a99c43444cc43eac6f83566a6444198d07c117e9d134eb2a3810b1ee2625c"
 metafile = true
 
 [[files]]
@@ -357,6 +367,11 @@ hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
 metafile = true
 
 [[files]]
+file = "mods/custom-portal-api-forge.pw.toml"
+hash = "9d6e281442d5bf748784476d593a29b1b935fb38e9934b011f4395f0a9fa5554"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
 metafile = true
@@ -464,6 +479,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "26803327926f5c9293df6c46661c55e8f3ad21c8250e8121a6986dcb1c783218"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
 
 [[files]]
@@ -579,6 +599,11 @@ metafile = true
 [[files]]
 file = "mods/mcef-forge.pw.toml"
 hash = "5793df7a9409ec4531073287075be18a6bd64267acd88071f615b6fa6c558f84"
+metafile = true
+
+[[files]]
+file = "mods/mcgltf.pw.toml"
+hash = "2ff6c63002ef9eb214d6692f506c56efec87b089b1f5cf4e126ad4367e29a552"
 metafile = true
 
 [[files]]
