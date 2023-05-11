@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/atlantis.pw.toml"
-hash = "117cef6c3faf6a8902dc364ad08b9cae1e64f78f3fdc48cdac08a8c7d8eea329"
+hash = "5e0f03cf01643df31c6a2081c5ff77de134361aca1801ca08d54b37f5d32e939"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "5d1ede7e168845c919175bd5a5af71b3d98b7d9eccafea724bf73496b39d8aec"
+hash = "60ba7a99958443bd54f5e676cb2d3845738de613bf197ab5ec15e5b01f2621e9"
 metafile = true
 
 [[files]]
