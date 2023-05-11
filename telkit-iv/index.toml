@@ -9,6 +9,10 @@ file = "config/ad_astra.toml"
 hash = "dd895ec1c9b27786cdf3c1ffd0d998cf31cd3ef316b7f7079dc91f4bf64f837b"
 
 [[files]]
+file = "config/atlantis-common.toml"
+hash = "af979adc70e6559c42b95440ba70c224fc4d084885546ed7ad1e2fa1a1034214"
+
+[[files]]
 file = "config/computercraft-client.toml"
 hash = "ce3e34235dbed98c8f9f07a0c1a4a5eeed4ddb5a370ab283a38f87474abcf5fe"
 
