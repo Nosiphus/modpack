@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "4ad9edc6de9bdfbda50231dda51d6d0478930b7a64a400299960c9cccbaedc40"
+hash = "6c47bfab00913990451697ac44d4411053f26bc7e6f371811a3df32d99bf83cf"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "0acbeefa77fc979adef390fac011aa978190d84630b7ac68f7f1390988053e5e"
+hash = "3e93944bf64de401439f390631b0d3c3ca86c982500d04c9aba22a237eb94eba"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "df8c5e337e227d83571f71e10fad4039250ec84c68b9e13c03c8264e3a74cf39"
+hash = "aa70ad99f21a7751317130efe7fb1ebe1137c7750466c2e8168f7a99606239f8"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "8b90af7acd60fbdf3f19861e794b7dc2d2c749480ccca7409aa0ea6e7752f7df"
+hash = "746663fba0e14847e0d3eb760a158b17180afaa93510470d5ee84a825694f84d"
 metafile = true
 
 [[files]]
@@ -982,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "401c6b37623f5bd91c284271ae041e43fa8ba9432f807b1a2cddfc5cb44ec1e3"
+hash = "2ee087087ee8fc81dfb0dbf9ed1371d59c955a4a63441bd5a9df651bec46c936"
 metafile = true
 
 [[files]]
