@@ -411,6 +411,11 @@ hash = "2b01227abdbacbd225cefc8d4f459bfc63f1fdff2d0cef858c4113647df05711"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "c0f323ff5bfab41f040119b04532ca1e1e8732c7ea52f60227a0932aa8d448af"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "dedc389d562394114f39f256cc079a9240d1c45d371e697e24b3eedaf1e4a12a"
 metafile = true
