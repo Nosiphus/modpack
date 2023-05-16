@@ -1,13 +1,13 @@
 name = "Project Red - Core"
-filename = "ProjectRed-1.16.5-4.13.0-core.jar"
+filename = "ProjectRed-1.16.5-4.13.1-beta-4-core.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "270f3a25424567b1321113adb551645b69fae273"
+hash = "bef29563ede5c26e7deca14b8abb2e883d41fa56"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4513749
+file-id = 4534538
 project-id = 228702
