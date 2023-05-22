@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "078c4a79111f083e14f311e757195c501664d89435bd96a3d344570401396f16"
+hash = "8b34491c1510c836d489b46d40191e428f2709f3ea3e2a28d68759a877c8c424"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "cdc7731058e40ef2f8c78ad6abfd3953f246f4552c470595af92bfa69b446774"
+hash = "1ce46646a8efe8e91e4f227ec0d2eae82c6723964f84d46512026774a213fea8"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "139a92b6e1cc541a1b06b7e76f23fddf3a13ae234561813e46215a8b8cb4cfc8"
+hash = "72b6b2f1f2e1ac96d8ebf5436a48775a166df82c36bc707b1eb16723240ab82e"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "ccae58379e56d3148c08a27bcd825b1c7f50c984f7d970d5235dae638b3b4f51"
+hash = "6652963a36a833070b3fb7959083682a4580da18ed642c43bf05d1524012c43e"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "cb0af91d7b5f99b46022e3af2ef7e128028f6a2f91feb0a8f4fa22e9556f30b3"
+hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "86e17fc71d4aa4477f820b5ce809eeb7c2d68bf2375d6ae763b97874eb605ccf"
+hash = "5699c0f9c7aae8254080b512f9dff5822fc6b82b9541b48f363b2810cf47119b"
 metafile = true
 
 [[files]]
@@ -887,12 +887,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "2dd04c6dd644fffd92097bbf5c33dec6dac7492d5bde6a63283653e2c8a69eb8"
+hash = "f11b18c85ce30e05053f6e3fe1cb82345614254b6d859f0649d3b4f726e8f5a6"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b06a689f856227de2e5f39a4e217f719664a702d157f35d88bd88d770e82ed5e"
+hash = "a376559c7e162002f9ae654c98d279227b43b8e8352fb0a76f6bb14f25b03b63"
 metafile = true
 
 [[files]]
@@ -982,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "0a0cb693b275fa4454c4f0d60136de2210a7e7111ada9388ea1ebfd2e24a85c3"
+hash = "e01c79424f10d3b3a362352eb268aa893a08ee14d3ea947dc5c1adcbcd02fcfb"
 metafile = true
 
 [[files]]

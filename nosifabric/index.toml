@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "1bfa6617499395c213b82cef47c096d495376c2590874a9ecef392afd1565b52"
+hash = "e12aee825dbaca8c5d8bdee5b56fb393e102861ba8a885c5b304f7f6c39cfd21"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "c81c2910a9e1ba8f5313f26460e2e8a7146c9e5c7238db680f0d5001dc91dd83"
+hash = "7d566ce4ccfc4582c16d39cbcb5ef7bc6be6e73a1df72100376389865956fe4e"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "c746a2a989e0041f642fbef556a0f2b9a8007943cbc230542aa819b053676e64"
+hash = "3c05f8b27cd15f1e71aebaf4d5f03433f6e7df7963b553ca93dcd3f97680c518"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-storage.pw.toml"
-hash = "b6e01ae268cc2a1e0d61a9228fdaf6f48db52747302d214dfcb874465423f4d4"
+hash = "579586da5f250e6027ab1699285ef1a2a8bce48cb73c64292d955f5bdeafba4d"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "357f215547763351f2f3ed1a10e1cd99891471467fc9309db504745cf5269dfd"
+hash = "532e8905c94ddd58e2cec9b501519ea2daf34a73f3ddb0c0870181a45c93640c"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
+hash = "87adb226c6e9c480155c0205bb0e6646bb85f5be16413bc555358df43bf41995"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "8ac41affba787eb76da74fc66c756fdeba5b16f3ee61b917d813a83438f6c8bf"
+hash = "cfe8e0cdfe0e04fcdd206aa85c673d1ce10aa73cbe8aae1018f63bdea0b2ec95"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "315e69798910a377848ae1aa16565b6344a6683f79fc22c493b5452dc476a417"
+hash = "33472e9d66130340ebc50b2ca884fa03ec9b4b29ed540b0ada04dfb89753c666"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "nosifabric"
 author = "Nosiphus"
-version = "2023.05.16"
+version = "2023.05.22"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d0463e19aa9109e28e54a53e1d7b80e47c5e1fd9e77d66f288b3008429b47481"
+hash = "334fa91c769e6ad557d273a500d493389606b699ef4bd3fdc919dcfbdfed2e26"
 
 [versions]
 fabric = "0.14.19"
