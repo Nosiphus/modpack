@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "8b34491c1510c836d489b46d40191e428f2709f3ea3e2a28d68759a877c8c424"
+hash = "90f70bcc66c5151954e8aa2fa125e696cd4d8cd8643f0fb20bd63153959738c1"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "8a1bfd35d4650272a978a81dc03343d4062156c355857997481427e68c06d72a"
+hash = "7b334bef7e948a9621f413769ab5931f7984c08a74c69aba0e66b1df53fe664c"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "1464f1f29a6bb4a036328abe0e71d3b2a00ec365d7b15aec5ae4f3fa5e58519e"
+hash = "563052904ded40c47aa1b0c75d04e4eb6558a002d561fc3b50011906a4b014dd"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "10db0fc8eaccdc62cc3c6b09551e2a41871dc5470b4ea4c82f46a7cf2d4c0970"
+hash = "2a4809ba9a94419b4c88d27c828cbea7ac3e2eb69b29747462fd340089c48651"
 metafile = true
 
 [[files]]
@@ -887,12 +887,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "f11b18c85ce30e05053f6e3fe1cb82345614254b6d859f0649d3b4f726e8f5a6"
+hash = "f702abd9df78794a23c2926271a8c4b8aa7785e076a16fc72179095bdb2f46af"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a376559c7e162002f9ae654c98d279227b43b8e8352fb0a76f6bb14f25b03b63"
+hash = "e793fe8c6bbd8e94deb100f5053c9c3231511fd764fde34d43694fa37a0d6d6b"
 metafile = true
 
 [[files]]
