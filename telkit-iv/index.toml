@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "90f70bcc66c5151954e8aa2fa125e696cd4d8cd8643f0fb20bd63153959738c1"
+hash = "8583e71b31e2a41d113814bff472986f8407caba31cdab4e134d71edd41a0f4b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "563052904ded40c47aa1b0c75d04e4eb6558a002d561fc3b50011906a4b014dd"
+hash = "954db250d3d26937d4e62095a336f9c072d3e4ae441d8f71570d63ebcd1b4f83"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "72b6b2f1f2e1ac96d8ebf5436a48775a166df82c36bc707b1eb16723240ab82e"
+hash = "cdede627056f2cc9d5fe7cb7236e6168ba07c210d331b33bc1d28fab86fc78fc"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.pw.toml"
-hash = "4edd736c5d14aefb35a9f1cfd862dd29c1bdb4e87267d6ff58f1af1ae0dd1cd8"
+hash = "d7251f3786587a3a9ad436fa1e001bc2cdb444df6ba7a5daf32669992f41b2a7"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "2a4809ba9a94419b4c88d27c828cbea7ac3e2eb69b29747462fd340089c48651"
+hash = "3a93e28b2b0513b79c99e21002adb2cac916860daee87f516b382708a78ae282"
 metafile = true
 
 [[files]]
