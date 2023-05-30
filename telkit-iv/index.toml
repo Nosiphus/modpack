@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "744d984a9949b54dc9beeff5e348de44ec3c5c2c605437f2976b6af9abd8aacd"
+hash = "61740cd0d04a9b7d6d80c5e6a26102f2717c8a081eb2b8b259fa1f7e08625123"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "fcabb4357f5f82f9a010a55a1e4758d5e8aaafee04b36614ad60861889b887db"
+hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "9c6f89d65804f3f09d774105c6a9afda57c949f7c0610689eb9c09de8cc3f1b8"
+hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/colytra.pw.toml"
-hash = "8dfd35bb0315929f8b4cd8fa7674b03d6c87dacdd72bc035f96a42a53976ca16"
+hash = "d9e9d73466cd2b4708d1b61bb200986e38b52e1ad77c7ca29d5df31d8fa34024"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "8aeeaaa51dad882f07a69f1fc62a30caf0686ca6fbaac3c472b5e8e57cd76326"
+hash = "10163c08f768d3a59410e31722f3b76fbdc14471513bf61f75ca9a659f684766"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "0c8c316b2d146e6d109738be5153bb85a8e9460ac35e7a53854348c93ed10956"
+hash = "c23fe0fe8cf2971766249780fa94d5ce67b2e6a7d4fbb457e41b7e651f47bc3a"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "3e93944bf64de401439f390631b0d3c3ca86c982500d04c9aba22a237eb94eba"
+hash = "2c55548c6b2b07d6a1d8d6274e1a74e03992552b548ce71547b659a2bb61b742"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c8ad1fe62848ef0f5b1a74389955b14275d6a4c1f21e2e7ae2e34d4d36827c65"
+hash = "ff2933697a23fa143d2b71421a7bee194d02ec5a24bf54537d3febdb19678c65"
 metafile = true
 
 [[files]]

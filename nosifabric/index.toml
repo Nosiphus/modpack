@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "e12aee825dbaca8c5d8bdee5b56fb393e102861ba8a885c5b304f7f6c39cfd21"
+hash = "be4df2d44a2ded7f9b4377c2ee9bed7a4f90b473aac2d469fbe507a3b4b28cc8"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "35376c39a7cb3dba90ba6263b0f5d94fe3cc5112650dd204d157ab4baf19152a"
+hash = "6b76641118d0d86d838f5eb45f333d636e12e930598b857973e4b57b7a374e9b"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "b4c72d5c547b02a5bf56c3c396687afe650e8f698cc17744d640d0f820a52a31"
+hash = "8036d91b7d7f58542b19c59b0640b7772237d110209273c0c4d9ba3d99c607e4"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "3c05f8b27cd15f1e71aebaf4d5f03433f6e7df7963b553ca93dcd3f97680c518"
+hash = "b4050ddf3b4eeeee034c375ca1cddfeda192dd3f701f41ebfb86164b987c2d1c"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc1323ed77ac0b485d55f12edde21a1a9cde29b90f85e353fab11b034b7ab9d8"
+hash = "5d55ebf01c451aaad25bf8751de6425c28ff29efe04bd7f46b8863a721234188"
 metafile = true
 
 [[files]]
@@ -242,12 +242,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "1d15f4c23e72403f9d3f8aea27001b13808ee5881c8b36fb9f323485193cbe97"
+hash = "3ee4ab581ad121e8818a13c801198f48422d76dcbe697354582d7ba1d6f0644c"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "42272688975731772ce119e33659091edfff29244dddd147320866c0e5177ee8"
+hash = "6ee063e73a6b77d146e57fca4e2e60e652ffa5de6d0d1b049bbcbb974292825e"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "89910a62af863fc7bb59311824540f031ebe6a0f4103ba48355554f54c3bb44d"
+hash = "04de70ca9be761c2d09e8c6f5946a2964e73ea44c780e70ac84d0fc27fdda53b"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "1a288ba9c3f6a2fd9798b1db215b0c24a8d20e50bb8b006972d6e682197fee27"
+hash = "d20522b830350f5bf6ec8399f6e9ebc35c86f41c3356ab78c1fdeb9a3710d6b9"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "2b01227abdbacbd225cefc8d4f459bfc63f1fdff2d0cef858c4113647df05711"
+hash = "962cd768b495b2675e9f02779dd91f659956057d18bd0a70a36c6a20716dadd9"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "b64b1d449c080224b7edf3260d1d474e58179411a1401d657a98841b9c974ace"
+hash = "7adadb000708eef2854ca2133d4d392f2398e7f1dc0ea8ccb00c57f6215fc061"
 metafile = true
 
 [[files]]
