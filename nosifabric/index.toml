@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "be4df2d44a2ded7f9b4377c2ee9bed7a4f90b473aac2d469fbe507a3b4b28cc8"
+hash = "0f6aa14d0e12be6a97a6b857125ea0933f83e4a1897f1a5b1be74b426b2eab18"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "3ee4ab581ad121e8818a13c801198f48422d76dcbe697354582d7ba1d6f0644c"
+hash = "498647bf3f7f2ab5b76e0f964b352ea745b01a704e4b37c78b9d02e0a43681a9"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "d20522b830350f5bf6ec8399f6e9ebc35c86f41c3356ab78c1fdeb9a3710d6b9"
+hash = "535ad8a4f8b81cdeeb16a5381c995c77bec61cc769377f0c67661b1b5f8b6e9d"
 metafile = true
 
 [[files]]
