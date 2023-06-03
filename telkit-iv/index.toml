@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "61740cd0d04a9b7d6d80c5e6a26102f2717c8a081eb2b8b259fa1f7e08625123"
+hash = "0c11737182eafb766677856da40f1b9270ac22f24a35044693b1b323fb51d996"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcef-forge.pw.toml"
-hash = "dc9e0fe2ece4eb8d90676f14d0603b3a19276f85a3c55c830d35ddd37aa8bf98"
+hash = "0dc9d6c93613eb3a067b7989667fdc8b415c231dd3ecbe851fa240eb34806c8d"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5699c0f9c7aae8254080b512f9dff5822fc6b82b9541b48f363b2810cf47119b"
+hash = "b3ac5f2b0f0d42181e24ff1132ca6a9787fca8601ffa88012d9e2c750527cec1"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ff2933697a23fa143d2b71421a7bee194d02ec5a24bf54537d3febdb19678c65"
+hash = "08a09de31f0b4604c184b22ad6697851db8147af2b7910a215dbf5c9bb1405e8"
 metafile = true
 
 [[files]]
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "64036b0bc617a33d904a0e6371ddc7d63896a888b1e0ada1a6eae8f647bb9327"
+hash = "c26ded7614542dd2a55dca1e25e4f7fc4bafc7becc7fbdbd8ecb3fb5775f12e0"
 metafile = true
 
 [[files]]
@@ -972,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/webdisplays.pw.toml"
-hash = "cd9d841633c074ff1ba27899a75ad007574a7025034636852f60d4b3f9758ef9"
+hash = "620446d8c3dde441dc8e372a2bea2cc1834092bbf793ec59b95650b656491c4b"
 metafile = true
 
 [[files]]
