@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "0c11737182eafb766677856da40f1b9270ac22f24a35044693b1b323fb51d996"
+hash = "0fab99a768ef8775f6d3ced29205cc62893256abc129f0efacff51b3b9d1f448"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "1ce46646a8efe8e91e4f227ec0d2eae82c6723964f84d46512026774a213fea8"
+hash = "ae70c84a577367aae4cce47250abe78bcfb918f793e01b15ec343b5422246094"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "2daf19578758a3771cad93c65e365c65427c776f8ddf8543b3d9bef49250d1e8"
+hash = "410ae69c23b2e6414acbc37dd7c6b7a538aee71791897e3191940b1249ad6a4c"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b3ac5f2b0f0d42181e24ff1132ca6a9787fca8601ffa88012d9e2c750527cec1"
+hash = "df0c8bad3709152bb3aa4e939e85b278eca88c234ef8edd73a82e66daf61c155"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "08a09de31f0b4604c184b22ad6697851db8147af2b7910a215dbf5c9bb1405e8"
+hash = "ab17ac56be6d469dab428ae444a8d2875c4b4374e2dc60b9f2f249e34179c219"
 metafile = true
 
 [[files]]
