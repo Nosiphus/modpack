@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "0fab99a768ef8775f6d3ced29205cc62893256abc129f0efacff51b3b9d1f448"
+hash = "45ecaeba7dc31e1bf80c273638c1bf28ab8e726052ac187321c044b865a847c5"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
-hash = "fc26aa88f0e3959f0e3b3defee94279d398fcfdb71b9337fbefb1ea255930423"
+hash = "60274071ab87610238e4428758a9597d2d3950923b6b8716d8ed1d60e377ff27"
 metafile = true
 
 [[files]]
@@ -642,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "c23fe0fe8cf2971766249780fa94d5ce67b2e6a7d4fbb457e41b7e651f47bc3a"
+hash = "4f105301b27488fdbecf985f49c4a3fef5eda1fa4f4275f39df305a61b371239"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "df0c8bad3709152bb3aa4e939e85b278eca88c234ef8edd73a82e66daf61c155"
+hash = "e35494fc0cebf8b886c1f9df99d30e51ce64449d66fcda4b9311dfde4cfe9572"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ab17ac56be6d469dab428ae444a8d2875c4b4374e2dc60b9f2f249e34179c219"
+hash = "0c7fe26a67dd87d721de2c900ca7f3c8813efd09a78a2a61a124d1ddfb05cb68"
 metafile = true
 
 [[files]]
@@ -902,7 +902,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "c26ded7614542dd2a55dca1e25e4f7fc4bafc7becc7fbdbd8ecb3fb5775f12e0"
+hash = "df03692ea55f854de0cfcb021bd960643a6a8f09c03c30456eac10232384a41a"
 metafile = true
 
 [[files]]
