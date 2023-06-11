@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d4dd265397d9dda558dc56af91f6074c25c16b8b0225f879be99cb10ee1449f0"
+hash = "0a020c088c3966e314e3976083a5aa997dc5109d5ad0e8bc787444f483d8081e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastworkbench.pw.toml"
-hash = "ab09ecf0f07ee64186802e309c196c27337ff092eac196fa5f9c80b5a287badf"
+hash = "05ba0e63b05f5b98111cfbe0b16411688b6ff7ffd675e2fd0ec5249709cc5b97"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "9023913494f24f6ce89297fa9f342612c1c5b1bc8aedc9c54baa6e271feb7cdc"
+hash = "f8e93d8a4ee0f2ebcff9138d72e6038bb2b176ceb784b123bcca466a0a4ca4fd"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcef-forge.pw.toml"
-hash = "0dc9d6c93613eb3a067b7989667fdc8b415c231dd3ecbe851fa240eb34806c8d"
+hash = "d5fd594480c5ade7eb99a1b0a463fdfbb1d89faf0f738155f9d2978c997e57a2"
 metafile = true
 
 [[files]]
@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "0731235f6cb600e85d08dee3d1d9f454a218b6b152fbc456319b2313cfe285f5"
+hash = "741032fa990abb4939ff5a270f46f60f10def5451f40805ac0bc12840aff9fdf"
 metafile = true
 
 [[files]]
@@ -972,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "mods/webdisplays.pw.toml"
-hash = "620446d8c3dde441dc8e372a2bea2cc1834092bbf793ec59b95650b656491c4b"
+hash = "97c83e4f74d71b1b9ed6876f9a6840ca07411744dc8254e94d32f67056e185fa"
 metafile = true
 
 [[files]]
@@ -982,7 +982,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "e01c79424f10d3b3a362352eb268aa893a08ee14d3ea947dc5c1adcbcd02fcfb"
+hash = "1678bcc2d636cfe9c1fd5354f2a06eb0ea73b55be7bdde926157395bc4bf497c"
 metafile = true
 
 [[files]]

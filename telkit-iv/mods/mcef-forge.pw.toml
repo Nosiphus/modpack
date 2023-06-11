@@ -1,13 +1,13 @@
 name = "MCEF [Forge]"
-filename = "mcef-1.2.4.jar"
+filename = "mcef-1.2.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f27084d8f768a2264b72e2aa2c9d3fda00a2dee5"
+hash = "56d2fa9a9b54dc8bd6635c4f2e26f3db78e06246"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4564279
+file-id = 4579344
 project-id = 636236

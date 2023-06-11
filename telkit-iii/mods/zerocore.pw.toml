@@ -1,13 +1,13 @@
 name = "ZeroCore"
-filename = "ZeroCore2-1.16.5-2.1.30.jar"
+filename = "ZeroCore2-1.16.5-2.1.35.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rHpb85Mf/versions/Z8CxqXFW/ZeroCore2-1.16.5-2.1.30.jar"
+url = "https://cdn.modrinth.com/data/rHpb85Mf/versions/joJWgzAO/ZeroCore2-1.16.5-2.1.35.jar"
 hash-format = "sha1"
-hash = "d90bff312ba103e484c2be949bc882a979d26e8d"
+hash = "91163325bfa5b7fa1d07218506350b8ab9a239fe"
 
 [update]
 [update.modrinth]
 mod-id = "rHpb85Mf"
-version = "Z8CxqXFW"
+version = "joJWgzAO"

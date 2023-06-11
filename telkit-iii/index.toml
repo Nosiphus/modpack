@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "28db04cc818048ddb28404f2bbbb1ab7bcc9489fe3d643abd69c2bffe5ae6f81"
+hash = "b2a1dfcf77aad54ba306789ebce893859f444b9575952a0da23d38b23a2dc2e5"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -692,7 +692,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
-hash = "e0487df310c39f7d53af578221e70e98e28eda1fc1bbb40fe9e7d6b4aa663f97"
+hash = "c8367935ec8189c5cbb4c8cb13574d6acbafc9325c30a103ae616ade8b2cb9b8"
 metafile = true
 
 [[files]]
@@ -1112,7 +1112,7 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.pw.toml"
-hash = "5984bc9af3ac9c42831d3e243b83f50d1df53eb18bc3a81ca8e6920cc5af88a7"
+hash = "b4ec4d127a912b90260b34b1f05da1c2efa9f1e21dd16264ac356f8c9cc3fbff"
 metafile = true
 
 [[files]]
