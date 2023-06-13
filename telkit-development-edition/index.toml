@@ -227,11 +227,6 @@ hash = "3dd4a17c62db6f312f3c45984a38c7e060238bc90c6291a4c42d5db3bd91090b"
 metafile = true
 
 [[files]]
-file = "mods/selene.pw.toml"
-hash = "bdab1193b34b373b4f32019f9181a5f10b554ee37524451a9f798a80d3185953"
-metafile = true
-
-[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "5594eaedc3df0e0858e18cc6f9e5a2984104db9e3759ecaf52e6a2f71ecd0802"
 metafile = true
@@ -259,11 +254,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "14877fe8d3b2cea97e430fecc225eeb471da76155df0894e703721796b66ff6f"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "acb5ee409d90291ba8bd1ad5dc1471914ffb73ba1713aa4f89d9fd86859eeae4"
 metafile = true
 
 [[files]]
