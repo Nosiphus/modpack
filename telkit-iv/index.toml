@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "830ba36c2580b02c2889be3e2ec7d055de2e3450792595102916333a391aae01"
+hash = "49668380a896e01433cfb2e125ac799f98c1b69bd4fb3260a44b7635d5435501"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -948,16 +948,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "7f7c1131124c2d3d044f393cd1995812db60a4ff9d636b08d8b3bd0997b587e3"
-metafile = true
-
-[[files]]
-file = "mods/u-team-core.pw.toml"
-hash = "d7eae421e9202d71e02d30789708856ba95be6d839fdc6eea7de02de4512f2f8"
-metafile = true
-
-[[files]]
-file = "mods/useful-railroads.pw.toml"
-hash = "ba16b1ec1ebb44c485c39f3d2f073248b3a573f5b7c9686c2c2b72928a545ec6"
 metafile = true
 
 [[files]]
