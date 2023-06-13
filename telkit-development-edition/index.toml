@@ -102,6 +102,11 @@ hash = "9bcb3389e104fbc89005b26c7f54062fb50d73bc7f87c79429ed2b557c223b46"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "6878b80d86338579becb874fb8f681e4f5c51fe29f62578412508e8293eebeef"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "e474c15d06b1051806a24cd63e94610dc40e8be46589e778e6e33e11c2e5ce6f"
 metafile = true
@@ -147,6 +152,11 @@ hash = "67ec6cbf94d9fec675d7d342dec65228228585ca36f8bfb7b727b459f4779854"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "4136a482974e4f4b558f228785628433b83113319fb7e3d1f85bb21f5588796e"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "b0660a5588f555f4e8e83aa82aae72228d9ba8323d3690dd4177ff67a7a4e44c"
 metafile = true
@@ -189,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "e7ee6e8d04262f8747e36b737eeb55ca4962e2f38eda0d8663017c23e97d40e2"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "3420803bd042eea84afdefc9801c4a6bc2fe132bc3f09c9a014e78dbfd1555ad"
 metafile = true
 
 [[files]]
@@ -274,6 +289,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "fddece53bfe6711ea3b1d0c999439a2ebab1d996d53e433b4ecab5ee8e2045cb"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "844be36d3963460b16416745c2d0ba07c6db61783d98813a0f7cc66a2a82a6a9"
 metafile = true
 
 [[files]]
