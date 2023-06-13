@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "a74f4e3af39970b050314c2eae82aa1c8a55c48bb0298a2331f0d6a4831d52dc"
+hash = "7b44535f900a745ed5d4a5e5688976fca76c1e9cce2bf856d2c3733e9d8bf953"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "408e428bccde7cc16ce67376ef2932a3d799cc46ecd22c93210d962be4d0db01"
+hash = "56345e43d03b93b90a7df62372dfd1ddf779fc2d3d3df182185cf30f8cb17542"
 metafile = true
 
 [[files]]
@@ -476,5 +476,5 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "648e631e0ae705b3f45da4d21e90e19b83f412d5c42dc7b011f77099a37e1c82"
+hash = "393615d632b4efa71181e6a6479aa1d9b07b3f8441f5ea842deab970c607a0f2"
 metafile = true

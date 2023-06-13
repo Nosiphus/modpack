@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "bc5c4a23161820b17ae36fc13785a4e9f36e885204aa52f8a5723b305fc10f8c"
+hash = "5dc373a891bfa955a7c6ad6324181f46e45ef9f8922e14ebf2c2b6dc5bab05f9"
 
 [[files]]
 file = "mods/1.12.2/baubles.pw.toml"
@@ -737,5 +737,5 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "648e631e0ae705b3f45da4d21e90e19b83f412d5c42dc7b011f77099a37e1c82"
+hash = "393615d632b4efa71181e6a6479aa1d9b07b3f8441f5ea842deab970c607a0f2"
 metafile = true
