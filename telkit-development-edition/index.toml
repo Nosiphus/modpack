@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "fab20fca0086e9f49ef460b6271ed6aa3b4a5586b2a2e358ca318a666a124706"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 hash = "db13b27883fe714b71457c1a79e379add537f15a5f5cd7e7361d1e9c0e45c71d"
 
@@ -77,6 +81,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
+file = "config/forge-client.toml"
+hash = "02746aa24698e77d25ef72accd23a53ddbfa6fb8acfbbcbfc12d25a2d84812cf"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "edbe71c1720fb9480f59af296c077d822a62c08409fe0807ffc4ca25d3d9729c"
 metafile = true
@@ -88,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "a06a20a94e61654d9d1f342587590e1c91fa6238db30e4c0e88cd7fe25e99fad"
+hash = "6a404ad47536137a334384a036f113177376fb8bc63253f940b812c4bd6d9acc"
 metafile = true
 
 [[files]]
@@ -168,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "7a199aa038d045aad29eb235203ac4ad7962cfaa49d31c83eb6ed6a505e30efe"
+hash = "b12cc4e85258c62f652899e88c14658df91e494df8faf92c3bb71d9b58f08eb5"
 metafile = true
 
 [[files]]
@@ -188,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "52b3b295d3b52be0d946ad9de4b9fdbbbb4c8d55ab2e5fbc067bde32d6f2bb80"
+hash = "8993a2d20254a722cf75e5f586d8d48be537671f3e34925e04053b30c3335b25"
 metafile = true
 
 [[files]]
@@ -308,4 +316,3 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
 hash = "393615d632b4efa71181e6a6479aa1d9b07b3f8441f5ea842deab970c607a0f2"
-metafile = true
