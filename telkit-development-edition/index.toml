@@ -122,11 +122,6 @@ hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "c5925d417cedf1f513cd7708fa0efe34ad9b8d1e175b25d9df8a857f7f3f56e0"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f36176c7f69bdb69a6345990318b28f3972f61327a1725c1ef78e9ef194be3f4"
 metafile = true
@@ -177,11 +172,6 @@ hash = "12e34316aef7c78cbf8ff7f7681ee857a3ff6b9f525e42fbfe1acf8e6072014d"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "936a47c773e57ef78a4d5fdf4f92c60f0ad03033c447bfc63dc2b345c09a3757"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "00e71b9819d21af92f9d66117143748fe72c4b316b006d3d54a0697c0daa9cba"
 metafile = true
@@ -227,6 +217,11 @@ hash = "3dd4a17c62db6f312f3c45984a38c7e060238bc90c6291a4c42d5db3bd91090b"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "bdab1193b34b373b4f32019f9181a5f10b554ee37524451a9f798a80d3185953"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "5594eaedc3df0e0858e18cc6f9e5a2984104db9e3759ecaf52e6a2f71ecd0802"
 metafile = true
@@ -254,6 +249,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "14877fe8d3b2cea97e430fecc225eeb471da76155df0894e703721796b66ff6f"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "acb5ee409d90291ba8bd1ad5dc1471914ffb73ba1713aa4f89d9fd86859eeae4"
 metafile = true
 
 [[files]]
@@ -288,3 +288,4 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
 hash = "393615d632b4efa71181e6a6479aa1d9b07b3f8441f5ea842deab970c607a0f2"
+metafile = true
