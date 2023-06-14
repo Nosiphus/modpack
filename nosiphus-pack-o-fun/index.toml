@@ -173,6 +173,15 @@ file = "config/redpower/redpower.lang"
 hash = "2fa210974af356d740090a7a79da0ef6670127b13983959c591767209a2bda89"
 
 [[files]]
+file = "config/rpcdrive.cfg"
+hash = "de179fa609dc3c8063d2b75b9e8a866ef437afc60f34c37ed67141771409c95b"
+
+[[files]]
+file = "coremods/cc-tweaked.pw.toml"
+hash = "acc428df0302e729cc14a01de606112d5ec980435f43355d72cf6a8414d55c79"
+metafile = true
+
+[[files]]
 file = "coremods/codechickencore.pw.toml"
 hash = "43997393305ab65652acbf6b0fdfca1422643439fd8a1e856f91237bc93d3791"
 metafile = true
@@ -238,8 +247,8 @@ hash = "c736cba03cf164eed3845cf676a4d808c799cd1edbe987f3e4980c965995343f"
 metafile = true
 
 [[files]]
-file = "mods/computercraft.toml"
-hash = "f78027691ef2d45dac6e7fab053584e10b6dc94b67ac8a7741d26db4065ca6b2"
+file = "mods/computercraft.pw.toml"
+hash = "ffc4e536127e2f51c586680376827aabe13acc655bfa4f77f346fca3961863e0"
 metafile = true
 
 [[files]]
@@ -360,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/redpower2-mechanical.pw.toml"
 hash = "c1d4289f18af41c204b6286a3cb933e9b1240dc558143cb21a757ae81d35aa48"
+metafile = true
+
+[[files]]
+file = "mods/rpcdrive.pw.toml"
+hash = "7e1703f74c789988a95f353330de2fb48bf21ed1a368f292e4a9f677544473af"
 metafile = true
 
 [[files]]
