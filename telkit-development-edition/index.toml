@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "6a843c242d7f5320b08ba7ee8f107efa221253ff82447c3d3c822cce30306c95"
+hash = "40141eace40b8db21013a677ddb760e474859ea19552580747ef39c521438738"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -90,6 +90,11 @@ hash = "edbe71c1720fb9480f59af296c077d822a62c08409fe0807ffc4ca25d3d9729c"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "76f5f96ed0c31b161eea318ae6340a80e9ebea50d559f4ae22027b122412c038"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
@@ -132,6 +137,16 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "384bea26ff7a858d117e0df9f3a7ef9d0a677eabb1ce1e74da79804c4cf69c15"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "4fa73d572cf8c6a721aa756349bd54549554f6504abadea343732e414685b927"
 metafile = true
 
 [[files]]
@@ -186,7 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "12e34316aef7c78cbf8ff7f7681ee857a3ff6b9f525e42fbfe1acf8e6072014d"
+hash = "c7c30170cd3748f08d9e27b5000cf1b8080cea1539c443da31986446b612906a"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "4b77d92c208fb25e68d26e01245f3d7bfe34de79093048e6c20a3db2e1400914"
 metafile = true
 
 [[files]]
@@ -251,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
-hash = "24657c2c24a1e4bcf005af160696444a70745aa1fbc89fa3b21abe59f5632284"
+hash = "d422a67d0d36656ca3c0fa566c72839065964f3bfe2546818f99a1bb9b26c38b"
 metafile = true
 
 [[files]]

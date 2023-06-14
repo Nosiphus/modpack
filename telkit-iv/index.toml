@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "49668380a896e01433cfb2e125ac799f98c1b69bd4fb3260a44b7635d5435501"
+hash = "3792ab4b9562e2088154d24257b2ced0bbd6772a4d8380885ba945a1a109ece1"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "954db250d3d26937d4e62095a336f9c072d3e4ae441d8f71570d63ebcd1b4f83"
+hash = "d9193f20bf56be89e6302d847095889c84bc19e481b6b8f4b27e0c255eb7cea0"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "7f0fdcb05f21e5c6d86beedefca4c2e60d87ede97de306bc85ed10a646e67227"
+hash = "1fad7040942ef6e2cdcc6b8c7357d28a1178a616445e522fc4d333e95d80c515"
 metafile = true
 
 [[files]]
@@ -752,17 +752,12 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "f386d21ba16972af34710d28dfced223d044ea4722ec7a2c24b42ccd927e221b"
+hash = "0c61ebf6f3baff63ef8b65bea7130b2142a76728ef93fc4c40d192cea79ce55b"
 metafile = true
 
 [[files]]
 file = "mods/quartz.pw.toml"
 hash = "b0cce912965659490eb5154d3b39a7b55833b7bf4a077a1fc99c82508a4fa0cd"
-metafile = true
-
-[[files]]
-file = "mods/radon.pw.toml"
-hash = "7bdf4e86620a8dcd88ad32d9e983412077cb2fb70ddffc99d9e1f5a2f2a94a1f"
 metafile = true
 
 [[files]]
