@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "40141eace40b8db21013a677ddb760e474859ea19552580747ef39c521438738"
+hash = "deee0674229b1c43de3d4a422d8543780324a12d20f045b5c07f71899e621cdd"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -90,6 +90,11 @@ hash = "edbe71c1720fb9480f59af296c077d822a62c08409fe0807ffc4ca25d3d9729c"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "e551f85d6067300bc0a4e997a5d2883e69b4055f488e39a437551520cac763f2"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
@@ -136,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "384bea26ff7a858d117e0df9f3a7ef9d0a677eabb1ce1e74da79804c4cf69c15"
+hash = "58510b88f47699a5716c87d8815b8143250b0c1e8fc2a83be266d33907cd7137"
 metafile = true
 
 [[files]]
@@ -225,6 +230,11 @@ hash = "e7ee6e8d04262f8747e36b737eeb55ca4962e2f38eda0d8663017c23e97d40e2"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "326868433269fb36543034ec572c3fd9532dd0955ee51352723d4729ea18d8e4"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "3420803bd042eea84afdefc9801c4a6bc2fe132bc3f09c9a014e78dbfd1555ad"
 metafile = true
@@ -266,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
-hash = "d422a67d0d36656ca3c0fa566c72839065964f3bfe2546818f99a1bb9b26c38b"
+hash = "d11e000fb28e72f0fed1c0e4bccd2e59fd04c08c139508f3803650c49ad2ae08"
 metafile = true
 
 [[files]]
@@ -276,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "08816f3547a6ce1c58cbf17feee9398ca0e75578535e63fba3067cc3d8225f7a"
+hash = "c1ef4ff0e9d3b5ec41d3fbce5a3c60bde2fe5dac9a32a12d57530cdf9f5547ff"
 metafile = true
 
 [[files]]
