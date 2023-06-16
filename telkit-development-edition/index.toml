@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "deee0674229b1c43de3d4a422d8543780324a12d20f045b5c07f71899e621cdd"
+hash = "8b29d400cfdff95bf3f32ab9db1b5a8d3088f0eec8c2379c56d9f182d1b0725d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "e551f85d6067300bc0a4e997a5d2883e69b4055f488e39a437551520cac763f2"
+hash = "b0f9bb6eb61724b0a81fab0d6a2a71086cfd5eddea7dc8594958c31a1d1e284b"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "e474c15d06b1051806a24cd63e94610dc40e8be46589e778e6e33e11c2e5ce6f"
+hash = "2241dddeab9004593a1770225b71345efed2b872695ccf4f4e25d8f301407c3e"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "00e71b9819d21af92f9d66117143748fe72c4b316b006d3d54a0697c0daa9cba"
+hash = "8e156b2eeb3b3f7629d1ac7f6a51ddac579cce663a66c630292d92044ea9add8"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "769311d12c062400541535cfb2cf4af414d6b981c53b631cf42ff66434644154"
+hash = "2b4538a1ce51939cc4a283be3b72baebec8c98a526938a79fc384f2dabc4071d"
 metafile = true
 
 [[files]]
