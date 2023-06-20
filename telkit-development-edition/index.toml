@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "8b29d400cfdff95bf3f32ab9db1b5a8d3088f0eec8c2379c56d9f182d1b0725d"
+hash = "1116c95ed162c4bf1d2549b5119919ccf506b3b18b931d948ff105d44092459e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -116,12 +116,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "6878b80d86338579becb874fb8f681e4f5c51fe29f62578412508e8293eebeef"
+hash = "a32962d840bb4aef2e13fa7244377ce4e409a319a3e071907ef601cb8ec01f4b"
 metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "2241dddeab9004593a1770225b71345efed2b872695ccf4f4e25d8f301407c3e"
+hash = "045ac4b370713d4ddffc7d374cbbb916f5a4f8c9adbce77b3722c02a9f1cc8f1"
 metafile = true
 
 [[files]]
@@ -156,12 +156,12 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "5f541d88293e390e2164e33f0a7fd1c752c1005ba9b0cacc180926179006ad62"
+hash = "f43ae87964f937891831906a126733fcfe225fb08fc923a7e34c5cc118239d5e"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "da6d75c4dd9db912d850cbc288cd56688427599dcab1646497c6470eafafd5ba"
+hash = "454bc315d4d1fc8a92cbb112b77cd9d0b707d2c10aeed9d2df63b62db4a0f6d7"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4b77d92c208fb25e68d26e01245f3d7bfe34de79093048e6c20a3db2e1400914"
+hash = "aca1854be9d3cd546159b2f74aed13bd8b8866130b8327f6854773c76a8737c1"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "326868433269fb36543034ec572c3fd9532dd0955ee51352723d4729ea18d8e4"
+hash = "bbf44be2d81e3f94e39bc9e84143e74e355d447395afbb25f99dbb92e1ff368e"
 metafile = true
 
 [[files]]
@@ -261,12 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "3dd4a17c62db6f312f3c45984a38c7e060238bc90c6291a4c42d5db3bd91090b"
+hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "bdab1193b34b373b4f32019f9181a5f10b554ee37524451a9f798a80d3185953"
+hash = "514251c2e1df11e5d9218d65be0b728ac1249d013b90dcda01bab141c50bfcae"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "acb5ee409d90291ba8bd1ad5dc1471914ffb73ba1713aa4f89d9fd86859eeae4"
+hash = "8592da9c017e5b35df13081815280e252f8afa6ab1bb4cd85d7a3766d6ef9571"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "e598bfb9bbe58e12e485f8b86cec5ca1a842dbf40cd5d83f41df1fe2b0808ef8"
+hash = "3f9eb51665a406cce6da1542cb36a75b7c4787d9127dc66de13999c25f7b84e9"
 metafile = true
 
 [[files]]

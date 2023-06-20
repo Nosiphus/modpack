@@ -1,13 +1,13 @@
 name = "Controlling"
-filename = "Controlling-forge-1.20-12.0.2.jar"
+filename = "Controlling-forge-1.20.1-12.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xv94TkTM/versions/C5dhuBJM/Controlling-forge-1.20-12.0.2.jar"
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/8WT5U5K0/Controlling-forge-1.20.1-12.0.1.jar"
 hash-format = "sha1"
-hash = "36c77b0091e3c861c833f631f23f0c984d656ca9"
+hash = "8dc3a52389e2a9c2150e9b3436ea14d244eb2952"
 
 [update]
 [update.modrinth]
 mod-id = "xv94TkTM"
-version = "C5dhuBJM"
+version = "8WT5U5K0"
