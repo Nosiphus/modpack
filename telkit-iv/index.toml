@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "f1966acaeccbf9630e793d2c875c98e144e77f3c8d0302e9ea07edab48f71a4c"
+hash = "3369fd030a27aa9108676656302fd2ca8820ef193bbd71ee37341de95fb03dcb"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -557,7 +557,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "864b977898a944f14f98e5a75a4a4d841c9a28c523d94657d8c5ce4929ad4ef6"
+hash = "91e8881d0effbcded0fe38087242f7ebedd15272a067b0d3cebc7b24d85e3e59"
 metafile = true
 
 [[files]]
@@ -648,6 +648,11 @@ metafile = true
 [[files]]
 file = "mods/mob-capturing-tool.pw.toml"
 hash = "022ea598ea6d34875cec564155c7555c5549e511647d27a03195991e6cc8e00c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "466bdf74c759eb96ecec9c35cc11d0afd6e202c8309bdb52f1bb93b810498295"
 metafile = true
 
 [[files]]
@@ -887,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b0ce10ca8f3e7b9d3bf7d738f084ce8da7d062517fde73fd6527b56e28164774"
+hash = "ecaa55c3362f3faea6d7575e603e35a7b80761708ab727d6c898733dba966b95"
 metafile = true
 
 [[files]]
