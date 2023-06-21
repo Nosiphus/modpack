@@ -90,6 +90,11 @@ hash = "edbe71c1720fb9480f59af296c077d822a62c08409fe0807ffc4ca25d3d9729c"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "644ee8075287bd95cc2f8ef489669c8c852f63c776c37b9fbbe746641daa4d25"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "b0f9bb6eb61724b0a81fab0d6a2a71086cfd5eddea7dc8594958c31a1d1e284b"
 metafile = true
@@ -121,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "045ac4b370713d4ddffc7d374cbbb916f5a4f8c9adbce77b3722c02a9f1cc8f1"
+hash = "9e3fec9b9bb67bd6f8c828bfec0897e5c777c4193e6766e4717778094c4964a3"
 metafile = true
 
 [[files]]
@@ -160,6 +165,16 @@ hash = "f43ae87964f937891831906a126733fcfe225fb08fc923a7e34c5cc118239d5e"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "81db0a4d414b89918d4681f862f04c7aaef3e72f08f98109bcf189bf45556c74"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "fccdfd72bab9febc5c17ce639cbcee2fde5577b79f457c4b4642defea899a2a7"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "454bc315d4d1fc8a92cbb112b77cd9d0b707d2c10aeed9d2df63b62db4a0f6d7"
 metafile = true
@@ -180,6 +195,11 @@ hash = "4136a482974e4f4b558f228785628433b83113319fb7e3d1f85bb21f5588796e"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b6f44d5d64a041adcad7fd12f542d6dab5ba164f009650ef5b950d0287f7b252"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "b0660a5588f555f4e8e83aa82aae72228d9ba8323d3690dd4177ff67a7a4e44c"
 metafile = true
@@ -191,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "b12cc4e85258c62f652899e88c14658df91e494df8faf92c3bb71d9b58f08eb5"
+hash = "fe41ca2faad9784f6b893ec0a24a3be3a56969ff45b8b9acef9f8ef960846f7c"
 metafile = true
 
 [[files]]
@@ -202,6 +222,16 @@ metafile = true
 [[files]]
 file = "mods/hammer-lib.pw.toml"
 hash = "c7c30170cd3748f08d9e27b5000cf1b8080cea1539c443da31986446b612906a"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "ed3cbfa16cce35a4c950704ee4687c7e8f61949234d569c20a91583372c1385b"
+metafile = true
+
+[[files]]
+file = "mods/iron-shulker-boxes.pw.toml"
+hash = "e0c11174c893496c2ba826b45a0d6df06261b6a4cfa5d7cb37d37f1e1708f7ae"
 metafile = true
 
 [[files]]
@@ -225,13 +255,38 @@ hash = "6e1b3ddf51aafcd04ae4c51fde6cda895ea5f5ba876d69e117dd71d95c3f9689"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "e08f3a9cf47eb76dc5b87da392ac5b44e8244f96ffe9becb598a6a47099f309e"
+metafile = true
+
+[[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
 hash = "e7ee6e8d04262f8747e36b737eeb55ca4962e2f38eda0d8663017c23e97d40e2"
 metafile = true
 
 [[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "cfed98a6d423fdb1361e569edf13c8a90d7b6ab4c0464b3b0291108eea101404"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.pw.toml"
+hash = "c1411b4ef3832fd25ef70df2a151f4c6ef9ff751b63cac1f7c7be3714798bc9b"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "c0c1a2905da5966cb4755f66bc841f15076692adba55260c4b9674ad8d70e3a8"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "bbf44be2d81e3f94e39bc9e84143e74e355d447395afbb25f99dbb92e1ff368e"
+hash = "b9ca7a7fed56888daf5365892f54197be0da514c6109d3c80f640db608bdd684"
+metafile = true
+
+[[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "750b3a160c44249e6fc1bc6743b798fa1a90654a46cc82c61c370a8a500b9f6c"
 metafile = true
 
 [[files]]
@@ -247,6 +302,41 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "7a233669a931a7959711b83c9afd7784360aa9050b9e2c84d9ebed27981f38b6"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.pw.toml"
+hash = "710a5535513f82931d402fec3bde56d9b8501ccac45f54339df572805772a3ac"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "a0ea87d0c90d8d1423c7cac8297e592030a61ee4926633d6f5fe860f9b146bce"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.pw.toml"
+hash = "2d1326b89f0ce811ac60c972b99842ae031b9c44234bca1c209ef01141e2654f"
+metafile = true
+
+[[files]]
+file = "mods/rftools-dimensions.pw.toml"
+hash = "604f8c04bf97f728e25f1a14a2e5762ebb7b8e77b5635881982fa6479494c497"
+metafile = true
+
+[[files]]
+file = "mods/rftools-power.pw.toml"
+hash = "1620e9db328a68e50e206e0786068e5e32c229f0fb87d2d7fdf12a01afeb8176"
+metafile = true
+
+[[files]]
+file = "mods/rftools-storage.pw.toml"
+hash = "46f90bcec052b44180ce69220f87b0dc1993739a66f608d43799e7ec790b879c"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "c9d50c1026f982037669980b64c7cd29f5bab4c63145dcaea4f8d8c096bf6f74"
 metafile = true
 
 [[files]]
@@ -332,6 +422,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "3f9eb51665a406cce6da1542cb36a75b7c4787d9127dc66de13999c25f7b84e9"
+metafile = true
+
+[[files]]
+file = "mods/yogmod.pw.toml"
+hash = "c0f4078388d43ba1049056f205684b76d1f9770874a95755d6fec1478db768c8"
 metafile = true
 
 [[files]]
