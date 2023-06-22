@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "1116c95ed162c4bf1d2549b5119919ccf506b3b18b931d948ff105d44092459e"
+hash = "14982aaaa6be89096f2f7c557dad193477092e22c2aa25c58535244b336485ba"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "9e3fec9b9bb67bd6f8c828bfec0897e5c777c4193e6766e4717778094c4964a3"
+hash = "dfdcb847f1575f7fe793fe650a96d3c45b7b1e4c1c4d54635313bb4145a34c0b"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "fe41ca2faad9784f6b893ec0a24a3be3a56969ff45b8b9acef9f8ef960846f7c"
+hash = "e64230b9a6f7e9edb1c9fcb3d1af41408020cb93251de1eee565448b2c15e113"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "514251c2e1df11e5d9218d65be0b728ac1249d013b90dcda01bab141c50bfcae"
+hash = "43bbf76fd42db56f35162e71e362364a6d563aad523f3fec83baae869bdff32c"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8592da9c017e5b35df13081815280e252f8afa6ab1bb4cd85d7a3766d6ef9571"
+hash = "627c50449c68ff75ae224766e89d3aab7a918fed6e56ee551b73f8e786cc249f"
 metafile = true
 
 [[files]]
