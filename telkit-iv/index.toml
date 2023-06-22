@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "3369fd030a27aa9108676656302fd2ca8820ef193bbd71ee37341de95fb03dcb"
+hash = "25a65538e1bb0cb64207160b13551a10ee42910ba0a7205091f3e694bd3b3dbb"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "48d40b4ff0fc80915472f0ae0d53b4a370e973c2b09e449d0d3d4140b3f6f47e"
+hash = "f8767f0dd0301cd050a0b9a8f374639d55e0b9e1db65c08348ec7d9db133d04f"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "f702abd9df78794a23c2926271a8c4b8aa7785e076a16fc72179095bdb2f46af"
+hash = "18b7b42c8caabe5348f607c1f4cee8ca3938c27e15f818cc310585157a170ee5"
 metafile = true
 
 [[files]]
