@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "dfdcb847f1575f7fe793fe650a96d3c45b7b1e4c1c4d54635313bb4145a34c0b"
+hash = "a46996f33161905996a54a8e921ee1535ef2eb599338b59704946512d28b93a3"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "43bbf76fd42db56f35162e71e362364a6d563aad523f3fec83baae869bdff32c"
+hash = "d6a0a25cc28754e5d916d1503f7937ee8384d0fc1d0e789e292a50fa8b2a817f"
 metafile = true
 
 [[files]]
