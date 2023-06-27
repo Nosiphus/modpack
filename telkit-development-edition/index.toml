@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "14982aaaa6be89096f2f7c557dad193477092e22c2aa25c58535244b336485ba"
+hash = "8e8947677b571aaea5bf92a04966813ccf761dfe9bb594a6428d68f821d9218d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "b0f9bb6eb61724b0a81fab0d6a2a71086cfd5eddea7dc8594958c31a1d1e284b"
+hash = "a81df23ba58d6991a66dcac6e6100ff94ac24b7c426e6b54aa63ab5291ed75c2"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "a46996f33161905996a54a8e921ee1535ef2eb599338b59704946512d28b93a3"
+hash = "e5069a32bcda85c43ec857e12ad8cb14ebde080a2103acdd72a1e130ac27330d"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "e64230b9a6f7e9edb1c9fcb3d1af41408020cb93251de1eee565448b2c15e113"
+hash = "d33e3b14b686c9eab6a4872eedd2964ac684a25e641dedbd30801ead34b20374"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "aca1854be9d3cd546159b2f74aed13bd8b8866130b8327f6854773c76a8737c1"
+hash = "d12f388b9fd51c4844f254c9972d8165684ad0b8c2e4b3cb4c77e3ece3e688b6"
 metafile = true
 
 [[files]]
@@ -256,17 +256,27 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "e08f3a9cf47eb76dc5b87da392ac5b44e8244f96ffe9becb598a6a47099f309e"
+hash = "a72b4cce6c4c370313326aa7f838bc4d12e9c207fd2a2b6acc2a9683b8ee6641"
 metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "e7ee6e8d04262f8747e36b737eeb55ca4962e2f38eda0d8663017c23e97d40e2"
+hash = "42bbb9a06dea9bd2276200c9e460dee81e4fbe7a07d6d247c3744ca865ae3785"
 metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
 hash = "cfed98a6d423fdb1361e569edf13c8a90d7b6ab4c0464b3b0291108eea101404"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "54b6d90f7ce4b7ed9f0a7b1da2a751ea47383f76b6731fc1b44b8cdf453c760d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "b35f0de146257ad7baf423ad9372ddd4b741ff88bd3e4c8c9b69f14c71cf6682"
 metafile = true
 
 [[files]]
@@ -290,13 +300,18 @@ hash = "750b3a160c44249e6fc1bc6743b798fa1a90654a46cc82c61c370a8a500b9f6c"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "3d3a8cd6517c5804bd1ce2e4e05197ef40d33ed04c26b448c3eba6ac2b25321b"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "3420803bd042eea84afdefc9801c4a6bc2fe132bc3f09c9a014e78dbfd1555ad"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "f88b4012795a567c186fdf85e1bc7b0008d2ba472b8db69f93ef5b6fa1bf5d8c"
+hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
@@ -361,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "5594eaedc3df0e0858e18cc6f9e5a2984104db9e3759ecaf52e6a2f71ecd0802"
+hash = "eb0415df5218357badb7dab60da772f4f21d07a085b19174a6ec6499d5ca28bc"
 metafile = true
 
 [[files]]
@@ -391,12 +406,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "627c50449c68ff75ae224766e89d3aab7a918fed6e56ee551b73f8e786cc249f"
+hash = "b58aba0dd967616c4df15124b74c5ecb92416e1bcd40066f7b6faa45435c341f"
 metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "2b4538a1ce51939cc4a283be3b72baebec8c98a526938a79fc384f2dabc4071d"
+hash = "437149f8e3bee7c91bb13cbbf03349bedbc9f2d84734a712c32215c283fb86ee"
 metafile = true
 
 [[files]]
