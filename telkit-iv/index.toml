@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "6b6f9c6e7ea95879ff12f0c8cfa3751b549fad658c1b1acff409e75642583d38"
+hash = "33c43d39a65482dc42dd1595ccca12eb5518f6698a20ea2c44b270b49b7c2f6c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -546,6 +546,11 @@ hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "0e85bdbd2e7ed31821cc4a33f9b57c0e0a176a830693337bb1130146c879360e"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
@@ -637,7 +642,7 @@ metafile = true
 
 [[files]]
 file = "mods/mffs.pw.toml"
-hash = "7c5bff110167e71b90cbbee66ccce80a890b97d7d7ce4b01dd898885a38629e7"
+hash = "e9530d2ebaf34d1c39a5f6ddbb5f9400c1dd42a62d3356023fe37fad4fea60b4"
 metafile = true
 
 [[files]]
@@ -702,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "2c55548c6b2b07d6a1d8d6274e1a74e03992552b548ce71547b659a2bb61b742"
+hash = "f1e5961de8d519b1d761f1bb43488d92bbeaa638f4c5b87d19687f555edd54eb"
 metafile = true
 
 [[files]]
@@ -738,11 +743,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "9656604f85b22fe3c05f27a507ca7ec6f17b5745faea6382f865b2774c0bb909"
-metafile = true
-
-[[files]]
-file = "mods/pluto.pw.toml"
-hash = "c90d1f76411f74e449eb7a170406303b8106b743e45d1dbb6641fd4e6f2702cd"
 metafile = true
 
 [[files]]
