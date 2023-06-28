@@ -5,6 +5,22 @@ file = "config/Mekanism/world.toml"
 hash = "290963b728184c13fea494c2caa50c3ebd36ad098bba6684a75a0a720e349dde"
 
 [[files]]
+file = "config/ModernUI/bootstrap"
+hash = "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+
+[[files]]
+file = "config/ModernUI/client.toml"
+hash = "40802b8c4e8698c58a66578dcfad641e406276f6afca3e9c29873e347b2d6aef"
+
+[[files]]
+file = "config/ModernUI/common.toml"
+hash = "f945d275a66ddec08c1cc3aa5d800675bea43ec270416a70a03fe32e9db7c7b5"
+
+[[files]]
+file = "config/ModernUI/text.toml"
+hash = "32ff621c14b0c68652ea0331d5f05fc127e50c99b22fa8990a2a339d159ed91d"
+
+[[files]]
 file = "config/ad_astra.toml"
 hash = "dd895ec1c9b27786cdf3c1ffd0d998cf31cd3ef316b7f7079dc91f4bf64f837b"
 
@@ -656,6 +672,11 @@ hash = "022ea598ea6d34875cec564155c7555c5549e511647d27a03195991e6cc8e00c"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "9c7b9624aac8e74cd93d5eec8b2b1a7c382638a8af767beeb36044ba768d672c"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "466bdf74c759eb96ecec9c35cc11d0afd6e202c8309bdb52f1bb93b810498295"
 metafile = true
@@ -992,4 +1013,3 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
 hash = "393615d632b4efa71181e6a6479aa1d9b07b3f8441f5ea842deab970c607a0f2"
-metafile = true
