@@ -1,13 +1,13 @@
 name = "CreativeCore"
-filename = "CreativeCore_FORGE_v2.10.22_mc1.20.jar"
+filename = "CreativeCore_FORGE_v2.10.25_mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "54598096d98a448289953d253ba56e010379112b"
+hash = "9798163077ba536f7949cc360da2b000ed4cd641"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4577553
+file-id = 4612239
 project-id = 257814

@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "8e8947677b571aaea5bf92a04966813ccf761dfe9bb594a6428d68f821d9218d"
+hash = "beb9e15b425a9b27da26e8696cd778eb7d95bf3dca54b2c4738eaa527fad63bc"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -90,6 +90,11 @@ hash = "edbe71c1720fb9480f59af296c077d822a62c08409fe0807ffc4ca25d3d9729c"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "d04f2a37b539c413f2483fb19e5eb70ff974652dd0244cd8e972be1f0138e54a"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "644ee8075287bd95cc2f8ef489669c8c852f63c776c37b9fbbe746641daa4d25"
 metafile = true
@@ -140,6 +145,11 @@ hash = "dd7ec47497473da8991cc1a1a6d27fe46a32f8be293d42d1bcc55513affd6957"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "bd1ccea8b44edf3733bce1f4c1a0613162be0d8e77e306a7e3b12f8b59c8b7ac"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
 metafile = true
@@ -181,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "c4d4a00088f0c068dcea3aa63f0758e243b9176d0784902a74a7d5147f81795a"
+hash = "313543b36ac4429b8f6ff46fb87cd0815a6eabcbd2018e85ab369f0cc71f5e25"
 metafile = true
 
 [[files]]
@@ -205,6 +215,11 @@ hash = "b0660a5588f555f4e8e83aa82aae72228d9ba8323d3690dd4177ff67a7a4e44c"
 metafile = true
 
 [[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "15a5a9652b3cf95ce7f2ea12a564d5d90a018bf946cd8f71bc52645204f77f0f"
+metafile = true
+
+[[files]]
 file = "mods/fallingtree.pw.toml"
 hash = "8a0908bb4772b63bb977fcc10c012561d0423066df18609de7c2f0c3aeb5af98"
 metafile = true
@@ -221,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "c7c30170cd3748f08d9e27b5000cf1b8080cea1539c443da31986446b612906a"
+hash = "8df6466cde6c09b1b3f306975dde22fe3d2a955b573e998261593f468f6a6232"
 metafile = true
 
 [[files]]
@@ -252,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "6e1b3ddf51aafcd04ae4c51fde6cda895ea5f5ba876d69e117dd71d95c3f9689"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
@@ -305,6 +325,11 @@ hash = "3d3a8cd6517c5804bd1ce2e4e05197ef40d33ed04c26b448c3eba6ac2b25321b"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "8b29dd562bab1c2703efec1f8d490777ecdaf32703a63a9796ae6f9067a3f2e5"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "3420803bd042eea84afdefc9801c4a6bc2fe132bc3f09c9a014e78dbfd1555ad"
 metafile = true
@@ -315,8 +340,23 @@ hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
 metafile = true
 
 [[files]]
+file = "mods/nosiphus-furniture-mod.pw.toml"
+hash = "2a8be0275ca9fd2b5d78dfd909345ebe6835d2fa438c571a22ef5221771076da"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "7a233669a931a7959711b83c9afd7784360aa9050b9e2c84d9ebed27981f38b6"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b96e407d6e1bd4f02e610b6223251ff0401a6946d604fe6e4562a938f7ddded2"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "304921be4533e86aa6a0ffe14eb505b60e8bdb533746f0d3b53adadfa5732209"
 metafile = true
 
 [[files]]
@@ -370,8 +410,13 @@ hash = "65f4838fdd0ff42ce74d12f310efd5455450d223ea6ccf2ceaa75d424e144f82"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "ed9bb650beaced20b1e49e5ffa22abf4c026ba3778ba1b46b81b9ac00312640a"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
-hash = "d6a0a25cc28754e5d916d1503f7937ee8384d0fc1d0e789e292a50fa8b2a817f"
+hash = "0bc78b6f8ed8731cd5b1a155dbed1aa5eef8ff453c565350682a547fdedf1058"
 metafile = true
 
 [[files]]
@@ -435,6 +480,11 @@ hash = "844be36d3963460b16416745c2d0ba07c6db61783d98813a0f7cc66a2a82a6a9"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "3f9eb51665a406cce6da1542cb36a75b7c4787d9127dc66de13999c25f7b84e9"
 metafile = true
@@ -442,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/yogmod.pw.toml"
 hash = "c0f4078388d43ba1049056f205684b76d1f9770874a95755d6fec1478db768c8"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "17f9b6da1aadf3608116b8557dfe660f641f58f68d791e5f01f23e0806b976c1"
 metafile = true
 
 [[files]]
