@@ -673,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "9c7b9624aac8e74cd93d5eec8b2b1a7c382638a8af767beeb36044ba768d672c"
+hash = "668ef266aa69303af8b39d191d2ed6e017772f17b65ee1e988854f759fad9dff"
 metafile = true
 
 [[files]]
