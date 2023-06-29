@@ -62,7 +62,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "33c43d39a65482dc42dd1595ccca12eb5518f6698a20ea2c44b270b49b7c2f6c"
+hash = "8a83d79a71509d2a5461855a07cbb6ba2f7521ac0cee1993ae2476cc27539b92"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/atlantis.pw.toml"
-hash = "5e0f03cf01643df31c6a2081c5ff77de134361aca1801ca08d54b37f5d32e939"
+hash = "9d9806f93788eb7680bdfefa7b4c956d29f36dc53ad59f08cd9b9263f27de7ec"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ec517326311870553f501b1cea0a453b67419a2663a3d3c4eb3422a0eb21f67c"
+hash = "52afe64a215ec7a20a2424de639020369e5d25fad69ede02a700edde08dd81db"
 metafile = true
 
 [[files]]
@@ -678,7 +678,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "466bdf74c759eb96ecec9c35cc11d0afd6e202c8309bdb52f1bb93b810498295"
+hash = "33af2cf0331648939facab4121886aaa14712040629bbe21ca524864eae54398"
 metafile = true
 
 [[files]]
@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ecaa55c3362f3faea6d7575e603e35a7b80761708ab727d6c898733dba966b95"
+hash = "f78066e4854ca09c84d962e028c8b3e1f2f095766db28680dc5ada6472e9a447"
 metafile = true
 
 [[files]]
@@ -1013,3 +1013,4 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
 hash = "393615d632b4efa71181e6a6479aa1d9b07b3f8441f5ea842deab970c607a0f2"
+metafile = true
