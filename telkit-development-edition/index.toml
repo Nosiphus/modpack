@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "beb9e15b425a9b27da26e8696cd778eb7d95bf3dca54b2c4738eaa527fad63bc"
+hash = "7e8ff3713711a6a8fb574d6a082da2014d57af32c5a5a91f865461b70b747878"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "e5069a32bcda85c43ec857e12ad8cb14ebde080a2103acdd72a1e130ac27330d"
+hash = "76da45bdc77b471fc12146300038733efeff77196799f51bb52d1298274a9637"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "f43ae87964f937891831906a126733fcfe225fb08fc923a7e34c5cc118239d5e"
+hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-chests.pw.toml"
-hash = "ed3cbfa16cce35a4c950704ee4687c7e8f61949234d569c20a91583372c1385b"
+hash = "4aba12c2a18205fe6d25d1af817ee8c0baa580a74048cb30c659f6be66f31d2e"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "8e156b2eeb3b3f7629d1ac7f6a51ddac579cce663a66c630292d92044ea9add8"
+hash = "aaea54903a52758183c8bb4ffe16eb6c75383cc40d90e65fdacfc63c1cf7ac1c"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "0bc78b6f8ed8731cd5b1a155dbed1aa5eef8ff453c565350682a547fdedf1058"
+hash = "1eda75f60104656d0b72843a2b56ecadd703edbae6ed48b8c6c5c962ae8d04ba"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b58aba0dd967616c4df15124b74c5ecb92416e1bcd40066f7b6faa45435c341f"
+hash = "8a3509fa1b151c6689e23eedadc37ad90811049686112cbc6820d205fb98630e"
 metafile = true
 
 [[files]]
