@@ -1,0 +1,13 @@
+name = "Ultimate Car Mod"
+filename = "car-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DCPUF5Rv/versions/cm4SmbX0/car-1.20.1-1.0.5.jar"
+hash-format = "sha1"
+hash = "d4460cdcc60eb98f26c9f0cfe86c8bb3e1ca0563"
+
+[update]
+[update.modrinth]
+mod-id = "DCPUF5Rv"
+version = "cm4SmbX0"

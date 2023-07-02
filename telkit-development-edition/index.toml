@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "7e8ff3713711a6a8fb574d6a082da2014d57af32c5a5a91f865461b70b747878"
+hash = "25ab3aead96e4d321045ad67611d837b654193befbccd1e93aa6c0a77c5d3ec0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -90,6 +90,11 @@ hash = "edbe71c1720fb9480f59af296c077d822a62c08409fe0807ffc4ca25d3d9729c"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "126c171a93cbaccfbd62c85166f22afe8adbe9721b4f964720bc71db312cdc68"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "d04f2a37b539c413f2483fb19e5eb70ff974652dd0244cd8e972be1f0138e54a"
 metafile = true
@@ -131,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "76da45bdc77b471fc12146300038733efeff77196799f51bb52d1298274a9637"
+hash = "79592259e6f79f078bc8a8cf373682dc4c8b4b7b0ac743fa26509aa4da8c70d2"
 metafile = true
 
 [[files]]
@@ -191,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "313543b36ac4429b8f6ff46fb87cd0815a6eabcbd2018e85ab369f0cc71f5e25"
+hash = "2ec9eacf5ae37fd2d716e5b4785ac010d977f5436b63b840799e6d159443ab38"
 metafile = true
 
 [[files]]
@@ -215,8 +220,8 @@ hash = "b0660a5588f555f4e8e83aa82aae72228d9ba8323d3690dd4177ff67a7a4e44c"
 metafile = true
 
 [[files]]
-file = "mods/extreme-reactors.pw.toml"
-hash = "15a5a9652b3cf95ce7f2ea12a564d5d90a018bf946cd8f71bc52645204f77f0f"
+file = "mods/fallingleavesforge.pw.toml"
+hash = "66de847298894f19187803f01dc7415dab60df206d207bbf57013d90da8667e0"
 metafile = true
 
 [[files]]
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "8df6466cde6c09b1b3f306975dde22fe3d2a955b573e998261593f468f6a6232"
+hash = "046ae82143034ce5ff357d239023953533927b7ea7b67e7f81cb5d01f24c2953"
 metafile = true
 
 [[files]]
@@ -310,8 +315,13 @@ hash = "c0c1a2905da5966cb4755f66bc841f15076692adba55260c4b9674ad8d70e3a8"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "eead84e83701f3ab873f1be70633a52b8289f515ddac51854fe77c6e20a95d61"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b9ca7a7fed56888daf5365892f54197be0da514c6109d3c80f640db608bdd684"
+hash = "942cd51d06272f056500704c16db52e3874242b841fc31cb183283d9a7328130"
 metafile = true
 
 [[files]]
@@ -416,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1eda75f60104656d0b72843a2b56ecadd703edbae6ed48b8c6c5c962ae8d04ba"
+hash = "5de5924757892904f6d545341b4a004753e9e82f87b208b417c5609c57c24262"
 metafile = true
 
 [[files]]
@@ -451,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8a3509fa1b151c6689e23eedadc37ad90811049686112cbc6820d205fb98630e"
+hash = "b2fe85e3574cd791172ff8dd28f252fb96f8a0028e027cf7d564ed85c7763ac3"
 metafile = true
 
 [[files]]
@@ -467,6 +477,16 @@ metafile = true
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "d2537dde180033e3981c62e121cbfb03dab2be22b5bf1bc66970461d356b5f7e"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-car-mod.pw.toml"
+hash = "69655c802d4202f21005294389e9f22cd4029f749cc76247fd01f37856065e4d"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-plane-mod.pw.toml"
+hash = "23bb33e02e693b53e874733d6d7266ce4754d09af01218e70d43022ff406d7ab"
 metafile = true
 
 [[files]]
@@ -492,11 +512,6 @@ metafile = true
 [[files]]
 file = "mods/yogmod.pw.toml"
 hash = "c0f4078388d43ba1049056f205684b76d1f9770874a95755d6fec1478db768c8"
-metafile = true
-
-[[files]]
-file = "mods/zerocore.pw.toml"
-hash = "17f9b6da1aadf3608116b8557dfe660f641f58f68d791e5f01f23e0806b976c1"
 metafile = true
 
 [[files]]
