@@ -438,11 +438,6 @@ hash = "3d157a080e4ce21c926901772c3eeaef674f54360ca74a771f0700614800158d"
 metafile = true
 
 [[files]]
-file = "mods/eureka.pw.toml"
-hash = "ccc82fc6325061cc1e3473d415de87607077e9de86de24b89e294dde316a6e41"
-metafile = true
-
-[[files]]
 file = "mods/exlines-furniture.pw.toml"
 hash = "f91c5ef3294e4bbc3747f3717bd5ea6fb98f4451bb4460c1e6c99dcd74e4f483"
 metafile = true
@@ -970,11 +965,6 @@ metafile = true
 [[files]]
 file = "mods/ultimate-plane-mod.pw.toml"
 hash = "6b3cf5b629804b5081c96dab1b05ae3aa3fa9970a3ded3db4124fe365889ed43"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "a4456a4b5ea1b32af885f8e1ff79c93f4bded027f76fe56007cf5d0009cfc6c6"
 metafile = true
 
 [[files]]
