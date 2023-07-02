@@ -387,8 +387,8 @@ hash = "46b6fe4b838212d19da58719e4782d0c54689f3cbec148921c41a3297f96caf6"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-1.12.2-community-edition.pw.toml"
-hash = "3a0bd24360d355e80ce4f2e80f8a4b49b4f7bb77f2ed65cb08fd3eadabcbc79e"
+file = "mods/mekanism-community-edition.pw.toml"
+hash = "dadd901e3382a2328b325e9a996867d8692c46b63b1784fbd6d7c4b44a490605"
 metafile = true
 
 [[files]]
