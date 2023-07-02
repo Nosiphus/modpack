@@ -854,7 +854,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e1eea188e2279b2a65aedc7217d30c1829817eb029783c130a8ed0a3fba06ae3"
+hash = "ac044748ca461791a080a4f1259451bc4ab258851fab9cc282e7a7c23ec86bcf"
 metafile = true
 
 [[files]]
@@ -970,6 +970,11 @@ metafile = true
 [[files]]
 file = "mods/waterlogged-redstone.pw.toml"
 hash = "0bd7ebc97c65a677e4eb66f8228e597cb050d133eb25683a90e9326bafdf1f82"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "6b8677362d29aa238f5b74aca85267251d776f2fb764cf792109cdbea7a5aecc"
 metafile = true
 
 [[files]]
