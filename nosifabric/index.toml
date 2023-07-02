@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+hash = "a54e4390b9359fa2503c611f6d0228d5cb98d678dd4b8e5a74577d914e0aa412"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "08de17a39f3537ba1388e4ca3897b53eabab502cf9284178c7aa51641c766bbf"
+hash = "8b4ca10ad473da4e2a003b731cf0a306342b57416b449a6acb43bc1ff3d40e02"
 metafile = true
 
 [[files]]
@@ -148,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
 hash = "2ccbc3d8b4b49b9b24196a6b3a8274598468bf472c75c37933d23245f729e6f0"
-metafile = true
-
-[[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "586263f53c68e930b3f760faf64c79bb4484cdcf7e9bd2ecda926dc68882944d"
 metafile = true
 
 [[files]]
@@ -267,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2d783e03714ebcdda2d034b9b1697df388dc5b8e26f3bd0f9a610e2d062f1bab"
+hash = "5fc4d54955458a59323bf27c92e74a68ed694767fabf6ecd23b76e598440eeb0"
 metafile = true
 
 [[files]]
@@ -307,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "8634fda31069fb5fb246126bef5a273c01845f74b4c0ad0ba394698df815e678"
+hash = "0a165b0f2bc1c7da29fca8481d3e493375fbac1ff371fc11bfde108d02ecdeb0"
 metafile = true
 
 [[files]]
