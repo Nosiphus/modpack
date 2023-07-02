@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "7b44535f900a745ed5d4a5e5688976fca76c1e9cce2bf856d2c3733e9d8bf953"
+hash = "4a70ab4b90fc7aa182de6cbb3dd2f1e766322d15de2e6191eab22229ace898d4"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -218,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
-metafile = true
-
-[[files]]
-file = "mods/eureka.pw.toml"
-hash = "37240bbf09c834ae237e5bb368faeb01183baa4cc59145dacc6d0399827a7802"
 metafile = true
 
 [[files]]
@@ -468,11 +463,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "40d14acd47e114eb93c239054b99e118074b2f2e10ec44955e5a47ddfa2bb4df"
 metafile = true
 
 [[files]]
