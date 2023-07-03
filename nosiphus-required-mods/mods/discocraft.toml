@@ -1,0 +1,8 @@
+name = "DiscoCraft"
+filename = "DiscoCraft v1.1.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/discocraft/1.5.2/DiscoCraft%20v1.1.zip"
+hash-format = "sha1"
+hash = "d928f8e6f23a78c2c3d1abb500da92f8058f322a"

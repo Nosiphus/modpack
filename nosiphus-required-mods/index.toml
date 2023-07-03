@@ -118,6 +118,11 @@ hash = "92467608556296d9ef770a027ec83d579e9c7de12fa592e6abcccafcf3448cf4"
 metafile = true
 
 [[files]]
+file = "mods/archimedes-ships.toml"
+hash = "b6c46e297bd8d435ac2229ab53041556c44120637316a0c86805e08ca8fa4b39"
+metafile = true
+
+[[files]]
 file = "mods/atomic-science.toml"
 hash = "6f5f2bc6669418bc5f293baa85f8ede4002972ff03f6086a3105c61b39d83dec"
 metafile = true
@@ -140,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/computercraft.toml"
 hash = "4d670c9ed6444185b62e4ddc4e305a5f5cbc7eb308f72282752b599db4a428b7"
+metafile = true
+
+[[files]]
+file = "mods/discocraft.toml"
+hash = "a0e68063622792fcf1b6f5ec7e86284f8033397ac48852378aee8f31f4108934"
 metafile = true
 
 [[files]]
@@ -194,4 +204,3 @@ hash = "bb26ed0877b777119eb92a3fac799c3ccee792e16143796e39eec69476f20b0b"
 [[files]]
 file = "texturepacks/vbtp3-modern-1_5.zip.toml"
 hash = "bed2a60dfe4c8d433ad00b13ee0ff9d49f4469f62e1e23f891aeaeaad40ef1a3"
-metafile = true
