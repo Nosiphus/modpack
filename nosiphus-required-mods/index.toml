@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ArchimedesShips/ArchimedesShips.mrot"
+hash = "c83ed19fd61ccbffd7f7bae79770d5f86818c916415ee9138ca49a4a3fa8bb09"
+
+[[files]]
+file = "config/ArchimedesShips/default.mrot"
+hash = "df75dee2aba72e347a9dce959dc35586a43b1f3fb461b8e0e747afa5aafe844d"
+
+[[files]]
+file = "config/ArchimedesShipsMod.cfg"
+hash = "932f072b091099b0e0d8e40ba9e143a0bcc296c29a0ba26a1f3fca07f9c8b69d"
+
+[[files]]
 file = "config/AtomicScience.cfg"
 hash = "657fef2c262e1dc6cfd54f78e2dec24aeb1e92e016521c49b888148be984c6e1"
 
