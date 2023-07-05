@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "25ab3aead96e4d321045ad67611d837b654193befbccd1e93aa6c0a77c5d3ec0"
+hash = "9f0b58bc627c3959f8340df8145c50d4e8eef683b55ddb6d023b212424ba6bd4"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "126c171a93cbaccfbd62c85166f22afe8adbe9721b4f964720bc71db312cdc68"
+hash = "7669944c653b503815e80d3cb0161059d0cd1009eeb3c1354cc6623a7a898fc4"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "bd1ccea8b44edf3733bce1f4c1a0613162be0d8e77e306a7e3b12f8b59c8b7ac"
+hash = "e4bf663db8b390a5365833176ffe5370fc14770bb2a1277f7f5ad6b7acd09b93"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "fccdfd72bab9febc5c17ce639cbcee2fde5577b79f457c4b4642defea899a2a7"
+hash = "a2fc8e59079a318cdad02a7cb9ae1702a3050cf4d7ad16d4659fddd0ac52615f"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "8a0908bb4772b63bb977fcc10c012561d0423066df18609de7c2f0c3aeb5af98"
+hash = "b969e996c4674b56991dba3b6a2056fe6f7b68a4217aa62734bb42ed307154c3"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "046ae82143034ce5ff357d239023953533927b7ea7b67e7f81cb5d01f24c2953"
+hash = "074ada3a4ff8e2e649e4bc977a4a2ff6eb6818f1808d9c66220319885e75a17a"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5de5924757892904f6d545341b4a004753e9e82f87b208b417c5609c57c24262"
+hash = "e45c16f4afd3b30524f3086575d998a41e0029f99e9ec9b34d0afc130bcc8bc1"
 metafile = true
 
 [[files]]
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b2fe85e3574cd791172ff8dd28f252fb96f8a0028e027cf7d564ed85c7763ac3"
+hash = "4a3b0dfcee605f67729a0b8c57eee88b70481b387762759f660d3d887fe31a47"
 metafile = true
 
 [[files]]
