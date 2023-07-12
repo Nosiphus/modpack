@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "5a0999c3ebb37faed55ad004d3d910e94366fbdc025a3a39b2c93fb0bb647eb7"
+hash = "80d936a3f99666dcdfcad0ee299e14ff1726318a386b143c00234d3c9edbbbcc"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ba8f1c3e72d8ea53324668c336d909203252c51d3ff2213cb0cd871dfa2e7f2a"
+hash = "e25d1ace1ffb5c825d6d7aa2e3b4efdcb6fc69c489839c8c6882ea00b50095fd"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "dd7ec47497473da8991cc1a1a6d27fe46a32f8be293d42d1bcc55513affd6957"
+hash = "c26a0c4c18e27b01005d279cf2f3d81b900250a2d388ae45e4e8270e85c335b9"
 metafile = true
 
 [[files]]
@@ -166,12 +166,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "58ffc6c9be00ff44b23afc857185dcf395dd1f235b4d9eaa3c7e9ecff090e2cd"
+hash = "87228a103823c6430c2035c851418e5293e47067ef1bc16aa21fc2e0b4175708"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f36176c7f69bdb69a6345990318b28f3972f61327a1725c1ef78e9ef194be3f4"
+hash = "5d79957cc89a36aa873abf9fc3fcf074f040fa0d6784358ba501530505de040d"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "2ec9eacf5ae37fd2d716e5b4785ac010d977f5436b63b840799e6d159443ab38"
+hash = "b18850dd5055c0bc40c23acbe2dffda5460e57a1a50f37bbe9196f773fa3e815"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "4136a482974e4f4b558f228785628433b83113319fb7e3d1f85bb21f5588796e"
+hash = "91c2538d726a12623122d1a2945a6ad3d2d5b290d43c72149f21af560e8465eb"
 metafile = true
 
 [[files]]
@@ -320,13 +320,8 @@ hash = "c0c1a2905da5966cb4755f66bc841f15076692adba55260c4b9674ad8d70e3a8"
 metafile = true
 
 [[files]]
-file = "mods/modern-ui.pw.toml"
-hash = "eead84e83701f3ab873f1be70633a52b8289f515ddac51854fe77c6e20a95d61"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "942cd51d06272f056500704c16db52e3874242b841fc31cb183283d9a7328130"
+hash = "c73887d9a6b3e7145166aa17690c92ba081cee0b77b3c5adcd9fd60149760e16"
 metafile = true
 
 [[files]]
@@ -371,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "304921be4533e86aa6a0ffe14eb505b60e8bdb533746f0d3b53adadfa5732209"
+hash = "6208f9721d8074a11af6a24ef507c368091570585d29312887f361b4f8933807"
 metafile = true
 
 [[files]]
@@ -501,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "844be36d3963460b16416745c2d0ba07c6db61783d98813a0f7cc66a2a82a6a9"
+hash = "477652a264c5132ef11d29a8a8c5b456490fa9896103ec100b45b65a5c5fae8f"
 metafile = true
 
 [[files]]

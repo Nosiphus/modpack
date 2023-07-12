@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "2ea13118f1276007af1299d4eef7893b08c13534040dca0cdb2b355f51eb3688"
+hash = "51a2f9557aac1143c6abda3f1db381473b620d041a8b49523f797655fc4478af"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "ae8887615e5e14d52bd739ce195044faea6308d748dc7bc996f005630a11f39d"
+hash = "a5823eed363dcbf221b6d0e919b111f0a5676338967a2a599c7cb948ca24223d"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "a59c931036c547cd42a8db98826ec4e253b05e497b4e1f2b33e5e311894ab379"
+hash = "cffcf234e2e1c4d17635471bba6da79a99837f6755e9cc8201b22abff447a0fb"
 metafile = true
 
 [[files]]
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "13bb623253a2afb39fb4577d110ac9c14c4ed5bd42ef37fed99f71cd0974a1ee"
+hash = "c2ba7be8f064d9d3df8684c941fc1b0d33168d32def5f7cd3fc1f0dacbf0b850"
 metafile = true
 
 [[files]]
