@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "51a2f9557aac1143c6abda3f1db381473b620d041a8b49523f797655fc4478af"
+hash = "e402c69bcc67e276f36f8a666a8ffb8c5337131d36e3f38096a1bfdb43067ddf"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "82c526d3329017fad175753f9f266702425c7bbdc8f11ffe6e4cc34ddbbcb819"
+hash = "9931ba04fc0f075c9d132714dc703b08cd11aaab27a7db9b28d6c4fa79eb50b2"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastworkbench.pw.toml"
-hash = "05ba0e63b05f5b98111cfbe0b16411688b6ff7ffd675e2fd0ec5249709cc5b97"
+hash = "fb43a2bb5fc3c56a05fc8ae902610e5f7ab46f62e58d50b1ec34390ce5698335"
 metafile = true
 
 [[files]]
@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "f7c6841b8490e85dc08ce0a11da0638a00d2468993402ddf222c875fabd20fe6"
+hash = "1b562a5953445aff82aa00a145ec3caff163cf6709e2a995fd6f9ee8709f022c"
 metafile = true
 
 [[files]]
@@ -608,27 +608,27 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "a1ac9c0763440f61cd6fdd9adfa6ae9d24ac5e6765c5b71ec4cfead35844595a"
+hash = "a15b02df54877778827361ace55aab37f167484c2fe1f7ee284dac0b0ed2c753"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "18b7078accdf5f230705bf5c405fc75f39cd3b37d90241a4b7d72cebe6426301"
+hash = "6954a458df0f72f65d2ba8131d6735059a9b2be4f711285ba887b32f8f7377d8"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "4c9f6abc41449b05fe24ed8f74f2ddf4e78d27f1afe70c5e91eaca8aa187cb95"
+hash = "29b25fadacfa558acd627ab3764323750f544ed4d3b7f5389cae8397e4fea56c"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "36c25d922ab4bb5ad97830a940ecbcbbac4d0df7fe79c3aaf4b66b134ee66896"
+hash = "689fb8093bee711ff14e8fe0f1f03e8a65e1d0eabd0d729c11cff1f451977813"
 metafile = true
 
 [[files]]
 file = "mods/mffs.pw.toml"
-hash = "e9530d2ebaf34d1c39a5f6ddbb5f9400c1dd42a62d3356023fe37fad4fea60b4"
+hash = "2f1495f91fa32c3c3d4d0d4fd096801710540fdaf78ebd1c7f17039a542a01a3"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "29ecc8bfe128e1d052dfa15eb716c1f2b8b6561cfef36159d330869933ca74ea"
+hash = "9d4288bc78babcdbc44f5325729ab1a78465d72d5efc6a410138d05919da7dc5"
 metafile = true
 
 [[files]]
