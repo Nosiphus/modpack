@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "814f44aecf1628b01efb02481d59046a0905246ab661953f9fd0f7bad587fd92"
+hash = "2fc66d5b759ed66028073b4814ef80e22264d84ab4271b6db5562020ef73cef3"
 
 [[files]]
 file = "mods/1.12.2/baubles.pw.toml"
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/born-in-a-barn.pw.toml"
-hash = "36c91e63beab5d3c889c036135ffcf0fb701cb79c71aa34ccd73833876173d92"
+hash = "e86b0efbbdaa466225d484b5585cf6b4874eb3d2eb30d59953fc1e5e7a98b80b"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.pw.toml"
-hash = "183a3c0aeefe0e7c065a0d687b1da73da0561eecb4a98212a23eb19d2e8cc10a"
+hash = "5c88b3be25620407a8956853e4fbf0f99feb4412a291179e2004bcc2abff1504"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "c61de336f3aaaa0d155163b5390ccf07b78180a85ec1d43868e8c4fdff20054f"
+hash = "06967deeec89df4483327d9cded794df0f8a7ce329f3146f29e1abc51cecb8dd"
 metafile = true
 
 [[files]]

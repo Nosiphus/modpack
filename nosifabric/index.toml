@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "f5180fbfc67a9b662919a06641171f27b8c5ef32c51c0b4164ac022cb7a2d472"
+hash = "099954fd8d9a4298990124d55c0b66e71a8768b636e767f01a886b6e9437d363"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "950bd3fe512813eefb3469b874ef479d30b4ec5350ee95d6f53743e6ed969214"
+hash = "75a3a90c8a98a7d55de1199f3fdeb55dd44fcf4383e3257fe6af4435142dcfc2"
 metafile = true
 
 [[files]]
@@ -402,12 +402,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "eac0f83635516a98fda8449f5c3f603045969c2b39b165bc580fb569770c2bdb"
+hash = "4dfbe81545c03b5ba5e6dc2a59eeedfa491760e59fd94cde4ca4af2695b1129a"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
+hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "484efa234822f74c0043f9807a36caca9a9dda6f46444a6f2499f64c826fe785"
+hash = "7243d33dc00e6d276ed5b3f879e03f0d6c51858782579d27e0f0a5e9d3419b91"
 metafile = true
 
 [[files]]

@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "4031b50b3d65f34365bb8cb090f77626ca424e8085b56756a23719587099d6a6"
+hash = "b5d5132d3c0cf8ef7819e773eedf8c38f6e4ec01ad1445298a5733eeb89832ae"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "92170f6f2e524cb6c3cc5d6b333279724fc1bd3c8597722de4f74f6cbe374edf"
+hash = "3617ee70637d248772600c6fa302ea80fcdda8f3ff48b36837773ef7af6b4928"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "432f53d0fb688f7892799cf5ba6f494751eb018938c47d08178f73a1084bb637"
+hash = "d8ad4a7198e83c6aa0597706e301f5ff798323624b9da4ea3283df4649eaae38"
 metafile = true
 
 [[files]]
@@ -917,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "b4948e0b0f5f2a052b15b0439c9948a56d9b9ff254d67c0aa0b34c48d54031c9"
+hash = "8909f6b209fce7c52d625bc9ad4cb5b2116e4823dd75a71e9a8f5a546d1d0f94"
 metafile = true
 
 [[files]]

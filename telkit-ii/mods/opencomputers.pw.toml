@@ -1,13 +1,13 @@
 name = "OpenComputers"
-filename = "OpenComputers-MC1.12.2-1.8.0-snapshot-20220917+efb20a2.jar"
+filename = "OpenComputers-MC1.12.2-1.8.3+274990f.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9ffabaec0c203fadb5d8c20b6cbae6b1d8e045bd"
+hash = "1b80896835037dec8313008cd70720731ebc75c8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3994462
+file-id = 4630537
 project-id = 223008
