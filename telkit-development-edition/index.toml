@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "ca6cce023873fb09a1b5326fb1629b33803e6e7ab7ffe750ee348b7da7c109a4"
+hash = "8bec58d30689efbac1a8b1644b1e54a7bf2e1074ab1a36fe22acab50672a2b57"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a2f50a69539f2af4935cb9b7bb678e8dc3b2a7042c10bd4587dc8f94e14ed5d3"
+hash = "25605f19b3426005c26156436ebd826277d5f5784be6505ad3e82e44c2363ff2"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "c65d3e3bdb59fc4310480d4cf623470c5ffe2361861d1d75af8bd5cc02ef297a"
+hash = "6ee5edada367ddb0941154bddfcc1786647b7ce1f60a5cf10e1b5667e516dd31"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "3f9eb51665a406cce6da1542cb36a75b7c4787d9127dc66de13999c25f7b84e9"
+hash = "b612678d9cbf47e7fc160853a2b4e63b13c4463bcce90b395e2f30c40228a421"
 metafile = true
 
 [[files]]

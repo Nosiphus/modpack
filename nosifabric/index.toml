@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "099954fd8d9a4298990124d55c0b66e71a8768b636e767f01a886b6e9437d363"
+hash = "50275fb8c98e498de7bdf6835dc2ed3311983b4124fe99a1faa0e36b36c0c357"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2205239199b4a1e74afcdba1151807d2e4487ce2cf116cee9f62d25f1659a3f5"
+hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "7d160f2096db6f3530dd5d35719b5362e8f3c0e2ac13d1f2412221d1a762f40f"
+hash = "964ba2b17c1faef33809b6f3ccfb4ee73b3431ddd0d2c391da45034676fece26"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "75a3a90c8a98a7d55de1199f3fdeb55dd44fcf4383e3257fe6af4435142dcfc2"
+hash = "c1b60ca58f7ce5a429cd314994c43fae4d925b03fade26c52dfc8117b41b7087"
 metafile = true
 
 [[files]]
@@ -357,12 +357,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "50e1457f2dbefe5746e272bdbd1d3b936165f6871f663e39c9705ea3f416f496"
+hash = "17970a577e3a2f0ed9b37881a680518dc2e59b758090bf635e4086821bdd740c"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
+hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.pw.toml"
-hash = "c742aa047bd6c0347c02ef70fd9bc22d81d8465fbe5d82f4139e3c496be0553c"
+hash = "dfe64f3857b4e64abdc230eb42ed419dd6b806484a6b429dec83c68440864d25"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "13534f6c5df22054f4d3c0c280a91626dc58fe70a58c3ff439319857948a7969"
+hash = "eb5e9e45d3bb6136be856aea9cc9d185fa074169c08028e8602007b5f10d9c5c"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/techreborn.pw.toml"
-hash = "a27f951763f687ab983471a2b31b1f9469685feffe67f21035cb918c2a96978e"
+hash = "5f58494380e0183c31aafe15046a798e9f78ab880f75eae7e14ac3978197e77e"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "5d920f14136c4e3b7731846bd21dbb5ace512d962b61338ffffeae284525b520"
+hash = "786484bea788cde5078a5d47ec2ed71c24ced861a7ccaa4e4ab000c5886b1742"
 metafile = true
 
 [[files]]
