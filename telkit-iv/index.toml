@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9d4288bc78babcdbc44f5325729ab1a78465d72d5efc6a410138d05919da7dc5"
+hash = "d97bba1310a0d1c7da3c7bfa3acc8b4c37f289938d98b43b369fe8e2b3819da7"
 metafile = true
 
 [[files]]
@@ -949,6 +949,11 @@ metafile = true
 [[files]]
 file = "mods/waterlogged-redstone.pw.toml"
 hash = "0bd7ebc97c65a677e4eb66f8228e597cb050d133eb25683a90e9326bafdf1f82"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "b9f190423028d02ca7e5934ef0fa9f1d7697dcb63079360e118d19d448d4b779"
 metafile = true
 
 [[files]]
