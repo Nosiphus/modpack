@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "91101f1b3a77cb593b65526110b6a91e4c51988367b9175a83640a712f99b4c0"
+hash = "ee11d95681ce7aca3f448b146fc125e6227b8d3426111220659125f300d9f8fe"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -643,12 +643,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d97bba1310a0d1c7da3c7bfa3acc8b4c37f289938d98b43b369fe8e2b3819da7"
+hash = "9082d168bfc3adc309bcaf983eab3dbaa736583567b3ae0594d3fe01c7988553"
 metafile = true
 
 [[files]]
 file = "mods/moremcmeta.pw.toml"
-hash = "fe826535ea19a456740a97ad5964341fb34760951eef254661fe8e1427524dff"
+hash = "c9272e6829ea6062888bd4bd28a443aa17a5c8e8e38d0df51eb58e856d65dad7"
 metafile = true
 
 [[files]]
@@ -873,7 +873,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "18b7b42c8caabe5348f607c1f4cee8ca3938c27e15f818cc310585157a170ee5"
+hash = "2ad6efd02b75660de7ae5e943eafad9cb3df3200171eee0fd921f9bd8a9670fd"
 metafile = true
 
 [[files]]

@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "50275fb8c98e498de7bdf6835dc2ed3311983b4124fe99a1faa0e36b36c0c357"
+hash = "2840682f2c2d292631e34e0f87e5d8b68b07df2de37aed46d773c9d608b69df5"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "cea9d72f42127f4974afc7120d99dd4042d7342129d465ea4afb11f334749b61"
+hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "17970a577e3a2f0ed9b37881a680518dc2e59b758090bf635e4086821bdd740c"
+hash = "fb1dd4d4b360981b8f473e5a5802d134156c785a9c3dfbc9668705a3f2d7d43f"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "4dfbe81545c03b5ba5e6dc2a59eeedfa491760e59fd94cde4ca4af2695b1129a"
+hash = "111cd8db025532f4e7bb69df3ec11089f659c85ab215a3a375f640f9cd46cd46"
 metafile = true
 
 [[files]]
@@ -437,12 +437,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "414f044fc94b0d6aa22c3a155ef17fb0dca1941cde7ebd2d2914df0011703bc3"
+hash = "56b32e4ed86bf6dc2f69fb5830186b5fa85f211adb62ea03a5a18142a4a2fd5f"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7243d33dc00e6d276ed5b3f879e03f0d6c51858782579d27e0f0a5e9d3419b91"
+hash = "65452cf83ff09db0e7371bdd9fceda842b931c37d783d5792b41d5338c1c1b9f"
 metafile = true
 
 [[files]]

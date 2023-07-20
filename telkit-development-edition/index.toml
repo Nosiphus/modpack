@@ -14,7 +14,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "8bec58d30689efbac1a8b1644b1e54a7bf2e1074ab1a36fe22acab50672a2b57"
+hash = "f56653d71b58a9970d2541b675bb3b840e375e83923925492ce39eaddcd45dcd"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d4c6c6c0d8aa1795ac76b95d10de44432b32d77f2cfb0c4c7a6e95f6491745d8"
+hash = "6417fde668921db280513a5e996bdd84b436532582e56b5102ce25fba2d2a05d"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "25605f19b3426005c26156436ebd826277d5f5784be6505ad3e82e44c2363ff2"
+hash = "7cdc223f2afc0a6dbff7a9c74ae15fde04a721dfbeea1665a3a170e206c9b7d9"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "add73794cf9052bf6e142194a6f0d52b0b34f5142b45ca560d4e7a8dfb8e2068"
+hash = "5c51bc1733995e19c43672f622858e241eee2f217329265ec77defc95c1b7d64"
 metafile = true
 
 [[files]]
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "551c0732c8b7f4ac758976478cfd9f57edce35ead464c89c4d71a86c78c7e842"
+hash = "491f65e103447e2f8fe64d4d0bbf65f42501fd368b00091b12110fcc0217c090"
 metafile = true
 
 [[files]]
