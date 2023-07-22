@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "ee11d95681ce7aca3f448b146fc125e6227b8d3426111220659125f300d9f8fe"
+hash = "2cc82c300697a87fa0f13936e4670f41ad21352abe393f7567f6a33b429a22af"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "2cebf85aec8b5fdd96ecdb0620c4b74d8cc9d2b862d9e1b0300c8ccf07383730"
+hash = "da5a514b0ea726f2f58480c2f8d322cb7596e9e0595da2dfac9183ae48c2def5"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "10163c08f768d3a59410e31722f3b76fbdc14471513bf61f75ca9a659f684766"
+hash = "b5875d7c9e2a6cdbf3e80e61277aafc2bd766786221e610ab83ee969b9df1433"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9082d168bfc3adc309bcaf983eab3dbaa736583567b3ae0594d3fe01c7988553"
+hash = "c067e34eb578a4f9a721df3035161df72377df78e2842e8f44684b817dd9351a"
 metafile = true
 
 [[files]]
@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "92fc97e09de7153838d4cd94ca7722c7c4c5363b6ee0fce92f8487f7beb955a0"
+hash = "cd2e17d33265ead96e483d9d9df55a07fa6ff2251bb083843adbeed276db6c9c"
 metafile = true
 
 [[files]]
