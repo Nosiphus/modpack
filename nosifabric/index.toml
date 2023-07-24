@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "2840682f2c2d292631e34e0f87e5d8b68b07df2de37aed46d773c9d608b69df5"
+hash = "e527e24f22edc97bda2172ec760f7f76ab647df1edac1e4e65f385d14a7a0ce2"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "b969e996c4674b56991dba3b6a2056fe6f7b68a4217aa62734bb42ed307154c3"
+hash = "14f0af22bc5c18c6dc850614f953f6ffb8c8eb243a0c6b31b5f97ffe1772e8fc"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-alchemy.pw.toml"
-hash = "d62b2f0f71852d4065a4e5028977c8e3e33c29f5fdfe3a08b20cfbec6673ca9c"
+hash = "f8b6b09a37def3cd56abbc3b21846df79d3e20cf7862216250e3081fef050479"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "9e7e06695857a892092cb15d380a9584adb62709365b10a22f7e29430458eb1e"
+hash = "0afa1d2acbb35888bef596fa85de0cac881c881ee6cdd60940d711190f6a181a"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fb1dd4d4b360981b8f473e5a5802d134156c785a9c3dfbc9668705a3f2d7d43f"
+hash = "b069be03cd4e76ff934e079cb3103101dba440ad9343b904967b06fc8a075e0f"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "111cd8db025532f4e7bb69df3ec11089f659c85ab215a3a375f640f9cd46cd46"
+hash = "b1527168eaebf6bc0451c39123b098423c01c5f4a13ee9aae45e3a326ca5f8e8"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "56b32e4ed86bf6dc2f69fb5830186b5fa85f211adb62ea03a5a18142a4a2fd5f"
+hash = "bd920533eb33b12b4c872c0e91c3643a46893f4c1650faa637b25c25f184eeee"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "5ad04a604b92754fcc7896310f1d201bc9f22bb70901a76504daa265b3f8745c"
+hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
@@ -477,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "414fc5c2253924a4a03a6613cb7b3cbd06562f23ca1cdffd7fc88597d85b6518"
+hash = "82c917c802ee48ab23e42a2ff6f20ad7eb9c0ef45d90341b6dc8da0c35332dc9"
 metafile = true
 
 [[files]]
