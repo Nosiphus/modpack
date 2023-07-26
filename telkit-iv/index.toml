@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "46d1bcc280fc49c7262ef64b1421f721169690679c4442024705068c1b3b8c0b"
+hash = "021a99b577d260e6e98fe541844a96bf9150b2ad1b400dc7d9429244d6a778d3"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -352,6 +352,11 @@ hash = "600cdca16b9607f415ef545df62c6f056ae6d5e12b83c37f7e2fbfd8211c4fe8"
 metafile = true
 
 [[files]]
+file = "mods/ctd-core.pw.toml"
+hash = "63a9638c58abadf50da5fe5617b615583bfd278f8c05f30918d56620823bafa5"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "0c793add13628f1ebaea6843fe54c77e4e2a5c1e1ca88efe67612b4dcbf318a5"
 metafile = true
@@ -637,6 +642,16 @@ hash = "2771d290d01dde0d1b1e894c9dc88e03adca6a8b1f5d848f0d170877a23d1a41"
 metafile = true
 
 [[files]]
+file = "mods/mo-glowstone-lamps.pw.toml"
+hash = "83b56b7d5cfe1b2d48674e8b67b4bb98e1c1a0a0f2bdb0a9d7c722ddc8680608"
+metafile = true
+
+[[files]]
+file = "mods/mo-glowstone.pw.toml"
+hash = "9ae6bf0c052f3d05160730f053423c4120a0c19e9902ab5978bc3e4fa76ae881"
+metafile = true
+
+[[files]]
 file = "mods/mob-capturing-tool.pw.toml"
 hash = "022ea598ea6d34875cec564155c7555c5549e511647d27a03195991e6cc8e00c"
 metafile = true
@@ -648,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/moremcmeta.pw.toml"
-hash = "c9272e6829ea6062888bd4bd28a443aa17a5c8e8e38d0df51eb58e856d65dad7"
+hash = "a0b5f003349f110c7fcc2aace6fc8841a87c71f3413455cda2e56f46bc3bc6b1"
 metafile = true
 
 [[files]]

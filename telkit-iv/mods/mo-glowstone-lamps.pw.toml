@@ -1,0 +1,13 @@
+name = "Mo' Glowstone Lamps"
+filename = "Mo-Glowstone-Lamps-1.19.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b036bc22727fb3432aed050a9f77a55206fcf806"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4069258
+project-id = 418299

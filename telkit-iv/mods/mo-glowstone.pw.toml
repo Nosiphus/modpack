@@ -1,0 +1,13 @@
+name = "Mo' Glowstone"
+filename = "Mo-Glowstone-1.19.2-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9020f0d779bb71a5da0289d617b5e6021051e612"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4180784
+project-id = 253336

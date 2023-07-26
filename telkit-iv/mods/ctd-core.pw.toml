@@ -1,0 +1,13 @@
+name = "CTD Core"
+filename = "CTD-Core-1.19.2-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ffab732d90dc3eb2fe4006da52a9ad20780bab2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4069240
+project-id = 258186
