@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "ac93da75aa59531b5d6bb4ec3ef01a8682053ee3cacdef7d2113a6cfb6dab194"
+hash = "46d1bcc280fc49c7262ef64b1421f721169690679c4442024705068c1b3b8c0b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -478,7 +478,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "1b562a5953445aff82aa00a145ec3caff163cf6709e2a995fd6f9ee8709f022c"
+hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
 metafile = true
 
 [[files]]
@@ -953,7 +953,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "ae5f0615b58db6be5158d2add2db93a231238ed88a4b10090f8e4e94ed5ac669"
+hash = "00f9cc04f460a8eb58efa048f7e9a70796f771efbcf3b0f4e6d638f376d827f5"
 metafile = true
 
 [[files]]
