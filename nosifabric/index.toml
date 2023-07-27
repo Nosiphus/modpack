@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "e527e24f22edc97bda2172ec760f7f76ab647df1edac1e4e65f385d14a7a0ce2"
+hash = "05989fab4d684be4c2eb75b19320c8441c7cc791d3b110441a4746c065fc649f"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "c4ecccd6435bca1170c15bce410a223895ffd1b6d236003bf1f8f914ee3b5dd2"
+hash = "8d390be8368b805652edd1f7bcdd4bb22e628243d3d31457d9444d840c0045ed"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
+hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "901f5e42d26508230a41b6f91e1da18910b201aa3730057853d135820f24ec8c"
+hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b069be03cd4e76ff934e079cb3103101dba440ad9343b904967b06fc8a075e0f"
+hash = "9b06b57f650f8e55241eaf119f3e06fe501db9237ce95cd0c15fa731046be503"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+hash = "2cadde7b91d76a9376b6335b1215b734e8d75473c594a7b75ebb220ff7e2c017"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "eb5e9e45d3bb6136be856aea9cc9d185fa074169c08028e8602007b5f10d9c5c"
+hash = "452ca2001268ffa43daeaf1cfdf7af549ca71eea9bab2f55928e8a31d8da179e"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "bd920533eb33b12b4c872c0e91c3643a46893f4c1650faa637b25c25f184eeee"
+hash = "ecfe4b722ab208dcc3fae855116b2a962a23aa5939245ba428fab97f6ecdf24f"
 metafile = true
 
 [[files]]
