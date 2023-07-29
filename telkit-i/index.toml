@@ -1486,6 +1486,7 @@ metafile = true
 [[files]]
 file = "mods/serializationisbad.toml"
 hash = "7d7ac2c3f71dcc5e6e0fdb96fb187366b19500f9aac961bdf7928f6c0dd2bc9e"
+metafile = true
 
 [[files]]
 file = "mods/simply-jetpacks.toml"
