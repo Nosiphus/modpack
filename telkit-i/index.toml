@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "5ba6adc956e507e8a1476e1e9bab985418df4422c36a2a84bed0f8e3297b4954"
+hash = "26362d7144fb2dfdc766072a118628f0107c860789cff822f849d2c4e20d30dd"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1175,7 +1175,7 @@ metafile = true
 
 [[files]]
 file = "mods/endercore.toml"
-hash = "52831cc84a6bbd5e7a5356b9e8b40ab63823ec5c2cd010a7540b894e7c90929f"
+hash = "caa3d0023b08b8b7152c4bb76614d585651cd05aae263df31e4c672783f59363"
 metafile = true
 
 [[files]]

@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "3da14475176502182a8deeea92832177ece1e016baa38c64030ecb8573d03281"
+hash = "1df80cb6c4338569aa2c720afc34fe47b155525fa39a380d68c9394e7ae31693"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "91e8881d0effbcded0fe38087242f7ebedd15272a067b0d3cebc7b24d85e3e59"
+hash = "8958d700cb45ca9dab94fe314702e0c548a31b2d5e83711433923a3018ac71a8"
 metafile = true
 
 [[files]]
@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "907402d6346b305f919727fcb4c49a971025af93b7f119768e3c056da7a24f35"
+hash = "acc1eb12bb2aab774f0bf90a895a447acddbb7d6c93398b14206ecc394463f41"
 metafile = true
 
 [[files]]

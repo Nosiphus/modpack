@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "05989fab4d684be4c2eb75b19320c8441c7cc791d3b110441a4746c065fc649f"
+hash = "d0584d6937530999871fcf1cc25bde090ab5103a152f6e23a90749d1ab570f3d"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "e1cb00f094495e57ee1083f811a482075caebebb51269b6374512bf02cacff1f"
+hash = "a69efb704b2ba8f1ec23809071f4902311db4ddf2c531358428e0803f2d8e26e"
 metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.pw.toml"
-hash = "2ccbc3d8b4b49b9b24196a6b3a8274598468bf472c75c37933d23245f729e6f0"
+hash = "696dedc5f75137914468457f007ecd6d7621a174a22528af2afc6f73b5b867c0"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "14f0af22bc5c18c6dc850614f953f6ffb8c8eb243a0c6b31b5f97ffe1772e8fc"
+hash = "201ab92700db942cff2f9815753a5fcc05b20b6cd432f4eae30249300116608b"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9b06b57f650f8e55241eaf119f3e06fe501db9237ce95cd0c15fa731046be503"
+hash = "9f73d516ece73f6cccda8f03f0c79c21d4259ba6002b794bf17bbbdd505551d2"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "452ca2001268ffa43daeaf1cfdf7af549ca71eea9bab2f55928e8a31d8da179e"
+hash = "3d785d2e8f8019224ab4c2da45cdb105d6961a8860e143476249445971a9389b"
 metafile = true
 
 [[files]]

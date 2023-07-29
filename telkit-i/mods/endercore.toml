@@ -1,13 +1,13 @@
 name = "EnderCore"
-filename = "EnderCore-1.7.10-0.2.0.39_beta.jar"
+filename = "EnderCore-1.7.10-0.2.0.40_beta.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2331/48/EnderCore-1.7.10-0.2.0.39_beta.jar"
 hash-format = "sha1"
-hash = "ee6e69efdf487e02aeca400e3aedd132159c623b"
+hash = "f8fd9953d5dacc7ec684221157e8a4066d1960af"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 2331048
+file-id = 4671288
 project-id = 231868
