@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "1df80cb6c4338569aa2c720afc34fe47b155525fa39a380d68c9394e7ae31693"
+hash = "56bc7a71aabfcc98dcd4d032643ec059daba27a67402a7d2cea8fc4a29c70223"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "8b9ca62e9e45a92769faee6517dac6ea1f5bda96a50c35fc492fb76ef480897c"
+hash = "d08052537a462b55988c05615626eb7ad3b59262a7f62fd4e08e774b8d45ebe7"
 metafile = true
 
 [[files]]
