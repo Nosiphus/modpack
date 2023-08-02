@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "408835605fa33c3dd518e0aba9aca2bdc2d73a68b4d062224349320e5b75cbaa"
+hash = "a7912f8238a2191544ee9d702e1da2c34f01fc0920ece849f29cbbfc418a58e0"
 
 [[files]]
 file = "mods/1.12.2/baubles.pw.toml"
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/galacticraft-legacy.pw.toml"
-hash = "1de650079f592691c3eef7d2e6fb02609c9f873fc4dfcc751aee2c7646e85d59"
+hash = "638db39ae9330dfe37f536e87bf63ba6d3175a97ba3865f634af83335292f9ac"
 metafile = true
 
 [[files]]

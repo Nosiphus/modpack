@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "d0584d6937530999871fcf1cc25bde090ab5103a152f6e23a90749d1ab570f3d"
+hash = "502ded9348da51a7025904a2f958e58b94efe75833bca062ddc21ad4baaae98a"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "2f836822bac213db83c4aaceab665b20e220ae42cbc1678239c8fff585cecb65"
+hash = "4789940899b14c1a43c106b61b90498547109c21d0eff564eff98ab9e43a0f27"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "130dacafa710b59988b7c72271becc3019da4e86be4ce281ac493a1d9563b76c"
+hash = "f9572e3411ba862d58df58b465a3aa33357c621f4346da987b3f616f70baf5ee"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "c0c1a2905da5966cb4755f66bc841f15076692adba55260c4b9674ad8d70e3a8"
+hash = "72d4a996a94af700687962c438b60dece8bd842aa446d7ae139af66b0957d887"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "3d785d2e8f8019224ab4c2da45cdb105d6961a8860e143476249445971a9389b"
+hash = "c9ab1c8312aa08fa20a31e4d1c41243eb410eab824bc1b90197b8d6b44fce964"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "0906da8c52ef97aa073b150915eea98647ed1ad2445c4d2c91512acb32af8a30"
+hash = "1cb218af33e0eff1014b3e49ea1e0da40f14de23b18f95ed928a5495f3d2c334"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "786484bea788cde5078a5d47ec2ed71c24ced861a7ccaa4e4ab000c5886b1742"
+hash = "867e85f7f6453abb5f4d03fe1516abbc6e5530c94c5e714c3b61a64bee01641e"
 metafile = true
 
 [[files]]

@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "e5043a5457f8914921fce2cf4839e1a5a556cf433ac79b7cc5b1eb1883a1d8f8"
+hash = "d1052ab81c435d0d607c775d261540fe6710033716f781dc5d2200ab00261509"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -638,7 +638,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "2771d290d01dde0d1b1e894c9dc88e03adca6a8b1f5d848f0d170877a23d1a41"
+hash = "c8d5c55bdeedf8a04cb72d706090ce8ae423c45fbb48dd660df36fbe9e2e8edd"
 metafile = true
 
 [[files]]
@@ -743,7 +743,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "9b409beaca7ae5b0d4637f0974ed442882b100de7c3a827f74ac95f370724c0a"
+hash = "306cbb32a5e21015ea1e6e79f2175bff33213abd18af4403e4b9bc72adf4e28d"
 metafile = true
 
 [[files]]
@@ -968,7 +968,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "ca221605ed4410c53e09836a4627bb02e6ef3b11db82fab4240d9add38391758"
+hash = "4484bfbf6db59d8dc5b9d4cc2d2a5e55a56f061ccc6a9371a3e8941d984017ce"
 metafile = true
 
 [[files]]
@@ -993,7 +993,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "34d2921224bc91ef1e8a4a1666439e2ef71ab191d9ace15a179c206ad241230f"
+hash = "b7d6fc9dfec829e422c573deab08f23c20e728827998e8d505b54a14845e2b8f"
 metafile = true
 
 [[files]]

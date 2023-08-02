@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "26362d7144fb2dfdc766072a118628f0107c860789cff822f849d2c4e20d30dd"
+hash = "6a8917b883e7db4137254bc783ce208610bbe447a48d99bcebe78395d0d37841"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1290,7 +1290,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-community-edition.pw.toml"
-hash = "dba458f97d21d7745fcb6281ab186f3b1f354100269f5782df56e2d6d8a54397"
+hash = "06e5aefd2384bd3b482141c2e566fc05d6102b24d7ea67ff083cdb20e015667e"
 metafile = true
 
 [[files]]
