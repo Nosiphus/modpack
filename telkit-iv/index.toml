@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d1052ab81c435d0d607c775d261540fe6710033716f781dc5d2200ab00261509"
+hash = "aa06114404655016208bf588956fed02dcff121374a39b58322c76465ce5b6d2"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -402,11 +402,6 @@ hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
 metafile = true
 
 [[files]]
-file = "mods/eer-reforged.pw.toml"
-hash = "618489fc544bd0846e0e27e91fd8e01f41dac79c9a9716c74128c2367b2b01ea"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "c6e329194f0891f148e8f3054b0d38b44390ecfc9867d507dcd315da7d59ebaf"
 metafile = true
@@ -658,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "207e841ae0b861b788dab7bf67a7aff398e54b0753da6686c28e029c75478b05"
+hash = "b02a4bf3536fbe09dcc250d0ae2c78169c08c33d9edf66cd806a63397c4ca9b3"
 metafile = true
 
 [[files]]
