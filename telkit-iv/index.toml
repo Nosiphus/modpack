@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "aa06114404655016208bf588956fed02dcff121374a39b58322c76465ce5b6d2"
+hash = "5c1599f2509df713bccacd9c0a24f16a6cf0cf422062632a81e0e3dd06ea43e7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b02a4bf3536fbe09dcc250d0ae2c78169c08c33d9edf66cd806a63397c4ca9b3"
+hash = "eefd61baece200df5552ed9138225f03cba7307c3eb2b01627c9d965a8d4134f"
 metafile = true
 
 [[files]]
@@ -963,7 +963,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "4484bfbf6db59d8dc5b9d4cc2d2a5e55a56f061ccc6a9371a3e8941d984017ce"
+hash = "cb08b2407eb08c8b5072028c472a99d8caca753c2400c8816f1bf94ebedf3dea"
 metafile = true
 
 [[files]]
@@ -1008,3 +1008,4 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
 hash = "393615d632b4efa71181e6a6479aa1d9b07b3f8441f5ea842deab970c607a0f2"
+metafile = true
