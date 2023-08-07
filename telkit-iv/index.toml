@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "5c1599f2509df713bccacd9c0a24f16a6cf0cf422062632a81e0e3dd06ea43e7"
+hash = "2fc28bd294e7e4372d2b9edf97a192a213035ba7a2e6cd129b95495874d5fef7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -849,6 +849,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "e2e2e14e86490dad80d8d6d8d16915070ae6669a12292629931205f6a929d4d4"
+metafile = true
+
+[[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "39856b030202484375620086fe0e3765f5251f55a5836a0ceaf3b8fe8f5fcac5"
 metafile = true
 
 [[files]]

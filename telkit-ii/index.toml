@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "a7912f8238a2191544ee9d702e1da2c34f01fc0920ece849f29cbbfc418a58e0"
+hash = "d9d73b2abc92577d9dd2b617495f0f235bcc182697dfeef5b8e51fab8f465e55"
 
 [[files]]
 file = "mods/1.12.2/baubles.pw.toml"
@@ -594,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/security-craft.pw.toml"
 hash = "96614ccdcfc0276783fe2ca93154293a68cd1e264ead6fb354ce6e7570c9a1f9"
+metafile = true
+
+[[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "9d4655a84073c0a52bd0a42bc157f4f9000fffa41f556c8157b9432521f88b68"
 metafile = true
 
 [[files]]

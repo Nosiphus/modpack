@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "6a8917b883e7db4137254bc783ce208610bbe447a48d99bcebe78395d0d37841"
+hash = "1430622aa53c78ce1f831ba40322f79777e3a3b6224d6a5920077320a0778dba"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1484,8 +1484,8 @@ hash = "623184f1646be45a3046f794bc8b1b395585b2833b31e097f72448fa21e22682"
 metafile = true
 
 [[files]]
-file = "mods/serializationisbad.toml"
-hash = "7d7ac2c3f71dcc5e6e0fdb96fb187366b19500f9aac961bdf7928f6c0dd2bc9e"
+file = "mods/serializationisbad.pw.toml"
+hash = "9d4655a84073c0a52bd0a42bc157f4f9000fffa41f556c8157b9432521f88b68"
 metafile = true
 
 [[files]]

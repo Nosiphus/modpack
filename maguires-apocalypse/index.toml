@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "a1a82a56a3ac7b9db7204fe4324f67f691e367bec1d3e14d94fee8f37e132e20"
+hash = "dccbb4bd281e564371263aefbfbbb86d03ee29df28589aa6c227fced9e92f5f1"
 
 [[files]]
 file = "mods/1.7.10/codechickenlib.toml"
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/endercore.toml"
-hash = "52831cc84a6bbd5e7a5356b9e8b40ab63823ec5c2cd010a7540b894e7c90929f"
+hash = "caa3d0023b08b8b7152c4bb76614d585651cd05aae263df31e4c672783f59363"
 metafile = true
 
 [[files]]
@@ -167,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/render-player-api.toml"
 hash = "623184f1646be45a3046f794bc8b1b395585b2833b31e097f72448fa21e22682"
+metafile = true
+
+[[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "9d4655a84073c0a52bd0a42bc157f4f9000fffa41f556c8157b9432521f88b68"
 metafile = true
 
 [[files]]

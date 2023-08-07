@@ -455,6 +455,11 @@ hash = "e4006a771a31af14fc88da5d52c73cf815d26a9b2e5a3dcb0463650bd9911e28"
 metafile = true
 
 [[files]]
+file = "mods/serializationisbad.pw.toml"
+hash = "9d4655a84073c0a52bd0a42bc157f4f9000fffa41f556c8157b9432521f88b68"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "1ab85344c915f9c51b7904f688f49c7f17115bbb0972f10dc8c855a109aef266"
 metafile = true
