@@ -42,7 +42,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "e8f1b219f16e435ff7c4c8cd78ce8635e658fc172a3ae92ff60409e71e66799f"
+hash = "458439ed1ccafe872b9b9ef13dd1d07b782e525531e958f51e0419127cb5b233"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "8dfd5ae806895ee6036176990fafede8e5e8d9081f14b9ce241bbc86c79e883c"
+hash = "9129b8506009ba000fa1449707b3964272a58a95368ab97bc652ea94ce6884ae"
 metafile = true
 
 [[files]]
@@ -359,6 +359,11 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "0c793add13628f1ebaea6843fe54c77e4e2a5c1e1ca88efe67612b4dcbf318a5"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "130ffcb310a5d51431fa7b5f9a54e664dae2ae8b0a24c7ac83556162e16ca4ad"
 metafile = true
 
 [[files]]
@@ -483,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "b5875d7c9e2a6cdbf3e80e61277aafc2bd766786221e610ab83ee969b9df1433"
+hash = "b0dc9c5e477a5d53a0c898bb2e4cee7af999c69411d7d35df3d20671cc061b35"
 metafile = true
 
 [[files]]
@@ -628,7 +633,7 @@ metafile = true
 
 [[files]]
 file = "mods/mffs.pw.toml"
-hash = "2f1495f91fa32c3c3d4d0d4fd096801710540fdaf78ebd1c7f17039a542a01a3"
+hash = "56423fb22c866cb31522532bbc75420d3ccf0ccfed15b1b892f43ff8bf3dcc13"
 metafile = true
 
 [[files]]
@@ -993,7 +998,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b7d6fc9dfec829e422c573deab08f23c20e728827998e8d505b54a14845e2b8f"
+hash = "4a9441445804be82d45dd2b718f17fd6bb69d460e19a935da95a947dfd708114"
 metafile = true
 
 [[files]]
