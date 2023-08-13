@@ -34,11 +34,7 @@ hash = "aeded4f82c92c5ab9debee0b420c4957788c3cdd38da329562a59e0832547514"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "325d9a46520801bc3df9f6dd4035440d2d54d67c98309e79708bfa0b99618c87"
-
-[[files]]
-file = "config/defaultoptions/optionsof.txt"
-hash = "d92225b3c17b087f568ad4c9cd6ca0c8d83eb7b9efb6ba29da035f1b673bf498"
+hash = "b8da355bec980b76976f0e705fe37f381bd68ea7b620efd11d8982939fbd3c0f"
 
 [[files]]
 file = "config/defaultoptions/optionsshaders.txt"
@@ -674,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.toml"
-hash = "081f77979a5f136b64c926cef00f0dc677cbf0168fc5818900ef84b86364117a"
+hash = "41baa8ac9e61f86dc19ba89339e677e09ffaf2315154b51deaef900b87674ad1"
 metafile = true
 
 [[files]]
