@@ -5,6 +5,22 @@ file = "config/Mekanism/world.toml"
 hash = "290963b728184c13fea494c2caa50c3ebd36ad098bba6684a75a0a720e349dde"
 
 [[files]]
+file = "config/ModernUI/bootstrap.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/ModernUI/client.toml"
+hash = "f1fe62dbbb76959ea8b00b1511390dc0cd66ddbb099ecf99480e100577eee587"
+
+[[files]]
+file = "config/ModernUI/common.toml"
+hash = "f945d275a66ddec08c1cc3aa5d800675bea43ec270416a70a03fe32e9db7c7b5"
+
+[[files]]
+file = "config/ModernUI/text.toml"
+hash = "2c94a4a7ce5facfdf02b94cdea0063f45791f9b24cf223c8859e56b70ac40d0f"
+
+[[files]]
 file = "config/ad_astra.toml"
 hash = "dd895ec1c9b27786cdf3c1ffd0d998cf31cd3ef316b7f7079dc91f4bf64f837b"
 
@@ -42,7 +58,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "45691590369929843ee8936050a9f52aa51da84caf107d112d3d381dec2a32b4"
+hash = "0ee4d6073b8c86a9dd898fcb73f229c2aa7e75afc59eb0aa81c97a912cfdf105"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -657,6 +673,11 @@ hash = "022ea598ea6d34875cec564155c7555c5549e511647d27a03195991e6cc8e00c"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.toml"
+hash = "081f77979a5f136b64c926cef00f0dc677cbf0168fc5818900ef84b86364117a"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "9dddad6d3f212e6b3357f544f35d74859827f4a7b7662db8986f91f243a3b9a4"
 metafile = true
@@ -848,7 +869,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ac044748ca461791a080a4f1259451bc4ab258851fab9cc282e7a7c23ec86bcf"
+hash = "ec19ef2adf6994632d4fc25b6ed1a2ad1a0c996aa364b78d5aba1bd7b5d74f2e"
 metafile = true
 
 [[files]]
@@ -1009,6 +1030,11 @@ metafile = true
 [[files]]
 file = "mods/yogmod.pw.toml"
 hash = "06e34aa1f08ecee17f789fb87aac9cc9095a31e54401ea75489cf83e89884d1e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/minecraft-ttf-font.toml"
+hash = "226f5f6715074186535b8d1eb13ca23e4331d76d1e34aa560e514d907fbbfb24"
 metafile = true
 
 [[files]]
