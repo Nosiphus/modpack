@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "6b30a9ab724faf3b84d8082e5126954f286853df24b1d9b6f1b4f61839c0c857"
+hash = "4df49d3cbf72f2df77b19875a939c71e160bd6818c43c86c12ea63369fab2d48"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "6868bf0da562f1b72b970d0650b6d0dc7fc365794a5a936e5892e5d659bebd25"
+hash = "bbbc7f4590194e246ae213f9d6f8d75ee71a66e65aca33a998abca820835f3f3"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "8b4ca10ad473da4e2a003b731cf0a306342b57416b449a6acb43bc1ff3d40e02"
+hash = "3557c02693b107fc9e0008884505e01c803e57ba8d1b54aaf0bfc7e6364776e3"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "2d5625745023a392a509aba9ced8e075990ab07a655c2f330decfa641cdddfcf"
+hash = "7db433b63d957485d7cd5e36b649aae4d97a71ac49c657875b3a05f2c220d1c3"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1795389ea718d749e68cd985ecd5bf1d0e865a0ad71570263669bfd0f353ecc4"
+hash = "3a93a5b987d89b3ce4208d1e31b3a5636fc6363ff33896f5a7ad8961df94a236"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "6513a4c41a2bb10838474fa71753eae7dd83472989dee44d727c11c4298b3bad"
+hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b3def581679abd846bc3d5b6de7ff0abd6ce4212fc17390e0ba8455b769c18d9"
+hash = "493574c6b2cb8fccb0cdf9c4385c41ce9e0f79e24320f2ed7955e819f37b7a55"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "c1b60ca58f7ce5a429cd314994c43fae4d925b03fade26c52dfc8117b41b7087"
+hash = "2081c0f4a23b91ba9b5d0baa5b8e39babbdfcdb90ae06cced65a04b48cfdf1a6"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "3ed4c34774f70f80b5625d154f992a0fd72d8cea7fd0a2287027b9681c662a0b"
+hash = "5f7c27afd4a91b1296dfe4f6edfdf14c88b34af812d8d18db48529874398b84f"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "b1527168eaebf6bc0451c39123b098423c01c5f4a13ee9aae45e3a326ca5f8e8"
+hash = "702afc3f4a0c9de4e00b3d6471bc10521de36dbad477a89daa26a67efb2638d0"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a854add3a6d3c819613fdd2eeedde9ff22cdcc81cce9033938abeff2afe129df"
+hash = "17831880d734824e34609ee8f6b6ca677b9dc093a6c6360f86d44b3c66bfd7db"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "65452cf83ff09db0e7371bdd9fceda842b931c37d783d5792b41d5338c1c1b9f"
+hash = "f612b598dff24ce5753aa1f3d687b6296cc09599928044ee62eb5e688be655ba"
 metafile = true
 
 [[files]]
