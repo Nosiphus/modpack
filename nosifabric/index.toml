@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "4df49d3cbf72f2df77b19875a939c71e160bd6818c43c86c12ea63369fab2d48"
+hash = "09dcb7cce1e41b27445ac9515f49138073e4495b514bf1caf718d1a515d1e04c"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "3557c02693b107fc9e0008884505e01c803e57ba8d1b54aaf0bfc7e6364776e3"
+hash = "3f91014ac7c4231347c0fc97afbcdf71f46e58b980d581b064288ab7dbff7734"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "10a6735b79a84353f1620b561ea9fd584140b9a32e084172e74d383875eefa39"
+hash = "225410600e96c40a7b2a712803dcf4d4a51885b8f4932c96b3d537bd263c3e5b"
 metafile = true
 
 [[files]]
@@ -282,12 +282,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b73d4f34c666ccc6785a6f27207e4658951a6935590f06178b30f51876f93264"
+hash = "5aa33cf19de168fa9da2421aff76367a5b7206d9f5ffd1dbbce4bff2a47a88ef"
 metafile = true
 
 [[files]]
 file = "mods/item-alchemy.pw.toml"
-hash = "f8b6b09a37def3cd56abbc3b21846df79d3e20cf7862216250e3081fef050479"
+hash = "29668150ca422333c5d8f8b7e3ff5e593feda59d0241eda628ffd7163e3470d2"
 metafile = true
 
 [[files]]
@@ -407,12 +407,12 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "702afc3f4a0c9de4e00b3d6471bc10521de36dbad477a89daa26a67efb2638d0"
+hash = "e2b994518c34597fc050812188319f95efd305b80f69f8fb68afbe206f0fce2d"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "5c1e9362bfd60c41ce752056b2db0e2a16e6ae879265ecf8cc1d5a54dd6ffe9f"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
 metafile = true
 
 [[files]]
