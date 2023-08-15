@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/moremcmeta.pw.toml"
-hash = "df346d266774c6f60006220b6cc6a8ef1d3279a2787e5f641bacb2d546dd9b1d"
+hash = "a0b5f003349f110c7fcc2aace6fc8841a87c71f3413455cda2e56f46bc3bc6b1"
 metafile = true
 
 [[files]]
