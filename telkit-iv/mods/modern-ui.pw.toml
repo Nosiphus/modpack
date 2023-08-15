@@ -1,0 +1,13 @@
+name = "Modern UI"
+filename = "ModernUI-1.19.2-3.8.0.2-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54e2cbcc5d1accd612c12892020cd54caeb3517f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4703106
+project-id = 352491

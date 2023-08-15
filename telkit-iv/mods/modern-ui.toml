@@ -1,8 +1,0 @@
-name = "Modern UI"
-filename = "ModernUI-1.19.2-3.8.0.2-universal.jar"
-side = "client"
-
-[download]
-url = "https://github.com/BloCamLimb/ModernUI-MC/releases/download/1.19.2-3.8.0.2/ModernUI-1.19.2-3.8.0.2-universal.jar"
-hash-format = "sha1"
-hash = "9926de506d91756b31949a43a88948193e295315"
