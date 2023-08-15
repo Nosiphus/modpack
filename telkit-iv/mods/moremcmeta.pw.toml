@@ -1,13 +1,13 @@
 name = "MoreMcmeta"
-filename = "moremcmeta-1.19.2-4.2.0-forge.jar"
+filename = "moremcmeta-1.19.2-4.1.0-forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HFlxNpln/versions/GTTwOnFz/moremcmeta-1.19.2-4.2.0-forge.jar"
+url = "https://cdn.modrinth.com/data/HFlxNpln/versions/CjCDA9TG/moremcmeta-1.19.2-4.1.0-forge.jar"
 hash-format = "sha1"
-hash = "68059d31446c08a2df822a2d5b0f85037ec95033"
+hash = "4a6574f5be61033078a2d025868482d862d1c9c8"
 
 [update]
 [update.modrinth]
 mod-id = "HFlxNpln"
-version = "GTTwOnFz"
+version = "CjCDA9TG"
