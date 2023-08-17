@@ -679,16 +679,6 @@ hash = "9dddad6d3f212e6b3357f544f35d74859827f4a7b7662db8986f91f243a3b9a4"
 metafile = true
 
 [[files]]
-file = "mods/moremcmeta-emissive.pw.toml"
-hash = "b8dc6bda82db0abb8d0cfff8bda39adba2a05a9de9d814d60d48be480550b104"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "df346d266774c6f60006220b6cc6a8ef1d3279a2787e5f641bacb2d546dd9b1d"
-metafile = true
-
-[[files]]
 file = "mods/moressw.pw.toml"
 hash = "0ef35696c69acab6fd0ca2a55de2f8a492670a0444cfc05c75f116a0ecfda077"
 metafile = true

@@ -371,16 +371,6 @@ hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
-file = "mods/moremcmeta-emissive.pw.toml"
-hash = "c34aaddfaf477392e1b789e387143b513cb21aebe207c8f01b2f7f3a5e8c77d1"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "2049e5ba49cad7dd300864353754b0a82a7fc97c78e4b4075e3925fa724eaecf"
-metafile = true
-
-[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "ae96a2a2fee44e370682e2ee015e25c49462313a6865b3e029703b19ac5cead6"
 metafile = true
