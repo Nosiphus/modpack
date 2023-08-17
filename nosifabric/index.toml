@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "09dcb7cce1e41b27445ac9515f49138073e4495b514bf1caf718d1a515d1e04c"
+hash = "83370d29b5b080682718958adf928efe9678b962eb533c922cd377aedaa2bad9"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "225410600e96c40a7b2a712803dcf4d4a51885b8f4932c96b3d537bd263c3e5b"
+hash = "8ceb7aa6264ca643bb9cb9f5c347f271eae6e5195c929d9264d1ccda50ac547d"
 metafile = true
 
 [[files]]
@@ -371,6 +371,16 @@ hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
+file = "mods/moremcmeta-emissive.pw.toml"
+hash = "c34aaddfaf477392e1b789e387143b513cb21aebe207c8f01b2f7f3a5e8c77d1"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "2049e5ba49cad7dd300864353754b0a82a7fc97c78e4b4075e3925fa724eaecf"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "ae96a2a2fee44e370682e2ee015e25c49462313a6865b3e029703b19ac5cead6"
 metafile = true
@@ -382,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.pw.toml"
-hash = "feb0aee931e3b682471bd6e61db2bc3804a6cde21542673be473c1374020e083"
+hash = "adf39f52030ad2042392dcf00752c15042c86bb16ba823a10e15e333565ba1b1"
 metafile = true
 
 [[files]]
@@ -407,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e2b994518c34597fc050812188319f95efd305b80f69f8fb68afbe206f0fce2d"
+hash = "7c9d9ee59e25d5f71b0b5555c02ede43be58cf0f07bbee9b52b0f1258b9526af"
 metafile = true
 
 [[files]]
@@ -447,12 +457,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f612b598dff24ce5753aa1f3d687b6296cc09599928044ee62eb5e688be655ba"
+hash = "7a1ec3ce2d4c710f2419d2a5bff2b334e6ef7c4ca9b3e60b624bd71cb92bfd08"
 metafile = true
 
 [[files]]
 file = "mods/techreborn.pw.toml"
-hash = "67f94b1b1d8d4f7a88b8e14643ecade49a2ff776bbeb58cdddf083e322123ef1"
+hash = "e08ed79fafeb21ca809e76f4b328ecff1d30f2cfae62687087310eafd74b9cbd"
 metafile = true
 
 [[files]]
