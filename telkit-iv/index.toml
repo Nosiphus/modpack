@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "990202842db53400a7630012c4df153797b734921c209209892320a04c7ea68a"
+hash = "18cb2ec80c37ed2a0fc4881e4a11c419148678b32c532431857581cede3580b7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9dddad6d3f212e6b3357f544f35d74859827f4a7b7662db8986f91f243a3b9a4"
+hash = "cc55a04d08b2e2be2b6d30353ceafec2c85beb242ccb8e5470debdd39da9e671"
 metafile = true
 
 [[files]]
@@ -1026,6 +1026,7 @@ metafile = true
 [[files]]
 file = "resourcepacks/minecraft-ttf-font.toml"
 hash = "226f5f6715074186535b8d1eb13ca23e4331d76d1e34aa560e514d907fbbfb24"
+metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders.zip.txt"
