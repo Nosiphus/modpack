@@ -649,6 +649,11 @@ hash = "56423fb22c866cb31522532bbc75420d3ccf0ccfed15b1b892f43ff8bf3dcc13"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "803401551645c590f91b786ff2d0935eb09949fa12193d552e46665005fe39ab"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "c8d5c55bdeedf8a04cb72d706090ce8ae423c45fbb48dd660df36fbe9e2e8edd"
 metafile = true
