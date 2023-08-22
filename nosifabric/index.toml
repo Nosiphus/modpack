@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "85cc8da7b5602dfda5ea50160bdecb6f65aa1a6e587f7d49aa3de4d95236af02"
+hash = "6ed5d79b5a84774401fb9d74eb7a9d2230910563f9833012f9f192c004eb4658"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "bbbc7f4590194e246ae213f9d6f8d75ee71a66e65aca33a998abca820835f3f3"
+hash = "a779ede1f40b72d68a3c0cfe88e8416b7f58c290aacb3567b3741228146810b8"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "8ceb7aa6264ca643bb9cb9f5c347f271eae6e5195c929d9264d1ccda50ac547d"
+hash = "5efaaf43fc63fe29948cb48504338d23deaa0c9c611fdcbe6f868583841f61ee"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "947c19ef9ffa9b71f436fd202d65805dac0b18b4e4e40b3a2296b53a992009d1"
+hash = "3851cfa6f95cac87314de473dd4179271c8dab6c639652dc83ac688169c00124"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "2081c0f4a23b91ba9b5d0baa5b8e39babbdfcdb90ae06cced65a04b48cfdf1a6"
+hash = "4ddd1e1f8aa5551235f1e471e7ad658fd61b7e7f84639950f1fb1d9584dc26b7"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9851ce3c96c4c2e3485aaf94ce9c0d3f60e90c606e1029119e092504987c7fdd"
+hash = "8c5609126c7a8d38b68c4df16f9e505c5aacdeda05d7a55cb661872db3831ae4"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f9450960a0c923d31864b602bc90e387ebbabbadf4f638329f058c3e1b15af6c"
+hash = "f8468bf1877c422048acb80ffb76aa6de3ea6fcc24f5f96dce4412f1e2d34cb4"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "a83eaf0e340efd659d6f501ae9799f486719e12f004cc70246f28d52e01173f0"
+hash = "1b9f8b0039b5fdf0850e6977ee05eb83065bb68d6ac4fed7a5a1609ca8cc5b52"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7a1ec3ce2d4c710f2419d2a5bff2b334e6ef7c4ca9b3e60b624bd71cb92bfd08"
+hash = "bc69c073e2e326cf1fa37d0601207610d1d17bae3c8fe7d70b22808effa73a30"
 metafile = true
 
 [[files]]

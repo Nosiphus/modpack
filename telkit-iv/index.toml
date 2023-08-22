@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "20d6b0099fc962761f0401a09cf8e62fb3ffcb8ffb2ac6aed67efee4d8dff9bb"
+hash = "cc560a241d5c37e6ba36b884f1a0663e18caaadb55f15f0a898893f8b5b9a774"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3d157a080e4ce21c926901772c3eeaef674f54360ca74a771f0700614800158d"
+hash = "beddec9fec669720a86408d5a67884e71bef5ffb1b3270dd915bb98defd1d4f7"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "871ea2a1ea123faac4659e52950da092d630d622f8404cc44387908175cec8a0"
+hash = "45b2a4ef5e24b2102ac557793f86b25ab0017db6eabe745390b16fcf20926e49"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cc55a04d08b2e2be2b6d30353ceafec2c85beb242ccb8e5470debdd39da9e671"
+hash = "1b6b73b031ec56c42afdb98ac9759c55e3165c9598f5ae4dd4c268413afc071a"
 metafile = true
 
 [[files]]
@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "61459805ead435a8cedf9f599978dce88354a4d3b37e41044f80343e2e9edd9e"
+hash = "398222d52f12efff3677e283566822a2766a68d98267261c916eda974a899c27"
 metafile = true
 
 [[files]]
@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "4484bfbf6db59d8dc5b9d4cc2d2a5e55a56f061ccc6a9371a3e8941d984017ce"
+hash = "5f2660471b2e05efde86cdf60dac12b63d65c954f2da44affc8a3e43f0743842"
 metafile = true
 
 [[files]]
