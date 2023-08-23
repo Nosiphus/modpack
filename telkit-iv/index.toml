@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "cc560a241d5c37e6ba36b884f1a0663e18caaadb55f15f0a898893f8b5b9a774"
+hash = "886ca34656d29ec6f73cebb568e2ff2ea0b1ef8429e6e814a72ab02c6539812f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "10d913b9c551fb64a9a7da04243a2b5c22a42352c7de55808cfa4302963bbbde"
+hash = "d0d2490f39cb7ecfc57e0f6284dbeb5ea90d6798503eb6d0360f39a353d1f7f2"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "7b334bef7e948a9621f413769ab5931f7984c08a74c69aba0e66b1df53fe664c"
+hash = "463e4813051f4a3b6c7a522010ce3b84316f863aa16d1f5f9998f8a9f53edebb"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "871ea2a1ea123faac4659e52950da092d630d622f8404cc44387908175cec8a0"
+hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfishs-gun-mod.pw.toml"
-hash = "b624e40ebb53d9c19e7a45c8731dca04d60f6ee359a5ce64eaafca7177a731e5"
+hash = "9d25723296009a6495d0d9a75ee2bfc54e62dd43ea9ee113b391c629954637e8"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/peacefulsurface.pw.toml"
-hash = "727f1f557d1f2bdcc11307f18817334374b75bdad1252b227fc34c1dbb3f82b0"
+hash = "8a6a8a55f07d1411be6fe50c8bf15b7992ef8be43445312793925f1ce772b1ac"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "aa57dc1cc304a3f1946fa9300a6b6be00aac1fa68d84f36495556232f44c20be"
+hash = "a6b779b19fdc89e36439ddaf01be97ab2d6c1deb9229e104c581a575ebf1fa89"
 metafile = true
 
 [[files]]
