@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "6ed5d79b5a84774401fb9d74eb7a9d2230910563f9833012f9f192c004eb4658"
+hash = "adf72707402e5d6073537622bc7b8040253e85379486c0e8937f30f17b527439"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "a779ede1f40b72d68a3c0cfe88e8416b7f58c290aacb3567b3741228146810b8"
+hash = "f449842855816a364764dc02317099b4e8164b068b185bf0194c8fb638b57d6d"
 metafile = true
 
 [[files]]
@@ -201,6 +201,11 @@ hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "e5bbc96d6d5d6bffb8e36c89bbd1331d923e23fbb87be8bae208d206832adb1c"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "10d7d852bc1f3f4e15a5b346ce78ddf5cc2f80f6b023026e91203e0188c3af59"
 metafile = true
@@ -232,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
 metafile = true
 
 [[files]]
@@ -301,6 +306,11 @@ hash = "0afa1d2acbb35888bef596fa85de0cac881c881ee6cdd60940d711190f6a181a"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "1d8b10baa654959dbe4c1ca48e673c2eb7a78c849f372dbfe71bcffb006a5d7e"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "0a165b0f2bc1c7da29fca8481d3e493375fbac1ff371fc11bfde108d02ecdeb0"
 metafile = true
@@ -361,6 +371,11 @@ hash = "72d4a996a94af700687962c438b60dece8bd842aa446d7ae139af66b0957d887"
 metafile = true
 
 [[files]]
+file = "mods/modern-beta.pw.toml"
+hash = "9557009bff6fd7d1be4db8f40b8e561c3336d2d7da9a06e448f8e8555ae65c57"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "8c5609126c7a8d38b68c4df16f9e505c5aacdeda05d7a55cb661872db3831ae4"
 metafile = true
@@ -368,6 +383,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
+metafile = true
+
+[[files]]
+file = "mods/multiworld.pw.toml"
+hash = "ff0ee611a61f5bfdc22ee050d0324f3f5dbb9fa7ef443f23e62515b862cb1b5c"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "3b525404ba90b0d5fbe2a76a06cc7484863c0307d3359ad1a38647ed734a4735"
 metafile = true
 
 [[files]]
@@ -387,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "16edb6e9b2eb85405f9a3e4ac7159a0c00a9d47bfb4dc9d5b548bca37245fc06"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
 metafile = true
 
 [[files]]
@@ -397,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "b8b38c26445e45e0d041c324b63251331ef60a6740d9a3ffe8eb369884d16c4f"
+hash = "20d8dfbc90c81bb784a17b7f88c4ff00ecb9946c29244af47b9e1586a9395a8d"
 metafile = true
 
 [[files]]
@@ -407,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f8468bf1877c422048acb80ffb76aa6de3ea6fcc24f5f96dce4412f1e2d34cb4"
+hash = "64610055165c33544d4b0744eb3c2009f16002e8ba8f0d95df31cff179851d04"
 metafile = true
 
 [[files]]
@@ -422,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "4bf9b4c8888a01c770878fe183637e0a178bde39109334e0439741126c4df656"
+hash = "3decc297ef37c1ecb820b095d076dfa04e5c2d16a29e165f27c911a80d2e4afd"
 metafile = true
 
 [[files]]
@@ -447,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "bc69c073e2e326cf1fa37d0601207610d1d17bae3c8fe7d70b22808effa73a30"
+hash = "316e9f980caa0221fb874b178794d1a52146285cf3693d0ca759b9ea171977b7"
 metafile = true
 
 [[files]]
@@ -462,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "76399c0215485b6bfd8fd76af021c0d8956440ec010c83ad59fdb79715db2884"
+hash = "e8545f7497c2d617b1f0cc429c6bd3282dde45e4d1cc818e24a82a45e8de5bd5"
 metafile = true
 
 [[files]]
