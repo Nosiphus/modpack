@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "886ca34656d29ec6f73cebb568e2ff2ea0b1ef8429e6e814a72ab02c6539812f"
+hash = "d4390a1bb774d3fc3a74967b482d39f0f60a6b513020ccafe283360447153646"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "7b4458a7677e9fa9ba063949798313169aa34caad56cd69b0d529c8287e4b325"
+hash = "2fe020f3f2a0edeb7f718449e12bddda0a03f5a0aa768a7195006f6a144e9c8c"
 metafile = true
 
 [[files]]
@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "4484bfbf6db59d8dc5b9d4cc2d2a5e55a56f061ccc6a9371a3e8941d984017ce"
+hash = "97bddac9af4d092b1c84fc354b65884767a858b4aa2062709a827d26c5c7c6b8"
 metafile = true
 
 [[files]]
