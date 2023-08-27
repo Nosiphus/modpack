@@ -884,6 +884,11 @@ hash = "094d9828ac94c8a01c0c66fe0818e1ba7062664f5335448d8994339945fedf2e"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "72917758f9b7e1c8d563f9042fed813964e498ceb0dd7f2f6bc1a20df8e70d4c"
+metafile = true
+
+[[files]]
 file = "mods/solar-flux-reborn.pw.toml"
 hash = "a77b67c1cfce2b892bd0761c9c743e46c27952b22a54c0c049ce2c8d2a56aa43"
 metafile = true
