@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d4390a1bb774d3fc3a74967b482d39f0f60a6b513020ccafe283360447153646"
+hash = "17c7676d88c0282802e3b114fb058a599833b57f2f8065560c689011041e6aa3"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -285,12 +285,12 @@ metafile = true
 
 [[files]]
 file = "mods/ceiling-torch.pw.toml"
-hash = "553fe6cb94fdd7494beda4a85f984499d821c559dd72a2125c0dcb552b42d310"
+hash = "08da0737b74fc94cca3f6aea9626f5e2994ed60526cbfd39d42acf2440a59d23"
 metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "c324a6791dbb090123f20d2d870e2beaa0d15df69ac3596b19422f3bedff7869"
+hash = "eaf5ff310b162fe7f6443807011b9a3b5735ce20898b81ec8628ec2111fc0626"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "0c0819e3f1ca43c84af57322e215cd56c8b94a1b620dd021000e0af5775e8af5"
+hash = "4bea29c085005c64ebb779e2b831f531d390889ca93057e7feaaf68329ec7544"
 metafile = true
 
 [[files]]
@@ -680,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1b6b73b031ec56c42afdb98ac9759c55e3165c9598f5ae4dd4c268413afc071a"
+hash = "65c18ab717e899adcb2482cc9db7518e25c853d34ed9ac38340f854d76895a70"
 metafile = true
 
 [[files]]
@@ -875,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/serializationisbad.pw.toml"
-hash = "9d4655a84073c0a52bd0a42bc157f4f9000fffa41f556c8157b9432521f88b68"
+hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
 metafile = true
 
 [[files]]
@@ -995,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "4484bfbf6db59d8dc5b9d4cc2d2a5e55a56f061ccc6a9371a3e8941d984017ce"
+hash = "5ee0f10edcf28a4ff540aa5b583323576ca0579af9f2d19067f5f5b59c390b52"
 metafile = true
 
 [[files]]
@@ -1020,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "4a9441445804be82d45dd2b718f17fd6bb69d460e19a935da95a947dfd708114"
+hash = "321aaae0e3c51c6f4f43f06ff583fcd4d6e83c44dbef4215716ea5ffafde5ac2"
 metafile = true
 
 [[files]]
