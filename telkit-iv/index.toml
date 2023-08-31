@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "17c7676d88c0282802e3b114fb058a599833b57f2f8065560c689011041e6aa3"
+hash = "a1f96517cb789a2292a1e0f27510bf1c586f0e00103f5dbffe9b31808ab78f11"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "a7772c1f7948e87e8adb3357b65277226fe454d670aa2268963729df075d1363"
+hash = "913d9e2d447f5ec5b66277219458a9c932ed6b21c27a51483d8d9bb9c9de1455"
 metafile = true
 
 [[files]]
@@ -675,7 +675,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "65adde7d5f0e0df7de61fa0623008e335f676aadd142a0d0f6aa6417adc094c0"
+hash = "8ef603c9b27477caf10a23bf13b53725a4e4c87f0cd12b8bc33a9e8aa9aa9770"
 metafile = true
 
 [[files]]
@@ -690,7 +690,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.pw.toml"
-hash = "d7251f3786587a3a9ad436fa1e001bc2cdb444df6ba7a5daf32669992f41b2a7"
+hash = "ea85af4a2827ae294cdce78d343c37e5a6fb5a9300683dbe4643bd16bf074f32"
 metafile = true
 
 [[files]]
@@ -995,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "4484bfbf6db59d8dc5b9d4cc2d2a5e55a56f061ccc6a9371a3e8941d984017ce"
+hash = "d3b1581fc4eb333679483578f7d6745f627848a162de5ac04b6270b2f5d97ab3"
 metafile = true
 
 [[files]]
