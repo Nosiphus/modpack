@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "a1f96517cb789a2292a1e0f27510bf1c586f0e00103f5dbffe9b31808ab78f11"
+hash = "8260806ec6a79266b1b2ebaedc9a5ee16985e4cfc6bb9cb9096e5b74376e69da"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "b0dc9c5e477a5d53a0c898bb2e4cee7af999c69411d7d35df3d20671cc061b35"
+hash = "07893b5218daeac3e994d7ecd1ed952f66302345c2d3c6742c434beeca0cbf21"
 metafile = true
 
 [[files]]
