@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "dccbb4bd281e564371263aefbfbbb86d03ee29df28589aa6c227fced9e92f5f1"
+hash = "f91af5fb390f75ea7dea8ec75e7500d2b7eed5fbee9ca47d3ce3de80c95cbfa4"
 
 [[files]]
 file = "mods/1.7.10/codechickenlib.toml"
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/serializationisbad.pw.toml"
-hash = "9d4655a84073c0a52bd0a42bc157f4f9000fffa41f556c8157b9432521f88b68"
+hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
 metafile = true
 
 [[files]]

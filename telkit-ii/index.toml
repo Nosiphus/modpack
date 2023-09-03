@@ -129,7 +129,7 @@ hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
 file = "config/wtp.cfg"
-hash = "d9d73b2abc92577d9dd2b617495f0f235bcc182697dfeef5b8e51fab8f465e55"
+hash = "6634d2e059c7e23cc4cb05cde7ef174edc9b72f248340d08f725719b1a6302b4"
 
 [[files]]
 file = "mods/1.12.2/baubles.pw.toml"
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "2676bfac716c4970e7cb978611cb21ebc365c461569e06a918442ccd02968c22"
+hash = "f03aa10a2d6435326875419c039558ac254a4e1a9c9c069a09ab33e0a1742351"
 metafile = true
 
 [[files]]
@@ -598,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/serializationisbad.pw.toml"
-hash = "9d4655a84073c0a52bd0a42bc157f4f9000fffa41f556c8157b9432521f88b68"
+hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
 metafile = true
 
 [[files]]

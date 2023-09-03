@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "adf72707402e5d6073537622bc7b8040253e85379486c0e8937f30f17b527439"
+hash = "2e43a0b62b2327e3ae318c7267c17d40d2415bfba805c3fa4d408a8d67ae0333"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "7d3e3759802a8804a91078723cee2db7bd817f928af5270db0afc7e34009c6b3"
+hash = "a2df16c5598749aa1daf10c327ab4b2e79ebde6511a3340c37a708425c1f8029"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "7db433b63d957485d7cd5e36b649aae4d97a71ac49c657875b3a05f2c220d1c3"
+hash = "0eade623c5e691a94d27ff5e950afe34d4ce8c2f89f63d1748bb947c91736c9a"
 metafile = true
 
 [[files]]
@@ -212,12 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "5efaaf43fc63fe29948cb48504338d23deaa0c9c611fdcbe6f868583841f61ee"
+hash = "4bd30270e79455b8b2cbc381a376b11042283c376aed755637c3564611efd046"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
+hash = "2ad872687375d4d3bd8593bd984e8cfa32d0e653be5c895b5df95c2fc8733513"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
-hash = "4ddd1e1f8aa5551235f1e471e7ad658fd61b7e7f84639950f1fb1d9584dc26b7"
+hash = "5b19d891cff18fab63d295f735f1fe3653d9ae066d87aa52581a87b3b9561055"
 metafile = true
 
 [[files]]
@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8c5609126c7a8d38b68c4df16f9e505c5aacdeda05d7a55cb661872db3831ae4"
+hash = "e5f92dc07f3f57d187c366dc98c1d16d75df5cf47775b1c2d8589f5a01900536"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "64610055165c33544d4b0744eb3c2009f16002e8ba8f0d95df31cff179851d04"
+hash = "194555ee6c33f44ff6dab0b73243b33978fab2b4cc77b9cc4bcdb544ebbb8bb5"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "ecfe4b722ab208dcc3fae855116b2a962a23aa5939245ba428fab97f6ecdf24f"
+hash = "980fb3e746441d120ea40f9c8b488aa0200894c58474a080a8f7c353ae53818f"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/wiredredstone.pw.toml"
-hash = "1f86bbf321f45c7068c8cbfbbac276ddc31637c29344af3cbd139ef6d0c1bb26"
+hash = "93eed47c991fcccbdb68821d8854f6e1a0452a3de56628c410761a224fd341b4"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "74e5a98dbabe5baabaec39f2b6c8dc6908c82aaed5188e798b26ace7b3b590ac"
+hash = "4e34ef6f58a17523c6fbfd210277a9871ee39a1f0d30e9906edd69d9a1ac0755"
 metafile = true
 
 [[files]]

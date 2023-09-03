@@ -1,13 +1,13 @@
 name = "Extreme Reactors"
-filename = "ExtremeReactors2-1.16.5-2.0.70.jar"
+filename = "ExtremeReactors2-1.16.5-2.0.71.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/idkvShUy/versions/WjWzQcbH/ExtremeReactors2-1.16.5-2.0.70.jar"
+url = "https://cdn.modrinth.com/data/idkvShUy/versions/ZaHjUOrO/ExtremeReactors2-1.16.5-2.0.71.jar"
 hash-format = "sha1"
-hash = "7018d485464aa439d4b7a34d34544ad7f1144d4b"
+hash = "ba99645ecd4b8ef608f3d12c6526398cd10a6498"
 
 [update]
 [update.modrinth]
 mod-id = "idkvShUy"
-version = "WjWzQcbH"
+version = "ZaHjUOrO"
