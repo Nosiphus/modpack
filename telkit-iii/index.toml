@@ -222,7 +222,7 @@ hash = "f235a987900a67fa98952b0aa618bf5f3a23e062f4d00ae8190929efddac6caf"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "8fda6c2f00bf9ebe4937f7939e532a72a2611363dec14285a3c3b0e05486934f"
+hash = "0717571b6aaa8f30c8633323ed82c716bcdd954dee3480db07db52f737335e18"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "4ced9c042f466881cc630ada3db25a0c02a466c2e1642de9deb95ea010493841"
+hash = "634e55d4cbce2eb2200bc89fe34b419abfc7860fe2ff912883861e1c03edfd55"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -241,52 +241,28 @@ file = "config/fancymenu/images/telkit-iii.png"
 hash = "212492a726ca3a67f0d822a5b615473c57ecd890a5c9c6a05cc2d8776da4b72d"
 
 [[files]]
-file = "config/fancymenu/locals/de_de.local"
-hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
-
-[[files]]
-file = "config/fancymenu/locals/en_us.local"
-hash = "01b9e0b0b0332e282798041e16badf6804bec9b46edcd279a5c6d9110ae31ffe"
-
-[[files]]
-file = "config/fancymenu/locals/pl_pl.local"
-hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
-
-[[files]]
-file = "config/fancymenu/locals/pt_br.local"
-hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
-
-[[files]]
-file = "config/fancymenu/locals/zh_cn.local"
-hash = "b9c3dfadba74762bfea5837060ca5bfb4dfd3b1fbcd65fb6c0d190df4ec611d6"
-
-[[files]]
-file = "config/fancymenu/menu_identifiers.db"
-hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
-
-[[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_0.png"
-hash = "f587bd706bd1f3906aa8ad79f9a8f6723ae4a9ebbcf38b08eefdfa1452e4f84e"
+hash = "d69527853714b68f7cd5018b5c8afeef7ee99a83f423efab3f55953432afa48f"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_1.png"
-hash = "f3d0670712bcb80d291245a81bade9be38d048fc243081dccc71b2c992d72e72"
+hash = "a805be4da7f116c36809aeeb1d41454a75659da214a7346cc13334e70d2750c3"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_2.png"
-hash = "283075c6df4e5493f51f4f219372ba2de8d34713b04e4ad6a8a5791f39c4158d"
+hash = "b1a2eebfc40929972516c25aa25f3649dff3c1d7ec6c994225d7d81ff7bf837d"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_3.png"
-hash = "757f2464eb52c3ea32706bb8731ab7b0bc75604e7a672765a8aeac5b9b0345f9"
+hash = "cd94c7f734c384e7394c0893b31cee4ed4c2352fb8a32a98654a635e12e51dc7"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_4.png"
-hash = "b76f10d4d36a7531c0c0f288665b2d333c167622106949ac8cecf870fc220315"
+hash = "9ea936ea96020336ec1b86be54712e877e6242a36c477114ba3ff8c38fd8592b"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_5.png"
-hash = "cdc0a12282b22d513fe039025ad5c3b8d721c1de2d93b67bd8e926e55401b3fa"
+hash = "04d254c1537d702d5dfd113357074e862f54fe7b19d144284fb9ab5fde45b368"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/properties.txt"

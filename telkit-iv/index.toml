@@ -133,6 +133,10 @@ file = "config/mca.json"
 hash = "fb51e5dd9ab931a29e707d496a44662664930f2ac9acc8ffcfc33eb8da479fc5"
 
 [[files]]
+file = "config/panoramica/config.txt"
+hash = "e48bfe3848c8d06eeca9e748b43c4c8f21bb3a314e9a5f6d4c6ad461235565f8"
+
+[[files]]
 file = "config/pfm.toml"
 hash = "6766d8f6c90f09f96f74274829db94858bbf45775c2b27375edd853635249453"
 
@@ -741,6 +745,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "436e48c262de638e8ee65ddaef97883a8ce77d2c1d4f183399ce2def81da7993"
+metafile = true
+
+[[files]]
+file = "mods/panoramica.pw.toml"
+hash = "18213c3ed991534acc1e1154e420faee46bfb19e2ab8c74c88caf4de12e007be"
 metafile = true
 
 [[files]]

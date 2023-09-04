@@ -140,9 +140,9 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
-  x = 124
-  width = 233
+  hidden = true
+  x = 104
+  width = 272
   action = deep_customization_element:title_screen_forge_top
   actionid = c6ac451c-32b9-4250-92ea-731ae08de5c01656791587908
   y = 4
@@ -207,7 +207,7 @@ customization {
 }
 
 customization {
-  showname = true
+  showname = false
   orientation = mid-right
   crouching = false
   x = -31
@@ -270,14 +270,13 @@ customization {
   orientation = top-left
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = openlink
+  buttonaction = openlink;https://www.nosiphus.com/%btnaction_splitter_fm%
   x = 20
   width = 48
-  actionid = e66a4a1c-c062-4615-b940-c380aa54573d1627567227941
   action = addbutton
+  actionid = e66a4a1c-c062-4615-b940-c380aa54573d1627567227941
   y = 135
   label = Nosiphus
-  value = https://www.nosiphus.com/
   height = 20
 }
 
@@ -285,14 +284,13 @@ customization {
   orientation = top-left
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = openlink
+  buttonaction = openlink;https://bdcraft.net/community/releases-for-packs-f10/telkit-t6949.html%btnaction_splitter_fm%
   x = 69
   width = 40
-  actionid = df06868a-7782-4f96-b5e2-72c15a70dd841627567227950
   action = addbutton
+  actionid = df06868a-7782-4f96-b5e2-72c15a70dd841627567227950
   y = 135
   label = BDcraft
-  value = https://bdcraft.net/community/releases-for-packs-f10/telkit-t6949.html
   height = 20
 }
 
@@ -300,14 +298,13 @@ customization {
   orientation = top-left
   loopbackgroundanimations = true
   restartbackgroundanimations = true
-  buttonaction = openlink
+  buttonaction = openlink;https://www.nosiphus.com/minecraft/modpacks/telkit-iii%btnaction_splitter_fm%
   x = 110
   width = 40
-  actionid = 5c326540-efe6-4ae6-a884-e4c834330d071627567227959
   action = addbutton
+  actionid = 5c326540-efe6-4ae6-a884-e4c834330d071627567227959
   y = 135
   label = Website
-  value = https://modpack.nosiphus.com/telkit-iii
   height = 20
 }
 
