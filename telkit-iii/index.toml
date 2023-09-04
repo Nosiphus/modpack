@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "34513c3053c138e75986f126fdc89b2b18c202800ac6f6f3a59ed25222cefb0f"
+hash = "4ced9c042f466881cc630ada3db25a0c02a466c2e1642de9deb95ea010493841"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -363,6 +363,10 @@ hash = "d1e8040321a75d58a472dec80d22df4010ea5965e2e73dee1ddc28e2ff69cf36"
 [[files]]
 file = "config/naturescompass-common.toml"
 hash = "6ae14ad41d54ef34ad4a93af598353589910364fb32c13b0a973bdb357980aee"
+
+[[files]]
+file = "config/panoramica/config.txt"
+hash = "ca7c4e4ea6b26a2445bf4114c35a6ad8a33dce5872b8e67b7648d1c8a124da07"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -903,6 +907,11 @@ metafile = true
 [[files]]
 file = "mods/optifine.toml"
 hash = "43018791d88f4fad12f1ff1af0c3753438709dddcb4773c799086612f1ff3b47"
+metafile = true
+
+[[files]]
+file = "mods/panoramica.pw.toml"
+hash = "3761f95d0901b3a6d3dc821a6132201dd3db411a1b83457f412056bd537ca44c"
 metafile = true
 
 [[files]]
