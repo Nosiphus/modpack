@@ -152,6 +152,10 @@ file = "config/musiccraft.cfg"
 hash = "02fd545048268ad735e2aaad89255c59e2e237ed3b5ecd71cedaaef505675a07"
 
 [[files]]
+file = "config/panoramica/config.txt"
+hash = "ca7c4e4ea6b26a2445bf4114c35a6ad8a33dce5872b8e67b7648d1c8a124da07"
+
+[[files]]
 file = "config/randompatches.cfg"
 hash = "ddc6e66ccbe2c1b2a12f88f67db665eed9adddc8791dda43135702627e62d398"
 
