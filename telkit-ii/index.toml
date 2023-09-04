@@ -128,10 +128,6 @@ file = "config/webdisplays.cfg"
 hash = "7903a470001cb3855c83b7c90a2def5f1912cf252c91593af16997c9f644031e"
 
 [[files]]
-file = "config/wtp.cfg"
-hash = "6634d2e059c7e23cc4cb05cde7ef174edc9b72f248340d08f725719b1a6302b4"
-
-[[files]]
 file = "mods/1.12.2/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -272,6 +268,11 @@ hash = "eafb0b5ea70aa40fd93e93331e0a4d59708b9a7502297a3ece67a3c83813f9a2"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "f434e33ce2d4ad7fa8d4586068c74e4b72fcba4180677eaa4932746433132494"
+metafile = true
+
+[[files]]
 file = "mods/fawe.toml"
 hash = "b8adead045ebd302e5d42bfc60484bbb9edfd79937ada5a84a6bef7059dc48d9"
 metafile = true
@@ -293,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-essentials-74735.toml"
-hash = "9a6aa7eeeda34433f4749802cec1959d79901e387a04dd07a0e563a87c1f5138"
+hash = "4726bacf483cf10d9c006029e66999af6d2a02f02e0b499c9b3bf34de0f9c7cb"
 metafile = true
 
 [[files]]
@@ -367,6 +368,11 @@ hash = "dba81061f9ae2e5266b8eb31a5e4f61c1f5ddd2c421afa0d5b13c9cd9a159e81"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "cb166ff8113eedc90a0746dbca95c5ed589ff80969035ea30980534e5addde21"
+metafile = true
+
+[[files]]
 file = "mods/lucraft-core.pw.toml"
 hash = "f8769b779556a763c6291358a2fdc82b8e7e573d9e39aa9d1ba45ff488853490"
 metafile = true
@@ -394,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-mca.pw.toml"
 hash = "3a4dca5c54b1e8632f6171b5913e2d72b7931016e78bd1066d4651d509bc50f1"
+metafile = true
+
+[[files]]
+file = "mods/mixinbootstrap.pw.toml"
+hash = "0076482df8cc8fad4533a7b173a1dc09e20259fd1a7e3283920a7a000a923e37"
 metafile = true
 
 [[files]]
@@ -484,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/optifine.toml"
 hash = "bb0145fe9765794b5c74a2ed48311ecbcfbb9ba259c0d2442669d463ef4fd1bf"
+metafile = true
+
+[[files]]
+file = "mods/panoramica.pw.toml"
+hash = "ad52a28fd0f96c71a95fd898ac52c9652bd981bc61334e9a7e0b9683f9d741fa"
 metafile = true
 
 [[files]]
@@ -719,11 +735,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "d10c418f02190951aa9909a46005af48ab9aa214ed356337c432fd6f3cd3b1ab"
-metafile = true
-
-[[files]]
-file = "mods/wtp-whats-this-pack.pw.toml"
-hash = "6a43593f8b5aae6f204f22be114d1d05cc3d58bf5367abfb40324b5b1d8a2642"
 metafile = true
 
 [[files]]
