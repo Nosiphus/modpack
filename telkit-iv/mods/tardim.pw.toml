@@ -1,0 +1,13 @@
+name = "TARDIM"
+filename = "tardim-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2278711666e323819f8f99e747eaf4faf930f8f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4453925
+project-id = 531315
