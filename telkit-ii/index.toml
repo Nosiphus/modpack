@@ -88,6 +88,54 @@ file = "config/defaultoptions/servers.dat"
 hash = "007ce69456cba5e7c43c3507c5c8bef5fb6e36c6e28dd4e07234f6b3db2c1ab2"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "28a7db9b599a7d7cb821df1efda5d643872c8282ce05bd7c9bff1a39d7707d64"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
+
+[[files]]
+file = "config/fancymenu/customization/Telkit II.txt"
+hash = "dbac6a7ce16cc77192e0929f0121eb762fbe671da0de0437ccb9a50304eaab6d"
+
+[[files]]
+file = "config/fancymenu/images/nosiphus.png"
+hash = "9593373a6f7c5eba83906674d0b7aa333adc7fae3510a90e9d5d66a784e6bf20"
+
+[[files]]
+file = "config/fancymenu/images/telkit-ii.png"
+hash = "9927ad450634b06b79522ff23bb821bd54203774536c243103f24808deef37ce"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_0.png"
+hash = "8b0d510f59823082dab16b466c9fcd19ceefa3c9cc72b56083c2c39d33cc69a9"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_1.png"
+hash = "8581240fe1412a8fc2d7ebd7f76e78b0d0697fce7be774807ec74df4fbda2dde"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_2.png"
+hash = "edbb7535ea94723edb161827b74b60d82ef44d5ec4f7a57bf90833b0f81d2e99"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_3.png"
+hash = "63a08e6aec04ed308e94af72b2097fdcfabbb4a3d2ea3b7659cff842eeeddffb"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_4.png"
+hash = "4dec5fb967bb5c0f6e172631e15e340501e944abbb6d3fcfae4733c0ee2b22af"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_5.png"
+hash = "62fa0524e2be5cf8874af76244c7b758e83dba0d9a6963969c7a1dc33a026b33"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/properties.txt"
+hash = "280d8fbf33a3c8adf4e10cbf7e139b6a034b6e0d9fcc00418559c91d21082e02"
+
+[[files]]
 file = "config/foamfix.cfg"
 hash = "1eee7c01ee4a41a9823016a2f7b696efbe18f81a1434ad36805c1445ccae163f"
 
@@ -105,7 +153,7 @@ hash = "02fd545048268ad735e2aaad89255c59e2e237ed3b5ecd71cedaaef505675a07"
 
 [[files]]
 file = "config/randompatches.cfg"
-hash = "0872d29fe3c21181e73392bf8851c3741e50285bffd697cb9c1622d23729893a"
+hash = "ddc6e66ccbe2c1b2a12f88f67db665eed9adddc8791dda43135702627e62d398"
 
 [[files]]
 file = "config/vanillafix.cfg"
