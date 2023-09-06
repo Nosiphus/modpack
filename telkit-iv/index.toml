@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "f2484432ef9d7537bd394fdcdc84f1333158a243dc72cef46b72e4c63db6eb2b"
+hash = "2703b26af8dec56fb9e9dc354dba6b83f8a3e9c1858d5b9998c4557fb0a5751e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "3b25d129d50c154e26487294c1bad1d48b220e7ad28f7848452d8040a2344b78"
+hash = "0a9281c184949ebdabf0c5b0344ca155bf69a574ff406e121efdde3d3f5407d5"
 metafile = true
 
 [[files]]
@@ -462,11 +462,6 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
-metafile = true
-
-[[files]]
-file = "mods/ftb-essentials-forge.pw.toml"
-hash = "422cca389e4671a6a6cddd0fd49d177bc07112752e839acb8e9af13415a8aa82"
 metafile = true
 
 [[files]]
@@ -821,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "3200bda28a762c97fe6e40550278355e69ba7b0bc37eecaed3ea26fdfea1ef19"
+hash = "89cb63df186c3accb5d4dfd34ac4a527c6601dde043c51d315323d8b04a46dab"
 metafile = true
 
 [[files]]
