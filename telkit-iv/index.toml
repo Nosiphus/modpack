@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "2703b26af8dec56fb9e9dc354dba6b83f8a3e9c1858d5b9998c4557fb0a5751e"
+hash = "3e262582cd56f8d9d50d334772aa55c6861de601262dfa16b3ec4dfe4cbdc867"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "07893b5218daeac3e994d7ecd1ed952f66302345c2d3c6742c434beeca0cbf21"
+hash = "ed66b61f7b7f40fff514517ab026982064421132700d90584078078c75f1cc2e"
 metafile = true
 
 [[files]]
@@ -502,11 +502,6 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "52e48ec6907c9fba38819304325362bf532ceb904a838b75c29530480f11bc81"
-metafile = true
-
-[[files]]
-file = "mods/just-zoom-forge.pw.toml"
-hash = "22267079d5b777a0d8da7ec58707613711689dbb2902502b996658ec1a14bd8a"
 metafile = true
 
 [[files]]
@@ -897,11 +892,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a6b779b19fdc89e36439ddaf01be97ab2d6c1deb9229e104c581a575ebf1fa89"
-metafile = true
-
-[[files]]
-file = "mods/tardim.pw.toml"
-hash = "b2fb2bee6c9f4e80d974c7f927f3c5edf2c5f4912db1f13944da4b8d1d493c54"
 metafile = true
 
 [[files]]
