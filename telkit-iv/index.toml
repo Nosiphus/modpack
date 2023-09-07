@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "3e262582cd56f8d9d50d334772aa55c6861de601262dfa16b3ec4dfe4cbdc867"
+hash = "207481ad230098143d7f8a293045b3db8cb9af1cf8e6b5e8aab0b27e10d0bfe6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -505,6 +505,11 @@ hash = "52e48ec6907c9fba38819304325362bf532ceb904a838b75c29530480f11bc81"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "fdb075c3b1baaa3e9dac9bf18cddc6e43e650fe5fb26186f57e495d882361e60"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "6565b62cadb7fe868a1c10d7f71e813d0f634e9ef0c93869a0e04a65bcbe58c9"
 metafile = true
@@ -852,6 +857,11 @@ metafile = true
 [[files]]
 file = "mods/sit.pw.toml"
 hash = "094d9828ac94c8a01c0c66fe0818e1ba7062664f5335448d8994339945fedf2e"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "c39304973fc84b304086fa703b2da08a9cb6bc6dc4e8921f33b1a637b696612c"
 metafile = true
 
 [[files]]
