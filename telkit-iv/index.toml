@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "9cf5ad297a8b846f096d94b53ad7b159c7c9690ca4bb468b84226135517b8a76"
+hash = "d73a2feb89dd7d9882cc0050768bfc641509cc4c3f878b0dab682620192b7a8a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "416a0da234b6bb8e3a70d52ac4dc595a6e9c175fdc2d858e1d4f9ce1b9faa60d"
+hash = "2159d59c6e21ed37a214645e522f6269ae4d7ca6a9a7ed2258df8b4773022d72"
 metafile = true
 
 [[files]]
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "8ef603c9b27477caf10a23bf13b53725a4e4c87f0cd12b8bc33a9e8aa9aa9770"
+hash = "b8687834a95ca1552e61538b3674c6447cda8ae964bad1a0a9e506a0e6ef3769"
 metafile = true
 
 [[files]]
@@ -826,7 +826,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ec19ef2adf6994632d4fc25b6ed1a2ad1a0c996aa364b78d5aba1bd7b5d74f2e"
+hash = "a4d8698184c30c709ecee80f05f0823da9a67591105f47e2792438a083fb1e35"
 metafile = true
 
 [[files]]
