@@ -1,13 +1,13 @@
 name = "Thermal Cultivation"
-filename = "thermal_cultivation-1.19.2-10.2.0.17.jar"
+filename = "thermal_cultivation-1.19.2-10.3.0.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5beJoehw/versions/DqrDPKPY/thermal_cultivation-1.19.2-10.2.0.17.jar"
+url = "https://cdn.modrinth.com/data/5beJoehw/versions/30AsnE6f/thermal_cultivation-1.19.2-10.3.0.19.jar"
 hash-format = "sha1"
-hash = "a154deb121191c54f2d2ff13f745ce4f0e376fb7"
+hash = "afb0eb56575496154c67b471fe88f1c966bcd16a"
 
 [update]
 [update.modrinth]
 mod-id = "5beJoehw"
-version = "DqrDPKPY"
+version = "30AsnE6f"
