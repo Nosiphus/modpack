@@ -810,6 +810,11 @@ hash = "89cb63df186c3accb5d4dfd34ac4a527c6601dde043c51d315323d8b04a46dab"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "5cd0ed2f4f1e5fc7c9ae3026cb994f8712872a61827f0ca0a3db0f3953c3d288"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "3c827ff9fbf2b5bd9aaa1eedd0e246fbe15e76307de20098ec4e2f27ee18a415"
 metafile = true
