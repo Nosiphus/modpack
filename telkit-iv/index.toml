@@ -395,6 +395,11 @@ hash = "c6e329194f0891f148e8f3054b0d38b44390ecfc9867d507dcd315da7d59ebaf"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "2b1eb8703691904ef1c72d05cbce20f4354f767ccdf19f2eb15e8a2194641484"
+metafile = true
+
+[[files]]
 file = "mods/ender-storage-1-8.pw.toml"
 hash = "b8ba0a251d14abf255a8477337c2d81023228c779793218ef3990247632ef86e"
 metafile = true
@@ -815,11 +820,6 @@ hash = "5cd0ed2f4f1e5fc7c9ae3026cb994f8712872a61827f0ca0a3db0f3953c3d288"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "3c827ff9fbf2b5bd9aaa1eedd0e246fbe15e76307de20098ec4e2f27ee18a415"
-metafile = true
-
-[[files]]
 file = "mods/saturn.pw.toml"
 hash = "16529fed98f5d9098fda7c274114334348195201d3646e13878acf4aaca496bf"
 metafile = true
@@ -905,8 +905,8 @@ hash = "25ff63f99987deabb3cd87f92037e914f227cf32d02163c3c749e6e842289ec4"
 metafile = true
 
 [[files]]
-file = "mods/textrues-rubidium-options.pw.toml"
-hash = "4cd40603403545afc8ee3b9a1f6e1c121695b5a4546a6ddbe6a48aa3d67311cb"
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "499d3c92a35266a11112df08d5c728b01d67051771a777f0bfbf4b92a73173f9"
 metafile = true
 
 [[files]]
