@@ -1,0 +1,13 @@
+name = "PeacefulSurface"
+filename = "peacefulsurface-1.20.1-v1a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "15ae1dfeb9d06da98854a36144f253952c4fa057"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4717677
+project-id = 73112

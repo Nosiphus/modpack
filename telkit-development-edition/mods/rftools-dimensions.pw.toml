@@ -3,11 +3,11 @@ filename = "rftoolsdim-1.20-11.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/N4D9AicU/versions/EOcvt3mF/rftoolsdim-1.20-11.0.0.jar"
 hash-format = "sha1"
-hash = "a34213c4cbbff7ef2cc2eecc8d7ff827739c3cf7"
+hash = "b590c4f1442677655d7c48715df4378eae237161"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "N4D9AicU"
-version = "EOcvt3mF"
+[update.curseforge]
+file-id = 4598242
+project-id = 240950

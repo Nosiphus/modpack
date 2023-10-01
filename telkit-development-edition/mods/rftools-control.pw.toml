@@ -1,13 +1,13 @@
 name = "RFTools Control"
-filename = "rftoolscontrol-1.20-7.0.0.jar"
+filename = "rftoolscontrol-1.20-7.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DQjhR62z/versions/9UgzQ0vG/rftoolscontrol-1.20-7.0.0.jar"
 hash-format = "sha1"
-hash = "2ff3b50fa434c6813ac324305ca22fe98187a0c2"
+hash = "6dd12eab984da08fac794cd34e06077f43d001d4"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "DQjhR62z"
-version = "9UgzQ0vG"
+[update.curseforge]
+file-id = 4747691
+project-id = 250763

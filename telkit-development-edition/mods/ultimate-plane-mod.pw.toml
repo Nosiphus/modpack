@@ -1,13 +1,13 @@
 name = "Ultimate Plane Mod"
-filename = "plane-1.20.1-1.0.5.jar"
+filename = "plane-1.20.1-1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qLDTK94S/versions/jL88s5dJ/plane-1.20.1-1.0.5.jar"
+url = "https://cdn.modrinth.com/data/qLDTK94S/versions/NGC53fhI/plane-1.20.1-1.0.6.jar"
 hash-format = "sha1"
-hash = "779cb498b834fe38bc985c7892981ba9691fd6a6"
+hash = "a0732fec97e45060d77b0c76a0d0fbfdf19e7ac2"
 
 [update]
 [update.modrinth]
 mod-id = "qLDTK94S"
-version = "jL88s5dJ"
+version = "NGC53fhI"

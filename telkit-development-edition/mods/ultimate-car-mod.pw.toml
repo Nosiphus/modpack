@@ -1,13 +1,13 @@
 name = "Ultimate Car Mod"
-filename = "car-1.20.1-1.0.6.jar"
+filename = "car-1.20.1-1.0.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DCPUF5Rv/versions/b3eCl8Sg/car-1.20.1-1.0.6.jar"
+url = "https://cdn.modrinth.com/data/DCPUF5Rv/versions/MABSV53a/car-1.20.1-1.0.8.jar"
 hash-format = "sha1"
-hash = "016b3c3e87d90641839ac0b8c41c55adeca08a14"
+hash = "b491ea2aae03c713ab038e9685eb695c8ae570b4"
 
 [update]
 [update.modrinth]
 mod-id = "DCPUF5Rv"
-version = "b3eCl8Sg"
+version = "MABSV53a"

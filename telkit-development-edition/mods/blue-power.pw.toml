@@ -1,0 +1,13 @@
+name = "Blue Power"
+filename = "bluepower-1.20.1-0.10.323-alpha-universal.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "69c0663665f06d348d1c9b3556e7b194b953911f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4665664
+project-id = 223099
