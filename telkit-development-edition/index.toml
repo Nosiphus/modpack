@@ -851,3 +851,4 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
 hash = "d6980b3e726c6c1f31016c1d99cdab9fffecde0cbb8a87cfbde0fb396ef9cbb3"
+metafile = true
