@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "c4c3a82357448166154428ba0c1a5d3ad8b977f6472815f2ae28f7b0d561ca32"
+hash = "8733608508ee3bcdf3a2c9346c282f3d91d886dc1bad35866e67067d03cd6244"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "6da45eefd86a39616ddd6d02f0a6d026b5c1cf5fdcd8f6db4c8d82602120f40e"
+hash = "d8882dd86dfb31bd20e19fe04f3295d871d91af1a2e9b5547e0560ad39881034"
 metafile = true
 
 [[files]]
@@ -881,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "3bbcb82c54d5b544f0b2d3864339a1e5bd88210969228f0d70d221d3757d945e"
+hash = "b78c6b519ded15e7d52d276bb6e06a51c0b097c1bf364e8bade653cefd2b71ef"
 metafile = true
 
 [[files]]
