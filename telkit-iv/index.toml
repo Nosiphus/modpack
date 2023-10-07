@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "cd7bdf0d1cb696189b5df994c4a4dd0818cf8b8025459e035d7770d7062c547b"
+hash = "a158a4062e16b7daeaa5f4bbdff8f303311a8b84450356e86625eaf838834fb9"
 metafile = true
 
 [[files]]
