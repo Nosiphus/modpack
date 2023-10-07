@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "10dea0f01eff5c43baf209513c1a18056b86cb7d89ba2c1c95bf36b196309e17"
+hash = "e41850dfe12fd9fc207e4fab5776f6c312f33f0382deef6bdd2129a36e8774fb"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "0a9281c184949ebdabf0c5b0344ca155bf69a574ff406e121efdde3d3f5407d5"
+hash = "8a19be19de45743c5f350fc7887974feadefcca9ae6b1de2a6e4bc04cde88776"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "a158a4062e16b7daeaa5f4bbdff8f303311a8b84450356e86625eaf838834fb9"
+hash = "cd7bdf0d1cb696189b5df994c4a4dd0818cf8b8025459e035d7770d7062c547b"
 metafile = true
 
 [[files]]
@@ -901,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "25ff63f99987deabb3cd87f92037e914f227cf32d02163c3c749e6e842289ec4"
+hash = "6b61842d36d3905f4db39c1c1bec49490031dcdd4d0ddc447d7a819cf0bb8c9b"
 metafile = true
 
 [[files]]
@@ -921,12 +921,12 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
-hash = "48456e931dc6f986efe9bde63c76f0014a2017ef4adcaa168597a7610ae4be46"
+hash = "1674bdf60e7e343ccdfb66489f8880912f68207ef4e8ab51fd814e40cef157ad"
 metafile = true
 
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
-hash = "6967a82e80b8847ba2888cd814166c04a1140c013e8dfc21ddb07afec7160326"
+hash = "a886cd2449393f692f22b97f094ea91a7faf2c4fdd9f72885d5fa6eb299a261b"
 metafile = true
 
 [[files]]
