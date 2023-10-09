@@ -3,6 +3,6 @@ filename = "industrialcraft-2-2.2.828-experimental.jar"
 side = "both"
 
 [download]
-url = "https://jenkins.ic2.player.to/job/IC2_experimental/828/artifact/build/libs/industrialcraft-2-2.2.828-experimental.jar"
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/industrial-craft/1.7.10/industrialcraft-2-2.2.828-experimental.jar"
 hash-format = "sha1"
 hash = "64f71495feddba295ed4392797d48d7dcfcfc779"
