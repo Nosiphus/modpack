@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "5f2623a967095818f3194eccbc2e3fff406ef7d65bdd3d6ef33be2afdf115817"
+hash = "d87bb72757331ba5c0c14062beaacd473b122ea435144104c5ddebf259b61310"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4a6749c710240c5c1adbb15a630a9e345df2e4d082125e23040f7363a0463a98"
+hash = "918b44afbb5a387c34633dc388ae0163c1eb0517dbdaaa2569e219cd7c48471f"
 metafile = true
 
 [[files]]
