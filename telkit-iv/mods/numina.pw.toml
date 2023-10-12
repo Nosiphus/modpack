@@ -1,0 +1,13 @@
+name = "Numina"
+filename = "Numina-1.19.2-2.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MRNzikxs/versions/BnvixikF/Numina-1.19.2-2.3.5.jar"
+hash-format = "sha1"
+hash = "aea022b1d5b40016a9ff93c66ee0b99451daca76"
+
+[update]
+[update.modrinth]
+mod-id = "MRNzikxs"
+version = "BnvixikF"

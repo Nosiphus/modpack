@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d87bb72757331ba5c0c14062beaacd473b122ea435144104c5ddebf259b61310"
+hash = "01897cf6baaf66384f21754c4b6be7597ff1b38797a80739864a71b380d8a187"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -325,8 +325,18 @@ hash = "ddc6f6edbe9429170b543acabdd3e8410b4da6539d6711c45880ca7ce278e985"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "d1ca7062b1b570fcaa7510f0bb53ce1c0904b19d2502b20aaddd55555367351f"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "e383476cde5d88b8f24936f1030defde1b202e6eedd52e078169f19fc7735c7c"
+metafile = true
+
+[[files]]
+file = "mods/createaddition.pw.toml"
+hash = "c8d95de5b5e8a481916c5f3ee5de511046de53d267bcff7bfcf4392b1a3a4030"
 metafile = true
 
 [[files]]
@@ -650,6 +660,11 @@ hash = "918b44afbb5a387c34633dc388ae0163c1eb0517dbdaaa2569e219cd7c48471f"
 metafile = true
 
 [[files]]
+file = "mods/modularpowersuits.pw.toml"
+hash = "b5c8c336ff2a3b3597da88c09b85a6ba4755067ef661c93c503bef32d09fc75e"
+metafile = true
+
+[[files]]
 file = "mods/moressw.pw.toml"
 hash = "0ef35696c69acab6fd0ca2a55de2f8a492670a0444cfc05c75f116a0ecfda077"
 metafile = true
@@ -692,6 +707,11 @@ metafile = true
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
 hash = "4d4e36d3b71b4d0f195ec90e823c3dd577173c4b74779368274a11f66ef99c6d"
+metafile = true
+
+[[files]]
+file = "mods/numina.pw.toml"
+hash = "7563f7a69aff8ce0c7811e45519ebcc754a4249614ed9ba2898dcd25d30c4aae"
 metafile = true
 
 [[files]]
@@ -821,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "16529fed98f5d9098fda7c274114334348195201d3646e13878acf4aaca496bf"
+hash = "c0cc25b8a774a7dc3c8beeb1bd457a96f67d28677a2247ba7a9e31cc532dbfb3"
 metafile = true
 
 [[files]]

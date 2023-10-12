@@ -1,0 +1,13 @@
+name = "ModularPowersuits"
+filename = "ModularPowersuits-1.19.2-2.3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mBO0J08x/versions/dhZwCiZZ/ModularPowersuits-1.19.2-2.3.5.jar"
+hash-format = "sha1"
+hash = "a9a4060d009abf147706104802c88e75731d4323"
+
+[update]
+[update.modrinth]
+mod-id = "mBO0J08x"
+version = "dhZwCiZZ"
