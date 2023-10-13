@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "2e85f6535c148d7d538b0f80d5f17f15c8b182c25c5b6524df2b8341b88ccb53"
+hash = "164205fa6e64cbe27b2b383698cd2f9d42ff1b19ed820b95eb72e7d7eeadfde7"
 metafile = true
 
 [[files]]
@@ -841,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "16529fed98f5d9098fda7c274114334348195201d3646e13878acf4aaca496bf"
+hash = "a5d4f5faa33b314c884a0ee546d6c1635a70d15b36e6c8d7f30cbf9733993e74"
 metafile = true
 
 [[files]]
