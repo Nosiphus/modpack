@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "7025450a745c79af06debfbbd060663ffe8a9aa0dcc2a857d1a40366ee014c8e"
+hash = "80d90479dcf909f9c840be3afabcd84e81e42863b6a5e1c0dba8fa36a240e4f2"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/colytra.pw.toml"
-hash = "d9e9d73466cd2b4708d1b61bb200986e38b52e1ad77c7ca29d5df31d8fa34024"
+hash = "f16ad847068369472bf66bd12f7bcedd63dea1d4ca2e3c5a9566a6444188f270"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "e19e2c6e56c0cd3f42f5d94b67c3eb72aa4d3963f0b463716d399d5e50b500dd"
+hash = "c683cb91014392a4478573dcb54a22a64fdae1c04f998cd95b2e39bf313bdf1d"
 metafile = true
 
 [[files]]
