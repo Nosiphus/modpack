@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "80d90479dcf909f9c840be3afabcd84e81e42863b6a5e1c0dba8fa36a240e4f2"
+hash = "29d0f0ea940a8b046971c637700bca45642ffd731665ecdce9522ce4d3ac9e3f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "d0d2490f39cb7ecfc57e0f6284dbeb5ea90d6798503eb6d0360f39a353d1f7f2"
+hash = "af6950de3de2e0d760debab2e94b2c785eff08c3d071926dda9c91fe3aba5867"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensional-pockets-ii.pw.toml"
-hash = "20405d488ee1fd0024a786f5e85d5f0ca1a43df5655a47a991987c4217426bd5"
+hash = "94f137cf24215a99fbd4b477b67eb77607d93955b4dbf0d6d0cb2879b3c4c08e"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "c0b46e6cf4eefe64086ff7e066934bc331166202a64ab9118cdaa4c8043bf7e9"
+hash = "8214d535afc603476d503ef71525dd849c3bbaff9fbf9c7f430947dc22c99e0c"
 metafile = true
 
 [[files]]
@@ -1006,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "321aaae0e3c51c6f4f43f06ff583fcd4d6e83c44dbef4215716ea5ffafde5ac2"
+hash = "2c4d9e88a7ea858ea154a6d1c7ecd96f9c9dfaff342764835fb0e7bce5beb380"
 metafile = true
 
 [[files]]
@@ -1016,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "06e34aa1f08ecee17f789fb87aac9cc9095a31e54401ea75489cf83e89884d1e"
+hash = "024b7db1ccf6c2bab746d9fb46b9a1b9917d59d08f2b91168e82e913c4b7d95a"
 metafile = true
 
 [[files]]
