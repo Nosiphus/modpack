@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "0aa0a9ff9969e30867acf9fac7a9e809c0fb6fb2c0af574e74b927a215b45b5f"
+hash = "cdcf010060c99ca315d9cf9bb1b9bacfa1ed6efc4390096a90c3e48ba71960c9"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "243529784fd22042d63318a8da6cc81b64e6d4a66dc12df5126c4923c19b37d1"
+hash = "a7cc9aed1d169262810136d7be74a5506997f378d9331a256846b47e9348d0f7"
 metafile = true
 
 [[files]]
@@ -1111,5 +1111,5 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "d6980b3e726c6c1f31016c1d99cdab9fffecde0cbb8a87cfbde0fb396ef9cbb3"
+hash = "cdc899408e14a8dce7e9bb11495dafebfe3599c71a53ab6929a4272604e6fd67"
 metafile = true

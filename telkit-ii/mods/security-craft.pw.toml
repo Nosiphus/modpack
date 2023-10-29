@@ -1,13 +1,13 @@
 name = "Security Craft"
-filename = "2SecurityCraft v1.9.7.jar"
+filename = "[1.12.2] SecurityCraft v1.9.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5adc1d6f29eb0b33b684692bcad899a5c996bdd9"
+hash = "99a8fbd09ce4545e26e747ff6d17726d6371f64e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4605454
+file-id = 4795499
 project-id = 64760

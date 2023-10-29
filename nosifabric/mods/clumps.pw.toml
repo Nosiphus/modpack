@@ -3,11 +3,11 @@ filename = "Clumps-fabric-1.20.2-13.0.0.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/62dNqSyR/Clumps-fabric-1.20.2-13.0.0.1.jar"
 hash-format = "sha1"
-hash = "a5def38881bf367b206b502e664435f524fa1494"
-mode = "metadata:curseforge"
+hash = "4e381fa843f0eebe3c7ed1469f6f8331130bb04c"
 
 [update]
-[update.curseforge]
-file-id = 4764865
-project-id = 256717
+[update.modrinth]
+mod-id = "Wnxd13zP"
+version = "62dNqSyR"

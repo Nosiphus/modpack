@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "4631a2603f72a80f489e8cf02434496f717fe372611b3f3eceedb4e58bde31ed"
+hash = "5453b576d8553826ca2cc1facbe8855dba24662673d346ce4d6f4b649cb1e1d5"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1583,5 +1583,5 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "d6980b3e726c6c1f31016c1d99cdab9fffecde0cbb8a87cfbde0fb396ef9cbb3"
+hash = "cdc899408e14a8dce7e9bb11495dafebfe3599c71a53ab6929a4272604e6fd67"
 metafile = true
