@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "33284944fefd3471af4780fb03ba451fdbd12110419ef14cddfe2898a378b656"
+hash = "a2e212b1dadf48f6c1e033a2f4fd582b81889a0efd38a56eb77a2ed1a2efe8e7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "beddec9fec669720a86408d5a67884e71bef5ffb1b3270dd915bb98defd1d4f7"
+hash = "837df45868e7d9c7111623321175f58d0a4591dcef720ba78a57297ab9824485"
 metafile = true
 
 [[files]]
@@ -816,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "466c654c4368a2e53319c83c33704a0a655bc442c3166455124814312c629c0e"
+hash = "abf7c58b012d2c237137aacab978c982c998f04f9003b1b23ebe44b95636248e"
 metafile = true
 
 [[files]]
@@ -1016,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "ca8ab84537c4daaff461402f23c0e7f31bcf32088161a841e9db3526754d2a2c"
+hash = "5f89d72433a7340503e510b02379989bd0ad4009ac749521cff6fa5d8950ad0a"
 metafile = true
 
 [[files]]
