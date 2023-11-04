@@ -1016,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "e7b29728e66f63dab5d1f2cb66ca1db9250de4253cd1ed66f0e0e7bc8c8d4b9b"
+hash = "54d20ed003dd08ae5b8761140cc21b4dd8b71f53cd1b21bb60ba8ecb3014cecc"
 metafile = true
 
 [[files]]
