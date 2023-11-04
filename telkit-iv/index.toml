@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d9a43564b9b4dca9b7026edc57241acac49148ba799609af8194989cce164c32"
+hash = "e3da3a54f7e3521f6c7ef619072ca0f07a893a28bf663a70e6ed97f21474d589"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -326,12 +326,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "d1ca7062b1b570fcaa7510f0bb53ce1c0904b19d2502b20aaddd55555367351f"
+hash = "73b933d38189720dbdbfd1f2f1a83231fd99d844a217fb90408809ac7a12445b"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "e383476cde5d88b8f24936f1030defde1b202e6eedd52e078169f19fc7735c7c"
+hash = "8f7b16bd319a4c534acbc80f83e4359b756b301c76444d5a0afa1d1cb45d20a4"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "fdeab9633fc995e4910a08d6d8110a258f30b37c7a65128b8d6a46af797df3a0"
+hash = "57b08209dc2826b2a896785b02952de9a7cbd3f8cd3f393034b163d6727b9008"
 metafile = true
 
 [[files]]
@@ -851,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "806504081c4b134f7dcf35aff3c344e8edd1638e180906c5ee831433d77f8ff3"
+hash = "1ccd77654f11bee55d40588ca4be563c929c3bde1289cf30f1606c9a45659af3"
 metafile = true
 
 [[files]]
@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1b281c78337ee9d00da5eb67f38bf069e06a108f8d5c561c55795c0ac169db5a"
+hash = "17fc53fe616732b1448e63ef4a6039c8a21482b607f3b66c4b1d65594890e7d6"
 metafile = true
 
 [[files]]
@@ -1016,7 +1016,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "5f89d72433a7340503e510b02379989bd0ad4009ac749521cff6fa5d8950ad0a"
+hash = "e7b29728e66f63dab5d1f2cb66ca1db9250de4253cd1ed66f0e0e7bc8c8d4b9b"
 metafile = true
 
 [[files]]
