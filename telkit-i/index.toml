@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "5453b576d8553826ca2cc1facbe8855dba24662673d346ce4d6f4b649cb1e1d5"
+hash = "887f5d12c64f397b5b870e218be609d750d8b3cbb7cbd03e697c72f09d2bcfe7"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1290,7 +1290,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-community-edition.pw.toml"
-hash = "d746fb234061de15c6c4a725a5fc32f535bfabfbb71775a745f71cdc7a119624"
+hash = "6919e2830cc3105cee8b648f8b68565022a05f4ce4ffd498bb91b8af6976e315"
 metafile = true
 
 [[files]]
@@ -1583,5 +1583,5 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "cdc899408e14a8dce7e9bb11495dafebfe3599c71a53ab6929a4272604e6fd67"
+hash = "b7daa7cc086eb095d1b6f7d4b9dc7928b1c140b36379f50e1ebd393cb7024064"
 metafile = true
