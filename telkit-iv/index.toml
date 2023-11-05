@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "e3da3a54f7e3521f6c7ef619072ca0f07a893a28bf663a70e6ed97f21474d589"
+hash = "20bacfe996ff414428d5b08a4b25ddabdea725bd42ca00ea1add7bbb7f525601"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "837df45868e7d9c7111623321175f58d0a4591dcef720ba78a57297ab9824485"
+hash = "d1d8d9d68a0e64dc7aef3e4d2b5c6492276c56d96799da5a44e519008f072850"
 metafile = true
 
 [[files]]
@@ -581,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "35554a19f64ba3c4aa01aa14c7b6cd03b986967d27cbbf16a47dce66bb6757cc"
+hash = "7356bbcb7a0eee5216bbf729e434a53ac64df6fc4ae906f1101953bb2af80a4a"
 metafile = true
 
 [[files]]
@@ -816,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "abf7c58b012d2c237137aacab978c982c998f04f9003b1b23ebe44b95636248e"
+hash = "d12612776ca710520823c6396d4f441fee604427fca845af6c448485f3caf344"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "d3b1581fc4eb333679483578f7d6745f627848a162de5ac04b6270b2f5d97ab3"
+hash = "13f36954c4965d3d77787bed7d9018413e4040c695ec99e75e2606ccb6b6186c"
 metafile = true
 
 [[files]]
