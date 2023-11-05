@@ -3,11 +3,11 @@ filename = "rftoolsbuilder-1.20-6.0.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/e0IclJLr/versions/aWhtf6M4/rftoolsbuilder-1.20-6.0.1.jar"
 hash-format = "sha1"
-hash = "bcde4962fb71c79efa4c31349147286d1ed9abb3"
-mode = "metadata:curseforge"
+hash = "25c25ba4cd291cd82b9c0b50a273c03e75b80109"
 
 [update]
-[update.curseforge]
-file-id = 4747689
-project-id = 347706
+[update.modrinth]
+mod-id = "e0IclJLr"
+version = "aWhtf6M4"

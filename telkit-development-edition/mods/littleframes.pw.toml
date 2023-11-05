@@ -1,13 +1,13 @@
 name = "LittlePictureFrames"
-filename = "LittleFrames_FORGE_v1.2.2_mc1.20.1.jar"
+filename = "LittleFrames_FORGE_v1.3.3_mc1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2484865c3948888fd937a61946a42155f8a83c00"
+hash = "7d12b50293b60f15bd5e26933f796967367514d3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4691007
+file-id = 4834871
 project-id = 435557

@@ -3,11 +3,11 @@ filename = "xercamod-1.20.1-1.0.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Z110yRfL/versions/swQqyWlf/xercamod-1.20.1-1.0.0.jar"
 hash-format = "sha1"
 hash = "eb50c3bb14794d2db2c3f430eb41350276499d38"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4667995
-project-id = 341575
+[update.modrinth]
+mod-id = "Z110yRfL"
+version = "swQqyWlf"

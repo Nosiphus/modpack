@@ -1,13 +1,13 @@
-name = "Mo' Glowstone"
-filename = "mo-glowstone-1.20.1-2.4.3.jar"
+name = "Mo Glowstone"
+filename = "mo-glowstone-1.20-2.4.1c.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/11OoLvep/versions/xPEWzYn5/mo-glowstone-1.20-2.4.1c.jar"
 hash-format = "sha1"
-hash = "836c1a14b497bbacbeb9cf9be38241b12fdd7bc7"
-mode = "metadata:curseforge"
+hash = "0f320e0339a8cc508da7dfc557c9286aa92a7f21"
 
 [update]
-[update.curseforge]
-file-id = 4770545
-project-id = 253336
+[update.modrinth]
+mod-id = "11OoLvep"
+version = "xPEWzYn5"

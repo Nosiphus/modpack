@@ -3,11 +3,11 @@ filename = "plane-1.20.1-1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qLDTK94S/versions/NGC53fhI/plane-1.20.1-1.0.6.jar"
 hash-format = "sha1"
-hash = "a0732fec97e45060d77b0c76a0d0fbfdf19e7ac2"
+hash = "a3a4d05ad86aa61b09807a27058b6476dfd2f2bf"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "qLDTK94S"
-version = "NGC53fhI"
+[update.curseforge]
+file-id = 4679063
+project-id = 414049

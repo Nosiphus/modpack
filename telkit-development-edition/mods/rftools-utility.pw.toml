@@ -3,11 +3,11 @@ filename = "rftoolsutility-1.20-6.0.3.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/7n3HbHSE/versions/KgVvazWu/rftoolsutility-1.20-6.0.3.jar"
 hash-format = "sha1"
-hash = "08209b1e28f8179e8fc0a15544586ab315de702c"
-mode = "metadata:curseforge"
+hash = "33d992a5cdb5d7b969cecd0dc75b09495997cadc"
 
 [update]
-[update.curseforge]
-file-id = 4747686
-project-id = 342466
+[update.modrinth]
+mod-id = "7n3HbHSE"
+version = "KgVvazWu"

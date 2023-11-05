@@ -3,11 +3,11 @@ filename = "rftoolspower-1.20-6.0.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/YWbLuPa1/versions/LUyaMcKr/rftoolspower-1.20-6.0.1.jar"
 hash-format = "sha1"
-hash = "c0324bb34dd4ee348d8412a8fdf0ede8e0c44ae0"
-mode = "metadata:curseforge"
+hash = "75401ebd608c1acff7fae179639125997346a74f"
 
 [update]
-[update.curseforge]
-file-id = 4747688
-project-id = 290209
+[update.modrinth]
+mod-id = "YWbLuPa1"
+version = "LUyaMcKr"
