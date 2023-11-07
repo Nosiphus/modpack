@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "e8a887057e27190d9d0ab0355addf18be04e7d168eb2c117c39d10313d313c5d"
+hash = "57993ebbd631ac838e5ed6f238fa95771c751cea841b4d55c588ae03cafb19b7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "8214d535afc603476d503ef71525dd849c3bbaff9fbf9c7f430947dc22c99e0c"
+hash = "b108f316715c94158d80ecde0f0c5de4821870c8d7abaf51cf4e7ce31e2ab878"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "4bea29c085005c64ebb779e2b831f531d390889ca93057e7feaaf68329ec7544"
+hash = "8bfe5b189b1c05f4ad97c6bb517d8f9ba837cc5b771816611f504f10773fc7f5"
 metafile = true
 
 [[files]]
@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
-hash = "bce8efa985cc7b8be23e093e0f6aa96123362c8a6dbe32856855c5ba71f9cb60"
+hash = "02fa65ec589a8708c8ece47393c4411c188bf7b03b9dca7c2e092661ec3efa0a"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "abab2930378f2a49e81a76c832d94f43f689e579cead7fb755e5f347169ad57d"
+hash = "6bca36a0325fe76cdff0370ea77b39f67f588709a5824e529fa3f5069cda643e"
 metafile = true
 
 [[files]]
@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ec8b99c06b0085558eef72bc184370a516778bed3e549d40098359282355bb42"
+hash = "06e2a6174a0610e9f8c94385c90ba86a06cce54a3c15f04a2cb3dd1020f63e43"
 metafile = true
 
 [[files]]
