@@ -1,13 +1,13 @@
 name = "ProjectE"
-filename = "ProjectE-1.19.2-PE1.0.1B.jar"
+filename = "ProjectE-1.19.2-PE1.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "374508597776e37452798b0b17655fdfa70b7c52"
+hash = "0e7e232e54208242223f2a4067ca6e9fafc403f3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3955047
+file-id = 4860858
 project-id = 226410
