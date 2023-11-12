@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d14c20904140cb09567d6fac4875c8361dafabc3e1b59fc32d195daa2ed94782"
+hash = "0e1a3467837176e6e75730f0cd1f0b57a37eda6fc0ba720f73a0c1da43e9dd7d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "b108f316715c94158d80ecde0f0c5de4821870c8d7abaf51cf4e7ce31e2ab878"
+hash = "b37412171124265e13066099e57c9442bd61f471e594c6878a2d788df6a8927c"
 metafile = true
 
 [[files]]
@@ -706,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "4d4e36d3b71b4d0f195ec90e823c3dd577173c4b74779368274a11f66ef99c6d"
+hash = "7687cb30f22976d5e0eccd2772676aaa08c4bba0a28b9d8c3810ec5154eae4ca"
 metafile = true
 
 [[files]]
