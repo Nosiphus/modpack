@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "a6ceb92ce70b07e574dbdbd991703c0e0fd308e6e7a1b5575718508ea4537190"
+hash = "63c7847cb87ad5a5b73598a762a0d1f5c2a2783160601b15fd9236da22c6665a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "6140ac00c6e2080534975b121f3f2188001ffe6ed7a4c836f8c1dac20cda63f8"
+hash = "1074e0b812a33ece8d9ddffd16221d2ab09fd52ac15a0094877c4e9ac2e757cc"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "ec9bb2c5074be03ad24bd4a73efe31fa2ca78ab9d34349257b4a58a6ee91a848"
+hash = "28ab3346804eee584b003ae4a71b09d87612ed662a7e24a030cf219706bbbd2f"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "7ef95afbfe5288e75d5a578b0d3d3eac657996e82532df539506f2de3a97a927"
+hash = "2a828ea9d778ce70ba3265b57ac1070b6a2c37d6378682e2ed04feda89154ba9"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "23e29d3c28fe641a093808e8e539b3adebf08adcd8231d0d5191447d282690a9"
+hash = "1c22f5d40c061cfcd9c63a09fb97cc9f3c835e947eabaf91553d2342e9db6908"
 metafile = true
 
 [[files]]
@@ -216,12 +216,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "096914067288b27f9b24168ca9e4b601d677f1a1d3e69e7641724d54c25f9ebc"
+hash = "926f7679c5861126e80d4606e79a303aac88e82a7be95eb1a265499ce9bf9ef5"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "9a828921bd3198d1825ac128565e574f7b5cc42483951a1dde8c8ef52a585f77"
+hash = "6061aa113cf0a8eaa5844613960799f10d2bfc12801789fa50171bf5984c5cb9"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "b1ac7f47a3fcc68eee51e87884aca8db5f94d61e1f54a50c9652cf476ae5b13b"
+hash = "3c3c54a5455e74af9b194ece54602dd71b94eb4436398207eaba263abded4a80"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "c3704ed0404dd193e6b901841291c6378ff74f9615efc5a32cf697d36a8b8538"
+hash = "9e509b2046271caf29aa1f0f91f1db22d981a3e84f0dd4b13047b3010fba078f"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "022a9a1017ffcf3ddd00867b05529d90d1e89ba0928f65f71f4788f889831231"
+hash = "7df65dc51b6f723fe2c3bcb060510f89da8dbca4bb13292d48c9254b69972c96"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "2cc92962d3e93470b886d5cc6b4e359ae2c7294af7e1faf14461d576ede9a005"
+hash = "5952e3c01bb5e84fcfe8b5f2721d77687ce90493f29ea017b58ef7a8c0e00516"
 metafile = true
 
 [[files]]
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "2ad07685e37e9a141fc46446163c50b1aee2a08ca55e95b463a2c77f28bd112b"
+hash = "546d10c52ded211e5e3d739a8c6e0afa833bc7c915b798f70f4526691a5fb8a4"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
-hash = "15a6cd44273473997d181ca71f6f403baaba50a0606a77a4618a7623bf986aff"
+hash = "d35f82df95be7b038e48f81c290854c19183420a81b8fa5d505c97e23439face"
 metafile = true
 
 [[files]]
@@ -551,12 +551,12 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "542df399b2fb61e261077910f1ba565a3f4b48eebcba8c805b976eb324dc0fb1"
+hash = "d9368aa71d440bdfe474bc249041478ab1626b0e4d19c89c9cfb5760b6cc50d7"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "cee43ab4748d906c4494abe01ff8b5756c517cc04b3f1ab5a0843b5d8d7eb44a"
+hash = "bfbf0702a94ffb84a45158abccc21177e9ab4c094bad66b995bd7a7263425c84"
 metafile = true
 
 [[files]]
@@ -625,8 +625,8 @@ hash = "5c795a323232e03487af4d771547aed1ec05becb5834cbdd84d7fdbc87224f96"
 metafile = true
 
 [[files]]
-file = "mods/pneumaticcraft-repressurized.pw.toml"
-hash = "91defa6403d242ea0431e37e2f028aa33d4bd990580d7dd69eac6c4c5685732f"
+file = "mods/projecte.pw.toml"
+hash = "8407f7c3aa11678e21b30c9cac2fcff34e6847bf66f99729886f18787755f2c9"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "4bb2e7da5c312396ede28805f7092afac73370c63a4fe8e28e7bfbdc3812185a"
+hash = "45d3179e1feff16649dab48ed6e28bf6e0c7d18940f72d3185afe25bf2acca4d"
 metafile = true
 
 [[files]]
@@ -711,7 +711,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e12c61b5f046c8bab7779052ade122cd971757433563c2302a81fa4882ad2240"
+hash = "a91e46f2f9a8553bd38d4f3a23a9b9342a69da814e270222f453d2e32b425585"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f5ea965cb7ce9c1c2b1581448ac0bdebdae9dbaf98ef45a9e5222c0732ace888"
+hash = "be914ccda7cde0e15301d31083b8748d0c8134257d0e2c4bc63f24fa0c4df3b8"
 metafile = true
 
 [[files]]
@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "47215336cc9950e1c9a0000b5d7f3ed7b84ee328d47d44276480b92780a7ca4d"
+hash = "4dad238795fc65081d3e2b36b12ddb84fb2ff240084657ca0c329bed9d3997b5"
 metafile = true
 
 [[files]]
