@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "0e1a3467837176e6e75730f0cd1f0b57a37eda6fc0ba720f73a0c1da43e9dd7d"
+hash = "d8eaa92490790073a0400f0da6214537f9fae1aa0b83ca4063a08990022c710b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a009197f294ea8efa44b7f8b16e705d0fe91e4dbca301cd8cf26c128027b256d"
+hash = "78cb607447d2ee1e0f485e72851a6d91ca047911cb9836c5972a08a55c25f1f8"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.pw.toml"
-hash = "84f4279c0709f7f0f7ca41dc2250b8f25139878ec6ed58b6c1191b265231d2d5"
+hash = "234ca2047092c50dacae65dffb0f8a51eff2b5fd73a67b24c4facffbd30db7c6"
 metafile = true
 
 [[files]]
