@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d8eaa92490790073a0400f0da6214537f9fae1aa0b83ca4063a08990022c710b"
+hash = "205802d21cc279c87273cb8f195c778131d99b75337c1eee2494e850bc806244"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -180,6 +180,11 @@ hash = "e06965d8aea5dee2531377f962616b4843f3af7d5bea5b213a0b257f4595af0f"
 metafile = true
 
 [[files]]
+file = "mods/assembly-lines.pw.toml"
+hash = "be50b23c8ec902dba98aaf803059d019d35b0b002e9d9e78170d5b5f96829db8"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "a5823eed363dcbf221b6d0e919b111f0a5676338967a2a599c7cb948ca24223d"
 metafile = true
@@ -195,6 +200,11 @@ hash = "8a19be19de45743c5f350fc7887974feadefcca9ae6b1de2a6e4bc04cde88776"
 metafile = true
 
 [[files]]
+file = "mods/ballistix.pw.toml"
+hash = "af08db89a750526fe7db93e7b91ed5fd92bdd2db01638dbcdc302d05eb19bd0c"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "117028aee504fb12600efb5bff26e8a3ee13d472ebe7e209ee122112b98fdb8e"
 metafile = true
@@ -207,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "c8e7c5ac6a6ff113e87d004e59406a05d5571a85e17f0972b324f54f7b3f3ef2"
+metafile = true
+
+[[files]]
+file = "mods/blastcraft.pw.toml"
+hash = "1dc216beba68d292e4a634b581fea9d256d1813c7f72b02443cfc5bf9695394b"
 metafile = true
 
 [[files]]
@@ -390,6 +405,11 @@ hash = "b827a36de171d3a4203e61a815d45416eec8986ce7c54101c7d517b50597118f"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-electricity.pw.toml"
+hash = "c4770df5743f228fab1ee00a68d8d8b07e12935e28f25dd50c81f5cb9fe25da9"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-lights.pw.toml"
 hash = "c904616dcf20ecec8793dd8f736f878219332c82cc728ba430705a74b06f995a"
 metafile = true
@@ -397,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/editsign.pw.toml"
 hash = "77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "8a6f1cd841fe0bbd8e088dea4e3d9d9d0510cc245b5c1315cfd8aee6a6b41975"
 metafile = true
 
 [[files]]
@@ -710,6 +735,11 @@ hash = "7687cb30f22976d5e0eccd2772676aaa08c4bba0a28b9d8c3810ec5154eae4ca"
 metafile = true
 
 [[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "e2a59adea184cec38094350d850a9e5a3bfd2120274729c68efb4ebc39aaf6ba"
+metafile = true
+
+[[files]]
 file = "mods/numina.pw.toml"
 hash = "7563f7a69aff8ce0c7811e45519ebcc754a4249614ed9ba2898dcd25d30c4aae"
 metafile = true
@@ -751,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "45e43a9de14a5e70bc6cede52536235ffeacc5057f1744c1e0f80d1bb3f0fa0a"
+hash = "954c1b5e2a9f16c08027875d6ee536058e617f644e7ed0f83915b4a504015364"
 metafile = true
 
 [[files]]
@@ -906,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e457857bcd60c949be74c059251cb540642ed0e8006932c4c17e0da4eb149269"
+hash = "83a0ae732431c606004ff31ee951183aa6a345635c533bd8bfbae27313b3969c"
 metafile = true
 
 [[files]]

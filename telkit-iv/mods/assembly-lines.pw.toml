@@ -1,0 +1,13 @@
+name = "Assembly Line"
+filename = "Assembly+Line-1.19.2-0.5.2-3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SoWP7zzK/versions/neZl6EI8/Assembly%2BLine-1.19.2-0.5.2-3.jar"
+hash-format = "sha1"
+hash = "79cc20fefb60bc5503a3c166ae811520f443ebf6"
+
+[update]
+[update.modrinth]
+mod-id = "SoWP7zzK"
+version = "neZl6EI8"
