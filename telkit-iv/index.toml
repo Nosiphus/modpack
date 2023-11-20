@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "205802d21cc279c87273cb8f195c778131d99b75337c1eee2494e850bc806244"
+hash = "f76dc8e78e44291f289ba99641d60b2c553fbc53dde404bf67faf24f3130a0b9"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/biggerreactors.pw.toml"
-hash = "1f58944503aea73dcfe43fb2c3bef34c708dc1960c5a5ee38bcc56e21def69e5"
+hash = "cab1a27ebeb186abed313a7f6faa4a8f9a6695b67d6bdfc7b523c8980c06b864"
 metafile = true
 
 [[files]]
@@ -452,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/exlines-furniture.pw.toml"
 hash = "f91c5ef3294e4bbc3747f3717bd5ea6fb98f4451bb4460c1e6c99dcd74e4f483"
+metafile = true
+
+[[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "b0939921a7ad1af619801ef6ba972b7a6ddf5bc51ffcdba06eccb0b31cfcdd96"
 metafile = true
 
 [[files]]
@@ -1036,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "2c4d9e88a7ea858ea154a6d1c7ecd96f9c9dfaff342764835fb0e7bce5beb380"
+hash = "2ac93420374ce4abf5e4ab6eb9f8a6e11b44abd97e544f2e79a0d4430165b58c"
 metafile = true
 
 [[files]]
