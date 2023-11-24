@@ -96,6 +96,11 @@ hash = "64b30aca719ec164ad4da2c3ff40030e7ed0eb53c104b55a358c8aa5c0849753"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "eef03feff50e59b521c09d9c456d5cd5d799b8e7e3f8cc62a17f5e64cb230f44"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "9d40ed4800caf4c3fa848d986f8a6c947c00ae215c5179711b212204cb6cea6a"
 metafile = true
@@ -238,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b136ca50e7d8239319f528ceb521e3482f753b25d768afaf39fa6ea81e549f2e"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "28c6628c17eabf890ddbb48344b2cc578677994968f6e610e63b6a25f68d694d"
 metafile = true
 
 [[files]]
