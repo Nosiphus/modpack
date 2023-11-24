@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "c9b08494827db5712584532f65d99a4e6477140aa0bfd3571220b516b156cb50"
+hash = "50cd56e84df6917060b976742d7eb5661fb692e842c33702feed8e8a75e61325"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/cinderscapes.pw.toml"
-hash = "b94cd8a852caba7d53b709abea84192a81c807cd31b1233aae1e0921df34c4e7"
+hash = "b8034fea692d848474a2c0c356a13b6c6124109ffd60d621570504907f3df507"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1fc52599bb002e467661afaa4b844c517fb549ad14eb6f552bf11dfb5c8b535e"
+hash = "da5355d446fc91093171b0d6a082e5056498eb59b5a6ec51f8f4d194a0abc58a"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c20c449b77e7e40bf6b5308d63223b634eb6a857bf3b22d31e9c41f6e03d399b"
+hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "050c95aa9ef6b9f7eb32f3ac51bd6b13e307468d9b83e0fa7720dddabfd1fc5a"
+hash = "b5b468e25b96038cfc71b5c84b8c0f98470677cb2a2af92bfdeb7e217e9bcce1"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
+hash = "d1e35e3c6a07ec2760c5f3a68974bc7952310abb6499898d2c3ad257598f616a"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "908c65f0cf2b42a1889f4d8712d5976341ec1b5c77a629dad6eee105de6c6ab3"
+hash = "889209f12eb20880b72360d87c20ed5d1715253f25a24f19196c63d9fe9f15e4"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "f15ec0e6a22a2af1087102489a607c6e4fba1edb3e58d52eb3ede77ad0a8d826"
+hash = "5e02b6325356f750e415b5d19460cf7fdf33ff53ee852572ef1149f952d13012"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrestria.pw.toml"
-hash = "d39f8642448e2d6e655a1512319a1ad34e797fc76b10c1cf7c69460374bbec55"
+hash = "f40bd2123abf94bbac6a0cbfcc7777bdc326c03e227fe999b5d68d60801ec253"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "8dd2e204d2d3a7cc28d91d92da69a40f99c985a53124c0f29857a190d3eeba17"
+hash = "08e45e5195de29933ed349001e4db27d10683a53341ca48f9a14f14c92abf748"
 metafile = true
 
 [[files]]
@@ -312,12 +312,12 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "e8f71f75b158c20e82beed7a51d24e9bc464695ef4c718ca9ae23d983d87a518"
+hash = "266c75ed63a1baa0f5efbc6fd13f6cc1c4231ebb25d493810f52dbd59a3277a2"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "e029fa86aee79de93479a0080746f267cce19661f4f2e5fcd63d7b4beb372108"
+hash = "6fb15ff627c47d7546c5a509e33ade5371592c5dd7337bf8f8beb3821732da87"
 metafile = true
 
 [[files]]
