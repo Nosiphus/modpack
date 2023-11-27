@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "50cd56e84df6917060b976742d7eb5661fb692e842c33702feed8e8a75e61325"
+hash = "3b8c0011e5af120103032b3c1c3452c6ad1cda52927fc29688df41ac3b967051"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -157,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
+hash = "6b1733f1dd00ee521372f6265fd383ebfb90cd4b78aba4a449a86ee780c77273"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
+hash = "d2c2ff7235ed661ed8fb82e20a6de85b147e69c4b1cf1cc9102ebf8fe102636f"
 metafile = true
 
 [[files]]
