@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "c51e29511f2f82c52d1546d4d2cfe7713c23fe535b8cb3bbf18e8b0c87e369b5"
+hash = "5663cec11249f76e97fdf442f18cdbb7c1a6d6a9ff50c1c648d2f9ac14362af6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "57b08209dc2826b2a896785b02952de9a7cbd3f8cd3f393034b163d6727b9008"
+hash = "97ee2160e052cd77b8c5b5e99b336ac0f16813591d557b6599356e43e7aff931"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "85e67da7c24d00535a3dcc0b262ee43b933b6ae6168f0d8eabd2be8879c03375"
+hash = "3286e3fd475b8e0802fbee95f8a849345ab55057fba08121c969df14b51f1e41"
 metafile = true
 
 [[files]]
