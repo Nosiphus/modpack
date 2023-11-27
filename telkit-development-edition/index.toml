@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "9b2c22c290edf85ecaf7977c9f1ad13b13aaff516af069cb4b1ffd667185cebe"
+hash = "086ae6caf35e800b938c15f6ed1d36999bf19c1518f02378671fe8326b72d2fe"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -216,12 +216,12 @@ metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "144076d850eb6bf5af0fa2648f3433d592493c723abbbdf4318930fafd28f06f"
+hash = "eb6e048c2c950ece0d7cdec9f4d9d40f21eae84040120e11a2bec44e3df73c0e"
 metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "63bd86ce637828ea267bb938269caf07397d1587515ee08f7a6921cfff0478ae"
+hash = "d292e813d14025a77a9e8f172e7179f96e974ba968bc30711661ef47481bdbd6"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "0562b204bea7c44067bd9272ca7128994bfb2c28262864c78bf2b4b79bbbb0ac"
+hash = "6f5699622fae821052ca69c2cc7ab6dae7e3787cec446892b6b153c321f4f90a"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "30e3dee7aab3fbd4f9b68ffd37d5d39f3f2d5ecdf4f089380e5e3d56d1aa6b3a"
+hash = "2521455fe93051e30fe39b142477894373de36b2ace4eeb4a41d300aa11b27a0"
 metafile = true
 
 [[files]]
@@ -605,11 +605,6 @@ hash = "9d66478fde6c978312f93734d481bcb9ae9c49b74cb4538fce58c65ef15d593c"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "b6a800b84316b5d244794c7d6e3ee932502fadc73fe86295267e3f4028da822b"
-metafile = true
-
-[[files]]
 file = "mods/peacefulsurface.pw.toml"
 hash = "47800cb1eeef9bd611c09e9dd635bbf7d35b0229f380503ad0065761fc4ca6b6"
 metafile = true
@@ -626,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "mods/projecte.pw.toml"
-hash = "8407f7c3aa11678e21b30c9cac2fcff34e6847bf66f99729886f18787755f2c9"
+hash = "26b6891625bf09317245200e3adb871cea00dbd41859d68cf57062544c0e6041"
 metafile = true
 
 [[files]]
@@ -641,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstonepen.pw.toml"
-hash = "70fa2a4d8ead5e809bd03ceb574233e83942816daf9e2f3c7f16663cef9aaeef"
+hash = "5575e297b41a60afbc122f1f24487d1f528f0f6a05758e202795586321110f42"
 metafile = true
 
 [[files]]
@@ -651,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "45d3179e1feff16649dab48ed6e28bf6e0c7d18940f72d3185afe25bf2acca4d"
+hash = "3802e8280356716095f5c576b66662ab27bb182b25da9a99320486d2c398d5fa"
 metafile = true
 
 [[files]]
