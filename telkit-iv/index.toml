@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "0133deece7d5dbbcf6e3c15bdcd8df702c7f7d1690494021d91df3efb1bae2cb"
+hash = "fb1d77cf17b364cadcc0363ce022c0f7713278a69c6b0543677aad3dc3778485"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -1000,6 +1000,11 @@ hash = "723ab48d700ab75d2a2d13e08dcdd57955b1def406d8bf7c150475b0c7331358"
 metafile = true
 
 [[files]]
+file = "mods/transparent.pw.toml"
+hash = "51531d1a9e81b77d5b65976b2d3c5b85b671069873fa92af9b0f998c61ee720b"
+metafile = true
+
+[[files]]
 file = "mods/ultimate-car-mod.pw.toml"
 hash = "2803613b26484059b0a7726ccc3878426b5bf29f86b1e118615d0f09067dcba9"
 metafile = true
@@ -1051,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "3b74e06dcedfed614842b3093bda5f610ff14c1a62cd807b8f39f668df724525"
+hash = "72c3b8aef8810dca96cf3fb6126adf5fb3ab0d5ed693670d61c519f6a8296422"
 metafile = true
 
 [[files]]
