@@ -1,13 +1,8 @@
 name = "Minecraft Comes Alive (MCA)"
-filename = "MCA-3.6.0_MC-1.6.4.zip"
+filename = "MCA-3.6.1_MC-1.6.4.zip"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/774/926/MCA-3.6.0_MC-1.6.4.zip"
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/minecraft-comes-alive/1.6.4/MCA-3.6.1_MC-1.6.4.zip"
 hash-format = "sha1"
-hash = "f16c8c751bb3e6659ef26ebc79c5a179acfebacf"
-
-[update]
-[update.curseforge]
-file-id = 774926
-project-id = 59693
+hash = "4711e94035f092a29568b490e33f21ea26736648"
