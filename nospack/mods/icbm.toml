@@ -1,0 +1,8 @@
+name = "ICBM (Wildex999's Fork)"
+filename = "ICBM-1.4.2.386-wx9.004.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/icbm/1.6.4/ICBM-1.4.2.386-wx9.004.jar"
+hash-format = "sha1"
+hash = "8bfacffd094e59f7514709769ca89059dc701dc9"

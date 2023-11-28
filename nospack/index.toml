@@ -305,8 +305,8 @@ hash = "da10bcbdef3a62a9be6037f109ac3a5cec2fcd1262660ab59b004017cfde4a07"
 metafile = true
 
 [[files]]
-file = "mods/icbm.pw.toml"
-hash = "8b557095cd08825827c7f7c869273f63bc23d694fb7faa6b8c960fb7771987a8"
+file = "mods/icbm.toml"
+hash = "7252320cc6ca64459bf666b068ef4eb68da4d6bfa38261ce2b44151887251990"
 metafile = true
 
 [[files]]

@@ -1,12 +1,12 @@
 name = "NosPack"
 author = "Nosiphus"
-version = "2023.09.02"
+version = "2023.11.28"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "db5d049311833b5b1decc08124a09bd30499995c7ef381d871d89135e8abdd6f"
+hash = "bec5e6c7d31c5c6c633e637a4961e0f25f5a9708f070b4f38bd74a7117b48caf"
 
 [versions]
 forge = "9.11.1.1345"
