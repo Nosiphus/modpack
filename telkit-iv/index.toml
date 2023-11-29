@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "fb1d77cf17b364cadcc0363ce022c0f7713278a69c6b0543677aad3dc3778485"
+hash = "b57fa909430e537a2e982db5991b6bba83ea54bf0b39330b44bf191152c20a96"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "c904616dcf20ecec8793dd8f736f878219332c82cc728ba430705a74b06f995a"
+hash = "00632504c4d07d429d410b8f49b13a5ce2b7e271492d91c03190dac808b277e6"
 metafile = true
 
 [[files]]
