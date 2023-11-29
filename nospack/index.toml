@@ -485,5 +485,10 @@ hash = "81dc26e53cf448e0597557bd158aba57725e7d4ffac06c8fbb573d612072e7cb"
 metafile = true
 
 [[files]]
+file = "mods/zans-minimap.toml"
+hash = "4c58b098fcb06071ce80edbbcefa2531295c63eed0961e5ed755669d868fa1f0"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "52e36924503be89db059aad169f102ca45c686a7ebdfdf55cedb7d66df3f1b62"
