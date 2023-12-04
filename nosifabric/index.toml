@@ -10,7 +10,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "fbf32cedc3a2413bb2c775aae8d3d755d4b4d47b506708cb7d60a485a43d80a6"
+hash = "4fc62d78a5ef0c828802d307fa3db5e9aead0a0ce9f4d497b9e927011a83b3e0"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -127,12 +127,17 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "f593d58d5d3411f9922673071db8a1fa9bbd57e6577d065a8d4c91a669183b17"
+hash = "8fb21c927c3e8694fb0a121c7c1d8f2bbc3ccf1a0f69b7380c3fc47a7bb7ec3a"
 metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "0b7ca7d98de98f65ffb4b8abe13cb35b22eb9298c042ee622f13db5f311037c1"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "b3e963b8e63c503bb05e20bead5573d441537f0a81992a4850d70e895420b2e8"
 metafile = true
 
 [[files]]
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "c3db7d59e69e69067942dd7e5bfd71bb10ca823c60198c92727c071f022f2789"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2f07d9c05612217985f9afcf1d11a02dc00e22043274c2e5bc2989ea45b55c6a"
 metafile = true
 
 [[files]]
@@ -162,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d2c2ff7235ed661ed8fb82e20a6de85b147e69c4b1cf1cc9102ebf8fe102636f"
+hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
 metafile = true
 
 [[files]]
@@ -182,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "bb70f766929c25f86baf90ee62a8639cf5b6c59caea51fd6f16e1e0f733bd2af"
+hash = "f49d39dc738efc9a78c2f32f8403e19c56ef138444ff3804519edc8d133981a9"
 metafile = true
 
 [[files]]
@@ -236,8 +246,58 @@ hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "cd4774da1a530107cf92c7284365622493415aabe7285ffd9a127e4187bbb76a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "e07a5aba33980130770dc6d7d6777f8ec499abefe74e2039173d15beb9929fdd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "8ee143597d0771e8af6cad65ec386b7322dea03e559c73b4e1145e6f0751e21d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "03fd741ad52daf0a8953a059387fa8bac592f27d97c23c4d844674db8b7a59a8"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "5f31bea6b9a59841bb750bf19bccdfee19ded8ac196f6d7b371932beef8485da"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "d269f50f52016bb529d89cb7bd52265f9c7f3b63a2281e316b81bf9a9cf4e728"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "3e709f8f64973e64a0de424e80a8f80a7db58f625cf406f2232bbadd52a73bbf"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "16f51eac9f069be6ca0a79200fdb778e30b1661f85296171bfc4fa85f5cb9dc3"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "03b7ef41438fe19a11ded2f5eafc0ff14dcb45e922cf92bf6c7aac6479edfe6a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "313a26c4d332eb146c1d81fe4b62e55d6f391371532fd6968c2a2bb3708f08e4"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "889209f12eb20880b72360d87c20ed5d1715253f25a24f19196c63d9fe9f15e4"
+hash = "45c1feec0eb2f16e1c2d5665e024bfe429633d35f709998ffb8ca40bd616889f"
 metafile = true
 
 [[files]]
@@ -263,11 +323,6 @@ metafile = true
 [[files]]
 file = "mods/reborncore.pw.toml"
 hash = "438ced8ca6434b4f5283f90fd1fa6649a400eadd89745f74106ca2eeaa91dd15"
-metafile = true
-
-[[files]]
-file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "5e02b6325356f750e415b5d19460cf7fdf33ff53ee852572ef1149f952d13012"
 metafile = true
 
 [[files]]
