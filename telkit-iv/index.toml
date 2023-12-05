@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "a906155ea810af025743192504005945eba128ae50ca183813106a2d10ed8d51"
+hash = "67fe4655184fb7daea4cfcbbc777640c41a47e847a7671fce5be60a4bd70a92e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "c8d95de5b5e8a481916c5f3ee5de511046de53d267bcff7bfcf4392b1a3a4030"
+hash = "8f3892eb4cafc989e9d8b1f5be419aded1a06e850671fecc8d9e18bc810b3a6d"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "78cb607447d2ee1e0f485e72851a6d91ca047911cb9836c5972a08a55c25f1f8"
+hash = "6dfeb04cf68d40ad8b6b1f665d1d5d6e12ad66252415a9fe89ffed508f1465e2"
 metafile = true
 
 [[files]]
@@ -936,12 +936,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "11805fc754517aa0cb5ef4ef03b1bb01963bbfccde7dd90c3a22f479a4ff4a9f"
+hash = "0bd8c291f5e00f334f49cd0dbbfa96af803a1f5da844003aafd7829d814974a5"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f957ed42f7ed5307a29c3bbbe1829f36e6f2afcf4325d28aaf23374ebca73e42"
+hash = "9a4cf2b30b698532774ab0b99b1c0bfe0263b2730fbebd20b4cd72f84835b528"
 metafile = true
 
 [[files]]
@@ -1056,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "beb7d51c8ca5bb9cc1a7775ebb074e8a7c71c3a3845ff9b2c7caa8de827244a0"
+hash = "e569488bcee273d1b2485818f0168c8bb6d7c92148ec4f407d099a22d6b3e821"
 metafile = true
 
 [[files]]
