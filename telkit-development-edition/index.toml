@@ -260,11 +260,6 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.pw.toml"
-hash = "c7add316abcfda7c164269b0c988e1fe62d2d5fd6e6cc35a4f3f45b85a60ef41"
-metafile = true
-
-[[files]]
 file = "mods/cosmos-library.pw.toml"
 hash = "8c2aeb9a1c7725a582b739b15f09f5f5576ca1911656f01e107a70e19f680496"
 metafile = true
@@ -575,11 +570,6 @@ hash = "9329765ba2bdad8d7fc30104c9d107374059d54db928de1647feb333e8b8c04a"
 metafile = true
 
 [[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "7beba38db490b2e7e319521bc2b6d0e494f7b52bbcc7b75369c4f85730385669"
-metafile = true
-
-[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "eaabffb04f7d8b06c4a8470a144540c7a754bcadf460e783b1d5774ad941fbf6"
 metafile = true
@@ -607,6 +597,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "72c9eb296b43757b6e54cf3815f55ef7e3bd535512f8e5392db9a1abe5dbe847"
+metafile = true
+
+[[files]]
+file = "mods/more-slabs-stairs-and-walls.pw.toml"
+hash = "0572cb5f59131f497bb2fd1518a58af87bc587c6ab0a2f4ae109965a2529fa87"
 metafile = true
 
 [[files]]
@@ -882,11 +877,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "93b938744f35863325bd3fc9a514675feb61b2156fa6f291ec6eec9d53c9016f"
-metafile = true
-
-[[files]]
-file = "mods/weather-storms-tornadoes.pw.toml"
-hash = "e161fc2857a547e34717f1662c97a6640c60d972563c589bc064a3f785462770"
 metafile = true
 
 [[files]]
