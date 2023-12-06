@@ -97,6 +97,11 @@ hash = "abaf0228924baf948deb277d0c050aced93159d72e998a8f01ec0f943def3bef"
 metafile = true
 
 [[files]]
+file = "mods/lazurite.pw.toml"
+hash = "c397996477dbd2c0055f4737422f8882f890afb6084003ec465f34067dbcf4f4"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-forge.pw.toml"
 hash = "207ea5c3ad00aee495de4d614c504d443c141068a2ddf0554f5a7829923cfeec"
 metafile = true
