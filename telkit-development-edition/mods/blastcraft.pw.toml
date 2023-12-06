@@ -1,0 +1,13 @@
+name = "Blastcraft"
+filename = "Blastcraft-1.20.1-0.4.0-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qzSqkQKb/versions/TT6z4mJk/Blastcraft-1.20.1-0.4.0-1.jar"
+hash-format = "sha1"
+hash = "7843add1222fa6991090cef8e0ccd836ad22dd41"
+
+[update]
+[update.modrinth]
+mod-id = "qzSqkQKb"
+version = "TT6z4mJk"
