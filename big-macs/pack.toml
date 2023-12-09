@@ -1,12 +1,12 @@
 name = "big-macs"
 author = "Nate"
-version = "2023.12.05"
+version = "2023.12.09"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3b736abfdde07a0e4b29c1a41b4f6f1126df6a953186ed691ff62030f08f6dc2"
+hash = "447e55fefce65547e00d8664f9e44e048a204b9ec93a1d4d62e20449702b895b"
 
 [versions]
 forge = "47.1.3"
