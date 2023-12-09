@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "4073dffe6d110661cb0c100a1dc66a563f5b1ac24e2c50fa005c056e097f5adf"
+hash = "5289536d859afddb47ce67c765ece3ac9c338313d518c4a16d2d03b1a260548f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -726,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "d79e69ac9640755d74ef264dca2041152542eae9227981b75b70108eaa5a75e8"
+hash = "900be4a3da007f93045e48cc51cabaaff88cfdef4eda635d0a40386a0789c350"
 metafile = true
 
 [[files]]
@@ -866,7 +866,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-utility.pw.toml"
-hash = "89cb63df186c3accb5d4dfd34ac4a527c6601dde043c51d315323d8b04a46dab"
+hash = "d1a1004a1c08ed5c9d936f04a8033ae3a915ae9934926c249bb89bb8fc25e48a"
 metafile = true
 
 [[files]]
@@ -876,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "609e1ff1ef8b8468201eb0f016e02ce9976eb3ca21451a31bc65d1b2e018f197"
+hash = "830611c50d66799a08289d0d3c5386aa5774e47e11e4e3aff834202c3a630cc7"
 metafile = true
 
 [[files]]
@@ -916,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "2fe020f3f2a0edeb7f718449e12bddda0a03f5a0aa768a7195006f6a144e9c8c"
+hash = "49e14e34ffe5af259e41f287dbee6ef4d0fec544166f7b8041ebc6f3cd88e730"
 metafile = true
 
 [[files]]
@@ -1031,7 +1031,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "c2ba7be8f064d9d3df8684c941fc1b0d33168d32def5f7cd3fc1f0dacbf0b850"
+hash = "45951d2101d05815db6dec9940bff29ab8429d98e74d53d72cf2c7a61c360668"
 metafile = true
 
 [[files]]
