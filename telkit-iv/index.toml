@@ -876,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "830611c50d66799a08289d0d3c5386aa5774e47e11e4e3aff834202c3a630cc7"
+hash = "355fd7be858748ad6da4ecabd54d899ed93ec4a35d8067d694e26539b9ced012"
 metafile = true
 
 [[files]]
