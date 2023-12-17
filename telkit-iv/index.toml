@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "5233bcb7814d3f3b59e9fe205a65949508533e3c30615c27937cc8131459f5ff"
+hash = "b8ecd977d619f52f77e4cf8414407b513b4dcaa9c9053f4c4bfa287bd4638e0d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairy-lights.pw.toml"
-hash = "b0939921a7ad1af619801ef6ba972b7a6ddf5bc51ffcdba06eccb0b31cfcdd96"
+hash = "20a984816bd95bc61df2016982457dfd34e59426cf1f4844ba1035489ef80e86"
 metafile = true
 
 [[files]]
@@ -616,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "b25f53c184cd5af0d16d0cef174cf9f3cde0410f178de36b1a582b417ba37763"
+hash = "a2d03a27e84f5f404bdc44c5f952d4f006ed146e2a49c351f323853cb22417a4"
 metafile = true
 
 [[files]]
