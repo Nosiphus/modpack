@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "cdcf010060c99ca315d9cf9bb1b9bacfa1ed6efc4390096a90c3e48ba71960c9"
+hash = "e9f14b79a2d346c07d97400fe7944a354e31c0c12ea827e61c28c046d95ab348"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairy-lights.pw.toml"
-hash = "bda92abbce032421cfcbfe9ff2fb435dbed2bcc1ec4133e2c95621e74d6d525b"
+hash = "0196007c7815b05c8500de873d318b113c9b1dc27bd5ce9666203d54637afcfe"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "01674a4647f9bfa4da78d2e86110198aea844d5e30fab7ffc22db39b4ee78d51"
+hash = "5f5a871df3988df69cfba7fbedd07fd1d0920f8e952d1fd83ec423803cd53eb1"
 metafile = true
 
 [[files]]
@@ -1017,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
-hash = "b75818853c10c8fbc3ecbb8f4eae402a61e0a5fe82ee42c382f904e22e986483"
+hash = "eb4a12de2c925572beed148bef0ca1a844a045bd9e711227ee86aa990091f29e"
 metafile = true
 
 [[files]]

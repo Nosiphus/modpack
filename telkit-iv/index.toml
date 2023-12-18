@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "b8ecd977d619f52f77e4cf8414407b513b4dcaa9c9053f4c4bfa287bd4638e0d"
+hash = "b3479cd79dda090d42036e3ac1148ea0566b0d7d354a0573256eeaa5ed10cc3c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
-hash = "79d38d4c976dadf89d2fd2978a0af50894ae0373fd784fecb369e47beda145bf"
+hash = "f0137997b6406301bf2abf9c60394c9ce77243e15e6264fb8193281f54b1c239"
 metafile = true
 
 [[files]]
@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "9a4cf2b30b698532774ab0b99b1c0bfe0263b2730fbebd20b4cd72f84835b528"
+hash = "3c5549599aac807cc3c89f77dc44629e5f110696aea3ec07b074bf2e3db0ed1f"
 metafile = true
 
 [[files]]
