@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "b3479cd79dda090d42036e3ac1148ea0566b0d7d354a0573256eeaa5ed10cc3c"
+hash = "a3d9130e6ffd76e5fb0f81ecc45de13ad938a7d343787d9dff56f729f8109019"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5b8a438c04feeceefcebb4fd25b8f3db41930a0f6d5aa252b61a78382954da89"
+hash = "fe2b1cb8e815ed0fb5fbc46cb808411237f1694dce52f87242a1798fffcfc558"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "cf2824f114702f2ab559eab0a4a3dbdf94064283a845b5b71f8aaa7e4ba7bb2c"
+hash = "630e8d4fd14c1d9cc1b954acbce03f65f6f2004b33d802526ced1832025683bb"
 metafile = true
 
 [[files]]
@@ -916,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "49e14e34ffe5af259e41f287dbee6ef4d0fec544166f7b8041ebc6f3cd88e730"
+hash = "5151f48a49c95915d5ab6e6f0413dd7cb5b31b17562cb0b893a621c781fcd614"
 metafile = true
 
 [[files]]
@@ -1006,12 +1006,12 @@ metafile = true
 
 [[files]]
 file = "mods/ultimate-car-mod.pw.toml"
-hash = "2803613b26484059b0a7726ccc3878426b5bf29f86b1e118615d0f09067dcba9"
+hash = "d0646ebab6c3768ba829ff2f580ccb7270fd06e4e8b368b3188b87d74bb92782"
 metafile = true
 
 [[files]]
 file = "mods/ultimate-plane-mod.pw.toml"
-hash = "6b3cf5b629804b5081c96dab1b05ae3aa3fa9970a3ded3db4124fe365889ed43"
+hash = "0a46356958c44b7302f5b9b90256def97955237c89f9026c74b7ac4c0233cad3"
 metafile = true
 
 [[files]]
