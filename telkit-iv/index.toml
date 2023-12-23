@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "a3d9130e6ffd76e5fb0f81ecc45de13ad938a7d343787d9dff56f729f8109019"
+hash = "5bd5bdf67a56c7f684a25dcb2a4398752e8718d87c0813d79a9b82ffdbff35a7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "7c94f76f94aa82568527c1593680ca91f379e5554d848ce3201ca3c550fd16ad"
+hash = "4fcf5557f323b235051c77e36fb105392e3d8428fccf098fb9d0021c5a705f93"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7890f44d640ad3d03fe1891bf2e5d3ea3b5ac83ed408a7767a2492dee4eae396"
+hash = "e91d43f52f8a805cc6073020ae42dabf94b431b7ae53ffe031ee744f4cd58925"
 metafile = true
 
 [[files]]
