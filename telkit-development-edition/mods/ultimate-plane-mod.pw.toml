@@ -1,13 +1,13 @@
 name = "Ultimate Plane Mod"
-filename = "plane-1.20.1-1.0.6.jar"
+filename = "plane-forge-1.20.1-1.0.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a3a4d05ad86aa61b09807a27058b6476dfd2f2bf"
+hash = "b09dba70b063565fa2a927c263501e1e67bb5529"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4679063
+file-id = 4973372
 project-id = 414049
