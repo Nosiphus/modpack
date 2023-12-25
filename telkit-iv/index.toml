@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "5bd5bdf67a56c7f684a25dcb2a4398752e8718d87c0813d79a9b82ffdbff35a7"
+hash = "dbe2ed9d17db5d5cc3d63dfa06fd1db9667bc5f515f832bff30da71b80759ed7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "d08052537a462b55988c05615626eb7ad3b59262a7f62fd4e08e774b8d45ebe7"
+hash = "ced7e5a48b680016a0aa6644c6ac5bd1face190a51e0e14bde08cbd8f36ac4b5"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "93cc869ef2da6ebf50667f967181bb88a78a4dedcb977c936854a4d88ce57cf2"
+hash = "1fdeb932fc9a7230acaded10c7cdfd141bc14cdc02d0fdf48887c3a31ea363c4"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e91d43f52f8a805cc6073020ae42dabf94b431b7ae53ffe031ee744f4cd58925"
+hash = "eb43ea709a1729f98ffda7f86303f3b514037bd07476a1372599256ddded785f"
 metafile = true
 
 [[files]]
@@ -876,7 +876,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "eb72fb011bae6e6ec2cb851dcfc520196c16d8dcc1eee52387aebd3af15ec23b"
+hash = "06686d2da5127c633550e758cac92aed621477742a4807076719816e57a69c7f"
 metafile = true
 
 [[files]]
