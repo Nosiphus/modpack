@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "66385db31c36b50810b6ce5f8a0b8b2e24e57b4596067cd41f1c33e1460c35fa"
+hash = "5ba186ed88e37bf0d9317e0a1e042d36cf2f1ba656a1685be994cf19478deece"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -126,7 +126,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "822acea1296bed2244d313189bd2cd6438ece4f49fa129bf1e371c9306f06243"
+hash = "1ba1b506bca6ed5a977bf98ab75f4b8168190bf284c862b97aa41a45aa0c8375"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "97ee2160e052cd77b8c5b5e99b336ac0f16813591d557b6599356e43e7aff931"
+hash = "ed2d2ec22398c00fbdb17dca371cb100ca3ee1f66560a62fc245c8b813ab7f69"
 metafile = true
 
 [[files]]
@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3c5549599aac807cc3c89f77dc44629e5f110696aea3ec07b074bf2e3db0ed1f"
+hash = "7d9507de943b268b01fc0c0dbe3270fb062bca4eb8c318ae6458a466d719d13a"
 metafile = true
 
 [[files]]
