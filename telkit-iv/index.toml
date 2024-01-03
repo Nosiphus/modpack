@@ -1055,11 +1055,6 @@ hash = "0a46356958c44b7302f5b9b90256def97955237c89f9026c74b7ac4c0233cad3"
 metafile = true
 
 [[files]]
-file = "mods/waterlogged-redstone.pw.toml"
-hash = "0bd7ebc97c65a677e4eb66f8228e597cb050d133eb25683a90e9326bafdf1f82"
-metafile = true
-
-[[files]]
 file = "mods/watermedia.pw.toml"
 hash = "d3b1581fc4eb333679483578f7d6745f627848a162de5ac04b6270b2f5d97ab3"
 metafile = true
