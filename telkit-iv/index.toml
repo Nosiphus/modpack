@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "1d0f3d144340d69f8f4d1654b975c113cac6b995b997068a37011ab94b3e12d3"
+hash = "0c2a9905a7ba3f97f65d51aaa2fa724a1c8be49c727b2e36ed6471bbbce7fb83"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "4e39ccb7de4aff79642cd136f46377f41c9573c2848a9e39190d9a4b6266c65c"
+hash = "0404df67b1976c2bc5cbbf43af1c1a2e64d729f82213d0452f89baa0157f2d60"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "ced7e5a48b680016a0aa6644c6ac5bd1face190a51e0e14bde08cbd8f36ac4b5"
+hash = "56f4081cefa864a94f9d272bc7588602fc7feae0c4b8c21442cc0bc94bec14d2"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "b1c378d6c06f863f0c7cbccab43a72a64ac6e062d62ffa83fa0272295359b840"
+hash = "1a7e42856ecd67e6d001a3383180248f40e6bc91c25c97f8bac2a3eff735c40c"
 metafile = true
 
 [[files]]
