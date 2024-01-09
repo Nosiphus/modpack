@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "375fc1e4bd3d73edf297d35defa01e74a0ea43ac0b1a2faab8cb14f3a43d8617"
+hash = "72d1f6ad9cf317cd66ba53e94515999cf7b5672df291c3539b0303a9090f2fb0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -696,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularpowersuits.pw.toml"
-hash = "b5c8c336ff2a3b3597da88c09b85a6ba4755067ef661c93c503bef32d09fc75e"
+hash = "f2c6a7a0735f1ac33f48ddbd9c7e26772978a83291c2cf5d1a40097f88f281b4"
 metafile = true
 
 [[files]]
@@ -751,7 +751,7 @@ metafile = true
 
 [[files]]
 file = "mods/numina.pw.toml"
-hash = "7563f7a69aff8ce0c7811e45519ebcc754a4249614ed9ba2898dcd25d30c4aae"
+hash = "6958b7fbdfc8ced4e6ba1d3127b50141a4ef0c47306c701658f39abb33ea87ba"
 metafile = true
 
 [[files]]
@@ -916,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "06686d2da5127c633550e758cac92aed621477742a4807076719816e57a69c7f"
+hash = "2eb09c70ee3b933e6a56264072cbc3b728cdb13d50892768906c617f7444e083"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7d9507de943b268b01fc0c0dbe3270fb062bca4eb8c318ae6458a466d719d13a"
+hash = "04f66b35c49ff70a68788345fb1fa99758bb79ee1b37ba42614d25964c5adb8a"
 metafile = true
 
 [[files]]
