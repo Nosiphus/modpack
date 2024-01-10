@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "2bedf65e3bad928f4ad0b2a91f66e1defb4c9f5336c56bb1589584f2c4432325"
+hash = "72d1f6ad9cf317cd66ba53e94515999cf7b5672df291c3539b0303a9090f2fb0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/assembly-lines.pw.toml"
-hash = "9cef8371172d69e40561ed946777fa993f54b7615b413dff039c9c36941e07f7"
+hash = "be50b23c8ec902dba98aaf803059d019d35b0b002e9d9e78170d5b5f96829db8"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "9bf45d7ebe26c7dc3ddff3f74d4e60a429793ce3fa3261a710ce54b7f0c4586c"
+hash = "af08db89a750526fe7db93e7b91ed5fd92bdd2db01638dbcdc302d05eb19bd0c"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/blastcraft.pw.toml"
-hash = "8389893bb9e3313c125dfa7b119d15b812cd8cae57023fd7bbbe9ed593de9cd8"
+hash = "1dc216beba68d292e4a634b581fea9d256d1813c7f72b02443cfc5bf9695394b"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "9f0307d79b0507796d1cb58fe24b866bae10d9c82f221a11a5a2110bf024c171"
+hash = "8a6f1cd841fe0bbd8e088dea4e3d9d9d0510cc245b5c1315cfd8aee6a6b41975"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "2fa5caef6058567a75e011e3c312fd475c84c73162c5188e3de8d6362c614c2e"
+hash = "e2a59adea184cec38094350d850a9e5a3bfd2120274729c68efb4ebc39aaf6ba"
 metafile = true
 
 [[files]]
