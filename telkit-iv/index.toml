@@ -475,8 +475,8 @@ hash = "f8af986638dce48832ec3beff0808420f4049e81376dcfc026b441a3c0c88cff"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu-forge.pw.toml"
-hash = "8056593b8a64206e7a975fa2a88c8e5e59f84d9206f09f4b8c45b8a61f7683c6"
+file = "mods/fancymenu.pw.toml"
+hash = "79018bb216d476fefd857389f2fe080f60f50ca9e5a5acaf98d45aa4428244bc"
 metafile = true
 
 [[files]]

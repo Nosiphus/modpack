@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "887f5d12c64f397b5b870e218be609d750d8b3cbb7cbd03e697c72f09d2bcfe7"
+hash = "f7fcc8df7888fc3203b7c2a0e63cae5a4e99cfb1caa6b0589cf93df5b35cfe4f"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1275,7 +1275,7 @@ metafile = true
 
 [[files]]
 file = "mods/lumy-skin-patch.toml"
-hash = "1159a37caba40a8d58e75fd1a5ec1d84a10934bb1be64d182b2a6dd449c44cf2"
+hash = "ef42892bb57f0fea2ba8726d454609b8c3cbfcd47bf174a6a226d35f5b86148c"
 metafile = true
 
 [[files]]
@@ -1290,7 +1290,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-community-edition.pw.toml"
-hash = "6919e2830cc3105cee8b648f8b68565022a05f4ce4ffd498bb91b8af6976e315"
+hash = "e844af336b719f7fde634ddf01c7188972870ac7384defd19832f41def51db6c"
 metafile = true
 
 [[files]]
