@@ -3,5 +3,3 @@
 .git/**
 .gitattributes
 .gitignore
-*.jar
-server/**
