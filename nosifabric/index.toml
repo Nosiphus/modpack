@@ -993,11 +993,6 @@ hash = "ae7da9393665eb20bcd5385fe3a699c90be192e84211f79613701c719743cff7"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "7fee77c78b53f151b9358666bea9ccb75efc4c5e1ef9f3dee620db3826927f4e"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
