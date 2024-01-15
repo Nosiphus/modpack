@@ -220,6 +220,11 @@ hash = "3bfb89c4d79052b3052da2713e3250225851e362b8979f8534538c1fdec257f7"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "0c7c61055551d9e018a1f25716151a0e5778ce5964394ce30508282d696ac91c"
+metafile = true
+
+[[files]]
 file = "mods/colytra.pw.toml"
 hash = "27ffee4f26b99d014876940345e495b586730904275b4271dc70baf09815eda5"
 metafile = true
@@ -850,6 +855,41 @@ hash = "6d6f38ed97a83a65a42cedacef640faa54f00f04f3384a604911235c97d53020"
 metafile = true
 
 [[files]]
+file = "mods/thermal-cultivation.pw.toml"
+hash = "7b86c138ab74afff0648607d821603256d0625341a6829674bd5eace393abf6a"
+metafile = true
+
+[[files]]
+file = "mods/thermal-dynamics.pw.toml"
+hash = "9e4ae142be277f08c4ac01aea83bb4edb90feb445890b2603fc7dc254f1e823d"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "88c732d3804d749d8314bb9e8d0749b5711b47068e2582c559c9e093488d0519"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "7ab7310d8e23e297e73fa93475c779c091ee1844738f233b20a5b05a4a2752a5"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "e3dcd8211729e5fa570499ff2602c91f27d3be6db687c342f76735e8581a9f9d"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "9269edec00e3f0bb8011df93ff70eb9e9d6462ec3ae679423c80477ef03ce451"
+metafile = true
+
+[[files]]
+file = "mods/thermal-locomotion.pw.toml"
+hash = "1a5f6ac96bf75bf37c8e487beb1754dc2522884b2b8ab5ebacc3ee9477e0e0e1"
+metafile = true
+
+[[files]]
 file = "mods/transparent.pw.toml"
 hash = "bc249e4bf77eef00e13ba01233796c4e3b453779f255a2d6cfa3f7bd1e1b1f28"
 metafile = true
@@ -862,11 +902,6 @@ metafile = true
 [[files]]
 file = "mods/ultimate-plane-mod.pw.toml"
 hash = "05bcd2ec358144089f847502a86821964253915f49a0641906129fe7b074a92e"
-metafile = true
-
-[[files]]
-file = "mods/waterlogged-redstone.pw.toml"
-hash = "8f61d2fbedb240c16c555a5993d0c6d28179bbdcfab5cd236b3e88bfe826643a"
 metafile = true
 
 [[files]]
