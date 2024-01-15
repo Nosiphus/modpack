@@ -903,11 +903,6 @@ hash = "70e614e6a8149999081d1f5199daa61d5499d694c51b3b7947b958fcc056afde"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "7f63923d2240d002b0d113eec8a2fea4869837c09386faed9e1a4d096552d594"
-metafile = true
-
-[[files]]
 file = "mods/charm.pw.toml"
 hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
 metafile = true
@@ -965,6 +960,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
 metafile = true
 
 [[files]]
@@ -1115,6 +1115,11 @@ metafile = true
 [[files]]
 file = "mods/gearreborn.pw.toml"
 hash = "621421cd49d6d1da77a71ccef1501f4d88067ec7ca190ebe9ec1288c8bfd5d36"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c7864e8e3af437b95455a51a7dbb04bcc0f006eb70fcea661d25f8633295ff97"
 metafile = true
 
 [[files]]
