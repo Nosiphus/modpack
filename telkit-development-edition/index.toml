@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "3a10d498e670ff0a31de019d226616701720526e1e3201b4681ddc2293e3adc2"
+hash = "c4b10b57119d61cce9dde646bd472d155651b5a8a6cd2280e79e518f432c97bc"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "c0e28d40745671abdda3c2c945e138765ea2996739bbbe0d18261f573e2245de"
+hash = "795d8e7f803f53d432f1f9440d3edccdf891f9799d448c5815283fd6086b2a3c"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-electricity.pw.toml"
-hash = "91126f11e5f49d923ff00c38cd7be0d598b7f67fbcaa4c4bc8de8adc558a55ea"
+hash = "0d5deaff9c9f10781467fc9fd22492a4be9acf37c0deebb35b37353747dbd03e"
 metafile = true
 
 [[files]]
