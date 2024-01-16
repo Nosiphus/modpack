@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "e4d77ffb415222603462e87d6b10f787b33a4791ce3601b81a3f0482224b7617"
+hash = "8a3e2d4f75a3e2d2396ae70bddfd5c5471d6ae90598b6feaac1244178794928f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "9cf47598b4134ebab4fa43c907638fc0ea4bdd4badf2bfa0e6490c93b552ddd8"
+hash = "1bfc59cceb5c333b45f06ba231b3ca7ba1ed80354f9e685f73fa7f3174b2f712"
 metafile = true
 
 [[files]]
