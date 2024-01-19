@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "5fce50742506a09f1e695b73ff011ecd7aa991c9c6683d6da143e26a53377057"
+hash = "337535571b9ec061b1dfb68c5c3c3c245dfab209da827a4404183068c21c776b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -126,7 +126,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "822acea1296bed2244d313189bd2cd6438ece4f49fa129bf1e371c9306f06243"
+hash = "b810210869bbf331cf66edb1b26f63d0d018e2541c1d582f0ebc509c12fc4603"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "56f4081cefa864a94f9d272bc7588602fc7feae0c4b8c21442cc0bc94bec14d2"
+hash = "08c98e19598c4c6f78cb0fa48f3dfa3c51213e9834392996d88f32880c809031"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "9f0307d79b0507796d1cb58fe24b866bae10d9c82f221a11a5a2110bf024c171"
+hash = "2b5ce002f4478edf09961e51813653ca5fb275e99f11e7a67363a925f620178f"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d1d8d9d68a0e64dc7aef3e4d2b5c6492276c56d96799da5a44e519008f072850"
+hash = "d800546ae3c7b1c154812a91ba9a4a39493f63b5997e3d5451200aa140b658eb"
 metafile = true
 
 [[files]]
@@ -586,12 +586,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "c794e7e2ee49bc81f976006903ae7bc68b9452ca4e3811ce3d9e2fa52ba3e3c4"
+hash = "13bed5e16a7b1f107f16a9048b71dc8b521162ea9d20e10a88040b1b8716787f"
 metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "8bfe5b189b1c05f4ad97c6bb517d8f9ba837cc5b771816611f504f10773fc7f5"
+hash = "a772503d6306277e545699374c12511114cb0d4e8bf0ee81f4c4d33f2d1167c8"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "4215935fd852bbbf5f166030e9c98baa58e8c0077bde508301f624c984b7b8ef"
+hash = "649e3c523f22edc4626f5a5dd1464b2a445afe21113286fb570f9f21f5de242e"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
-hash = "63c3c1fc5e40846b86ffb45aedc936a9e3158cd2cc86ac4d80d7d83003eb4e6e"
+hash = "fb57be153cd796236c43fb70f1decc2823a212280bfaa78d002b5350fdf3c606"
 metafile = true
 
 [[files]]
@@ -1081,7 +1081,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "5636c06b6143b853cad0d067587d7b1016872cde58293270bff8368503234f35"
+hash = "ec7a4623e83f4d2465d6153c754e95bf29efe6c6f3ccbb98b44503089d96f0c5"
 metafile = true
 
 [[files]]
