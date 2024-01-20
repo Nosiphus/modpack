@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "337535571b9ec061b1dfb68c5c3c3c245dfab209da827a4404183068c21c776b"
+hash = "13ab046f7582a44c2e4ef38bb7e0eb14640f6504fb2e2911d7522fe2eea25f91"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "72b4e9baeb3065481aeaf244de7c664c10d5c791991fff6bf626a472d713cc0e"
+hash = "0cf725990a456f0b192bc7ff66845362250e894d07b62b6625586a1186d2c466"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "c794e7e2ee49bc81f976006903ae7bc68b9452ca4e3811ce3d9e2fa52ba3e3c4"
+hash = "8fa0967c64cff75bf4eec760f939fbb6bd2fbd5df9a9add0bd5d606c4acd7d21"
 metafile = true
 
 [[files]]
@@ -766,7 +766,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
-hash = "a45fd049cb6e16f035836f4147f664544d97d3c22d8aa2cc129901da099d760b"
+hash = "63c3c1fc5e40846b86ffb45aedc936a9e3158cd2cc86ac4d80d7d83003eb4e6e"
 metafile = true
 
 [[files]]
