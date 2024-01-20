@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "c4b10b57119d61cce9dde646bd472d155651b5a8a6cd2280e79e518f432c97bc"
+hash = "c6d5c6cd80a8416b1a3bb3194fad7011d11d422b78ef33cb906fac5965ac6081"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -71,12 +71,12 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "1074e0b812a33ece8d9ddffd16221d2ab09fd52ac15a0094877c4e9ac2e757cc"
+hash = "6f0216c16ef6735b1d468de905a24b6a552917ad534f102c6b09602891931134"
 metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "fddcb087b392efeab904b7e9a22062d3b69e4cd29f68088d7707dafa3a079707"
+hash = "0ebc4981674c04268946b87795d4c5ac7f94aa7422edd139b5123922a2099a34"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/canary.pw.toml"
-hash = "97336843286ec40ea61a10b44fad7f0fa8dec96598636ee1e59731cb9bf124af"
+hash = "09c8abfaa96974aa8cf2e2f41fc4ef6829b2660a84511d6b77df931a739ac171"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6c1fa726380fb25c20fc55794be4b8799e3e4e0a19291803137b7f301d7ce7c7"
+hash = "b59294b7d36556097f90a4ed2c8123b20933ca901861f8ae63b84616e7947fa9"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "1b9ee39fd1356323e4079873e9513535f635e5681d94ac8fb5bc2487dfbd5b78"
+hash = "e1e959139fd83cf1ac7cee6296c7f535d8c3ff76e78a30b915571fadc4f04139"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "7375ef224927b2075f3f58bcc348f54a1f91ec99a34e5406e232109b6dc963a7"
+hash = "a56422457504a6bdabee7441b050124baab086ed3daf48420b3f44776b0561d5"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "35ca4ad449c8d272750ee81a24ebae0e9f8599d2ab4f4c49633861b8ad72f150"
+hash = "4154f44ca76db156f1a6c4b3e3b4b2dce9af0e630cdc757e7bd7f730686477d4"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "609bb98f1b3384e5484cb05fd1ae4b33704ab5994594a0bf183d00a254d285c4"
+hash = "aa123fa90c81d7f6d80b9b52ed4dcfa64c803e5028c61e57f73fcaaecef1e92d"
 metafile = true
 
 [[files]]
@@ -506,12 +506,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "42bbb9a06dea9bd2276200c9e460dee81e4fbe7a07d6d247c3744ca865ae3785"
+hash = "46034008040cd4a9fc4566a2167acc7147dcef38d09209b085d9f55634f6d022"
 metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "546d10c52ded211e5e3d739a8c6e0afa833bc7c915b798f70f4526691a5fb8a4"
+hash = "593c82516290584155ff30c818f57ba45f28da354206d81b76806f395d883054"
 metafile = true
 
 [[files]]
@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "d9368aa71d440bdfe474bc249041478ab1626b0e4d19c89c9cfb5760b6cc50d7"
+hash = "f0a56fed51b5ffaf99e78e8596cffe49045c27916e0c9fcde9ef988cb9a60656"
 metafile = true
 
 [[files]]
@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "78db2c329fdaebddaff88e17b28c9fa0791497ace8fe2337ab1516129b2bd994"
+hash = "da8adfd1a2ab5e050fc182940c9bf972cbcafdbb12e22fe8274ccf47c71e9899"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/peacefulsurface.pw.toml"
-hash = "47800cb1eeef9bd611c09e9dd635bbf7d35b0229f380503ad0065761fc4ca6b6"
+hash = "a6e67317c7ce8c47a4197d7312647e8bc0065945fa976f1dedd8ffcba1d47d8e"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "23cffbafe6763cf88f3f1f2b99e8a9dcbe34a4073977a45152fe336c13043b44"
+hash = "d6eb84bc0a9c2b69683253b26ab8caaf559f34427e6ecfc48e53fe2042d03e5e"
 metafile = true
 
 [[files]]
@@ -821,7 +821,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "619a019ab398c26a851e7715db6dc6f7e897d54e852686a321769b20df7b7290"
+hash = "7bed0d31dce18cd5aebc3bfc40531275f1ea622c763dd9438aa063a4fbed993a"
 metafile = true
 
 [[files]]
@@ -931,7 +931,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "e82b9b4a583f1665e7f44eb51cc5b23de9a6397b692d03e608cf92aab545b3fe"
+hash = "fcf0166adba067f8417ab29f44a23e43363d1bb4caa87ee590edd7972bca4b70"
 metafile = true
 
 [[files]]
