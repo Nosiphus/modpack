@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "c6d5c6cd80a8416b1a3bb3194fad7011d11d422b78ef33cb906fac5965ac6081"
+hash = "01883b2cfd63ee7fe9a1ec4b8fe04d3b2b0a61daef293ea551718e0607601154"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "71435c92604bbfd25ac0bc604b6ada0135a106a19f4c639e7806e6136fec9181"
+hash = "0394ad418d3141ae9068440596dc1f689bf51def0daffbf8307db9721a6f78ea"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "aa123fa90c81d7f6d80b9b52ed4dcfa64c803e5028c61e57f73fcaaecef1e92d"
+hash = "8fb0e46b0189d77bb9b0813088fc6faf17e16822d82d6e1911632e56ec838eba"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "46034008040cd4a9fc4566a2167acc7147dcef38d09209b085d9f55634f6d022"
+hash = "2457f84f32220d9465cf074c86ca19d827ba92b38519acc162111a0b3483d54c"
 metafile = true
 
 [[files]]
@@ -721,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "83f8061f234c739cc9e14d92e2f5458046cdd116d9da0687f02eee90d0b09cd8"
+hash = "a061707e2f95d07eb8a38afb1f50a5f02803f03eff452452b66bc0b4394dbcec"
 metafile = true
 
 [[files]]
