@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "13ab046f7582a44c2e4ef38bb7e0eb14640f6504fb2e2911d7522fe2eea25f91"
+hash = "afbf250c3f82650f45e5e0401d7d377e4aa309f0b2815f50dac33b97a940d123"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ed2d2ec22398c00fbdb17dca371cb100ca3ee1f66560a62fc245c8b813ab7f69"
+hash = "7d5435e8286c168e5fe6e46b9609e950b688216eb0b3c58b013b06d6a1116080"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "630e8d4fd14c1d9cc1b954acbce03f65f6f2004b33d802526ced1832025683bb"
+hash = "4e0dc77faf029d552b3425b16132ff06036e62a55c2ae111e937a40a7fb01759"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "8fa0967c64cff75bf4eec760f939fbb6bd2fbd5df9a9add0bd5d606c4acd7d21"
+hash = "9a7552b23a3cc485bc5393481b2a497ea56ee31da8c60794964c8f6a1da0e2d3"
 metafile = true
 
 [[files]]
@@ -881,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "60bd665bbfc2add17c9840fcae15a58e7eb23cdf4bfb555e67c299f88667ca44"
+hash = "4c9eafaa8380b7945b1c34d9d5782103e57c7f95c8d2c64ec4a746b3c4ea7858"
 metafile = true
 
 [[files]]
