@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "a0665c6af530ef60a9beacc68ca9ccb50fc11f0c0e9dd4db5ffac3802f89f657"
+hash = "79018bb216d476fefd857389f2fe080f60f50ca9e5a5acaf98d45aa4428244bc"
 metafile = true
 
 [[files]]
@@ -652,11 +652,6 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "689fb8093bee711ff14e8fe0f1f03e8a65e1d0eabd0d729c11cff1f451977813"
-metafile = true
-
-[[files]]
-file = "mods/melody.pw.toml"
-hash = "dee32dbc5c856b93e3d60c187ff4045be23dd0585fcca47cff72e7b11e9d49b7"
 metafile = true
 
 [[files]]
