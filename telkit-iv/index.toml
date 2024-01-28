@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "afbf250c3f82650f45e5e0401d7d377e4aa309f0b2815f50dac33b97a940d123"
+hash = "b70e43b57f677054dc282573d05ed347da6be3930256c36e0ecd08fb7129f876"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "164205fa6e64cbe27b2b383698cd2f9d42ff1b19ed820b95eb72e7d7eeadfde7"
+hash = "278f53824f79ac545293d8fc3e73742a1a3f9d72cb708e48b598b523bc037df2"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "79018bb216d476fefd857389f2fe080f60f50ca9e5a5acaf98d45aa4428244bc"
+hash = "a0665c6af530ef60a9beacc68ca9ccb50fc11f0c0e9dd4db5ffac3802f89f657"
 metafile = true
 
 [[files]]
@@ -606,7 +606,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "1fad7040942ef6e2cdcc6b8c7357d28a1178a616445e522fc4d333e95d80c515"
+hash = "efcd9e7913a0870c9417f76b5510313a987c77256d6c173193a4094a567edeff"
 metafile = true
 
 [[files]]
