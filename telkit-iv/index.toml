@@ -655,6 +655,11 @@ hash = "689fb8093bee711ff14e8fe0f1f03e8a65e1d0eabd0d729c11cff1f451977813"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "dee32dbc5c856b93e3d60c187ff4045be23dd0585fcca47cff72e7b11e9d49b7"
+metafile = true
+
+[[files]]
 file = "mods/mffs.pw.toml"
 hash = "56423fb22c866cb31522532bbc75420d3ccf0ccfed15b1b892f43ff8bf3dcc13"
 metafile = true
