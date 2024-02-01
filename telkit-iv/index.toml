@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "b70e43b57f677054dc282573d05ed347da6be3930256c36e0ecd08fb7129f876"
+hash = "20e21bf279bf137025a976e50257cedf6537db60f50818784c1919fbed145553"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "eaf5ff310b162fe7f6443807011b9a3b5735ce20898b81ec8628ec2111fc0626"
+hash = "c6545c6b2f4ccafc9d611b4ee438623a2ccf4f830674eed92ad6fed608cbf219"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "8f3892eb4cafc989e9d8b1f5be419aded1a06e850671fecc8d9e18bc810b3a6d"
+hash = "f33cb1fddc10a8e41fb2c8180f4c320c22e92d9c99f214e536c2a522ed29b0be"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "7d5435e8286c168e5fe6e46b9609e950b688216eb0b3c58b013b06d6a1116080"
+hash = "e715503899e389e0d27baf13447a9e10d195f08cdf52d24b719de376e92c36b1"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1bfc59cceb5c333b45f06ba231b3ca7ba1ed80354f9e685f73fa7f3174b2f712"
+hash = "6461633a90fc0a236ca19eedc0ff96374747e69585db71ff590e3920f2779cce"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "234a4d1389f0595721e4354c1f051073a1e3e8eb8ed80d835e10fb0afac94daa"
+hash = "7027c35c8c0e671d934049281ff1b3253e5fe5ee30116f86b8e58c32db2b1dda"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "04f66b35c49ff70a68788345fb1fa99758bb79ee1b37ba42614d25964c5adb8a"
+hash = "c395ae1707c5ae22cde01fe361a3e8a1f559c346f258c31e6920ace3cb387392"
 metafile = true
 
 [[files]]
@@ -1081,7 +1081,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "ec7a4623e83f4d2465d6153c754e95bf29efe6c6f3ccbb98b44503089d96f0c5"
+hash = "c31218f650c3234f8abf23bfc17547479d04c5582b366d80787af248886d9774"
 metafile = true
 
 [[files]]
