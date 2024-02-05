@@ -45,8 +45,8 @@ file = "config/defaultoptions/servers.dat"
 hash = "1b8614ccd1c3af620a0cd666c3cf4c9a366bc2230d675ccdfff47f9df62146e6"
 
 [[files]]
-file = "config/fancymenu/config.txt"
-hash = "c47ea51b9f5e6d84e2eded0abef2448687e8f85e571602e7cd6ed7ced7d92145"
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "8034d9b06f56a6ac78242550c4e71e0470ff93c088b5c6b848cc439c01e7cdd4"
+hash = "cfcb8f9526c2cf2c2f8e95fc31e8c4cb47ca6c8445c98104cd11b54e68c8dad5"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -63,6 +63,18 @@ hash = "9593373a6f7c5eba83906674d0b7aa333adc7fae3510a90e9d5d66a784e6bf20"
 [[files]]
 file = "config/fancymenu/images/telkit-iv.png"
 hash = "5009175d12de13e4ca5c3d54089b1b716bed663469e11fd1ff160b99a136a3d2"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "9f6a66d16d299918b5e708282cdc1b563d3763d966d2d6b1111bd9f33c43985a"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_0.png"
@@ -91,6 +103,18 @@ hash = "bd760004a576ae93673713ef8249d5b98132baf11b64a3bc81ac8bb20dab7428"
 [[files]]
 file = "config/fancymenu/panoramas/primary/properties.txt"
 hash = "280d8fbf33a3c8adf4e10cbf7e139b6a034b6e0d9fcc00418559c91d21082e02"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/flywheel-client.toml"
