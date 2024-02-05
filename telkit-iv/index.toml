@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "20e21bf279bf137025a976e50257cedf6537db60f50818784c1919fbed145553"
+hash = "8034d9b06f56a6ac78242550c4e71e0470ff93c088b5c6b848cc439c01e7cdd4"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d800546ae3c7b1c154812a91ba9a4a39493f63b5997e3d5451200aa140b658eb"
+hash = "a3cd9d0edfe96d2ce39f4e12f03652740b941b5cda9e415f7c8c419e5c4a0019"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "79018bb216d476fefd857389f2fe080f60f50ca9e5a5acaf98d45aa4428244bc"
+hash = "7fd2ed1173f175c3541db345fa36ba7473c99052e092c4878a00db2d77a7f77a"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "acc1eb12bb2aab774f0bf90a895a447acddbb7d6c93398b14206ecc394463f41"
+hash = "7af4b518b1de5fe81a4a2aec8772114f7b3881ad312fa15610eaca472d5dec76"
 metafile = true
 
 [[files]]
@@ -655,6 +655,11 @@ hash = "689fb8093bee711ff14e8fe0f1f03e8a65e1d0eabd0d729c11cff1f451977813"
 metafile = true
 
 [[files]]
+file = "mods/melody.pw.toml"
+hash = "dee32dbc5c856b93e3d60c187ff4045be23dd0585fcca47cff72e7b11e9d49b7"
+metafile = true
+
+[[files]]
 file = "mods/mffs.pw.toml"
 hash = "56423fb22c866cb31522532bbc75420d3ccf0ccfed15b1b892f43ff8bf3dcc13"
 metafile = true
@@ -691,7 +696,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "91c6d641b6a4573a5998f7bc2ff1ef95b7ad9811c6ab515e642aae90c610ce05"
+hash = "05454aa444f0c2eabd96ed03510a549c678e32b08acf0d62522e8d3b5101b7fe"
 metafile = true
 
 [[files]]
@@ -766,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
-hash = "63c3c1fc5e40846b86ffb45aedc936a9e3158cd2cc86ac4d80d7d83003eb4e6e"
+hash = "fb57be153cd796236c43fb70f1decc2823a212280bfaa78d002b5350fdf3c606"
 metafile = true
 
 [[files]]
@@ -981,7 +986,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c395ae1707c5ae22cde01fe361a3e8a1f559c346f258c31e6920ace3cb387392"
+hash = "5cdd333cb241fc3d79cad8854f0b793fdcfcf93085a683d25c9131817883b9ea"
 metafile = true
 
 [[files]]
@@ -1046,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/ultimate-car-mod.pw.toml"
-hash = "d0646ebab6c3768ba829ff2f580ccb7270fd06e4e8b368b3188b87d74bb92782"
+hash = "7e22ee47f32f3df33fdf2e7e317b837f14be3c2e536c2da7285de40bf39e5ef4"
 metafile = true
 
 [[files]]

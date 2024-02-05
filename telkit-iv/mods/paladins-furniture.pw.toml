@@ -1,13 +1,13 @@
 name = "Paladin's Furniture Mod"
-filename = "paladin-furniture-mod-1.1.1-forge-mc1.19.jar"
+filename = "paladin-furniture-mod-1.2.0-forge-mc1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SISz7Qd3/versions/42zCzC8e/paladin-furniture-mod-1.1.1-forge-mc1.19.jar"
+url = "https://cdn.modrinth.com/data/SISz7Qd3/versions/SAFc02Mo/paladin-furniture-mod-1.2.0-forge-mc1.19.jar"
 hash-format = "sha1"
-hash = "bf3f04075aa6f391b96602971f9cc0abf7c325dd"
+hash = "32187633fcc3aac8cbb3b35908a1a20b3d1bc2ba"
 
 [update]
 [update.modrinth]
 mod-id = "SISz7Qd3"
-version = "42zCzC8e"
+version = "SAFc02Mo"
