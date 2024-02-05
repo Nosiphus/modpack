@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "e90ba3c263a7320514d8fac49c48680f094947391653b219cc266846d65df323"
+hash = "b0f7df6316f8a929abe9b0bbfa45360c56b1b73d5dfc31151f80344e469e3e8a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
-hash = "a45fd049cb6e16f035836f4147f664544d97d3c22d8aa2cc129901da099d760b"
+hash = "63c3c1fc5e40846b86ffb45aedc936a9e3158cd2cc86ac4d80d7d83003eb4e6e"
 metafile = true
 
 [[files]]
