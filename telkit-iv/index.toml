@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "8d689580f674ec00efd1291775c76dfdb4304a7c03e0a35b37da4fd0e0c1eb41"
+hash = "c8e7deb3846972211b165d4693a41f0964b649d6be38bb2182c9f68365ff0bad"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -171,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "0404df67b1976c2bc5cbbf43af1c1a2e64d729f82213d0452f89baa0157f2d60"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "419a5642baff26deede4bff3d5e27875c0e5adfde855193893dab223ef252211"
 metafile = true
 
 [[files]]
@@ -945,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "2eb09c70ee3b933e6a56264072cbc3b728cdb13d50892768906c617f7444e083"
+hash = "fd3ef7bb72dc095052f700d4923cfec55f22b1923b72bdb9d58b7a8b2fc3b5ea"
 metafile = true
 
 [[files]]
