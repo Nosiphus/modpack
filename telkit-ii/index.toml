@@ -97,7 +97,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "37b9a1d0113d0fd29b97288661b3444d20626c71faf2adbcde4502453532b946"
+hash = "0b8abdb579cb711b6b63ab0f07a9d330390fe382a50c71f7e5e9e40c5f2e1462"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7df3e470ce54bd383a0fe740e057a8c35512d538b73158d2bf3efae0d274171e"
+hash = "d1583e5a76a3d77f42e81c73a7ed73cddcd5aa2551b689f5db4803587a77fe9a"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "dba81061f9ae2e5266b8eb31a5e4f61c1f5ddd2c421afa0d5b13c9cd9a159e81"
+hash = "9a4e81d9936e30393968afd7adb1b5337fbc3211f22f2c4e70c77db50678d3ae"
 metafile = true
 
 [[files]]
@@ -805,5 +805,5 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "b7daa7cc086eb095d1b6f7d4b9dc7928b1c140b36379f50e1ebd393cb7024064"
+hash = "a75fb9adb97567417ca9c15c3c8e161d4ca904335fbba2cbed3c8ef7fc679412"
 metafile = true
