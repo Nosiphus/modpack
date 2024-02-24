@@ -1,13 +1,13 @@
 name = "Numina"
-filename = "Numina-1.19.2-2.3.6.jar"
+filename = "Numina-1.19.2-2.3.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MRNzikxs/versions/xOWx8sCb/Numina-1.19.2-2.3.6.jar"
+url = "https://cdn.modrinth.com/data/MRNzikxs/versions/wUtIZroA/Numina-1.19.2-2.3.10.jar"
 hash-format = "sha1"
-hash = "6c04a0865f3604c2147d58f25a5c99b006e6bdb0"
+hash = "76c6eac4c9d4d03eac8d422ff384e71b3386e020"
 
 [update]
 [update.modrinth]
 mod-id = "MRNzikxs"
-version = "xOWx8sCb"
+version = "wUtIZroA"

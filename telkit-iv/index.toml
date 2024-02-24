@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "5161aa7596f8bba97665754e1b09c5010e4d9bbe0e806446c0b00d821792f768"
+hash = "e7f01b9bc81e4aff4817bf2be902996f251a575b7080608b4882273cee49cea8"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "a5823eed363dcbf221b6d0e919b111f0a5676338967a2a599c7cb948ca24223d"
+hash = "71ac69abb3b7e06485b7982f7ef9fef9a3e50016fbf9d4dc9536e8670360d579"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "59512015694bd675c63264984669249c8190a37802427e7875b7f2d21d69e033"
+hash = "43ab72fc2e411fcdd964452542fa951f285a577f006c648b84ea99a99aacba80"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "b82006551fd339d4dccc32a6d1f9984209aed466a2d38b50f9386b658f3ad2f4"
+hash = "85d3643f03c93553f381325cd2d76ac0fc982fe17371aa3929a4ed895c173f91"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "7fd2ed1173f175c3541db345fa36ba7473c99052e092c4878a00db2d77a7f77a"
+hash = "6c82e0edd00ab7a591331d2d80950fabbe4d5ef88aa48740ec8cc0cf636c9aa8"
 metafile = true
 
 [[files]]
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/modularpowersuits.pw.toml"
-hash = "f2c6a7a0735f1ac33f48ddbd9c7e26772978a83291c2cf5d1a40097f88f281b4"
+hash = "a850adb8ba9515f241483ebb0458e142fb566236557f92c8c9f0f523c911b4a8"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/numina.pw.toml"
-hash = "6958b7fbdfc8ced4e6ba1d3127b50141a4ef0c47306c701658f39abb33ea87ba"
+hash = "f810f0fcfff5f9c09bb686bb05d2c474e80790e06840e5925a356ae162cb3488"
 metafile = true
 
 [[files]]
