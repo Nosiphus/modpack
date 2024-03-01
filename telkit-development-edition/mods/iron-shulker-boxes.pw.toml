@@ -3,11 +3,11 @@ filename = "ironshulkerbox-1.20.1-5.3.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/fxaE37Sf/versions/brNPasvu/ironshulkerbox-1.20.1-5.3.2.jar"
 hash-format = "sha1"
 hash = "22ce5db516c140835b81a892b8952d65bb610b2f"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4596119
-project-id = 314911
+[update.modrinth]
+mod-id = "fxaE37Sf"
+version = "brNPasvu"

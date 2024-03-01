@@ -3,11 +3,11 @@ filename = "devices-0.8.2-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YDa5wT4H/versions/LM16GjAh/devices-0.8.2-forge.jar"
 hash-format = "sha1"
 hash = "2a19f497cedf979a4e1037b5c487babfb62d20d8"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "YDa5wT4H"
-version = "LM16GjAh"
+[update.curseforge]
+file-id = 5062089
+project-id = 659048

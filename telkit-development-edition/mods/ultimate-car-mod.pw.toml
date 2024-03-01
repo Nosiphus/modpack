@@ -3,11 +3,11 @@ filename = "car-forge-1.20.1-1.0.15.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/DCPUF5Rv/versions/gtehUXb7/car-forge-1.20.1-1.0.15.jar"
 hash-format = "sha1"
-hash = "5aa85c8548a5c7dd57d84d958f12fba35bfe8a51"
-mode = "metadata:curseforge"
+hash = "3a5ffcb92837888364ce70c7435c874b78221e98"
 
 [update]
-[update.curseforge]
-file-id = 5082451
-project-id = 267458
+[update.modrinth]
+mod-id = "DCPUF5Rv"
+version = "gtehUXb7"
