@@ -1,13 +1,13 @@
 name = "Cosmos Library"
-filename = "cosmos-lirbary-1.20.1-10.1.0.0-universal.jar"
+filename = "cosmos-library-1.20.1-10.4.0.0-universal.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e7fbd8ad0b5fbae90c9e5f2737460eebfe08b58f"
+hash = "31abf41cf6d21df999aa7399e1059e04a8a9d049"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5081540
+file-id = 5148640
 project-id = 282574

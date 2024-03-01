@@ -1,13 +1,13 @@
 name = "Ad-Astra: Giselle Addon"
-filename = "Ad-Astra-Giselle-Addon-forge-1.20.1-6.1.jar"
+filename = "Ad-Astra-Giselle-Addon-forge-1.20.1-6.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XQDxCBVw/versions/iwizTXC0/Ad-Astra-Giselle-Addon-forge-1.20.1-6.1.jar"
+url = "https://cdn.modrinth.com/data/XQDxCBVw/versions/4KKWgR4d/Ad-Astra-Giselle-Addon-forge-1.20.1-6.5.jar"
 hash-format = "sha1"
-hash = "67bb7e61ca4bb9fd934a16a39bb301a576fbc37f"
+hash = "c113e3d9232d689f1dfc036bcc13c87e0858877f"
 
 [update]
 [update.modrinth]
 mod-id = "XQDxCBVw"
-version = "iwizTXC0"
+version = "4KKWgR4d"

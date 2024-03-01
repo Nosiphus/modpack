@@ -1,13 +1,13 @@
 name = "CTD Core"
-filename = "ctd-core-1.20-2.4.0.jar"
+filename = "ctd-core-1.20.1-2.4.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yezTvOQg/versions/eQPCXdK4/ctd-core-1.20-2.4.0.jar"
+url = "https://cdn.modrinth.com/data/yezTvOQg/versions/YI7bBB0q/ctd-core-1.20.1-2.4.8.jar"
 hash-format = "sha1"
-hash = "af308cae5d7229e275cc7faf9b2434db3ba1038e"
+hash = "b14f87f752766f98a5cd68c4b7901be4e14e02cc"
 
 [update]
 [update.modrinth]
 mod-id = "yezTvOQg"
-version = "eQPCXdK4"
+version = "YI7bBB0q"
