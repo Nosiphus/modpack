@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "31b7f5371653df7c4f38580e0acefd1fd79a0bde7511d2e1d6997529b8b76a91"
+hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
 
 [[files]]
