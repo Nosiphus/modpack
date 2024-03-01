@@ -110,6 +110,11 @@ hash = "6bcd638c1a35c25a033b48c2feedd96f11cb8c02c50f884a67268b688986870c"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "ca952bd840d56b25a0b1fef8536b482a27b0cd1ce0bbe0ab601bd1db98c6d294"
+metafile = true
+
+[[files]]
 file = "mods/applied-mekanistics.pw.toml"
 hash = "bd9f67f0985aa97b0faabbee9fdfd2e36c93352b0067f26de880dc8c968b70ea"
 metafile = true
@@ -272,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/cosmos-library.pw.toml"
 hash = "a70800535375aedc4095c81365708e7eebae829f112f681ba9ffca30663399e9"
+metafile = true
+
+[[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "aaff9ad7cf5ef9fb7435fd04d813d5646cef8c7aecb7f060a7b8b09c3d57710c"
 metafile = true
 
 [[files]]
@@ -447,11 +457,6 @@ metafile = true
 [[files]]
 file = "mods/hammer-lib.pw.toml"
 hash = "0259ff86b5c5655cbe9a25c626dcabc76cc049a82cce44af54a652fd4474f021"
-metafile = true
-
-[[files]]
-file = "mods/identity.pw.toml"
-hash = "2af473e2ab579f46b96e19764c7c7597d1ff1c5fe2d410f289129d62599cdeec"
 metafile = true
 
 [[files]]
@@ -745,6 +750,11 @@ hash = "5575e297b41a60afbc122f1f24487d1f528f0f6a05758e202795586321110f42"
 metafile = true
 
 [[files]]
+file = "mods/remorphed.pw.toml"
+hash = "81f69327be06e1d5c98fb1dcfcb6eb50403c4c5ba2ed948e2904aa91fae9e2bc"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
@@ -952,6 +962,11 @@ metafile = true
 [[files]]
 file = "mods/webdisplays.pw.toml"
 hash = "157409c7c77537e2a6d852a845340a210e06fbaeb9d913f595c2c2c201b0c297"
+metafile = true
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "a204a5801f4c43eac193db8fd8e408ed9fac2678b5a23dbf3982e3787dbdc70e"
 metafile = true
 
 [[files]]
