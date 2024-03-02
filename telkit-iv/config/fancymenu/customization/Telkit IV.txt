@@ -146,12 +146,12 @@ element {
 
 element {
   copy_client_player = true
-  playername = windowsxprules1
+  playername = 
   auto_skin = false
   auto_cape = false
   slim = false
-  skin_source = windowsxprules1
-  cape_source = windowsxprules1
+  skin_source = 
+  cape_source = 
   scale = 30
   parrot = false
   parrot_left_shoulder = false
@@ -201,7 +201,7 @@ element {
 
 element {
   interactable = true
-  source = Telkit IV: Wednesday, February 28, 2024%n%Newest PureBDcraft Patch Collection: Sunday, February 11, 2024
+  source = Telkit IV: Saturday, March 2, 2024%n%Newest PureBDcraft Patch Collection: Sunday, February 11, 2024
   source_mode = direct
   shadow = true
   scale = 1.0
