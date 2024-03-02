@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "39ce57dd609c5afc1a3252eaee54c6fea07dc66ff16742e0c97f2472c0d48b4f"
+hash = "82fbc6dda890d23c2e3f9fb8181350592e0fbdf4a34015a52ed1e97cbcb79c86"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -821,11 +821,6 @@ hash = "52bf9ca787792e0c18f093735551dc9084bd8af829d3d7c2c60f101f66974acd"
 metafile = true
 
 [[files]]
-file = "mods/modern-online-picture-frames.pw.toml"
-hash = "a4c747fcf0249b27ce0f436b2fa81f9c5f4c4e6a066dd048ca3fc5cf397dbcc5"
-metafile = true
-
-[[files]]
 file = "mods/more-sound-config.pw.toml"
 hash = "5a330fb36b29a738a1f9bf8a7973b6da39c230b34d1c029ab1c98a42d0aea457"
 metafile = true
@@ -873,6 +868,11 @@ metafile = true
 [[files]]
 file = "mods/obfuscate.pw.toml"
 hash = "0f17b3547f35c092a7bcfba6e4cdaeb12ea1b0b5828c660516bf3148ab44b7a2"
+metafile = true
+
+[[files]]
+file = "mods/online-picture-frame.pw.toml"
+hash = "d8e8487fa7b68d120d3e586cc3da6f361da924823e74c26ff0b57ca4f0d4d902"
 metafile = true
 
 [[files]]

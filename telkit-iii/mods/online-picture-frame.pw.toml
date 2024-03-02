@@ -1,0 +1,13 @@
+name = "Modern Online Picture Frames [Fabric/Forge/Quilt]"
+filename = "OPF-1.16.x-v2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "deaea0d4db778b75382e2aec246ba0010387333a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3735899
+project-id = 428377
