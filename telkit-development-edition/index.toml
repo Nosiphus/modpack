@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "aaff9ad7cf5ef9fb7435fd04d813d5646cef8c7aecb7f060a7b8b09c3d57710c"
+hash = "020110b523881c8625a49bf31dd2a6eaff4935a01f7451f26dbe6cbe32f0fc7e"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "dac9661e68e6ebf407346f6ebdb0ab1daa688d3b4fece330637f64b7e0cc178b"
+hash = "158dd3bb1aa9ba56d96e6447f00250f279f0e2155194dec52a9bccc69da62168"
 metafile = true
 
 [[files]]
@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "a204a5801f4c43eac193db8fd8e408ed9fac2678b5a23dbf3982e3787dbdc70e"
+hash = "f3447e54a54514a0169188762a395840f52ec5cbb129268b3330958175b4c4a0"
 metafile = true
 
 [[files]]

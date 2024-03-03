@@ -3,11 +3,11 @@ filename = "remorphed-3.0-forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/8aeV5uJW/versions/n6AhojDo/remorphed-3.0-forge.jar"
 hash-format = "sha1"
 hash = "0c9d82224d084e6b337d10ce49497b022f14dbd0"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5150797
-project-id = 950721
+[update.modrinth]
+mod-id = "8aeV5uJW"
+version = "n6AhojDo"

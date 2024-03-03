@@ -1,13 +1,13 @@
-name = "Woodwalkers"
-filename = "walkers-2.1-forge.jar"
+name = "woodwalkers"
+filename = "walkers-3.0-forge.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/Sr1HeD8z/versions/D3w1ZXlC/walkers-3.0-forge.jar"
 hash-format = "sha1"
-hash = "a6cf1014575d98b9d7ff818baa279dca1feaf705"
-mode = "metadata:curseforge"
+hash = "2f66bfa5d175d77515981d7d2497d7b5eb28b15c"
 
 [update]
-[update.curseforge]
-file-id = 5062277
-project-id = 868922
+[update.modrinth]
+mod-id = "Sr1HeD8z"
+version = "D3w1ZXlC"
