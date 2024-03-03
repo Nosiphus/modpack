@@ -17,8 +17,8 @@ file = "config/ModernUI/text.toml"
 hash = "2c94a4a7ce5facfdf02b94cdea0063f45791f9b24cf223c8859e56b70ac40d0f"
 
 [[files]]
-file = "config/fancymenu/config.txt"
-hash = "c47ea51b9f5e6d84e2eded0abef2448687e8f85e571602e7cd6ed7ced7d92145"
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -26,15 +26,27 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "c7a20e5414e96cfd5e727ce4564656e950c8d4f3882cde84f348206d27682298"
+hash = "9135747a5ee26977eb8d96994ac14c5b31dff588d8f4fa06842033c64985e4bf"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
 hash = "9593373a6f7c5eba83906674d0b7aa333adc7fae3510a90e9d5d66a784e6bf20"
 
 [[files]]
-file = "config/fancymenu/images/telkit-iv.png"
-hash = "5009175d12de13e4ca5c3d54089b1b716bed663469e11fd1ff160b99a136a3d2"
+file = "config/fancymenu/images/telkit-development-edition.png"
+hash = "a10049c35a647ef2e215e139ccaadcf58fdc1bbaac8c9919fcd7366a957152c4"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "8979b75345107cdc31b5484b327c117dbe356626b54951a3e67612e287a9ef59"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_0.png"
@@ -63,6 +75,18 @@ hash = "bd760004a576ae93673713ef8249d5b98132baf11b64a3bc81ac8bb20dab7428"
 [[files]]
 file = "config/fancymenu/panoramas/primary/properties.txt"
 hash = "280d8fbf33a3c8adf4e10cbf7e139b6a034b6e0d9fcc00418559c91d21082e02"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -111,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "ca952bd840d56b25a0b1fef8536b482a27b0cd1ce0bbe0ab601bd1db98c6d294"
+hash = "9c59d477002953b33449431f42084660f39f5f27470c652ddf2bae74f2e20ef6"
 metafile = true
 
 [[files]]
@@ -676,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "57f5c31c532793e3fb9a2f8c3c01c787dc91a1e14d72df38bfa8c04f2f753238"
+hash = "56336088be5fdc0fce73c0196fea88e00323c0afe07776b95226d7f7fd7c25ba"
 metafile = true
 
 [[files]]
@@ -736,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "f9ae250de0bafee8562b9ba31f12ed345f35b349b76b334de2acc0c472d0bc01"
+hash = "e02cf24e798f2a3d5bcf83440a8a220a62871a326753f7991d61b8c6113791f5"
 metafile = true
 
 [[files]]
@@ -751,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "81f69327be06e1d5c98fb1dcfcb6eb50403c4c5ba2ed948e2904aa91fae9e2bc"
+hash = "dac9661e68e6ebf407346f6ebdb0ab1daa688d3b4fece330637f64b7e0cc178b"
 metafile = true
 
 [[files]]
@@ -976,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "34d752fd08e0bed354d1be2e7b7ca4ac7a1a54e54fbeee9fb8d39f4bba494771"
+hash = "9aa66a0b9c546a39b3d5fbf871238ccc159dfc6d7ed016f6945882424085b75a"
 metafile = true
 
 [[files]]
@@ -991,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "2ebf64ebb1d400dc29655ab8a34cf8a6e0c8242b5ed8098eab965b3a16e044b0"
+hash = "ffa25af53cf0e78b250f5f1a3267c47a763e67b048f18aea8228508240c535f9"
 metafile = true
 
 [[files]]
