@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "9c59d477002953b33449431f42084660f39f5f27470c652ddf2bae74f2e20ef6"
+hash = "001dff0909a361c8e941a29b74c0098735cc61a7923bd9a81a2674a8ac55ed1d"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmos-library.pw.toml"
-hash = "a70800535375aedc4095c81365708e7eebae829f112f681ba9ffca30663399e9"
+hash = "fffb774d85c625f3f6fd3d320ad2b43ca867657ec38a1ea35ef2dfc2d6e39a0c"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "56336088be5fdc0fce73c0196fea88e00323c0afe07776b95226d7f7fd7c25ba"
+hash = "d9e47fd36c358885795f62b7566eb5d11156729215d63308f451bb5512d0d6ba"
 metafile = true
 
 [[files]]
