@@ -599,11 +599,6 @@ hash = "4197e21b90ffc991b42fb07a8e2c55824ba30f66185688a1e63ddbbecd10937e"
 metafile = true
 
 [[files]]
-file = "mods/littleframes.pw.toml"
-hash = "67084cf7b7c61499aa1e0d8c228b4806d1200c6dc6144ba72f32f2042ef3f92a"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "8958d700cb45ca9dab94fe314702e0c548a31b2d5e83711433923a3018ac71a8"
 metafile = true
@@ -1089,8 +1084,13 @@ hash = "0a46356958c44b7302f5b9b90256def97955237c89f9026c74b7ac4c0233cad3"
 metafile = true
 
 [[files]]
+file = "mods/waterframes.pw.toml"
+hash = "b6ccf7da90cbbeb282bc728fa766b8d28eaf75e9353cbec0c86dc5c264271caf"
+metafile = true
+
+[[files]]
 file = "mods/watermedia.pw.toml"
-hash = "d3b1581fc4eb333679483578f7d6745f627848a162de5ac04b6270b2f5d97ab3"
+hash = "74fa61b87c90075b6f3b4cc09ebb5559b324e276244ee651b48fb494f2807c0f"
 metafile = true
 
 [[files]]
