@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "0cfaf31bc241f574a4a285110997a54d8e1d21277a603f662e313f614fadfcde"
+hash = "b6eec5cc1ea10a5dec9a7480bed4311c37d1219ba58f63eeab33af32f94dc17b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -950,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "fd3ef7bb72dc095052f700d4923cfec55f22b1923b72bdb9d58b7a8b2fc3b5ea"
+hash = "c3f868252957f405de530da753f2c4cb0fe72a6bb8ff4024be9f7d875e2dd3a6"
 metafile = true
 
 [[files]]
