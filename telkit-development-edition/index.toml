@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "9135747a5ee26977eb8d96994ac14c5b31dff588d8f4fa06842033c64985e4bf"
+hash = "e9f14454e8aab99aefea4527650d81faaf07f879cbaf6b9c873b95b519233254"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "001dff0909a361c8e941a29b74c0098735cc61a7923bd9a81a2674a8ac55ed1d"
+hash = "26ff54bf616b2de8ba7baa57b37280e356ea63b8f3c4f0594cb78738ca1a78a1"
 metafile = true
 
 [[files]]
@@ -275,12 +275,12 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "0cdd209cbf66b8929f8250f520e2bcf94056f57c82921444875265fb9db1f64f"
+hash = "614377abeda3242e50d35cfaffbb90eed6ad08313486f771a50f3341cfc7a55f"
 metafile = true
 
 [[files]]
 file = "mods/connector-extras.pw.toml"
-hash = "74b6ea449e752e8217d772e8407ab11545d17a807b979788932ce7ae8df3a9e6"
+hash = "b1859dc0ec39712165eac3d4dc0dc6b41053b586f2ea088800905069ee34f621"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "020110b523881c8625a49bf31dd2a6eaff4935a01f7451f26dbe6cbe32f0fc7e"
+hash = "96aa404237bad70b794fd11b908bd34fca8c23111edcf249f15827e84bebb1ee"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "cff7ef62df63f3a19c5cced1516eae0e7489f36e1aee4d83461271356308e7ff"
+hash = "e7861f754d09fdaf13c999c1ffdf614da506022edd825812156653a19ef5dd18"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "5fa124fb8feb7358a0eda4acf5bed5b2e857570e255548ee00ca8961467b0819"
+hash = "8ad5311906f9a6fa48df160d4e1826adbfb7da447526ae52ccbb46f9a64885a7"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d59267b7c76cda271d3edf00c50b532a5912eb1a1bafbe6a16f0ecffd78a4f4f"
+hash = "712ac79bb4012b906355269fa28ac92c1cae6bf37b43a4dcd1320f98a323b4b2"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
-hash = "ddb0fbc9a84cc89651a60b00bcf87b4dc7e20668707cb8c5a5f19cf272c51162"
+hash = "a7fc8bd09cf713064869a1afb52c7747f3a857a5b79f13439e4de457a4565e95"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "158dd3bb1aa9ba56d96e6447f00250f279f0e2155194dec52a9bccc69da62168"
+hash = "cb0d758df2784ce6d2d26ec4070583dd06af533b39dd77a857b6bf0d0182cc73"
 metafile = true
 
 [[files]]
@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "db3562f89217eeee9f5a369fb855be4f1fb89a4233a1dd67f2fbf4675d236f5a"
+hash = "5e352e698c22eb5ee0be60baf1d5e50f20970d98e29ac3d9623023bd58bdaad4"
 metafile = true
 
 [[files]]
