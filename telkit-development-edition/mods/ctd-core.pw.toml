@@ -1,13 +1,13 @@
 name = "CTD Core"
-filename = "ctd-core-1.20.1-2.4.8.jar"
+filename = "ctd-core-1.20.1-2.4.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b14f87f752766f98a5cd68c4b7901be4e14e02cc"
+hash = "a4515af656ee6759149ca3e3ab88cb9057178ea2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5126791
+file-id = 5166874
 project-id = 258186

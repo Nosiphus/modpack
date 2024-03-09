@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "e9f14454e8aab99aefea4527650d81faaf07f879cbaf6b9c873b95b519233254"
+hash = "41c60d93f6a7ba90ab3fe8416de6c61b0945f62e40e2cdf91acf841414e6a1f9"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "96073dec03b3520e6989b2c7010f1ade84c29db35e9d90cf8c0a61cd2902bdd3"
+hash = "02c39db9f22b783337f78f45ba24fd738255ac19f9907d6cbc8042fb33ce9d9f"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "26ff54bf616b2de8ba7baa57b37280e356ea63b8f3c4f0594cb78738ca1a78a1"
+hash = "1629e60ad53ad68fd6730af7ddb6e07e379ec8c035ba2b8e2778e1c8d5108b6a"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctd-core.pw.toml"
-hash = "041cc8da144cb1bcccc1c7629f878733f2ddd3bfbecbbd05bf45bbe5843b9677"
+hash = "cc7bd4015e09465aa0ac0bf4c9dc29ca147ec37b2abdddf589f2ae83dc9d9788"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "8d028df2ad0caa980db1ca25d8d6af87e73762d6fb65c8b0fdfb6fedaf5c3499"
+hash = "045f6b80e4bdfb10e54faf545afa1625ddb2a2843387a6abc6f01f35cba9c340"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstonepen.pw.toml"
-hash = "5575e297b41a60afbc122f1f24487d1f528f0f6a05758e202795586321110f42"
+hash = "8d473cabdb536aa16644542972f17f5aaa15ba4a3e225064ffcf29b21a118076"
 metafile = true
 
 [[files]]
@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "f3447e54a54514a0169188762a395840f52ec5cbb129268b3330958175b4c4a0"
+hash = "8453cad6562c1d096e47f8aaad3a3ffeec602a3f75d3ab8d0991d00a0834f257"
 metafile = true
 
 [[files]]
