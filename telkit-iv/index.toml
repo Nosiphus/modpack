@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "fc580072aa047827e0713b3b3b7e790702a1fe79b7908a4d0ee7e70e4e26d8a5"
+hash = "d81895d5e6a47cfc02b2e24318a06dcd09fae8cf3b05b7c742d6ff2ed6b5f942"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "85d3643f03c93553f381325cd2d76ac0fc982fe17371aa3929a4ed895c173f91"
+hash = "1c57ab7a2557d0ac51e16c96de842c529d864bdfe126d5439a74524b775505a3"
 metafile = true
 
 [[files]]
@@ -1095,7 +1095,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "a5450a251ab85b5b65082c54f2e3528bb3d31796a3408aeb788a5d20660a5e7f"
+hash = "61cf85ec63ec36a07ed60a8f89ef02ddfee2cf68c058e186b307a667e20d0ef0"
 metafile = true
 
 [[files]]
@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "22d714a9a7ee57a890a8191c990fd4c95a400d8b486b70f92bf0935ea06b4efb"
+hash = "5551bf24fd48280b082594e37697a7a5b63a3aaec0592f33df9e7b5bbdc3d738"
 metafile = true
 
 [[files]]
