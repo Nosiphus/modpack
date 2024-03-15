@@ -1,0 +1,13 @@
+name = "Exline's Furniture"
+filename = "exlinefurniture-v2.7.2-fabric-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CQ7pGNKT/versions/DfuDGYlp/exlinefurniture-v2.7.2-fabric-1.20.4.jar"
+hash-format = "sha1"
+hash = "e0ac2c4d83cd6dc027bfac7bf63cb65b8635c74e"
+
+[update]
+[update.modrinth]
+mod-id = "CQ7pGNKT"
+version = "DfuDGYlp"
