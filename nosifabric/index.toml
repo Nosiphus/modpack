@@ -21,11 +21,6 @@ hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
-file = "mods/astrocraft.pw.toml"
-hash = "4b38f1d110c78483a23e1703c429f15dfa103af4b8ee261d9aea76a6245cf22f"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "99d15c4234e0c6ed10f5ee7a740a1ad88fc8fc77afd78ad2023e8f615c35cd83"
 metafile = true
