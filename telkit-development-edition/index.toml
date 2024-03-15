@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "41c60d93f6a7ba90ab3fe8416de6c61b0945f62e40e2cdf91acf841414e6a1f9"
+hash = "fa27d9c5297b28cbc389f99ca7c5294658926758922201dfd3e9ef04646a41fa"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "1629e60ad53ad68fd6730af7ddb6e07e379ec8c035ba2b8e2778e1c8d5108b6a"
+hash = "5b3b15d695310491a8b6678b9b30f4d2fca0a36528b053b4c3e8d157b7599e56"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "614377abeda3242e50d35cfaffbb90eed6ad08313486f771a50f3341cfc7a55f"
+hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "b81a10e9d037c7d55188f4a00d74e78c38c56898ab886888262550aed589c660"
+hash = "eb579d1e274aa9458acce982cd8de74dfaa63ee0bfd824c179694795008de971"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "96aa404237bad70b794fd11b908bd34fca8c23111edcf249f15827e84bebb1ee"
+hash = "4bdfbcb1b374b24f5cb076ef047d56e91ab08a9f0db32af4a8084342741a5e59"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "063f8da4ec5661d355b7771b4d50a9e612ef7dfce9794040c7fc8660d101956e"
+hash = "17deebb6eaba8aebeaa7b01e4db476a59351f7b4ce4572ba18fe5dba84b76189"
 metafile = true
 
 [[files]]
@@ -340,12 +340,12 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "e7861f754d09fdaf13c999c1ffdf614da506022edd825812156653a19ef5dd18"
+hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
 metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "8e619acfb38182c17ab923bc355df215e26d816c2b947f68ac3266b6dfeaa812"
+hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensional-pockets-ii.pw.toml"
-hash = "a1666fdb3a5112dff1fa606f86d733c4786191e6f4340f09887f31ace5a5ab72"
+hash = "a92b4dbbe18ef8c7b216eabb67e7704ee21f3fa73ee78a34eecb1486c02f3a41"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "ea2639ec3a44bad8a70b46f259b697f317ee61c16d5175d53ab54b22e3ed376d"
+hash = "1a6d0711f27c72fd535fef344cfda555859fdfc59951c2bd25730308dbb4c8e5"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastfurnace.pw.toml"
-hash = "941194b650fa31742558efb25a2bc92b8bb6089da8cbf0f0eed096a6f76138b6"
+hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "cb0d758df2784ce6d2d26ec4070583dd06af533b39dd77a857b6bf0d0182cc73"
+hash = "aea107cef583e60427e4421287d395ad074688124e84123a7b20360c476bb15c"
 metafile = true
 
 [[files]]
@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "e86fca9e94607b38dca7c8de6ba3c231fd762721aee1c25405f1210a8ffd5998"
+hash = "f778669cfc9569ab26995ce292f85c95ec8d3b3a1df71064860fda3a253610aa"
 metafile = true
 
 [[files]]
@@ -975,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "3fd7667f5782bbff0d84e0e55a65fa107c3538f29dd5eb0981637827a604fe78"
+hash = "f9761d9aca039d5195bd0347c457afe7061aa24a92b2cccd86951433f1502d36"
 metafile = true
 
 [[files]]
@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "8453cad6562c1d096e47f8aaad3a3ffeec602a3f75d3ab8d0991d00a0834f257"
+hash = "fc9bd7840c03e3bfe44e79e68e4e912bbcff7335defe2fb6474e43036f6ee3ad"
 metafile = true
 
 [[files]]
@@ -1000,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "9aa66a0b9c546a39b3d5fbf871238ccc159dfc6d7ed016f6945882424085b75a"
+hash = "40f52fc7e433a14c0ada3717e9d7408e224d83a50fd425b1431ce41248d588fa"
 metafile = true
 
 [[files]]
