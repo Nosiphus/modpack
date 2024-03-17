@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/serializationisbad.pw.toml"
-hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
+hash = "64fbb565e6f441cacd9007431810a2798061b637741099d01adc92b784dc51ad"
 metafile = true
 
 [[files]]
