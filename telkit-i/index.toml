@@ -1289,8 +1289,18 @@ hash = "8bf77391c131bd77b22a02326b7ce0eafcb49e1a0efa09b22721b19eae77f91d"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-community-edition.pw.toml"
-hash = "e844af336b719f7fde634ddf01c7188972870ac7384defd19832f41def51db6c"
+file = "mods/mekanism-ce-generators.pw.toml"
+hash = "d7a50c0a3ce38cf852c70a599698293f0dd7346e34ce022f9c1d4e9d9678fb8d"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-ce-tools.pw.toml"
+hash = "ebfa93dcce012f6167dc8b60826daa6632b4c89640d2b367b90dce873e0028db"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-ce.pw.toml"
+hash = "c34e425ef555fd5f20f31ba2513ed0a47acf16c778d727674446965c3e94eb3c"
 metafile = true
 
 [[files]]
