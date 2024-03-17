@@ -178,7 +178,7 @@ hash = "de179fa609dc3c8063d2b75b9e8a866ef437afc60f34c37ed67141771409c95b"
 
 [[files]]
 file = "coremods/cc-tweaked.pw.toml"
-hash = "c8d2ce552057d8aabe86313575007479db7712d5113edd42564c795c9610a05e"
+hash = "ac867aa990d38a4d5d6dc36c151a32d55ab69e21f253119fe8b4c1af0c95fc60"
 metafile = true
 
 [[files]]

@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "fa27d9c5297b28cbc389f99ca7c5294658926758922201dfd3e9ef04646a41fa"
+hash = "ae15b7a8ef5b9e52bcb24b0b3e5791fcdff6f3771d7ebb297279c6d4114fca16"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensional-pockets-ii.pw.toml"
-hash = "a92b4dbbe18ef8c7b216eabb67e7704ee21f3fa73ee78a34eecb1486c02f3a41"
+hash = "31427bd99038db827a6fe7d31314a07454a8a0f0f6aa25a7410fbea245b36a08"
 metafile = true
 
 [[files]]
@@ -660,7 +660,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "288a6576ed743e289dc583289913bc6aad7b839a53cc96a4ae5d46a49bd84b6f"
+hash = "e134cfd4c36be275a2e603d31fe1fbaed8f1012c32a22fec9ebd898f848fd805"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/serializationisbad.pw.toml"
-hash = "52f15ab08d2c34a1580506865063a3da66f012b4b95b88573efd41240cb68be4"
+hash = "64fbb565e6f441cacd9007431810a2798061b637741099d01adc92b784dc51ad"
 metafile = true
 
 [[files]]

@@ -97,7 +97,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "6f4662e33c78a96c7ea0d069779934ed1e9e74eccc038301112808232bfd3d8e"
+hash = "62ba848fee57b0d4bf13c4c768092f1f9d29bd95d0593536dcc8eccbe2e08b60"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/serializationisbad.pw.toml"
-hash = "3ecec65e3a2ff50bfe96ba232533ac8117c3644903d0a01d5783c8f0f4baad45"
+hash = "ecc928d5a6f9fd0d4a3b015e174bf54da4db56dc143512cb93d96954113b1547"
 metafile = true
 
 [[files]]
