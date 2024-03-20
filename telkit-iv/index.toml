@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "a1a02fb9c693db39567522a4fca43af59928a3c330b642144fc3a77582168ed4"
+hash = "a78de6db224c5cad639a9762c02be2924fc8291e672a503e48c6473f859deb33"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "dde9f4b83d4453060fcff4f73b1dd66fb5e1556592513ddbe660e79dc296f4e5"
+hash = "47b29a79a0c6ab34baaf3591e44c85ebbf39cb5dfcf22e8f6b9e594e4df704c9"
 metafile = true
 
 [[files]]
