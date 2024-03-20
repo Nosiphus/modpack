@@ -1074,16 +1074,6 @@ hash = "51531d1a9e81b77d5b65976b2d3c5b85b671069873fa92af9b0f998c61ee720b"
 metafile = true
 
 [[files]]
-file = "mods/ultimate-car-mod.pw.toml"
-hash = "7e22ee47f32f3df33fdf2e7e317b837f14be3c2e536c2da7285de40bf39e5ef4"
-metafile = true
-
-[[files]]
-file = "mods/ultimate-plane-mod.pw.toml"
-hash = "0a46356958c44b7302f5b9b90256def97955237c89f9026c74b7ac4c0233cad3"
-metafile = true
-
-[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "b6ccf7da90cbbeb282bc728fa766b8d28eaf75e9353cbec0c86dc5c264271caf"
 metafile = true
