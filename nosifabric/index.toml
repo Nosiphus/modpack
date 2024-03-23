@@ -37,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/botarium.pw.toml"
-hash = "4420259ae9a141a4ee4511465fb37b24854611dc59ae752c0ee46b361d7e4af4"
+hash = "e4b635c4d8e5d65d09ee692c87b9021741a8e623b91a454177307f23efbe1e62"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "77b0b7ddc805d29f9e27db810c2dbb6adac0c933ea26fe43971a6b66564eb47e"
+hash = "89f35b5cf8db47052a50f222852c2fddb2bbc872df4ae95042853b41477ec6ac"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "8ef3e19870ab9154bab0c28152702b92fc3a310155f4c86e8a559e993747951a"
+hash = "d596d8a744be7f6203f373f00493a28afb5e8acf96fe12d974868ed27ea0c0af"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca7cc306ad9f3f8eb6e92d0cad5187778a23b081500b5820dbd9effd08ba0dfd"
+hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
 metafile = true
 
 [[files]]
