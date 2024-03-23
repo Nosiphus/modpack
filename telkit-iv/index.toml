@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "a78de6db224c5cad639a9762c02be2924fc8291e672a503e48c6473f859deb33"
+hash = "951ed7fbe63449a9dca5fc2570229460b719c5d70bbd3f4ace764a2289e651a7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "851c2360928ee865b6972534dc5cb1d1d04872748803bdbcf1e9e029a75b923f"
+hash = "2ce55fa1e0ee075bbef57bc74dae9f28a2e4958a33f6033b95336db7422f98fe"
 metafile = true
 
 [[files]]
@@ -825,37 +825,37 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "03d81ef023eeec6ae63c101596c1fd6291df38694a5576baeccb3625a0360478"
+hash = "5805bc0ba694ffe65b30fa8b7ff4710a710d28bc18f37433209453197cd0d99a"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "352d8664fa28c9bcc3d6d8ab9bbd9fe74256a3d6ee815093e0b136019c58f436"
+hash = "09ae2e95f7f3fe24b3eaaaa8d1fe56a05e47174a8a15654aa8ea0838c0b9cd69"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "a4c4e882276bfc365d4c5da2a1e1bbeb3e61a1f641d9d4914bfdbb8415064ec4"
+hash = "9048bb5ebce13eb0602abeddc325fc1ca1308ed5de5d81c55eb8686cfde4309e"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "e60387bafb7b401018dfbde612691bf71a6bfb6e9494be13aaf97aa88d41cf66"
+hash = "1f3ac44b2c4dcb051a8a3d39c1957909e5503701f2a374f9f3853ef87a2fa09a"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "df7d7686fde6caed8ab4efb5b108d26684f47644068905f366c5f7f6bc13d45b"
+hash = "4b8fcd149b8a7d1aa9c1243ee431dced9a646f04b924ccade2ffaa2c2a635afd"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "28641eb9b1d31c30f5c0c2dae77f8befc7d550222c5438ebd46f9103a251e820"
+hash = "66e790851c5573f8a21c669643b0bae6f2c5d2a51dcfea05f9bdca162ff12587"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "035ae1e4b9e095e4d50eec1c96cbc82130f32fc06d7fcf11747ac6895cf1df35"
+hash = "eef5d446c672a49a931aed9fdae758b37ba1b2e5568ffc85fbdc3fcb176ffb43"
 metafile = true
 
 [[files]]
