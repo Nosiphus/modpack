@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "fa2942e445d619c7dbb9d34895fa1c58a9d3cbd192fec3bbd136bd439ab323a1"
+hash = "342c4150cf2a14b09785131d8c44fb99c4c63e7c1e8e4cd0198f8ae923262515"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "5b3b15d695310491a8b6678b9b30f4d2fca0a36528b053b4c3e8d157b7599e56"
+hash = "eb862320d6a4e793b69ea05b292193bbd90910b3f415f6697438710f48a4246c"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "dd8a6b328c910ab83efb5e01a6db6954ab624c64e8e4b4ea8915baaaeb022ff7"
+hash = "3938d3075ad8379df3e6b63b9b812886f27050e1514305144c4e90a61328b276"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "feb55bf6d856555a845465691394e598d0977a175c539a659049963bba5e9131"
+hash = "3ead5765f5991ad425623be287b1c10207ab22f1f5ca674180379c708c744009"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "4bdfbcb1b374b24f5cb076ef047d56e91ab08a9f0db32af4a8084342741a5e59"
+hash = "cb5d6e2b398b68d854b0bcc282385a2c8b460829fb36a0dbf1432de7f654b3cf"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "712ac79bb4012b906355269fa28ac92c1cae6bf37b43a4dcd1320f98a323b4b2"
+hash = "91819e8cff5122b48bb26ee674a701264c9de18b73bcfb04f274662722f65e40"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "aea107cef583e60427e4421287d395ad074688124e84123a7b20360c476bb15c"
+hash = "4002ebf0123d75ec6ee40c943f51568896452fc8d8be4b9e78011ee9d4647c88"
 metafile = true
 
 [[files]]
@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "fc9bd7840c03e3bfe44e79e68e4e912bbcff7335defe2fb6474e43036f6ee3ad"
+hash = "283198cbd22a26980dfb8ccee32db8a83c2bf4f483598e8038c0d2b39de7f4b0"
 metafile = true
 
 [[files]]
