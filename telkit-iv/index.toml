@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "951ed7fbe63449a9dca5fc2570229460b719c5d70bbd3f4ace764a2289e651a7"
+hash = "4a97c2fa8027719ec704e0b4c22af85b7badf4e27b3ddbc7b787e56ce44f4ebb"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "60ba7a99958443bd54f5e676cb2d3845738de613bf197ab5ec15e5b01f2621e9"
+hash = "d0c3459ff8689bef3131af31c0e8023a9683ebbe9f1d650cff6a4ecb3e169e27"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "36a8642024f52e06daee2e697059a63e397431bec3bd8669cd36c20b8d78a419"
+hash = "73813cbf8d6719b0bc3d66ad1996366ba3522cf39d976866eee853e49d0b7179"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "5551bf24fd48280b082594e37697a7a5b63a3aaec0592f33df9e7b5bbdc3d738"
+hash = "11f7e269158ee2c844f5d1f29e9e3b46053bed2a66f713ad8d76282a45f94a1b"
 metafile = true
 
 [[files]]
