@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "ae15b7a8ef5b9e52bcb24b0b3e5791fcdff6f3771d7ebb297279c6d4114fca16"
+hash = "2a9285103cf59042d9d8ef8da4efd6b77269e83b2dc5703287176aeb52fa318f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "5dc5adc7894fcd644d33f614a76e3a19e1b9e176db15fa01fc1e95507acf177a"
+hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "eb579d1e274aa9458acce982cd8de74dfaa63ee0bfd824c179694795008de971"
+hash = "a8031365602209210d97d3ef47ec495c9964c070d8f6a34353004a9d971ccc83"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensional-pockets-ii.pw.toml"
-hash = "31427bd99038db827a6fe7d31314a07454a8a0f0f6aa25a7410fbea245b36a08"
+hash = "45c18b367aa3168865741c1c774eb050caca1a6e0fa8d55681909ff4cb34c34f"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1a6d0711f27c72fd535fef344cfda555859fdfc59951c2bd25730308dbb4c8e5"
+hash = "f62ca8e2ff4c78e9052177b200820dcdefaa1d4970f27a995b332357cff2832c"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazurite.pw.toml"
-hash = "03e5d86e69b73997b01943270844390ac341af08b1b91c0994715894db902cc5"
+hash = "273449ac44c5a5a2f13b0790c6a6da5557d4d1a78a4e1904973ed51e8efbb018"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "d9e47fd36c358885795f62b7566eb5d11156729215d63308f451bb5512d0d6ba"
+hash = "0b2ba2028a8664b93c332bf97ce78672b2882f47ecf2972ec3aaa53574a91a23"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "e02cf24e798f2a3d5bcf83440a8a220a62871a326753f7991d61b8c6113791f5"
+hash = "7f7e22ca326e1ddabd7344cd18d71a4099de775b47e9ee75d4be58a64f2c3af4"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "832099d03bf684865051b5f21f63a67176010f90d180e429f1966dce483b20a1"
+hash = "026e484ff48513b66e8d78169bfbe5644fb76974ec1a7d5db1dfcc4590c9ef45"
 metafile = true
 
 [[files]]
@@ -840,12 +840,12 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "c85ee74b78c2ccf8668ce8d66147231e999712218dde0bb719353616864800a6"
+hash = "96657b6a8364d3ebaf1d30cb74378df902513da20b18867c35b5c27b6c26462a"
 metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "e670eb811c96652b33b61c73fb876ece28136ade74b6a9c49c2ec534989260ce"
+hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
 metafile = true
 
 [[files]]
@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5e352e698c22eb5ee0be60baf1d5e50f20970d98e29ac3d9623023bd58bdaad4"
+hash = "2702a1a7d6ebac7853d6e7ebb5dcf68e2edf4b54702ccb745c5d452b5d4df6cf"
 metafile = true
 
 [[files]]
@@ -1000,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "40f52fc7e433a14c0ada3717e9d7408e224d83a50fd425b1431ce41248d588fa"
+hash = "512ba8a57ff7e58b76f98f2c4eb7dbb1c77c825d41b5864e28319ebd2c769f52"
 metafile = true
 
 [[files]]
