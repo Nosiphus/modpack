@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "4a97c2fa8027719ec704e0b4c22af85b7badf4e27b3ddbc7b787e56ce44f4ebb"
+hash = "391a154871fe1e0454ea3e3f9d7f7ab30372af29b10cacc57ba04ce6d2e1d262"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1c57ab7a2557d0ac51e16c96de842c529d864bdfe126d5439a74524b775505a3"
+hash = "c0a4cdd50db474e08e60038e8d73aa374fa297e20cc5740ed62f999009b0b9a4"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "8958d700cb45ca9dab94fe314702e0c548a31b2d5e83711433923a3018ac71a8"
+hash = "1853f638e30c454512d50bb7d176608b3f0e51d1b58869deed51aa7f29b112a1"
 metafile = true
 
 [[files]]
@@ -715,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "649e3c523f22edc4626f5a5dd1464b2a445afe21113286fb570f9f21f5de242e"
+hash = "447b90043b70f5308833b146988af8bf0bd4f1b513b8873607d6b62382b9beea"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "b75ee794f5581729a54291838fab6f666eb56844fb6ed132883ccb133e7a2ac1"
+hash = "c68cd08e64faa5ad098da07945c1ced820ac9c1fa69e69f69eeb0b2e2d626c65"
 metafile = true
 
 [[files]]
@@ -885,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/redstonepen.pw.toml"
-hash = "c1b377aa271063023987845955a1d472b06094e65ee56c9a52b00e94d97fda53"
+hash = "d89f3da4a435b42eefc00cf43d4e1aa9a8bd3aa2263895a0a701d0b6039ab0f7"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "74fa61b87c90075b6f3b4cc09ebb5559b324e276244ee651b48fb494f2807c0f"
+hash = "92dad42d2a70ef0c5ff11afe1e8c475acca56ec7a5937a13fb70ede0ad38ffe8"
 metafile = true
 
 [[files]]
