@@ -1,13 +1,13 @@
 name = "TC Wireless Redstone"
-filename = "TC-Redstone-1.20.4-3.2.2.jar"
+filename = "TC-Redstone-1.20.2-3.2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rMlghquR/versions/kQ9PBf5J/TC-Redstone-1.20.4-3.2.2.jar"
+url = "https://cdn.modrinth.com/data/rMlghquR/versions/izcdo1aQ/TC-Redstone-1.20.2-3.2.2.jar"
 hash-format = "sha1"
-hash = "f870c061a106fb7ca2bb6e7e8f5be284b3cb582e"
+hash = "767b11c02183546798a20e52a467b3fac3f4ad11"
 
 [update]
 [update.modrinth]
 mod-id = "rMlghquR"
-version = "kQ9PBf5J"
+version = "izcdo1aQ"

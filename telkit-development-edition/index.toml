@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "5f4e659f4b67a70c584abf027b4aa9083ff51b8a27f20384a271d305893f5bcd"
+hash = "2cdf4d9899b244cb01d26612273c965a4bd8db57f6b25b9569df05f60619419f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "f981f15795d9edd1268e12aa733b2e4a3fb6f96f783467d670dd4203a40ab72c"
+hash = "2b7e76b1d86c64a865bee65dd636951a8e086f53c685ba8b95a0a20e008511a6"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "1137ff9221efcd830244669be73113756304ef7664e70acdbda9779a123de7aa"
+hash = "55718843ff732c9931946e8b7307894f1d73fa70091274933eb81c3c7c1c1293"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "1d13a8f9f1068fafd8848c08b2b64a6d6014de3338ce2c4499e44d6346a35449"
+hash = "475a3bafbd5a7b6e8a7f8008f9a137e25a7c0d3474cca99eaa8bfa313899b408"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "3ead5765f5991ad425623be287b1c10207ab22f1f5ca674180379c708c744009"
+hash = "0f45c55c356b883d310767055f83f4d1e35fc6e99e652e0de12b764612181eec"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "de98aa581a459eb2a37a106074b4379982983e93ba72bbf69235b050f9970cb3"
+hash = "1f7c4ecaefd80cbe77ebd906bb38c8f0ed9ae3bf8310579b4f7f109a75a9e4e8"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "28cd35abd7f84a4d2f04fb50128bf272cafeac126dbdd6c20cb9c27eb0cd3d76"
+hash = "c3be39518899b51cd7a572cc1bae67b0245a03114e9ed17077412972120c7a40"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "18b1ca556e2221cedba762a96b55df57bb4cf0ad390ed70f2d704b6b286ef679"
+hash = "1afeb7b9e5493fd32885fd2a5b3a53cbd72d687e3d7975737e45b97163879c88"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "8ad5311906f9a6fa48df160d4e1826adbfb7da447526ae52ccbb46f9a64885a7"
+hash = "43747337eaf758d5eb87a5913c9d5f21bad3072f07c83ee62bbb26a22cb01d2c"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "83715cff2ef9636b83839b099f4da1392c90dcf6a9a00c8d896624f3660302cd"
+hash = "0c71e0d641771e81a687005b3928aecac9763a2e82b6e494d99276ea986f40be"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "91819e8cff5122b48bb26ee674a701264c9de18b73bcfb04f274662722f65e40"
+hash = "d90279f9ec76379c73aaa556cb8c2274e845d50e5f922eafb9eeeaf670380996"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "7f7e22ca326e1ddabd7344cd18d71a4099de775b47e9ee75d4be58a64f2c3af4"
+hash = "c5067c392f791df66155e30c6970491efac09ccb515cc7bf44571daa31382b85"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "344d03a97fa0bf67aece64aceb5256b05493387366764f389b6350d8c41c497f"
+hash = "799778cc92c55c71a87b656c36e91db943629352868a63bb45962aa6cad04c14"
 metafile = true
 
 [[files]]
@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc-wireless-redstone.pw.toml"
-hash = "c3a4877e71cf036abf6fd4cef7a887cd84bd2792f453d14e00297c7b141485ea"
+hash = "3d05f00ee0adeae10c3e38fb9b3612e1e63af7c9c3190832c1cf3a6d7d5bda6a"
 metafile = true
 
 [[files]]
@@ -1015,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "ffa25af53cf0e78b250f5f1a3267c47a763e67b048f18aea8228508240c535f9"
+hash = "86f3fe9dfda1e20b94ab08770214641e16882e314230d250f2f854a2051b4bde"
 metafile = true
 
 [[files]]
