@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "aa3db0c15f609d93415e811d2649d6cdf5416db82fb8edba370ae1bb871743d7"
+hash = "1f6ad993f87cb494dac8b653fd670548836071806ac7d77659ad3c1bdb71145b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "47b29a79a0c6ab34baaf3591e44c85ebbf39cb5dfcf22e8f6b9e594e4df704c9"
+hash = "ada693ed76e9259bbd7682cad69527dbc13ab82cc497a183b5ab7ca27b23d930"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "c0a4cdd50db474e08e60038e8d73aa374fa297e20cc5740ed62f999009b0b9a4"
+hash = "7a18c6afb2c5b641bd29af96b1ba6112e186b06c8c7a980a3b055bc61fe75492"
 metafile = true
 
 [[files]]
@@ -720,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a438c1f4aeee0567bbf155c3bbdf518410b7680d118d50537b4836a5734a4d46"
+hash = "7b119eb5e551ba2809d9d78e8af1db73037ddf2c2bac0260edfaf3c4ecea6857"
 metafile = true
 
 [[files]]
