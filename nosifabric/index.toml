@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "fab27ac9755c954e411294e947ded866f78462ab905e360964e419a6f270340f"
+hash = "274974efd5518cc3087bab45b80fa3eabc7e248ef9a8be9587f44bcd3222bc63"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "c9c725578fb357c6c005c33d48447a762fc6257f107cb6b0dc234db5117b03b4"
+hash = "21b5692b0db5c072aa179eb9358af5f4a38afec8012fb83c5194553b56657121"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "66afcc444afc211fb2c9fdbfb4826e39165acf9a4c1343ed491fff5988e1d539"
+hash = "8ab36ddea41aaea5969502df196cc821f52e679c60ffba9be030018d6de71885"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "a045df0a5d03ef89d92ca9318aa42a5a5e7617b37dd38d32b0a7058c0f6f4ef7"
+hash = "e568bb1a3bbe4838667066438c3818ff6133ac58e07f5e3ba84d814304d77f9f"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "25d835532db9fa054693bf5528c7486754c8dc0d4969a6fa64d5384b412d99c0"
+hash = "0af9c387516d677e414c99d95eab7cde46e899395316f50b6ff80da966e4143b"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "829f933abd632967c1f924beb14d27168deea2fcd5987a12a6cdce7aa9804325"
+hash = "660283d94bd4f07edb4b0d5575b42333884211d3f28de9062835098983211ab8"
 metafile = true
 
 [[files]]
