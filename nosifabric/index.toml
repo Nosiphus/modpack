@@ -1,6 +1,78 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+
+[[files]]
+file = "config/fancymenu/customization/NosiFabric.txt"
+hash = "a0ed42dd061fd236bb9de3bf3b34bdd74054001f70322bac835b3f94d0a87754"
+
+[[files]]
+file = "config/fancymenu/images/nosifabric.png"
+hash = "895bdb95c2c07848523bee7ef38e92dfda9dd1b4dc2aebd098351037bb98e988"
+
+[[files]]
+file = "config/fancymenu/images/nosiphus.png"
+hash = "9593373a6f7c5eba83906674d0b7aa333adc7fae3510a90e9d5d66a784e6bf20"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "ab6547ef770a6fa389d0534a9d117156840636a5954074a173c53c9b47ed9c8f"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_0.png"
+hash = "07893a6fe1d61686ef77d2e42ca356ded06f6256551a213b68b6214c45e8e2d8"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_1.png"
+hash = "c325e6b609aaca9f2545733aab43a689d5e343643d75058407268979e467d4e8"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_2.png"
+hash = "ac721559e2fc3c570f501416a7a4dd47e35a5e469e8f1602bd010feb2afc911a"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_3.png"
+hash = "59f27cdcff0365fd3994d110871c5c804328a30e0bd8b32e392bef6bd9a82bbd"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_4.png"
+hash = "26f1dfd0353979cbee99cec7f29c59a380d0987b1bace8b84f4bd58b23745282"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/panorama/panorama_5.png"
+hash = "cfecd3f12421c20941f5480cadbcce0032132dafff03a081e89816db6aff8be4"
+
+[[files]]
+file = "config/fancymenu/panoramas/primary/properties.txt"
+hash = "280d8fbf33a3c8adf4e10cbf7e139b6a034b6e0d9fcc00418559c91d21082e02"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "4209b7c1f768202b2f70ec5ab499b26ae9d4e73cf1e855099fe5fb23db0512e5"
 metafile = true
@@ -11,13 +83,23 @@ hash = "9ed34714e52d7dba7c9466c58e8819c20bd59b6882305e57c962c76adb0ca7e2"
 metafile = true
 
 [[files]]
+file = "mods/adorn.pw.toml"
+hash = "42641ad046d417668f6118db76da9b74cb94b5e6e84dbc5139c0b4a47517cffc"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "376e87e40002a718c38bd8f73b542d58434a8a90ac3dbc2c817fa0daf2caf53f"
+hash = "6511f2eae25781b5859b6f7b450773ae84643b6aefcbef768264284fb477ce0f"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
+metafile = true
+
+[[files]]
+file = "mods/ash-api.pw.toml"
+hash = "ce1ca484ec7efff3457e485e632fa950095fd1c7baa60b96a5d3865136e55d16"
 metafile = true
 
 [[files]]
@@ -33,6 +115,16 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "274974efd5518cc3087bab45b80fa3eabc7e248ef9a8be9587f44bcd3222bc63"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "5a9e66a94f0531cbc2090cbbfb8d5d9b7973fe3cf1614588d120bf3f9d9e7a47"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "238f746fa52e39822b3f673f9650ad1d2234ae07186e7d6eff9afe89f567b5da"
 metafile = true
 
 [[files]]
@@ -67,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "0b3ff7374dbc2b371ef6d535cddd4871171b11a07a59a57c5cf1175ba9acb941"
+hash = "fa94c3f9d622bae53dd95109da4cd938aac4991feecf5b1a8e7be43ac4200401"
 metafile = true
 
 [[files]]
@@ -91,6 +183,11 @@ hash = "07e0e6a791f94db3ff245a16ba014936e35410fe0ee9aba9cbac2deee25f5a70"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "f80e4a46fab9a9c99ebf3193f2c73675f6f6659fcd740692e14501213f633c70"
 metafile = true
@@ -111,8 +208,18 @@ hash = "8f31f9669801ff1bd36b9e061cba9966c784117a4a81f98ec3a8ed0735bd56d3"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "214dc4c3362e34960a37519b248671ff7e20267cd2d5f349170173c9c5246d51"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "cd8d7635e9373c1938b8ef21082afea3cfd09076ab620507e29d1ec67d12b307"
 metafile = true
 
 [[files]]
@@ -136,6 +243,11 @@ hash = "21b5692b0db5c072aa179eb9358af5f4a38afec8012fb83c5194553b56657121"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "34a79329e512a6a7a8476e9d3bbdca8c076e73cbc38429bef9a5654dfd846a63"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
 metafile = true
@@ -156,8 +268,63 @@ hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "eba653b840b770978e8cb1e9fd4859b30e43995e9836aca6d6d19df71b3ffa3c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "95a10db4dd4f266f60436f279b1216ff5bf3ec55f2e112c20cfd80b76b969e0e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "ce739356bf679aa5057122f20ea867d51477f7f1d1bea79ee004f0b5ec36a447"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "d8d0ba4b8aabe19eca98697d3f56eba5a5ba203e6877be38e5f99e597ba2842e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "4176034c4447122fe4acfd26320ba421ea31c488e39a0bb484cf8900e5be9121"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "b8d1c6cf5c58b0174b09f5fa969bb3fa60aea28d46c15ac3e7d08d4a68b95109"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "a8842ca7c8526631c61ce0dbd1d794431715bc04758a0ca1c79d2b9b3d95e310"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "c8e370832afb438cb543565f1d91300a19e04dc831540e80513b787693248450"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "d41b81f43694476b278a6e0ea20aff549a2b4f5c39a11500b3c9a7a4c35dba16"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "3f94983e142b22dda386a077d656600ca9c475831e4fb424d0d36374b543b032"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "e387e1b287d147e66cdb47493ee77ef9d056d526c929ed5505010ad0798c981f"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
@@ -173,6 +340,16 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b1e256001d9d86101d4fd0c888099bcf25b0b72fffc8a5a64505dcb48fb6a652"
+metafile = true
+
+[[files]]
+file = "mods/more-slabs-stairs-and-walls.pw.toml"
+hash = "f17201017f0cb8f97a4f5a8bdd697419d3cf5f9f430ccc126ab6dbae15dfd8e7"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "133f616a55d3fb6d5047319135fd9dbef1b850a19ab521add361222c10a616e5"
 metafile = true
 
 [[files]]
@@ -216,6 +393,16 @@ hash = "3227928d92806847f3782a9d44bae63a22f00268ead7a91ab980352dc8bbf1d7"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "efec9ab2111ab9f4f4f91242683aebcf3ea7902a2afb571c8c8a654a11c328f4"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "2dbbfee871e40fdacf54f5ce4793d9d4e031562381f8778c1258d79354513fc9"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
@@ -243,6 +430,16 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "e67aa4b113e02314f2bf4eb46a367ee267503e5d723c3e16f5f0f2e7e4bf576b"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "3200794bd60930c107145b4b89eda6a56473ca6f8e9b18462cd62713a2a688c8"
+metafile = true
+
+[[files]]
+file = "mods/transparent.pw.toml"
+hash = "5528e99953ed94280442fc103f6cd917d7d2c838f065f77e812b5338e7bcf143"
 metafile = true
 
 [[files]]
