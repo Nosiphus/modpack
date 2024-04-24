@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "993b21bc705b095566180dc4722f5eaf0741254e05d4e6b0c444815b858fb180"
+hash = "310de3a53d741b831332c48fbbb1328f999460cc4ddb17daa4465be0f6cdf5d2"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "b810210869bbf331cf66edb1b26f63d0d018e2541c1d582f0ebc509c12fc4603"
+hash = "271e8b437a2bdeb06c08b177fcefab9c051eca67756d56dd4073206c8caee111"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "a3cd9d0edfe96d2ce39f4e12f03652740b941b5cda9e415f7c8c419e5c4a0019"
+hash = "eaa85f3dc1e9669bc371be8f36291afd30411512d5f6b0047607b8b66711909b"
 metafile = true
 
 [[files]]
@@ -655,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "5da4f927ed15f0cb187a5fc90af5ba7772e257521cc9537d095bc2287a44de09"
+hash = "1e2874e8377bebce4177e35649496c5347724b407d34f85022a90633008466b5"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.pw.toml"
-hash = "c9b85f2de6f9ed83b96d8350232b158ab4b0b3afa1f3ef99b1cf6faf35b50a3c"
+hash = "f8707a0a340e4599030378ceda3d791b8e88e1c7cdf0df7ce96baa5c53c7ebf3"
 metafile = true
 
 [[files]]
@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "24526ea2704666392c22822e2939c3eeb9968062e6d6ffe36afdc516552baf6d"
+hash = "2da4b2e6357935fe676c849035bfa60511357cfa1be127170d9e39448d51159b"
 metafile = true
 
 [[files]]
@@ -1085,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "61cf85ec63ec36a07ed60a8f89ef02ddfee2cf68c058e186b307a667e20d0ef0"
+hash = "e177532aca99e861c51850603f4f0f97b1d7e2cf6bd011723de41d12e8d31206"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "11f7e269158ee2c844f5d1f29e9e3b46053bed2a66f713ad8d76282a45f94a1b"
+hash = "69e985f07d417f56c75eb38b9c94c19ce69904cac9efbdfaf08995c4b20217f1"
 metafile = true
 
 [[files]]
