@@ -1,13 +1,13 @@
 name = "RFTools Control"
-filename = "rftoolscontrol-1.19-6.1.4.jar"
+filename = "rftoolscontrol-1.19-6.1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "68e7bd4ed2bce5a494118624073ddecedbb74f50"
+hash = "eabada145d8cf9bdc56dfb1929990a06b754b2b9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4474186
+file-id = 5294706
 project-id = 250763
