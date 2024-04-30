@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "ceec6996e772cc1ab96f525d0a4090ffef91cd50fd6c045f45e77782b3d2abc3"
+hash = "a3cd9d0edfe96d2ce39f4e12f03652740b941b5cda9e415f7c8c419e5c4a0019"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "7874be0da316fb2057f0fd81d4de6ecd3cee3a6706405a4772cacc0429366bb9"
+hash = "c8dbb7da31aa2e8f1fbe1e10ee17b7777e79248fda236a433284c84a4f5d027b"
 metafile = true
 
 [[files]]
