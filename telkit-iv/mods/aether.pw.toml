@@ -1,13 +1,13 @@
 name = "The Aether"
-filename = "aether-1.19.2-1.4.1-forge.jar"
+filename = "aether-1.19.2-1.4.2-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/5bya9Ku1/aether-1.19.2-1.4.1-forge.jar"
+url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/h8VKO9w6/aether-1.19.2-1.4.2-forge.jar"
 hash-format = "sha1"
-hash = "dc9292dbc3ff17935341684702e572208f29afe1"
+hash = "faa1b5a28b938b33b5fcf7acc4b036edf5db4e4a"
 
 [update]
 [update.modrinth]
 mod-id = "YhmgMVyu"
-version = "5bya9Ku1"
+version = "h8VKO9w6"

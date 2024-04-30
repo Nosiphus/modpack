@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "2074630af9b6af35026e6cba6bcdd65fd00f6fee9a580a5730be81af6a3f4fff"
+hash = "dc20737528bd9d940375130c65ecb2654c8a97f908e695ea17179a5f2cf14026"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "081563683b6e70e16928f8d0215cfaafbc6f80437e939690b50bb240b9da5a5d"
+hash = "faecbf1a1a60c3d2ff515e6d27dccdbd9ecf620621b3b9986615bd1f573972e3"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "e715503899e389e0d27baf13447a9e10d195f08cdf52d24b719de376e92c36b1"
+hash = "4de1820ba124b4c7e86396baf68401fc7355c0c78fd861ccbed0971aced2a711"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "a3cd9d0edfe96d2ce39f4e12f03652740b941b5cda9e415f7c8c419e5c4a0019"
+hash = "ceec6996e772cc1ab96f525d0a4090ffef91cd50fd6c045f45e77782b3d2abc3"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "87cae5106c6e935e26a8d2720db87255f0573a368cf81457206ac6c8af5aeda5"
+hash = "7b858ee2c422d93a0f4f2d7bc069b18c1f56207e92c20681399a86e72e74f3bb"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "92dad42d2a70ef0c5ff11afe1e8c475acca56ec7a5937a13fb70ede0ad38ffe8"
+hash = "7874be0da316fb2057f0fd81d4de6ecd3cee3a6706405a4772cacc0429366bb9"
 metafile = true
 
 [[files]]
