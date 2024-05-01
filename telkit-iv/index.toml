@@ -389,8 +389,8 @@ hash = "f33cb1fddc10a8e41fb2c8180f4c320c22e92d9c99f214e536c2a522ed29b0be"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.toml"
-hash = "d8055cd4eb8f658b2413ae6ceb0558e151a7e7cdcdb1371159efafbfda4ebe87"
+file = "mods/creativecore.pw.toml"
+hash = "8fb279fa2e58b9d74783cd679f3d3b280b38f7da39b3debf76a5b8f1376ac0ec"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "edc363a62503c1d93685e56d52ad75f2b8ca79eaef027554023eddee3eb73f29"
+hash = "b6ccf7da90cbbeb282bc728fa766b8d28eaf75e9353cbec0c86dc5c264271caf"
 metafile = true
 
 [[files]]
