@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "dc20737528bd9d940375130c65ecb2654c8a97f908e695ea17179a5f2cf14026"
+hash = "ddde94213a62f475f575a924cabc5ffe47816249143f718ccd16d75c7acce367"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "271e8b437a2bdeb06c08b177fcefab9c051eca67756d56dd4073206c8caee111"
+hash = "f26fb3ebc03df700a9af26fa5084b2034b1ce5ede156f5112aedb6a4e14162cb"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "a3cd9d0edfe96d2ce39f4e12f03652740b941b5cda9e415f7c8c419e5c4a0019"
+hash = "ceec6996e772cc1ab96f525d0a4090ffef91cd50fd6c045f45e77782b3d2abc3"
 metafile = true
 
 [[files]]
@@ -825,37 +825,37 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "7cf92b7ebc4ee4024edc6f6abee79d0e54613b51ffca99774f1f8406f5fd5f82"
+hash = "fb2e63d04753822e9aa5c730f276090cb452c902b9f199c65ec6fcedfd95f21a"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "15300fc4020f90e158d85af42b45612af23bb92beb66b8618c40ec32df8f3842"
+hash = "1e89e16de3df021c3f1ad369260d77e967714a026492de482916c8412cb59962"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "10805b4d1b6c0ad9c1f34c42c75966cb4dc5c309ce9eb395320df6369719ce23"
+hash = "ada264708d2ba0e3abac013acfaae981c21991c9edcc14de2fcbd946d955bc65"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "d3d32a0e22c1b7169e48a00a2ed82589c90bc8da16dc6032b52fcaec2c8cb11b"
+hash = "084545a6d76d6191cfb99a375de315025b3ba610578b3a5a090c4c667b6a7818"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "2e75a5dedae28e0c02ef6e4fd7c61344de73398427cdc51b47691966d4a5303a"
+hash = "2629d636d45dc7fcae64d69e6ec5bccc3d794c3550f95455bde41f20a6f370fb"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "8cff61cdbf197caa8b2858ea1445dc8f13e09ac25a612c98cb0471accf85ea33"
+hash = "39dd6e44ff2a8d65aa72cb8be095997c5d45aa1f79cc4706e74c85212593fff5"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "777a2b92a3e62ed440989679c03cc53c170a33535fec9d8e3b59162a270e02b6"
+hash = "df86e39e2652349aea49e72ea3fae53681d0e83818b6ab55e15af0f651437998"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "b6ccf7da90cbbeb282bc728fa766b8d28eaf75e9353cbec0c86dc5c264271caf"
+hash = "edc363a62503c1d93685e56d52ad75f2b8ca79eaef027554023eddee3eb73f29"
 metafile = true
 
 [[files]]
@@ -1085,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "e177532aca99e861c51850603f4f0f97b1d7e2cf6bd011723de41d12e8d31206"
+hash = "7da321b25502acf8e679cb4e3eb174d82db4b0b5948dec6b5d00a5f60334a0b8"
 metafile = true
 
 [[files]]
