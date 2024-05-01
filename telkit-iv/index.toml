@@ -389,8 +389,8 @@ hash = "f33cb1fddc10a8e41fb2c8180f4c320c22e92d9c99f214e536c2a522ed29b0be"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "600cdca16b9607f415ef545df62c6f056ae6d5e12b83c37f7e2fbfd8211c4fe8"
+file = "mods/creativecore.toml"
+hash = "d8055cd4eb8f658b2413ae6ceb0558e151a7e7cdcdb1371159efafbfda4ebe87"
 metafile = true
 
 [[files]]

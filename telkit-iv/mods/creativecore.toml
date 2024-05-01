@@ -1,0 +1,8 @@
+name = "CreativeCore"
+filename = "CreativeCore_FORGE_v2.11.27_mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/SrRapero720/CreativeCore/releases/download/1.19.2-2.11.27/CreativeCore_FORGE_v2.11.27_mc1.19.2.jar"
+hash-format = "sha1"
+hash = "1eb4a3b1be2ca0ef6cd721fa294b2c66d2137490"
