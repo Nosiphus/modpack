@@ -10,7 +10,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "34c6d8716a438543907de278f15efc99590a9c6dfbed2f59f86160c05ddbee58"
+hash = "445898cf9ebe87edf94abaf3040c8b4c5d781b1e7fde518d611392d3d6a61a5a"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -74,7 +74,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "f710fc658970b4b41ce99d3bcbf5f928875f3afa731d31a4518739e469ad9da9"
+hash = "de32db5dcde097bc8163221ebbe403b54c37e849490c6a572955bc88f640b011"
 metafile = true
 
 [[files]]
@@ -114,12 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "274974efd5518cc3087bab45b80fa3eabc7e248ef9a8be9587f44bcd3222bc63"
+hash = "d60f81b96df958697c5ee06e009cbf712312761aebdd369b57c0ba7726743cae"
 metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "91f085583b83eaf2ac9dd769bffbd9aff314803e3ba4af674b6896f2d91a7825"
+hash = "47d1b8bc308f5e89576fd92268c31c1bfb62c9fd015eec56c6ca9a19321ffa1c"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "214dc4c3362e34960a37519b248671ff7e20267cd2d5f349170173c9c5246d51"
+hash = "e106333855dd0f6eae5e542775e9fa40663c3dfe278829ed12acd07cb53ae243"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "074dc3c92b31f4ee4e0e13d7a03d9e2fe66a98fd58447e49fee7c11d1c751389"
+hash = "4b02a0be869d8a688513fcdc28072b96f1b8320f8bd87390b2db3a89baf080dc"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "c2fb8a64bc4610b7d026dc4cce78ad2a2f7264e5be4755849187e3caed5cac55"
+hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "ea000aeedfde873afdf55b9a315ef6e7f674a20528e78b8188b1d5fa4a760678"
+hash = "c0df3db75a77deac6650d1718fdb63a1612307ed663bfa37c90918608b4c27dd"
 metafile = true
 
 [[files]]

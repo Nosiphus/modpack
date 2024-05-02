@@ -1,13 +1,13 @@
 name = "Biomes O' Plenty"
-filename = "BiomesOPlenty-fabric-1.20.4-19.0.0.87.jar"
+filename = "BiomesOPlenty-fabric-1.20.4-19.0.0.89.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HXF82T3G/versions/wAIdYe65/BiomesOPlenty-fabric-1.20.4-19.0.0.87.jar"
+url = "https://cdn.modrinth.com/data/HXF82T3G/versions/jTxkw0g8/BiomesOPlenty-fabric-1.20.4-19.0.0.89.jar"
 hash-format = "sha1"
-hash = "efc9f40a9cf5f9cdc7aa335282b93139ff049190"
+hash = "8132a64aad22560672646e393a31a39eb5647988"
 
 [update]
 [update.modrinth]
 mod-id = "HXF82T3G"
-version = "wAIdYe65"
+version = "jTxkw0g8"
