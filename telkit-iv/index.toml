@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "f7a3b6fc7f5b5f505182d79a7e3964f4802fc7a23f5cbbc1278134b9ffdd34c7"
+hash = "4e0dc77faf029d552b3425b16132ff06036e62a55c2ae111e937a40a7fb01759"
 metafile = true
 
 [[files]]
