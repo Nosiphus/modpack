@@ -1,13 +1,13 @@
 name = "Project Red - Exploration"
-filename = "ProjectRed-1.19.2-4.17.0-beta+29-exploration.jar"
+filename = "ProjectRed-1.19.2-4.17.0-beta+34-exploration.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9cc03981d0b614276b29a1eecdcf9b3aa50850f1"
+hash = "700a3eb1939abf3b684293da6c89c1c3cc50d4bd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5307446
+file-id = 5318480
 project-id = 229049
