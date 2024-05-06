@@ -1,0 +1,13 @@
+name = "Nature's Compass"
+filename = "NaturesCompass-1.20.4-1.11.3-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fPetb5Kh/versions/iaAgAAIT/NaturesCompass-1.20.4-1.11.3-forge.jar"
+hash-format = "sha1"
+hash = "16f0261247355736bbd51ae692d023ad1f293158"
+
+[update]
+[update.modrinth]
+mod-id = "fPetb5Kh"
+version = "iaAgAAIT"

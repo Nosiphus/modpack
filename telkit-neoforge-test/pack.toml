@@ -1,0 +1,13 @@
+name = "Telkit NeoForge Test"
+author = "Nosiphus"
+version = "2024.05.05"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "33a94b1303caba4aec8244e96f90e7b49517aeb95e2e61047f023034f51116c7"
+
+[versions]
+minecraft = "1.20.4"
+neoforge = "20.4.234"

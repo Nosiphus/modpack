@@ -1,0 +1,13 @@
+name = "Decorative Blocks"
+filename = "decorative_blocks-NeoForge-1.20.4-5.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t6BIRVZn/versions/nhJ1G0zi/decorative_blocks-NeoForge-1.20.4-5.0.2.jar"
+hash-format = "sha1"
+hash = "ec7b3f59853ba5c74590ea1faedc9ba1fbbc0728"
+
+[update]
+[update.modrinth]
+mod-id = "t6BIRVZn"
+version = "nhJ1G0zi"

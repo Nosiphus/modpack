@@ -1,0 +1,13 @@
+name = "Ad-Astra: Giselle Addon"
+filename = "Ad-Astra-Giselle-Addon-neoforge-1.20.4-7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XQDxCBVw/versions/dytaWwCI/Ad-Astra-Giselle-Addon-neoforge-1.20.4-7.0.jar"
+hash-format = "sha1"
+hash = "bf4439de09b4c7517f64bceb16b8cf20aab41d7e"
+
+[update]
+[update.modrinth]
+mod-id = "XQDxCBVw"
+version = "dytaWwCI"

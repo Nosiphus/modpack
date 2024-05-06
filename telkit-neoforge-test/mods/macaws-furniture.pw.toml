@@ -1,0 +1,13 @@
+name = "Macaw's Furniture"
+filename = "mcw-furniture-3.2.2-mc1.20.4forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dtWC90iB/versions/5GFq8M9V/mcw-furniture-3.2.2-mc1.20.4forge.jar"
+hash-format = "sha1"
+hash = "d6fe4b0ceae68aa80ac27ecc1f5adffc27965330"
+
+[update]
+[update.modrinth]
+mod-id = "dtWC90iB"
+version = "5GFq8M9V"

@@ -1,0 +1,13 @@
+name = "Modern UI"
+filename = "ModernUI-NeoForge-1.20.4-3.10.1.5-universal.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3sjzyvGR/versions/dUqELLnf/ModernUI-NeoForge-1.20.4-3.10.1.5-universal.jar"
+hash-format = "sha1"
+hash = "eddbafb06dcd389d5532c40040e0e4233fe6b057"
+
+[update]
+[update.modrinth]
+mod-id = "3sjzyvGR"
+version = "dUqELLnf"

@@ -1,0 +1,13 @@
+name = "Transparent"
+filename = "transparent-neoforge-20.4.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zp4jb9oQ/versions/V6tVrDTR/transparent-neoforge-20.4.1.jar"
+hash-format = "sha1"
+hash = "40b3e44df3716079a073f8639fdce0e822a102d2"
+
+[update]
+[update.modrinth]
+mod-id = "zp4jb9oQ"
+version = "V6tVrDTR"
