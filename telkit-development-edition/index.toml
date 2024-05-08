@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "d5d91800c4b787d56cd460cf9e8bcf315f47b950a98042ea6447a885cd106bd1"
+hash = "4e685251bd1c743d7f02b4819ab44fb19a5f826180ef0f5776bff0a15ae983d0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "a6932cb4dbc23b7ff993e58de40ac2ff5c01227d6c2ccc877be06a39b0cf0f38"
+hash = "dce3b892fa69c8d700be2daad7d8a542efc3c798b2ec92ab2ada64c818de47a0"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "449bccff05cd8d7d4b78dd089505351384d45d5a3f5d0fad61d0cfb64871f446"
+hash = "c97f6d8fa813bfdc6a4ed7059c9baa0757f885e4615899bd13b4bc5b29c190f7"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "d59d1e744ce12d491eb37ea26ef1ed3a80501c4e6b13915e8b2e2be02cd20cc5"
+hash = "610c7ff4d8255c86b4262c42e6a9dd027ae08e9a15f54fe12b0d2d3fc400a5be"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "9b9b9ad8d9af2b8e64dd71ba598d69e81582c2d6b8ddfa6345b8d1b7d5fd0769"
+hash = "e3d0e9a43d157bc52874706ec254c54ae96544920a3a06089944b3597305ead0"
 metafile = true
 
 [[files]]
@@ -914,11 +914,6 @@ hash = "3c812e3e57600eef81724eba1bd36452338bcd0214a6364ae980026742fe96a1"
 metafile = true
 
 [[files]]
-file = "mods/textrues-embeddium-options.pw.toml"
-hash = "dd36b047f5c37c2795e4da43b6fe08e267ea1ec6f5a909790b01483d1613502c"
-metafile = true
-
-[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "7b86c138ab74afff0648607d821603256d0625341a6829674bd5eace393abf6a"
 metafile = true
@@ -980,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "74c6c56b11f834066edbbba6e633c1561eb8b7e8f5b19a26a35216388670615b"
+hash = "4eb0e24591df41397a11046c1bccf09c2bb94687fb14c39dfff2cf468f6cdca6"
 metafile = true
 
 [[files]]
