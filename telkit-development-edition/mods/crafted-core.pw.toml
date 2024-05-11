@@ -1,13 +1,13 @@
 name = "crafted-core"
-filename = "craftedcore-4.0-forge.jar"
+filename = "craftedcore-4.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dg7PHdkJ/versions/Bn7YiQcq/craftedcore-4.0-forge.jar"
+url = "https://cdn.modrinth.com/data/Dg7PHdkJ/versions/hsvAKyyO/craftedcore-4.1-forge.jar"
 hash-format = "sha1"
-hash = "a019bbe3708195c94f5d8fa1af66721515c088db"
+hash = "952a43488108b868b16342ac2a4e7203f1ebbae6"
 
 [update]
 [update.modrinth]
 mod-id = "Dg7PHdkJ"
-version = "Bn7YiQcq"
+version = "hsvAKyyO"

@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "49b789e2ed3aba4d82684fa8d988c3d49cdc470d15796265cfe8387bc993ee8a"
+hash = "9febcdf8de025b385eda5f867a5e7454e7792cdfecd42d7257d731772f1e4f92"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "4790a103c357a32299c0411cfabbf9882a892cadee39ccee5db0737d3ea7fb85"
+hash = "a5016e54779043016fef005525571ad13db8a70a9b1dc3f6e51d8541ecd9cb19"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "c68cd08e64faa5ad098da07945c1ced820ac9c1fa69e69f69eeb0b2e2d626c65"
+hash = "7e6822d55c6838c23b5ef14c3034b2446695091694c1b4e5446e8a30d4bd2a0f"
 metafile = true
 
 [[files]]
@@ -825,37 +825,37 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "fbf1382bad98b63c813ea12d99b14467d7eda63254689763ff07b3a9ad7c4e29"
+hash = "0c115e47a0ff4efa03e91d30d82e5c367dca96524da165d2e7312c0e59eb2450"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "2619ff2ae63a42200c75bf9c8dcf8ece1fed3559928655afaccbe849d36962b1"
+hash = "441e691edec04c6a3f9669672763a78db98c16c35aa3de150c5cb0466c2258ad"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "925b59afcd982e75fb052e833bc583b3559880c8fa035eb88a6ff5b296a0c694"
+hash = "25540ff4509e44bf1a176e730f005fed4f7f6da72c1a8251ea4edf5e828f82e2"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "b3b0cc25e07f1a1d997f83c04142037ca0571fb8f988f027f7269b3795bfd14e"
+hash = "62979d96f6e52508673d1ec09001cafac239e866a0e82706c2beae842f9e693c"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "2caa1dcc29a691b11aca2923bb3d552f0d6aba322c538068a27ffd9068812b79"
+hash = "15c56bdd297f549c4e7e9787c527ebe469011aeddd54597e83fff844f847c9b0"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "ec765386655c20d1d49c0c848e4423b61cf0bcc7c61bd5ef64030dc95dcf3355"
+hash = "a28527e531604f4033c46c423bda9f0fae4230530b9898020ea9ad57edfffe43"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "670f58fc7ad2049958fc4eccb963f7ba5c3318d430cafdb9c017a48fdf66f73f"
+hash = "61b7c0c021f2fed4355bee23d529357ccb62f4f60aac14d37a73012d437d3541"
 metafile = true
 
 [[files]]

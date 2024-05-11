@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "4e685251bd1c743d7f02b4819ab44fb19a5f826180ef0f5776bff0a15ae983d0"
+hash = "9c0102eb403b481b39a278462d97d788cf69531dde64c50e0094033fb01c056e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "2b7e76b1d86c64a865bee65dd636951a8e086f53c685ba8b95a0a20e008511a6"
+hash = "5ca1cd52fb0fd36699051ad8e7db64e6d155a990743ce8c7c6821c3846896fba"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/biggerreactors.pw.toml"
-hash = "107ccdf065f55acc15658875a12b41612f4c7ca6e24546f64b9277194b5e6431"
+hash = "4e6da4cf2017bca4146c97269e1a0c80eb377e9250b2629bcbc86476bc87fc55"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/ceiling-torch.pw.toml"
-hash = "87d10a25d876079b3e1df7379c9376660cd00b74b6d42a47022b75dd14d128b3"
+hash = "c61ca4c2bb444fc6229454a09863a2dbb26b7645f6f94169185d28e8d726bc94"
 metafile = true
 
 [[files]]
@@ -305,12 +305,12 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "c97f6d8fa813bfdc6a4ed7059c9baa0757f885e4615899bd13b4bc5b29c190f7"
+hash = "b124495e4703210fbd92f614535f8e7d1a6b108252f2d474b3cc13a5e95d01a8"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "022f66ed1342fd7534b52a9f40f885a98842cd730319c715231aa066dbdf156c"
+hash = "fd6158a6c5bd89eb4bb84d6b231f64b59d2692518cea43fa25fe41913c2e63b9"
 metafile = true
 
 [[files]]
@@ -480,12 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "d46f2b77f212f228099333b67b92267ca010234fb0d9f10feb971ad1478a284e"
-metafile = true
-
-[[files]]
-file = "mods/iris-flywheel-compat.pw.toml"
-hash = "222c984f31f941812d0476cd7f8cfc9bb42d169c0d5fb6848a4bbe79a802ff90"
+hash = "dd0c1cf9ecc6966a5e7dad40034e4ce3a57270cbaa2ec65f43dcd75ebc53b292"
 metafile = true
 
 [[files]]
@@ -505,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "290e39267f98ae5f3037b12d3a2cd04570f21710e38446188a75b6fc460ddb10"
+hash = "18664206d2e4b28db788c4a6eb1a94e3d34b3644ff6288b4cf2d12aa7b3052ee"
 metafile = true
 
 [[files]]
@@ -700,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "5ebcda0bcdffb6b59c53faba9eac3416df40e978694986b536dd92bb4ec850a0"
+hash = "a9b16bdc0509409415aab82e6503d88416c7e1cb978250002918a1bf18565900"
 metafile = true
 
 [[files]]
@@ -715,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/openblocks-elevator.pw.toml"
-hash = "228debc73b78da1bfcae7462b6fcd897ac7a0db986683bd62a43c3b409f67f52"
+hash = "9d66478fde6c978312f93734d481bcb9ae9c49b74cb4538fce58c65ef15d593c"
 metafile = true
 
 [[files]]
@@ -740,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphophyllite.pw.toml"
-hash = "28eea701f25fbad77584d331d32caa197584fdc24ad07394453418c2e6390b09"
+hash = "8fed46897c8b28c832e0c3c6733d591ce462530280a8b0e84b9f5b84d222d93b"
 metafile = true
 
 [[files]]
@@ -765,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/quartz.pw.toml"
-hash = "4f67a496fbfcafd42b29b32e6b4a0147858f4bbb913bb7bd095c4264cf5224b9"
+hash = "a947d3f9d6f75fbe1e85d3bd7c3c5b7b2df9182fb4983604ef6168eef0034db2"
 metafile = true
 
 [[files]]
@@ -975,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "4eb0e24591df41397a11046c1bccf09c2bb94687fb14c39dfff2cf468f6cdca6"
+hash = "14b022f43a6e27030fc4dec12b9c5c2b5ca3ef63df9100827beea3cb949c82bf"
 metafile = true
 
 [[files]]
@@ -1013,6 +1008,15 @@ file = "shaderpacks/ComplementaryShaders.zip.txt"
 hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 
 [[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.1.1.zip.txt"
+hash = "ecbbe0095b393a79ff31d0c96e1b804cf1aabdbe606e503a985b9c17d2be486d"
+
+[[files]]
 file = "shaderpacks/complementary-shaders.toml"
 hash = "a75fb9adb97567417ca9c15c3c8e161d4ca904335fbba2cbed3c8ef7fc679412"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
 metafile = true

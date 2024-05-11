@@ -223,7 +223,7 @@ element {
 
 element {
   interactable = true
-  source = NosiFabric: Thursday, May 2, 2024%n%Newest PureBDcraft Patch Collection: Not Available for NF
+  source = NosiFabric: Saturday, May 11, 2024%n%Newest PureBDcraft Patch Collection: Not Available for NF
   source_mode = direct
   shadow = true
   scale = 1.0

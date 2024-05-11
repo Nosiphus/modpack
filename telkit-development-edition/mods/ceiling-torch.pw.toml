@@ -1,13 +1,13 @@
 name = "Ceiling Torch"
-filename = "ceilingtorch-1.20.1-1.28.jar"
+filename = "ceilingtorch-1.20.1-1.29.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/V1XQ9Kbq/versions/SCcFekqX/ceilingtorch-1.20.1-1.28.jar"
+url = "https://cdn.modrinth.com/data/V1XQ9Kbq/versions/KhoVHfE3/ceilingtorch-1.20.1-1.29.jar"
 hash-format = "sha1"
-hash = "23dcd7eece662699f4bc617cb46e6a9787a379bd"
+hash = "7687ae5c2029b0ff37d97c21f4e9335aa35ea00a"
 
 [update]
 [update.modrinth]
 mod-id = "V1XQ9Kbq"
-version = "SCcFekqX"
+version = "KhoVHfE3"
