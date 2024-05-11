@@ -664,6 +664,11 @@ hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
 metafile = true
 
 [[files]]
+file = "mods/more-slabs-stairs-and-walls.pw.toml"
+hash = "bf0edb50e9205a877f87b696b2656fb2a20c4e864319d9548a6478f0aadee165"
+metafile = true
+
+[[files]]
 file = "mods/moving-elevators.pw.toml"
 hash = "621313d63a502318aee30ac20c437cb78083542cd2ee33ad8c6f14e1bc345e1f"
 metafile = true
