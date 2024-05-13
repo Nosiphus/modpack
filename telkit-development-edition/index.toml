@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "9c0102eb403b481b39a278462d97d788cf69531dde64c50e0094033fb01c056e"
+hash = "bce64032c88f243ff7d6d0aaec8904acd8cdbc4f9a76edb06aaab15624013c16"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "e3d0e9a43d157bc52874706ec254c54ae96544920a3a06089944b3597305ead0"
+hash = "c20d0e1b13383e09cce4938386f0a7bb7b5806ccbb2474eb2ff755cc5a19f1ca"
 metafile = true
 
 [[files]]
@@ -481,6 +481,11 @@ metafile = true
 [[files]]
 file = "mods/hammer-lib.pw.toml"
 hash = "dd0c1cf9ecc6966a5e7dad40034e4ce3a57270cbaa2ec65f43dcd75ebc53b292"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "a49bb2238d916ba8482c4139d259dfe222623aaaed0163bbe5c62a0a4a9cac0c"
 metafile = true
 
 [[files]]
@@ -895,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2702a1a7d6ebac7853d6e7ebb5dcf68e2edf4b54702ccb745c5d452b5d4df6cf"
+hash = "23f5db98d7adda1199728bba01d575b4a85e82fd801163242ac656f0247aa4a8"
 metafile = true
 
 [[files]]
