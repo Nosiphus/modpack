@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "bce64032c88f243ff7d6d0aaec8904acd8cdbc4f9a76edb06aaab15624013c16"
+hash = "cf9bfcf4ae2dcbcbf1338b0cdfa2248628cdf3ee2132745949a785c8c9d7bc07"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -130,12 +130,12 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "6bcd638c1a35c25a033b48c2feedd96f11cb8c02c50f884a67268b688986870c"
+hash = "44b328efbfb428f7c166eb045048c3ec0ebeac1a94f9d0cae75d3f79ae124368"
 metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "dce3b892fa69c8d700be2daad7d8a542efc3c798b2ec92ab2ada64c818de47a0"
+hash = "a6a137fe3743997e63e602a41837a863d1197df12c545134004a0bad12861415"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "b124495e4703210fbd92f614535f8e7d1a6b108252f2d474b3cc13a5e95d01a8"
+hash = "d538535018b20ec7109eb94a7034588120361e1046c95917b62fd2574a19ee36"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "cf672e83eb2392c9519566c09f7061e3e8f6ec7ca8f44943f25fd1e9d4ae7291"
+hash = "b700252c353cd17443715e6e60445b0f8f2d3e959286a010a3839a63637601ab"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "90de725d0294e51caffe40347d8c2ecd6ac60cb857b96ba847345c94e5b12a43"
+hash = "3ef2a7221294f0040d161bef71a3695779bf58a860f03d3c5d5db415a9765db8"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "21705a2af8a180282fa33caff946ac09d16743e4f15d972c2767b1a75ebda581"
+hash = "463e5b47a3c46cadc49bcfe1cebc8b1ad43f73a5d1db7d6950d06f82b3c22c3b"
 metafile = true
 
 [[files]]
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "f1d7497ddecfbca9b64e46ae451456720c72ba34f8fe2fa21f29700505544122"
+hash = "c684d8fc9fde2b35b18b01ceaebdbb9fc7d932e0c37968d2875e316a816d9cbf"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "06963c6fbcfb93a9dcae5f33e48f88d7424c06fcb29343218605defd3dcec3b0"
+hash = "e513f146124930d8d2c9ae3c192fb399129efa16bb844140124c5b8da6ff8558"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "a5cf0210c863fc0e0209e8152edcb3d110e80bbad06f87b631c5bd8a4e4aff99"
+hash = "c131c72445de4221f3007f6ff301c6c53fe7acffda753eeab8f575ad300decda"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "9d18098db00132902e2bd48fbff3354373e6ece91eaeba5ed17adc00b92207cb"
+hash = "ea25f16cf0f9d4e0f78f98389c5d6998813ab913f7e367247430834d7f45d265"
 metafile = true
 
 [[files]]
@@ -960,7 +960,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "8b59dabad04f02d8e458c14a1577a86e6432db62bccf19ad42781c561d1af6f1"
+hash = "58424515f8fa677b375d4bc5767b6966d4bfd2b5edbbb28294f544dcd6e4a762"
 metafile = true
 
 [[files]]
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "14b022f43a6e27030fc4dec12b9c5c2b5ca3ef63df9100827beea3cb949c82bf"
+hash = "7626b504c456411656f02c2cf6fab00b1f4f6a9fbcc0fe1f3a97313f217754b3"
 metafile = true
 
 [[files]]

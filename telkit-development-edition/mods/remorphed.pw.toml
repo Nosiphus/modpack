@@ -1,13 +1,13 @@
 name = "Remorphed"
-filename = "remorphed-3.6.1-forge.jar"
+filename = "remorphed-3.6.2-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8aeV5uJW/versions/yRPd7NzB/remorphed-3.6.1-forge.jar"
+url = "https://cdn.modrinth.com/data/8aeV5uJW/versions/959PGFe3/remorphed-3.6.2-forge.jar"
 hash-format = "sha1"
-hash = "e49e425b30901a140b5c26401b2b21a2a29bba12"
+hash = "cda11bed6df9786c58d90f2492994a93416b29b4"
 
 [update]
 [update.modrinth]
 mod-id = "8aeV5uJW"
-version = "yRPd7NzB"
+version = "959PGFe3"
