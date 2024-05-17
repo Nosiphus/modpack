@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
@@ -774,6 +774,11 @@ hash = "a947d3f9d6f75fbe1e85d3bd7c3c5b7b2df9182fb4983604ef6168eef0034db2"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "adf39f52030ad2042392dcf00752c15042c86bb16ba823a10e15e333565ba1b1"
+metafile = true
+
+[[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "a025dddb33aaa8bd46888833c1e7099de509adef228666e5c4f2646a932e34a6"
 metafile = true
@@ -909,6 +914,11 @@ hash = "3d05f00ee0adeae10c3e38fb9b3612e1e63af7c9c3190832c1cf3a6d7d5bda6a"
 metafile = true
 
 [[files]]
+file = "mods/techreborn.pw.toml"
+hash = "e08ed79fafeb21ca809e76f4b328ecff1d30f2cfae62687087310eafd74b9cbd"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "2d5779ca16fe33bd21b43b9f6e9e9c473e13b48c265808e8f89a5df9ec452ca6"
 metafile = true
@@ -916,6 +926,11 @@ metafile = true
 [[files]]
 file = "mods/tesseract.pw.toml"
 hash = "3c812e3e57600eef81724eba1bd36452338bcd0214a6364ae980026742fe96a1"
+metafile = true
+
+[[files]]
+file = "mods/text-utilities.pw.toml"
+hash = "d348e5b14642c36393ff3ce72e03ef79f709b1af045112211294673c52a47d1a"
 metafile = true
 
 [[files]]
