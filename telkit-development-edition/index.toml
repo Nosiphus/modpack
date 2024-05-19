@@ -929,11 +929,6 @@ hash = "3c812e3e57600eef81724eba1bd36452338bcd0214a6364ae980026742fe96a1"
 metafile = true
 
 [[files]]
-file = "mods/text-utilities.pw.toml"
-hash = "d348e5b14642c36393ff3ce72e03ef79f709b1af045112211294673c52a47d1a"
-metafile = true
-
-[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "7b86c138ab74afff0648607d821603256d0625341a6829674bd5eace393abf6a"
 metafile = true
