@@ -1,13 +1,13 @@
 name = "McJtyLib"
-filename = "mcjtylib-1.19-7.2.6.jar"
+filename = "mcjtylib-1.19-7.2.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "df1cf9e9b53402d08d59c9a784871769f370f584"
+hash = "78ae9790308192b3b470656a20b0a7f71a667f52"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5282725
+file-id = 5352585
 project-id = 233105
