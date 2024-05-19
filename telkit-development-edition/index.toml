@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
+hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
@@ -926,6 +926,11 @@ metafile = true
 [[files]]
 file = "mods/tesseract.pw.toml"
 hash = "3c812e3e57600eef81724eba1bd36452338bcd0214a6364ae980026742fe96a1"
+metafile = true
+
+[[files]]
+file = "mods/text-utilities.pw.toml"
+hash = "90fac451716ee2f5f33535796d2807ac81cc6b0c2d371657963ac764506c182d"
 metafile = true
 
 [[files]]
