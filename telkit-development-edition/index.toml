@@ -930,7 +930,7 @@ metafile = true
 
 [[files]]
 file = "mods/text-utilities.pw.toml"
-hash = "90fac451716ee2f5f33535796d2807ac81cc6b0c2d371657963ac764506c182d"
+hash = "d348e5b14642c36393ff3ce72e03ef79f709b1af045112211294673c52a47d1a"
 metafile = true
 
 [[files]]
