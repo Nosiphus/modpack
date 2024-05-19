@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "cf9bfcf4ae2dcbcbf1338b0cdfa2248628cdf3ee2132745949a785c8c9d7bc07"
+hash = "9aa67e3695160e8883ebb826575b4474f9be1f42fc9e38805012bf2bd880c92e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "a6a137fe3743997e63e602a41837a863d1197df12c545134004a0bad12861415"
+hash = "51c257b5b510225bad482be70fddf0dfa8f334700fd4e0ad60756458247aeb8b"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "d538535018b20ec7109eb94a7034588120361e1046c95917b62fd2574a19ee36"
+hash = "9a56c0f2a7dce0a3d9b5d1f8406bdd96c700940af1252a573b8a08892eec2220"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "610c7ff4d8255c86b4262c42e6a9dd027ae08e9a15f54fe12b0d2d3fc400a5be"
+hash = "5d689fdd1fe74d0fbbe67af6ae186a49ac3efeb1d00341a8c7c6ab663829b5fd"
 metafile = true
 
 [[files]]
@@ -600,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "3f5e3d0f1750a53403b0ee50d3604a0e9a6b2aa23f3fd04d0453f1f8b9018e5e"
+hash = "feb9b4a5ebd8bc5e772ab3eee680c7930b000a1f532db30f33a2d47a1a77ee4e"
 metafile = true
 
 [[files]]
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "c684d8fc9fde2b35b18b01ceaebdbb9fc7d932e0c37968d2875e316a816d9cbf"
+hash = "456ed79ce8f33174dcee7c6a5f6e833e78f12c13d5f5e0bdc7b25a40fb5aaa29"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "ea25f16cf0f9d4e0f78f98389c5d6998813ab913f7e367247430834d7f45d265"
+hash = "d68e3dec94d4da1500d1bdfa4901507d86165ab8ccd6ece218636ebab86b43bc"
 metafile = true
 
 [[files]]
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "1eb8277494114e9c7acbf6a5a2b35713b4560818672a69f1c5ef37e2905fccdf"
+hash = "77dc0ce2063c5045e55de34103942eaad231173b4a7fff10fe78e96f95e8425f"
 metafile = true
 
 [[files]]
