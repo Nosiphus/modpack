@@ -10,7 +10,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "d97755e9683962be7ce0f55b5d28c132b3bdbfb9a2832ff1b88a931795ffe897"
+hash = "4badb933a40d8b70395ea8bbf8d2e9bc71c806f8b356d0462dc5e97f818078c3"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+hash = "951d42cf8154f811de3135952d5f444679946ab7c948e33d87da744679901803"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "42e60c1eae795eaf1e0ca6ca576bdd6fdecb495f25329d6c69db07108e3c27f0"
+hash = "f2cee43d01b11415832f225f046cb1eee809bd21d49983ce528099142de129fd"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "c8e370832afb438cb543565f1d91300a19e04dc831540e80513b787693248450"
+hash = "476fc1dc2c7453b876758234124c8c53ba355208a220619f75a2647356fda794"
 metafile = true
 
 [[files]]
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "3f94983e142b22dda386a077d656600ca9c475831e4fb424d0d36374b543b032"
+hash = "3dc379bd10917529c8d70fd03ab46ffcdd0948e30a0d7a75a82b0ab28c84a765"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "2dbbfee871e40fdacf54f5ce4793d9d4e031562381f8778c1258d79354513fc9"
+hash = "58279a9494633424f03c6c7a921534f300798ae252d57f4971fb4136cf7557ee"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "c0df3db75a77deac6650d1718fdb63a1612307ed663bfa37c90918608b4c27dd"
+hash = "50c7a9d1825bdf0579a4a1e76587db455f0f0dc224543900b118d7c5349c4c03"
 metafile = true
 
 [[files]]
