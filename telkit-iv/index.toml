@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "4443d7e7d89060b2ed987bc95829ce503c7d18836dde3f7b4b50c0fb99b99445"
+hash = "d6a022f29cd28aa59ae505ab9c3390ad56d8585dd433e50e780fdfda6e7cd0c8"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "f26fb3ebc03df700a9af26fa5084b2034b1ce5ede156f5112aedb6a4e14162cb"
+hash = "5d4432a8accdd65e30fe92825de48f45ae45b815599001478dfc462c39e01e21"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "5151f48a49c95915d5ab6e6f0413dd7cb5b31b17562cb0b893a621c781fcd614"
+hash = "8c169ed756f0d9896b9cd9e3c592bfc0b52f524f434bf13b68d482e6351d6e49"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "69e985f07d417f56c75eb38b9c94c19ce69904cac9efbdfaf08995c4b20217f1"
+hash = "50940aad7986e723ea2b9b9f164dba4b024568250c11950567ca7c51a96dbb2e"
 metafile = true
 
 [[files]]
