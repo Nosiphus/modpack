@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d6a022f29cd28aa59ae505ab9c3390ad56d8585dd433e50e780fdfda6e7cd0c8"
+hash = "2f178eedaca69962e1f85b8bec2f608cbb3cabf6662a109eb9324c93ad8e8b12"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -825,37 +825,37 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "33c50fc4d5786acda335e6a6cff549c1c7531d249421a484860851c86340895a"
+hash = "87396f32d80e36821961c3aac287c9411444473342de1e5d3b0afcba25ef8498"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "9058ad7b308c8b524e6d6e53ba803eb20be8f6766ff61675393e3022e914ab3d"
+hash = "1bab44d9fe838882115ee84879ffe862cb8a6e8e473db052e387431d2d8bb42f"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "0775cca9f99acba4e407d9f615f47e963cd7febf00f7cb7d96c77335497827b2"
+hash = "830d3823e03dc2ddf941ba291edab0ce3f7f010b3094358b7bdc7fa79be4407f"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "ca6fa68ea517518ad9c8ca5fefb1f880c931ea56a1f229cff8e17b37f15c3e08"
+hash = "ed8816a51c7ca18eaaed997a06bd43228f1ac82caa2d52a0e67820a2ab3fb8b0"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "0f9522d3f30e282e16245bb2473f823d879718df842e1bbc539276216f217cac"
+hash = "962deafd2376b84ef4bffa450fafcf7296d76568e6c8c7f7640d197736b6b7ba"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "52da45c94743674a56b37b9f7c0bcd0dc0c460fae272103609521e85c80437fa"
+hash = "e7ee730e771adf1ba3abaf1ece9ddda61f1900eb5f242c5ba4f8ad21498aba1c"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "dfeb2fdd6201df1680b909871b084fa1e4731bc93d5d0d90739848500c966434"
+hash = "90c0fd341133f7f4fa3634b08dcb4567776de1f9de602e9a7948a53e691aeef8"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-dimensions.pw.toml"
-hash = "d12612776ca710520823c6396d4f441fee604427fca845af6c448485f3caf344"
+hash = "f8b3caf451223f261523949be6c1599e5fb8bd76543b769257e51ca030c4e2f4"
 metafile = true
 
 [[files]]
