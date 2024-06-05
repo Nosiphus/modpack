@@ -26,7 +26,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "f06cb771919ffb4fff8af49c70c58f18d8b3d03a519e2e65053aa14e6b3a6278"
+hash = "bd2a45477f3af1aa2d181e9512af9eaddc64a587cdda506013766e225b41f227"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "91193482de249ea9625e733d05103ebed23dd9df7f1fcc7afd761148437be76c"
+hash = "1b7ece50b18f1624b22b978b9b1d8ae23fcf0ddfb7c8b231223a5901b20a9f00"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1447df8a4bd1fd2cce2ae71f900f3d1f1626baa2fe37c877cef19549a4101c36"
+hash = "38e1841f79d0fc489e9a094fa6611b8e890be8d742480b800467a3df873b221c"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "475a3bafbd5a7b6e8a7f8008f9a137e25a7c0d3474cca99eaa8bfa313899b408"
+hash = "6299edab7c031a3f8a8fd59bc19a22213d9c4a4f745a2ae04f4ac78086f38355"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "ffe84c799fa2f0b4c931dfc2b46042e8eeb730037436d5ad1abd2ff21df3e956"
+hash = "ec1e75e28d448fba354039b37470565e9c2aefc63fde1852904c38af0b4b2136"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "a49bb2238d916ba8482c4139d259dfe222623aaaed0163bbe5c62a0a4a9cac0c"
+hash = "fe5aef6fdb17f75035a21bab5237af591aaf36c8a03b4b947d64507ce49c71be"
 metafile = true
 
 [[files]]
@@ -605,22 +605,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "e7b1d58dd64005011e4a6d29e04e286bba351fccb1c574bb987ba136079a27c7"
+hash = "1836eed7e3be10e8c977497efe5d0595a6d45dc83daefb2d78a8781d1aa489b6"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "d4bbb1830a6368491f508961405f2f6a4523ffa0decaf7bca256be0d8de9f38f"
+hash = "2fb61eb6a66cb18418bbc1959ca4f26abe1905607d81755b62a8707794b1d0af"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "99b6daa1d005c5129a155b6d9bdf8545f03416b3b7489dafb843f40b8e825c6d"
+hash = "5ce1f6f35d81f5f5d4c0ae24361e57cd92e934b9ce0960cc3c2058e99a2409ed"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "35afdc85d751490e3ee6cbc5bf7b18b1a7b63339896712ce742fb6bc45734028"
+hash = "57c3760ced2a950dadeeaef161dc0af9c42ce8bbfe296f892f069063cd45d5c2"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "13d28cbb0b6e5d8b50ed246a37cd80422dfa2522e4520eded7f9618228227535"
+hash = "5313dd0c3ee565ae28c29e659db5937c65508220873dce58a70491aab76efb52"
 metafile = true
 
 [[files]]
@@ -765,17 +765,12 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "6df7a3939e6576da92d5fc67241ca612568ee57382df0247920e9757d43052a6"
+hash = "e5b5a551515ed711ab492864b2ec56baa53796825f71dfe0f0b164271d3f725f"
 metafile = true
 
 [[files]]
 file = "mods/quartz.pw.toml"
 hash = "a947d3f9d6f75fbe1e85d3bd7c3c5b7b2df9182fb4983604ef6168eef0034db2"
-metafile = true
-
-[[files]]
-file = "mods/reborncore.pw.toml"
-hash = "adf39f52030ad2042392dcf00752c15042c86bb16ba823a10e15e333565ba1b1"
 metafile = true
 
 [[files]]
@@ -785,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "c131c72445de4221f3007f6ff301c6c53fe7acffda753eeab8f575ad300decda"
+hash = "71ae0d122f30659cc6dda81bbf36492e4982f4733c275a9e79f370e8611abe3d"
 metafile = true
 
 [[files]]
@@ -914,11 +909,6 @@ hash = "3d05f00ee0adeae10c3e38fb9b3612e1e63af7c9c3190832c1cf3a6d7d5bda6a"
 metafile = true
 
 [[files]]
-file = "mods/techreborn.pw.toml"
-hash = "e08ed79fafeb21ca809e76f4b328ecff1d30f2cfae62687087310eafd74b9cbd"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "86791c7666050fd91e83d4e55400afaa95f55688fb2fe74a8dcd6c4e6e9e42b9"
 metafile = true
@@ -995,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "7626b504c456411656f02c2cf6fab00b1f4f6a9fbcc0fe1f3a97313f217754b3"
+hash = "6b7d97adc48a243dcea71cb762d154a4e110f68db2560b07be6db424370e79fe"
 metafile = true
 
 [[files]]
