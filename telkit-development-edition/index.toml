@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
+hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
@@ -534,11 +534,6 @@ hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
-file = "mods/littleframes.pw.toml"
-hash = "098308f9b06ecc1dd0e27b045776aac63a7ea6fa644fc0a81a11bbfd72d8aec2"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "eda00658aae72ce58c839caade7a081cb57c7194ffea8d8bc73a57303b2e94ef"
 metafile = true
@@ -660,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "1b3817b4cc5c2bc444b4d5f96bf3af14db3f91b3a75322a134b19094c60b8b43"
+hash = "f1ad71eb60bcca40528a76fa186050c85ce7c0dc099770ec6d2c1584a3550542"
 metafile = true
 
 [[files]]
@@ -961,6 +956,11 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "bc249e4bf77eef00e13ba01233796c4e3b453779f255a2d6cfa3f7bd1e1b1f28"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "886001098328fec32c5dd0907ef1fcdfb3fecd84db6e35f298a0de4fa2df8e77"
 metafile = true
 
 [[files]]
