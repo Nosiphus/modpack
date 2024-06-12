@@ -534,11 +534,6 @@ hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
-file = "mods/lazurite.pw.toml"
-hash = "273449ac44c5a5a2f13b0790c6a6da5557d4d1a78a4e1904973ed51e8efbb018"
-metafile = true
-
-[[files]]
 file = "mods/littleframes.pw.toml"
 hash = "098308f9b06ecc1dd0e27b045776aac63a7ea6fa644fc0a81a11bbfd72d8aec2"
 metafile = true
