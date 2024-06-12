@@ -664,6 +664,11 @@ hash = "225707f2a0323a0aa955ece8365d5023a4d17e4cb0fcb0a99dcaa0a01779f90d"
 metafile = true
 
 [[files]]
+file = "mods/moderner-beta.pw.toml"
+hash = "1b3817b4cc5c2bc444b4d5f96bf3af14db3f91b3a75322a134b19094c60b8b43"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "5313dd0c3ee565ae28c29e659db5937c65508220873dce58a70491aab76efb52"
 metafile = true

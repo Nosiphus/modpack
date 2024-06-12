@@ -10,7 +10,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "cf6018c79f9d10e9ddb8b26299997c4ddb14eaec9c4b2c8516261d3180532ca0"
+hash = "1a218762edea414a471e51d8fd06e12e5b778c3cf6a33c570b1ec0de4f747ca9"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
 
 [[files]]
@@ -234,12 +234,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4b02a0be869d8a688513fcdc28072b96f1b8320f8bd87390b2db3a89baf080dc"
+hash = "993fd31510502096d4bff09fc2b053776683302297548d2a039ae00fb58def0e"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "21b5692b0db5c072aa179eb9358af5f4a38afec8012fb83c5194553b56657121"
+hash = "890c039d5c8a645f446f30c85593e86cbffa110e3662dcf985fe72d7089ea6c5"
 metafile = true
 
 [[files]]
@@ -330,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "b40f10080ea4542d83f4e9342ee57ce2576de648197d51852c9ea25e121b6f6e"
+metafile = true
+
+[[files]]
+file = "mods/moderner-beta.pw.toml"
+hash = "b76e98eb17ffdb25921f39534b7513234401c944ca73927cb0326efd8aac239d"
 metafile = true
 
 [[files]]
@@ -459,7 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "cca97cebec830ad9c623affa13a3966beeebf2eb4bffec94b8be909774631423"
+hash = "2e1674e9b2d019d998668b9360773a6ebd3e7c7bd1ffa2aac9f4bf33f766eae7"
 metafile = true
 
 [[files]]
@@ -468,5 +473,5 @@ hash = "ecbbe0095b393a79ff31d0c96e1b804cf1aabdbe606e503a985b9c17d2be486d"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
+hash = "f5f2f634a21371f9e857e33a2e45dfbad531b6c0bbe28bd7b9f53ec357b0cc23"
 metafile = true
