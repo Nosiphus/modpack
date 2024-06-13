@@ -1,0 +1,13 @@
+name = "Not Enough Items"
+filename = "NotEnoughItems 1.5.2.28.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TmYVaklx/versions/MnXBfImW/NotEnoughItems%201.5.2.28.jar"
+hash-format = "sha1"
+hash = "e605ff22fb9f937b8189f61cb1045b03d41a6bca"
+
+[update]
+[update.modrinth]
+mod-id = "TmYVaklx"
+version = "MnXBfImW"

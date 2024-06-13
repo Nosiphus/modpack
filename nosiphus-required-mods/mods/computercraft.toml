@@ -1,8 +1,0 @@
-name = "ComputerCraft"
-filename = "ComputerCraft1.53.zip"
-side = "both"
-
-[download]
-url = "https://github.com/Nosiphus/legacy-mods/raw/main/computercraft/1.5.2/ComputerCraft1.53.zip"
-hash-format = "sha1"
-hash = "ed2c26fc0fc709395836a11d7f188b25eb18c13c"

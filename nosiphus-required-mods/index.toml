@@ -105,8 +105,8 @@ file = "config/modstats.cfg"
 hash = "877c4118d17a27447983cd02b7716d937a8b87cfb826e8baaa3584f59f536a66"
 
 [[files]]
-file = "coremods/codechickencore.toml"
-hash = "93e61da6cd31297fe656060233820cfb577fd4f6ecfb1d8964c7ad7e14d63812"
+file = "coremods/codechicken-core.pw.toml"
+hash = "1d3db2f55f5316247aabf2fc4b5b6e8e63069cc04e6587c0f8540442ec7558ca"
 metafile = true
 
 [[files]]
@@ -115,18 +115,18 @@ hash = "0c44b99178b7c3eed9184e9836dedb1a453ff9526e6e92fd407669561bb32044"
 metafile = true
 
 [[files]]
-file = "coremods/lumy-skin-patch.toml"
-hash = "ef42892bb57f0fea2ba8726d454609b8c3cbfcd47bf174a6a226d35f5b86148c"
+file = "coremods/lumy-skin-patch.pw.toml"
+hash = "cae456bcee6de42f573895096ada1aa74ebb33930ee67b545b79a128be2cc538"
 metafile = true
 
 [[files]]
-file = "coremods/notenoughitems.toml"
-hash = "79ee1627381503f369dd77c76209c10c2091fe0617f5a4b7e1a972bd352d441a"
+file = "coremods/nei.pw.toml"
+hash = "30f0373006c97736b6c2fe3426a1b5a652645ef87c309beb159d7ca8e814a743"
 metafile = true
 
 [[files]]
-file = "coremods/treecapitator.toml"
-hash = "92467608556296d9ef770a027ec83d579e9c7de12fa592e6abcccafcf3448cf4"
+file = "coremods/treecapitator.pw.toml"
+hash = "38071b216b6d00218b13ce6949bb6bafb7f469d39d55f909f64654767dd4a757"
 metafile = true
 
 [[files]]
@@ -145,18 +145,18 @@ hash = "852184f5e20cdbac77f340a1489ea927930db515f80d899073db0b19aa38a396"
 metafile = true
 
 [[files]]
-file = "mods/bspkrscore.toml"
-hash = "6a784f26d0a980afee5362b28867365cd23cde2e14a33e369f7e4d981a396ba3"
+file = "mods/bspkrscore.pw.toml"
+hash = "797e2d54525cc5f5f27fb011019153c9a2d2033720b883ddc1a68d1d3049bf67"
 metafile = true
 
 [[files]]
-file = "mods/buildcraft.toml"
-hash = "75018ff8d2c5947fd8baa4d45407c611aa7d6837f4c62b82008e4a480935a448"
+file = "mods/buildcraft.pw.toml"
+hash = "eb0c1149cc3b3a92d8228095dddd441bca490ffa0c6408b5185f22ab8e69972e"
 metafile = true
 
 [[files]]
-file = "mods/computercraft.toml"
-hash = "4d670c9ed6444185b62e4ddc4e305a5f5cbc7eb308f72282752b599db4a428b7"
+file = "mods/computercraft.pw.toml"
+hash = "e9223aabefde2388ae79e41ec0c8cbded8f0573bdf852774f9484d1a3da0170f"
 metafile = true
 
 [[files]]
@@ -200,13 +200,13 @@ hash = "61d010cc93535760bd433d92683b372c756abd1be5242f0f2f9ee9d9438aef2d"
 metafile = true
 
 [[files]]
-file = "mods/minecraft-comes-alive-mca.toml"
-hash = "55d495f981b8c33ac3e1958eaf080e75d8e06a00dae27326b2cb402305ad533e"
+file = "mods/minecraft-comes-alive-mca.pw.toml"
+hash = "11c269f5bbe7c3ee6e80e72aade13473244ae5b9cf4f088650cff331ce404255"
 metafile = true
 
 [[files]]
-file = "mods/waila.toml"
-hash = "6fd6acf008cd846c4cf8c2d90d0da8df8ec719e513ff60f8b4870bf8f73529fc"
+file = "mods/waila.pw.toml"
+hash = "e5ac6e4cad02940a0cad2e4ad5a161f69c28c5f4f7ee3a94ccaa350e19000157"
 metafile = true
 
 [[files]]
@@ -216,3 +216,4 @@ hash = "bb26ed0877b777119eb92a3fac799c3ccee792e16143796e39eec69476f20b0b"
 [[files]]
 file = "texturepacks/vbtp3-modern-1_5.zip.toml"
 hash = "bed2a60dfe4c8d433ad00b13ee0ff9d49f4469f62e1e23f891aeaeaad40ef1a3"
+metafile = true

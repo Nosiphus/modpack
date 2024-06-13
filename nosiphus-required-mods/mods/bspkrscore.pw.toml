@@ -1,11 +1,11 @@
 name = "bspkrsCore"
-filename = "1.5.2-bspkrsCorev3.05.zip"
+filename = "[1.5.2]bspkrsCorev3.05.zip"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2218/787/%5B1.5.2%5DbspkrsCorev3.05.zip"
 hash-format = "sha1"
 hash = "384d73cf9b67abd0c44440a562d54d93480f8a27"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

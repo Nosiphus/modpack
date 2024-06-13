@@ -1,11 +1,11 @@
 name = "Treecapitator"
-filename = "1.5.2-TreeCapitator.Forge.1.5.2.r14.Uni.CoreMod.jar"
+filename = "[1.5.2]TreeCapitator.Forge.1.5.2.r14.Uni.CoreMod.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2218/752/%5B1.5.2%5DTreeCapitator.Forge.1.5.2.r14.Uni.CoreMod.jar"
 hash-format = "sha1"
 hash = "5e6f03572074cb07d63a3b2cac51a4d9bdeb032a"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

@@ -3,9 +3,9 @@ filename = "MCA_v3.5.4.zip"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/769/401/MCA_v3.5.4.zip"
 hash-format = "sha1"
 hash = "54ef68205c0734ca4b4f71d4a2c1be6260cef17c"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
