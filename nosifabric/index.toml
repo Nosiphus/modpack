@@ -10,7 +10,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "1a218762edea414a471e51d8fd06e12e5b778c3cf6a33c570b1ec0de4f747ca9"
+hash = "ace9d61f23cbf2b513f73fb8e175f933f5185b5d7763c35eb6b14d7ef6bb2493"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -168,6 +168,11 @@ hash = "c15dc41a5e7dc9f3547efb66ef76b721821ed4012e99d3198d7fe7c10459a3e7"
 metafile = true
 
 [[files]]
+file = "mods/embeddium.pw.toml"
+hash = "ac5c12694e11de82217e286caef194c41316db9ebbc8b97e514be3b7d9544939"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "489c1b03fb49b1e1a62541465a305f56a6743078b3cec2d420e182c3b45f0015"
 metafile = true
@@ -223,13 +228,8 @@ hash = "cd8d7635e9373c1938b8ef21082afea3cfd09076ab620507e29d1ec67d12b307"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
-hash = "9e7bccd0c45b66352abd6fc0b1fa2745d564deb24f5c53dd20728847cf27dda0"
+hash = "d109563ffb55e73344d96d74dfcd6ed6665f6a355210c61b84b5b386fc444572"
 metafile = true
 
 [[files]]
@@ -415,11 +415,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
 hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
 
 [[files]]
