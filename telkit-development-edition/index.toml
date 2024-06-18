@@ -830,7 +830,7 @@ metafile = true
 
 [[files]]
 file = "mods/sinytra-connector.toml"
-hash = "e259cb93623bf84c42fbac7f99fb15285658962e76bff4417025751101db5756"
+hash = "3ce4b3bb74fed59d6911935d0825c5d35fc77497db5c7f95736397d43d82d843"
 metafile = true
 
 [[files]]
