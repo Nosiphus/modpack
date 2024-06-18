@@ -309,11 +309,6 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
-file = "mods/crafted-core.pw.toml"
-hash = "d19a82c71bfff6f34ea168f745dd7c74726ffc21b818973b43a8c3f4fd9d3141"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "fd6158a6c5bd89eb4bb84d6b231f64b59d2692518cea43fa25fe41913c2e63b9"
 metafile = true
@@ -789,11 +784,6 @@ hash = "a025dddb33aaa8bd46888833c1e7099de509adef228666e5c4f2646a932e34a6"
 metafile = true
 
 [[files]]
-file = "mods/remorphed.pw.toml"
-hash = "71ae0d122f30659cc6dda81bbf36492e4982f4733c275a9e79f370e8611abe3d"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
@@ -966,11 +956,6 @@ metafile = true
 [[files]]
 file = "mods/webdisplays.pw.toml"
 hash = "157409c7c77537e2a6d852a845340a210e06fbaeb9d913f595c2c2c201b0c297"
-metafile = true
-
-[[files]]
-file = "mods/woodwalkers.pw.toml"
-hash = "da030c6cbc35958e8d06314edc6b99d01c0b6e6e934e88d6c28ec069de531fd6"
 metafile = true
 
 [[files]]
