@@ -1,0 +1,8 @@
+name = "Sinytra Connector"
+filename = "Connector-1.0.0-beta.44+1.20.1+dev-g0266d91"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/sinytra-connector/1.20.1/Connector-1.0.0-beta.44+1.20.1+dev-g0266d91.jar"
+hash-format = "sha1"
+hash = "d236df9a8aa0cd8bc3cdd2dab652ba28416ec81c"

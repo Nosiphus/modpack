@@ -3,11 +3,11 @@ filename = "ctd-core-1.20.1-2.4.9.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/yezTvOQg/versions/ojd27NmC/ctd-core-1.20.1-2.4.9.jar"
 hash-format = "sha1"
 hash = "a4515af656ee6759149ca3e3ab88cb9057178ea2"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5166874
-project-id = 258186
+[update.modrinth]
+mod-id = "yezTvOQg"
+version = "ojd27NmC"
