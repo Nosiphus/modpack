@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "ff4fc7fa99b39f2e88b8fbe3d59b1620d17e0435f29abfb0e05907fd1aa5a297"
+hash = "b5c3e8022aabecae39437efe601d51e33d97fbf9a4d522bebdd813af0cfee481"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "f7a3b6fc7f5b5f505182d79a7e3964f4802fc7a23f5cbbc1278134b9ffdd34c7"
+hash = "2b87cf9538256e7bcbf7f7b5b5e8a2eea94f7ebb32e75e9f3dcf70e621d697c1"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e0581e9e0997c120db5f3e08b760e4258220284dbfbeb94a237ee6bbab4b277e"
+hash = "e091341bf6ba7eed6700d6997c364bd5293ecbfefe37fea9a84bb725f59318b0"
 metafile = true
 
 [[files]]
@@ -605,12 +605,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "d1ea5998024c1c066c93e0f747936c8e0f94aa513813fff7664324d478061e67"
+hash = "7657dc49fc61843fbc83c851a69273b673ef2b701de7d3316a2fa3f0b85310f6"
 metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "9a7552b23a3cc485bc5393481b2a497ea56ee31da8c60794964c8f6a1da0e2d3"
+hash = "3634ff122557beee85ee9fac007c141525f32ff0f072be7a8c393ed77c119c05"
 metafile = true
 
 [[files]]
@@ -825,37 +825,37 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "87396f32d80e36821961c3aac287c9411444473342de1e5d3b0afcba25ef8498"
+hash = "bd63ac24baa35e3ed0a601c0307896460b6cdd5369e0e2be08653fa534855900"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "1bab44d9fe838882115ee84879ffe862cb8a6e8e473db052e387431d2d8bb42f"
+hash = "466a4eb27993fc37154896617140e1fd0d7cf5417a6d507aba12fd2dcafeb1ff"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "830d3823e03dc2ddf941ba291edab0ce3f7f010b3094358b7bdc7fa79be4407f"
+hash = "2a9532410269cc19a1805c45f99620f38c7acde5ea0407066e57f870222199ea"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "ed8816a51c7ca18eaaed997a06bd43228f1ac82caa2d52a0e67820a2ab3fb8b0"
+hash = "002b20e336b051a81592842d6895d2cb1f0d051b6f5861d91690d3e2700f1967"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "962deafd2376b84ef4bffa450fafcf7296d76568e6c8c7f7640d197736b6b7ba"
+hash = "6b225cbafa87ddb18165287a1be5f0e57c815f77627041f392b76cd0b669f268"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "e7ee730e771adf1ba3abaf1ece9ddda61f1900eb5f242c5ba4f8ad21498aba1c"
+hash = "a3b7933eb3bf40ffb589dce3a6c71151802e66f2a11207ca58273e38916b059d"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "90c0fd341133f7f4fa3634b08dcb4567776de1f9de602e9a7948a53e691aeef8"
+hash = "b58e944b846a7e1e4f568c48066e3e143fe1bf76de21e40a051e0ad6eebdf825"
 metafile = true
 
 [[files]]
@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "2da4b2e6357935fe676c849035bfa60511357cfa1be127170d9e39448d51159b"
+hash = "9b7dc9f1bb259776e5e4d4ca975856b6758d3911e071390a7fe60e0c3c9b006a"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "c23e59c50d340d381ad7897680363b48ea169a6bb05756481744335f73974bec"
+hash = "eaacccec4aaa591796c150a34039f799f080f63ed80b9bb9e0d9e700e873dc39"
 metafile = true
 
 [[files]]
