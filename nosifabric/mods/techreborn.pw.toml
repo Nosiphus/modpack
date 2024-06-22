@@ -1,13 +1,13 @@
 name = "Tech Reborn"
-filename = "TechReborn-5.11.2.jar"
+filename = "TechReborn-5.11.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ea83f080ca105e90ed91c2d554894f6792b2ff84"
+hash = "477fb63a0fed47c354a10192c4c58729558a5e43"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5439447
+file-id = 5445741
 project-id = 233564
