@@ -17,6 +17,10 @@ file = "config/ModernUI/text.toml"
 hash = "2c94a4a7ce5facfdf02b94cdea0063f45791f9b24cf223c8859e56b70ac40d0f"
 
 [[files]]
+file = "config/computercraft-client.toml"
+hash = "ce3e34235dbed98c8f9f07a0c1a4a5eeed4ddb5a370ab283a38f87474abcf5fe"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -87,6 +91,18 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "0d0e22785b8811b4010b7cf39f78fcfb25e31e70558176a52cb9e95ea9202c8f"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+
+[[files]]
+file = "config/mca.json"
+hash = "848b6f23735b9a10abf8525b75a16006daa88fe9baa8f694735d4c7410a228e3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -335,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "9261b71e382b07771083e0998e2a8e6997a874e8384fd0e1020774ae8c64baba"
+hash = "4a0c265d871898cbc90f93aea5d0401288344b84957b3ca9d9aae67147164a9c"
 metafile = true
 
 [[files]]
@@ -380,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-electricity.pw.toml"
-hash = "ebfcfda524cf705a669dcf2df1085521a2597a90360d2e79786a1163a9d62efe"
+hash = "91126f11e5f49d923ff00c38cd7be0d598b7f67fbcaa4c4bc8de8adc558a55ea"
 metafile = true
 
 [[files]]
@@ -540,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4338e846eb44201c4eb202ebe7607a0b80dbec4728ebf07f9c0934350d63bf47"
+hash = "10732d937971c70faa3f3708458b6088d6d28560f67e11da275f65757bfb66f6"
 metafile = true
 
 [[files]]

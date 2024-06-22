@@ -1,6 +1,6 @@
 name = "Dynamic Electricity"
 filename = "Dynamic Electricity-1.20.1-1.1.0-1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gYqTAyBw/versions/vISc8d9D/Dynamic%20Electricity-1.20.1-1.1.0-1.jar"
