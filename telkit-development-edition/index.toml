@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "b1d4ea1d1fbbabc1ffbc4529b3fac60e05c1b2f3031c7556bfd446df01475e95"
+hash = "832945a668b9ca8bb2bc28a7e739a646ae14c32c7aea91117e5375f0efa20ef1"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "ee7baa3b0002bf71882f5579ee94e97b7c63e41e2851394cc8ac17d2959e69d3"
+hash = "e8faef6b052bbe6d36616fb94bf6a536af94b19194bd852bd5f698483782896a"
 metafile = true
 
 [[files]]
@@ -716,7 +716,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dbcb87c76bd4e21f3b5dc155c3ddc4cd5bab670e34703f5e8b378f84fcaddc1f"
+hash = "4f7deab7dfbfe75d193a27f293ca0377233d98cb93f99d572fa25ef5de61c42b"
 metafile = true
 
 [[files]]
@@ -881,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a1588f69ce9993b5b55f46105958e32fd55b9430ab92ab0e2d9c0112bb0aa69d"
+hash = "35ac53f97504b5d71b607335d8560d41d11b4adba0f93db1fa1204132661be56"
 metafile = true
 
 [[files]]
