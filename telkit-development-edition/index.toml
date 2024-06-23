@@ -125,11 +125,6 @@ hash = "e67c20c0a319836426359b068b37cb1750ce73c5ea3fb5b4644bf9baf77f2700"
 metafile = true
 
 [[files]]
-file = "mods/advancedperipherals.pw.toml"
-hash = "e83626b57fa2cba1199067ca67dbe4c136212d20468cdbb35b16ed9319a2da55"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "f7471d5fdd8cfc74b84585ace479665e73e69a5e6bbe4d6c03e387e8ddcd3d45"
 metafile = true
@@ -162,11 +157,6 @@ metafile = true
 [[files]]
 file = "mods/animaticareforged.pw.toml"
 hash = "3249b0bab9f11161acce3e4e88961a7b942a2a246db66b07f75522e2075950ab"
-metafile = true
-
-[[files]]
-file = "mods/another-furniture.pw.toml"
-hash = "ba45971e28bf00e0dc80a43d0422c6be3ba67924af1dfbfd7d41b0c746dbdba4"
 metafile = true
 
 [[files]]
@@ -940,11 +930,6 @@ hash = "d348e5b14642c36393ff3ce72e03ef79f709b1af045112211294673c52a47d1a"
 metafile = true
 
 [[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "160e6c86655e71ce18b4ac3463ba9eccf51e405a6846541536e95371b0063929"
-metafile = true
-
-[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "0ca6f7c7a736b318e4165e4954e8bd39b183c45965bd596c8f1a2f948f7222e9"
 metafile = true
@@ -982,11 +967,6 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "bc249e4bf77eef00e13ba01233796c4e3b453779f255a2d6cfa3f7bd1e1b1f28"
-metafile = true
-
-[[files]]
-file = "mods/tropicraft.pw.toml"
-hash = "ab8ba4f3d0730c96ed77bb2a9b31ecd09beca1c70674cb3f54a8b60e2896fd7d"
 metafile = true
 
 [[files]]
