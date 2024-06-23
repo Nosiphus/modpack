@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "832945a668b9ca8bb2bc28a7e739a646ae14c32c7aea91117e5375f0efa20ef1"
+hash = "3a33c91a373aa8a59d57d54d4b50888c553ed3367acd7f5a58af125bb0334b67"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "cc1d4d988257fe6db0f6cd7a16a8da0f8cf37da8649d4bd6bd0096cf62043c92"
+hash = "fa157b3a03ff83d94c4158e3fbeefa611e7805214cdbc451805713819634ae1f"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "f65266cb549dfdbd4e72288d5c80be2090a288c0986800fcabc0de1702d634c4"
+hash = "dd56591535a06766bca06fc5943bbb1fc48d7bfa138af56c6bae38a8e6a685fe"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "7d3e1fd920caf0ee6e083efddbd33f98875c9e6ddca95dfcbde16b25f84c38a5"
+hash = "1e52da593559dd4574348ea8943d1d430a5d017ee14f34624aec16e135cbe871"
 metafile = true
 
 [[files]]
