@@ -1,0 +1,13 @@
+name = "Project Red - Transmission"
+filename = "ProjectRed-1.20.1-4.19.0-beta+3-transmission.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c072bb64621390fc4d66d339092659219382d836"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5458536
+project-id = 478939

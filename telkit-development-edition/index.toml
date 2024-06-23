@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "83443976a36797860a9d9e9e762f59455c3303ea7ec0372200826fba112b2550"
+hash = "7d3e1fd920caf0ee6e083efddbd33f98875c9e6ddca95dfcbde16b25f84c38a5"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "47e3c49469a9d986ba9cf9400c49673644278cb4864602ff5094abd01130612f"
+hash = "5c9e8b193a1cc6206081816355a8c6295ae14498fe914dc846d0af86d01daa3a"
 metafile = true
 
 [[files]]
@@ -792,6 +792,41 @@ metafile = true
 [[files]]
 file = "mods/potacore.pw.toml"
 hash = "c9971fb5d29431ca3c5f37e1ba8654dac2a67bd9994494d012bbd6e1463705a9"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "3a1aa754f9ab161ec4272d71a1eb20efa7303755e3050634e18e58c5cd5137ed"
+metafile = true
+
+[[files]]
+file = "mods/project-red-expansion.pw.toml"
+hash = "9647ba32e5463feabd160c3b70416fdb4c4bd19c496d02c5c5d882562dde04ce"
+metafile = true
+
+[[files]]
+file = "mods/project-red-exploration.pw.toml"
+hash = "3a56e2505ea9d790ade43d994162ec211fabab8d4dbde77ca5d489cec4cb4183"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.pw.toml"
+hash = "0c7ca161ab520fe620688dd3e864c5b3826dba2b151093b9c802968f86375922"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "a7d59a1ae68d7041af61860b15ea6a544c00f1fa45c3c63c20f2ee974acd8e01"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "ff1e68342f9fc2707af5ae9fb8c4addddb61168ad813b3dd1914688a33acf4a7"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "088ca8b07fd707d61816c131c00b306bd63f1e16d686dcacbc28089133192f9e"
 metafile = true
 
 [[files]]
