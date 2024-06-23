@@ -505,11 +505,6 @@ hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
 metafile = true
 
 [[files]]
-file = "mods/furnish-furniture.pw.toml"
-hash = "9fb9fd725623fa2dbf370cb47d4fbaa9058295a824d5f781f359857cbb20dbd0"
-metafile = true
-
-[[files]]
 file = "mods/geckoanimfix.pw.toml"
 hash = "e5d14f6ff5314299881dbb51db12ea3e0613440b734c935335b951e0d6b6564d"
 metafile = true
@@ -967,11 +962,6 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "bc249e4bf77eef00e13ba01233796c4e3b453779f255a2d6cfa3f7bd1e1b1f28"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "d0b9e330714c613ba207842facd66054188ad4cb60538f455487a8ca04d1b82a"
 metafile = true
 
 [[files]]
