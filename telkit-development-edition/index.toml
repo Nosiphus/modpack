@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "dd56591535a06766bca06fc5943bbb1fc48d7bfa138af56c6bae38a8e6a685fe"
+hash = "07a0eab1cf081333bd68772bcaf74876db1671ff67119bc60eb28222accb90db"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "703196e02c2f1c05f8cb8edb7b3ff9f0c1015bf0ead85730f976e09c24ce0fca"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "1e52da593559dd4574348ea8943d1d430a5d017ee14f34624aec16e135cbe871"
+hash = "e98dc003a14afadce1ddea46232dee858dd0e886aaaa799691cdcedad3f7b81e"
 metafile = true
 
 [[files]]
@@ -706,7 +706,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4f7deab7dfbfe75d193a27f293ca0377233d98cb93f99d572fa25ef5de61c42b"
+hash = "6dce8773d52dbdae258b741edfb1829fb2b563325cbef4aa063f70a4860cf7e8"
 metafile = true
 
 [[files]]
