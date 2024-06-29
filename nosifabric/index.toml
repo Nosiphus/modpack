@@ -10,7 +10,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "0fde015d7a83d0dd4835e85d5cca7bb70678f27fe7d6e7eaff61a2f00bc61358"
+hash = "4ccdd61b9c93cceac6a11c4d75ccd4e1f7c53eecab5245ea7b01ed99439c134d"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "02d5a13f745ac0a0f107a071649fd44b3c6820a60e926f3bfc4907ac59194edf"
+hash = "93bcf3b2c06d84b695decb6ebf35f08cb3868ca2766fdb5f96d082bd274f33cf"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "5ee4dd82e956e1d7dcfcfcbc067ff313eceedcb4f3d230e7156ec517956e643d"
+hash = "c88fd4801f88e697b33a5552289a40c08f06b11b0578cd560547b08d0674d928"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "e504921c61ca8e6ab32a5c1af997d6a6bd1184a68b61503dd221d87a11253ce8"
+hash = "4b891f006f922f41daeb2bdb242354d549907a53cefb983f35eeeeee78d94ebd"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "da02b5c6372cb22f9a92f94811e1beed07fa2205529c9c73fc1398ed50144cd4"
+hash = "09a2cb241231f2ff1d2e22620cd430a002b97a14704b83163cd89f36fcb72815"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "be94397340f28bff0babb5691a8e30b8fb47ca595d6a9c450a3d7f1e3ad4c47d"
+hash = "c094ede18ebc373e67a3cd70afa07ede4cd5e21dc1194bc4f0483fb186b5a09b"
 metafile = true
 
 [[files]]

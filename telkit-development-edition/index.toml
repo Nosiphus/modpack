@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "8d606a5e6c41517bee7250d0082c89042ed511c093deabedf3ff252d8ec8eb09"
+hash = "01c54c1cdbabd21e46a91b16428ca83780d732d990ddad780fc2b097f8f5e7b5"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "bebbf9912c10afe9896ea9c8acd9107bca3d22f08690d78c721c92a576d1c7cc"
+hash = "4b24c521fec3618fa37b104bffe35c7a4b0b77032ec08b74bedda9214df6ac21"
 metafile = true
 
 [[files]]
@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "8a4222b59dfb42a53b9d82e78fc2960a03bd89a9e21cbf40bb0c3a28a8d347c3"
+hash = "111edcdaba4a28dae8af6134595063625214a2978717f1bc9b4ede601837fd9a"
 metafile = true
 
 [[files]]
@@ -1006,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b6bd9fb1d685f65e200a5a1e1040ce62878200c7e6b1b180080b25faa11ee4c1"
+hash = "24fb43b48a392668670c44b12110a934ce4ff510093e7ea0a0bedd0ce9a3cc0c"
 metafile = true
 
 [[files]]
