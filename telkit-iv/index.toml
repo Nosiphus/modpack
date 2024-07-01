@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "132af4418083eeb5f901a1a80cea3f3088c92a06ae95713361adc4a9a8824f19"
+hash = "87420a83cac44ab5ef75812bf8d18cebc1a102b4a26d23cb7b0e1237991ad73e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "0cadff5cf99f69881fa07016c48106562d8eee295774109cfab3ce1574d0b3c7"
+hash = "c10c2998320c85e797a5ed66908159c8123014988e54dc5672411b2f0a2ad273"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "600cdca16b9607f415ef545df62c6f056ae6d5e12b83c37f7e2fbfd8211c4fe8"
+hash = "e5c0fd4483507f22f9fcdd14e39d7177b8042d79269f3157205b2b75d6395b7b"
 metafile = true
 
 [[files]]
@@ -1075,12 +1075,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "b6ccf7da90cbbeb282bc728fa766b8d28eaf75e9353cbec0c86dc5c264271caf"
+hash = "7266006c40297393179114e43cd0975131228297061d46dc2c1f89c7ec2ec4bc"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "c8dbb7da31aa2e8f1fbe1e10ee17b7777e79248fda236a433284c84a4f5d027b"
+hash = "b77cb829e24654a07ec035d9970b1a09ed23697532b8ff6cbb322cc64628b904"
 metafile = true
 
 [[files]]
