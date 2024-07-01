@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "4bdbdb90ee61ebee1661efd1c1269788ba470453259f9d7c13535e014c6cf156"
+hash = "cb7dd3b1d6bf16b5351546f2444e97101595777e3a26bbe82396cfc2631423b3"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -652,7 +652,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "289460fab1861cff85d81542352cea4c81bf2f01499b7cc73345350ab1b728cd"
+hash = "b89c0609c21edfeafe88422033b15f6969d921a0665e74545c984b7f2a3029be"
 metafile = true
 
 [[files]]
@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "3d42e161d12929bd02e72e1159811fb1da7a5d947f86cd3acbf59f6f2a40d8bc"
+hash = "a022f50e008c09811397930e79bdd8c96c9faad8ab106eb646b1360f8e01519b"
 metafile = true
 
 [[files]]
