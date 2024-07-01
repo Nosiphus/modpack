@@ -1,13 +1,13 @@
 name = "Exline's Furniture Mod"
-filename = "exlinefurniture-v1.0.5-fabric-1.21.jar"
+filename = "exlinefurniture-v1.0.6-fabric-1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6638c2ebf5585c2ffc4df82ec5e97cb672bd7543"
+hash = "344e9cdac9253d30c959ba59f337a0c2b57a1415"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5475107
+file-id = 5487248
 project-id = 504919

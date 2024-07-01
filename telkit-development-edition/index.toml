@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "7b82b02e2397fe57c3decbbf245825effa87ead8af9525584ff965733ff15415"
+hash = "7cb0f6c2b744f9b71eb7bda28ffc95e85302242afd59e3e18e24dc5103539e18"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "f7471d5fdd8cfc74b84585ace479665e73e69a5e6bbe4d6c03e387e8ddcd3d45"
+hash = "6947fb69588c468b5d469a583d83310e29d9d35a5d1adde4cc0df41d85a38de3"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "f4a296b369a6711fde8d8d8ef3c508b2d742b9da8d86ce16a376a8c90142bb3f"
+hash = "6c94a8add3023cd603937b3ec2f30cde229851d8b77fc057151d05e6304fed8c"
 metafile = true
 
 [[files]]

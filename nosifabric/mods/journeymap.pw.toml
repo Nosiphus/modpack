@@ -1,13 +1,13 @@
 name = "JourneyMap"
-filename = "journeymap-fabric-1.21-6.0.0-beta.12.jar"
+filename = "journeymap-fabric-1.21-6.0.0-beta.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/JsiN2kAn/journeymap-fabric-1.21-6.0.0-beta.12.jar"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/fWAkacWQ/journeymap-fabric-1.21-6.0.0-beta.13.jar"
 hash-format = "sha1"
-hash = "6770ed2937cd19ccc645e3c83b86a644978ddd46"
+hash = "e4c12b996ebb871c68eda135f224c3f4cb9f6b06"
 
 [update]
 [update.modrinth]
 mod-id = "lfHFW1mp"
-version = "JsiN2kAn"
+version = "fWAkacWQ"
