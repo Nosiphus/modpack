@@ -30,7 +30,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "7cb0f6c2b744f9b71eb7bda28ffc95e85302242afd59e3e18e24dc5103539e18"
+hash = "f4fad4085427cce04227bbf568b1f2b1093477fd5e0884bdfa4db46f1beae85f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "3e5b28a1518d0d0198951234758b85ffcf1ed156435fa96553c71082effba170"
+hash = "e1e362fbc0a4c69a252ba1fd74513d79a2b662fa3f4ee5477ccfad6cab4e6ef5"
 metafile = true
 
 [[files]]
@@ -752,11 +752,6 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
-metafile = true
-
-[[files]]
-file = "mods/paladins-furniture.pw.toml"
-hash = "a22c4514dca92a7e99bf08bd3ead1fd2889bf2bc60a57db7b987488c76834c55"
 metafile = true
 
 [[files]]

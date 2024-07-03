@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "87420a83cac44ab5ef75812bf8d18cebc1a102b4a26d23cb7b0e1237991ad73e"
+hash = "12a91da33636380eb8622c065e7b75de62b3ed984cf99c0ff0a48be4dae5cf08"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "4de1820ba124b4c7e86396baf68401fc7355c0c78fd861ccbed0971aced2a711"
+hash = "5f25fc7780b589577a825f8e5f3063eda67c6057052f76054bd7620901a67ea6"
 metafile = true
 
 [[files]]
@@ -791,11 +791,6 @@ metafile = true
 [[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "1336857e4281effc5b92dd8586bb7551cdc646a77bfd142a81f69648fd1cd131"
-metafile = true
-
-[[files]]
-file = "mods/paladins-furniture.pw.toml"
-hash = "60579a08b372395e06e7ef961bf62d2aa2fd1e19ecc9db788956f74b008030af"
 metafile = true
 
 [[files]]
