@@ -1,0 +1,8 @@
+name = "Minecraft TTF Font"
+filename = "MinecraftTTFFont.zip"
+side = "client"
+
+[download]
+url = "https://onedrive.live.com/download?resid=74BEC8DDAEDC9203%21416&authkey=!AJJyzgvaJ4v6FOU"
+hash-format = "sha1"
+hash = "a264e329f0f125cc566395b15561939f05d57b2e"

@@ -21,6 +21,18 @@ file = "config/computercraft-client.toml"
 hash = "ce3e34235dbed98c8f9f07a0c1a4a5eeed4ddb5a370ab283a38f87474abcf5fe"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "5e24b07cde5794d79b87812fe86b1d8fad0540c37abc63706009bca675f18df0"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "fd23cb8becf6463b7ae75767584a5a6a61de0b104eba768faa6d4582b1a91f57"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "23a24cbc6051bbba01833908d02a38a924fffafcfe3286d6cb6f7993ac015de7"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -29,20 +41,16 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
-file = "config/fancymenu/customization/Telkit Development Edition.txt"
-hash = "f4fad4085427cce04227bbf568b1f2b1093477fd5e0884bdfa4db46f1beae85f"
+file = "config/fancymenu/customization/Telkit V.txt"
+hash = "617fcddfbbb546443b77531f3c2ceb7db3663d375ebdadcbac4c729831527fb6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
 hash = "9593373a6f7c5eba83906674d0b7aa333adc7fae3510a90e9d5d66a784e6bf20"
 
 [[files]]
-file = "config/fancymenu/images/telkit-development-edition.png"
-hash = "a10049c35a647ef2e215e139ccaadcf58fdc1bbaac8c9919fcd7366a957152c4"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+file = "config/fancymenu/images/telkit-v.png"
+hash = "ac0d0176c3b87f300ed24747551fa0ab7e4c9e63eb1f094a33ded91a57d3b781"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -50,7 +58,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "8979b75345107cdc31b5484b327c117dbe356626b54951a3e67612e287a9ef59"
+hash = "16fd6f39174483aa62686948fe02374a5a7ac2bd47c66235c208649f4ed792ba"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_0.png"
@@ -79,14 +87,6 @@ hash = "bd760004a576ae93673713ef8249d5b98132baf11b64a3bc81ac8bb20dab7428"
 [[files]]
 file = "config/fancymenu/panoramas/primary/properties.txt"
 hash = "280d8fbf33a3c8adf4e10cbf7e139b6a034b6e0d9fcc00418559c91d21082e02"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
@@ -301,12 +301,12 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "db682d3c387eff10ff70087bdee0e13bb97f8616c49a8f4c7bb0e3146034a663"
+hash = "673b81b2090bdce49d7743e8c4b3e8587d1106ad6d032f23148c39f7787a0bac"
 metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "ad75b54b108148d1d01daa2eead5ead341a9e1bbc84d3418f71412296757b70d"
+hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "7a81b3c99001ab3890ec32f0dd134cd1488c4c0fcf3f9d8c69450a3463ebc166"
+hash = "7e24bc360a327c848e250ecfa29e52837eb86851a880ca4ccf06b03f6c03d866"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e1e362fbc0a4c69a252ba1fd74513d79a2b662fa3f4ee5477ccfad6cab4e6ef5"
+hash = "e5a2825f8de2b1b4f9e6aee34417b6c1ae2fcf826a6033c3b542d35091e70b41"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a3461b342acacec7af9b2c6c99df28fc1653d38e11014143c471904808296bca"
+hash = "8abf1256f66e369ab03f3e4a46c235eb9a4a2ebeeaf9393a810a649592f8b0dc"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "875df93ce922765fea886edc3e3608315c89398dcf9b9da1664db87bda75dc00"
+hash = "3d392f4802461d6473de7836ec3b44fe7bef954832c8315135530be5519f647d"
 metafile = true
 
 [[files]]
@@ -746,7 +746,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "46231ed2c329d9126f2031e05ff23956b8356b51485424723a989192102e2e2b"
+hash = "8ea726d8e623a4ef0d7a690dae145031152e995ffd93c830432794635d320832"
 metafile = true
 
 [[files]]
@@ -976,12 +976,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "77dc0ce2063c5045e55de34103942eaad231173b4a7fff10fe78e96f95e8425f"
+hash = "ff3fc207c797fa1db17c0b5119114bbfefde0186d43f52bda825fbe29e907885"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "05bf4c054b1346db1696d76ebbbea07fc30668251a3c78905a98b3045df4dbf7"
+hash = "34c86f976127ded13120aa03479144f6d66fba395665827b4db649c23822f1b6"
 metafile = true
 
 [[files]]
@@ -1016,23 +1016,14 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/minecraft-ttf-font.toml"
-hash = "226f5f6715074186535b8d1eb13ca23e4331d76d1e34aa560e514d907fbbfb24"
+hash = "4aee0d7c2a040c9b09e51e6b03aaa90baf110c935bc4a0275b6956dbf9d40e41"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders.zip.txt"
-hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
-
-[[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.2.1.zip.txt"
+file = "shaderpacks/ComplementaryUnbound.txt"
 hash = "ecbbe0095b393a79ff31d0c96e1b804cf1aabdbe606e503a985b9c17d2be486d"
 
 [[files]]
-file = "shaderpacks/complementary-shaders.toml"
-hash = "a75fb9adb97567417ca9c15c3c8e161d4ca904335fbba2cbed3c8ef7fc679412"
-metafile = true
-
-[[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "f5f2f634a21371f9e857e33a2e45dfbad531b6c0bbe28bd7b9f53ec357b0cc23"
+hash = "7b46ea97be1876d5e69ed0dc2d261c35407f698c26944fd7731395dd4e01c44d"
 metafile = true
