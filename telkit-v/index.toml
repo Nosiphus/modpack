@@ -30,7 +30,7 @@ hash = "fd23cb8becf6463b7ae75767584a5a6a61de0b104eba768faa6d4582b1a91f57"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "23a24cbc6051bbba01833908d02a38a924fffafcfe3286d6cb6f7993ac015de7"
+hash = "fdd265ba5bcd988a07b018928eebb205653a6fddc262f37208c00a42a7eb5173"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
