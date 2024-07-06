@@ -17,6 +17,10 @@ file = "config/ModernUI/text.toml"
 hash = "2c94a4a7ce5facfdf02b94cdea0063f45791f9b24cf223c8859e56b70ac40d0f"
 
 [[files]]
+file = "config/ProjectRed.cfg"
+hash = "cb4c66459708a18682263f036c3ac4aa57260cdf63bb525197be4542b1584a71"
+
+[[files]]
 file = "config/computercraft-client.toml"
 hash = "ce3e34235dbed98c8f9f07a0c1a4a5eeed4ddb5a370ab283a38f87474abcf5fe"
 
