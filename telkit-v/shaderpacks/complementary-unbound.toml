@@ -1,0 +1,8 @@
+name = "Complementary Unbound"
+filename = "ComplementaryUnbound.zip"
+side = "client"
+
+[download]
+url = "https://onedrive.live.com/download?resid=74BEC8DDAEDC9203%21417&authkey=!ADOReOKvQ4ZEwNs"
+hash-format = "sha1"
+hash = "5a99ac27cefd20d006741eb6b613d285dd89d160"

@@ -441,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "ad6ddf9f31b0ba6addabb9bf0ecc25f98da1e196e72caddd51260f6da084c0d0"
+hash = "882a317ebf60346395a27b1d12130a17f877e9f1f50a3f10614740852b82dd69"
 metafile = true
 
 [[files]]
@@ -1024,6 +1024,6 @@ file = "shaderpacks/ComplementaryUnbound.zip.txt"
 hash = "5eca89d3e261a83f9b27559717662ba621f16b49083d6c5c6a7d3fa20edf4757"
 
 [[files]]
-file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "7b46ea97be1876d5e69ed0dc2d261c35407f698c26944fd7731395dd4e01c44d"
+file = "shaderpacks/complementary-unbound.toml"
+hash = "f5d153ca4291077af0762193ba90adcfcbce7f5123636aa61ce6f50aa03d9f56"
 metafile = true
