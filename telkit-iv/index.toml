@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "12a91da33636380eb8622c065e7b75de62b3ed984cf99c0ff0a48be4dae5cf08"
+hash = "8e17b9b3137ab17fbd4d52bb60d361af247737d9b98779af979b73190eb6c762"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "3dbc35139a8ca2c8a0b11c8df9fcca3ee48b6e545c593b0256070cdfd231deda"
+hash = "966364d0645672cd48a2025362c6d1412c4b9186a42210135aa2d37c31db307c"
 metafile = true
 
 [[files]]
@@ -1075,12 +1075,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "b77cb829e24654a07ec035d9970b1a09ed23697532b8ff6cbb322cc64628b904"
+hash = "0160463110d82168db07f3fff746ea933dc925afdbeb11cd277c568c3ea98d17"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "e550fde283873f1adc87ca6a9489ea62a5986aa149b10e61da784fbb7310597e"
+hash = "080292e6e91b7c1d0758d0293fab1ca967b5dfd5cda14aad41a4309265257b86"
 metafile = true
 
 [[files]]
