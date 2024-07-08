@@ -824,16 +824,6 @@ hash = "26b6891625bf09317245200e3adb871cea00dbd41859d68cf57062544c0e6041"
 metafile = true
 
 [[files]]
-file = "mods/quark-oddities.pw.toml"
-hash = "4b6d6900e40ceea949928423e7863817aeb07c17dba719ca45dac34d3f8d5b41"
-metafile = true
-
-[[files]]
-file = "mods/quark.pw.toml"
-hash = "85ecd63591604cd9e9dc2e33b9fefb07c8bceed4cc39b19c13caff6233818397"
-metafile = true
-
-[[files]]
 file = "mods/quartz.pw.toml"
 hash = "a947d3f9d6f75fbe1e85d3bd7c3c5b7b2df9182fb4983604ef6168eef0034db2"
 metafile = true
@@ -1026,11 +1016,6 @@ metafile = true
 [[files]]
 file = "mods/yogmod.pw.toml"
 hash = "9541726f166ff12049e9dad507d1bde7b1dd580341929ce9cc2644e479f7ed4c"
-metafile = true
-
-[[files]]
-file = "mods/zeta.pw.toml"
-hash = "03ad095aeaf39ddf0fd19cb25ea72a6aad6e89510b6e643bdcf39091d6a2691f"
 metafile = true
 
 [[files]]
