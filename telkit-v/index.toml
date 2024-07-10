@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "708d5d13731127db9804d60cf4cbce37d50e056cde4a7c1b381dcb830f908c78"
+hash = "9d3789d2da76d1149ec85daa5d9a7ad20766c7ce99ec10ce111508af82f5c83d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -204,6 +204,11 @@ hash = "00a36c775ddcdbe1be447315b337cba5960778d9c0a13b40d22e012f6f069446"
 metafile = true
 
 [[files]]
+file = "mods/basic-parts-a-flans-mod-content-pack.pw.toml"
+hash = "1d68e0669a230db12112fc063975afee4ee506df9b9d243578c8e9115c83cde8"
+metafile = true
+
+[[files]]
 file = "mods/biggerreactors.pw.toml"
 hash = "4e6da4cf2017bca4146c97269e1a0c80eb377e9250b2629bcbc86476bc87fc55"
 metafile = true
@@ -350,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4a0c265d871898cbc90f93aea5d0401288344b84957b3ca9d9aae67147164a9c"
+hash = "fec5ecc84abb1a62723aae63321362fd3be41f310d1fc3a2b1ab0a6b689e0967"
 metafile = true
 
 [[files]]
@@ -496,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/flans-mod-reloaded.pw.toml"
+hash = "edcff5ac3f48e3f33e7193745e8cbf8428bc5bc4ddea5f0629c4e14b172883f4"
 metafile = true
 
 [[files]]
@@ -924,11 +934,6 @@ hash = "3c812e3e57600eef81724eba1bd36452338bcd0214a6364ae980026742fe96a1"
 metafile = true
 
 [[files]]
-file = "mods/text-utilities.pw.toml"
-hash = "d348e5b14642c36393ff3ce72e03ef79f709b1af045112211294673c52a47d1a"
-metafile = true
-
-[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "0ca6f7c7a736b318e4165e4954e8bd39b183c45965bd596c8f1a2f948f7222e9"
 metafile = true
@@ -966,6 +971,11 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "bc249e4bf77eef00e13ba01233796c4e3b453779f255a2d6cfa3f7bd1e1b1f28"
+metafile = true
+
+[[files]]
+file = "mods/venders-game-a-flans-mod-content-pack.pw.toml"
+hash = "9f949fc3a441943ced230a472aebbccdab34e22c9343bf592c06c245ff09fab5"
 metafile = true
 
 [[files]]

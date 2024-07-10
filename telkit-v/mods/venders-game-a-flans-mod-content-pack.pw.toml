@@ -1,0 +1,13 @@
+name = "Vender's Game - A Flan's Mod Content Pack"
+filename = "flansvendersgame-1.20.1-0.4.193.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8aaa820cd034a7f252d195d2f02c589b81f9a484"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5448950
+project-id = 943998
