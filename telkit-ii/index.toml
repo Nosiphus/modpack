@@ -556,7 +556,7 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.toml"
-hash = "bb0145fe9765794b5c74a2ed48311ecbcfbb9ba259c0d2442669d463ef4fd1bf"
+hash = "2106b9fa0f60ec470d4b5e8cc64bc28ffbfbc01ac62390dd5ecfec064c8bec90"
 metafile = true
 
 [[files]]
@@ -815,5 +815,5 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "a75fb9adb97567417ca9c15c3c8e161d4ca904335fbba2cbed3c8ef7fc679412"
+hash = "c16aad0ebfc3f26d893baed415cde449e66d349d923f88f2eda8c3d984087c9a"
 metafile = true
