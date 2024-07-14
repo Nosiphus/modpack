@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.toml"
-hash = "a0e6c4bcf722e2826ef4b4286f2667e14fa0bfb3706cc71aed92fb97a0c28dc5"
+hash = "c8a1be3cb93d2ed168501196a33011893c96b64e0b64baefe24414cfbf444266"
 metafile = true
 
 [[files]]
