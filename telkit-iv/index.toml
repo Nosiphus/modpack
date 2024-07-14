@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "8e17b9b3137ab17fbd4d52bb60d361af247737d9b98779af979b73190eb6c762"
+hash = "7b7116a96ad32b4f772276c10593f2767958d53ee74ae0450bdf2e207f6bf5fd"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "8c169ed756f0d9896b9cd9e3c592bfc0b52f524f434bf13b68d482e6351d6e49"
+hash = "4d3a6e34eb1a22e53b3c49a58975e912bf750f536599f4a66210c6acbf36fc27"
 metafile = true
 
 [[files]]
@@ -1070,7 +1070,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "7266006c40297393179114e43cd0975131228297061d46dc2c1f89c7ec2ec4bc"
+hash = "3ce165ab9cb6444b47500a2f4417a91e0f847d7ab129d5202e08fc8dedd9b4d6"
 metafile = true
 
 [[files]]
@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/minecraft-ttf-font.toml"
-hash = "226f5f6715074186535b8d1eb13ca23e4331d76d1e34aa560e514d907fbbfb24"
+hash = "011207ebcc93651ca50c4844336d078d9466b99f6ca39b7a130b47aad66b3a7a"
 metafile = true
 
 [[files]]
@@ -1124,5 +1124,5 @@ hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
 
 [[files]]
 file = "shaderpacks/complementary-shaders.toml"
-hash = "a75fb9adb97567417ca9c15c3c8e161d4ca904335fbba2cbed3c8ef7fc679412"
+hash = "c16aad0ebfc3f26d893baed415cde449e66d349d923f88f2eda8c3d984087c9a"
 metafile = true
