@@ -1,13 +1,13 @@
 name = "Moderner Beta"
-filename = "moderner-beta-fabric-6.5+er1.3.1+1.20.1.jar"
+filename = "moderner-beta-1.4.0+1.20.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xkrdwmh2/versions/krHwk508/moderner-beta-fabric-6.5%2Ber1.3.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/xkrdwmh2/versions/tDYKYmfH/moderner-beta-1.4.0%2B1.20.1-forge.jar"
 hash-format = "sha1"
-hash = "e1b3d6ddca067d6abff418742bd72907e10279af"
+hash = "28f4417da49fc7aea6ffda99d11ae24c8d9e9606"
 
 [update]
 [update.modrinth]
 mod-id = "xkrdwmh2"
-version = "krHwk508"
+version = "tDYKYmfH"

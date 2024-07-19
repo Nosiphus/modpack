@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "b251f50403fca5d39739831ff2c1188bd9056ddb3df2f5d42a69f2a6a72a1c98"
+hash = "308b0837929a0c46734a7f7f88a9d0d744f8d9ba3af29ceb056acfb866083098"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "3454ef166c3b81dbc98ac46fe1f0ab8a2dfb66c6671edc2d4fc5e9959511d4d2"
+hash = "3a88b5f0ba47ade60e0934deb27e96fa4c7d6c6e44bbb7cb8ac33accbc68c63c"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "fec5ecc84abb1a62723aae63321362fd3be41f310d1fc3a2b1ab0a6b689e0967"
+hash = "dd0156a67203ae08118251ce0449f780d4485302e61fdca281c8dfa5355b06f2"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "6dce55d401c225ebaf8f2a5cd1fa17db82fa23ff01a1dd5a9d42da2ae386874d"
+hash = "ba164758677e38b8d7861d7e9b434caba634a41a77c3f6d99a70aa546108a4db"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "882a317ebf60346395a27b1d12130a17f877e9f1f50a3f10614740852b82dd69"
+hash = "d86f500428d5097868b2dc9395090e54deca88cf71e9e6e76283e517ebb82410"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "26d469d4c4b9aedb1daf28e8f17ee5a1d28691ca3c78403dfb67e49616493001"
+hash = "75c061ce78d7d3f818d98bb94f9a68948aa3a1a612f3c26ade989b60b36b9657"
 metafile = true
 
 [[files]]
@@ -565,12 +565,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f4dc82f4e5a4dc8b77c72fee8e96c23457da988732c08207b5faf61b41d55aa9"
+hash = "646a564cbee966e31b0ea3fc1556eb6a6f0187453126f5fb3518fa100d346a76"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "e8faef6b052bbe6d36616fb94bf6a536af94b19194bd852bd5f698483782896a"
+hash = "cdc72b21651fa04953f146cb8acc6193c16a6d231f53bf9e66d7999625faef54"
 metafile = true
 
 [[files]]
@@ -715,12 +715,12 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "f1ad71eb60bcca40528a76fa186050c85ce7c0dc099770ec6d2c1584a3550542"
+hash = "4974a60bdf36d4050b1c79dc067bec9217f4e026a544e1b03dbbc1b837581994"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "886f370aa49b61b6ec0151acaf1d4450834f82ea86241dc11443dbfe08e1dba9"
+hash = "b4f221a6dc89a622879a17d581a9af71d3c83382765e3999e26d023de19cf211"
 metafile = true
 
 [[files]]
@@ -760,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "a9b16bdc0509409415aab82e6503d88416c7e1cb978250002918a1bf18565900"
+hash = "ddf9f864d6c07bbd4deaf2dbb2ebf00d39b0a5275c3e13c091d4610f32e3b658"
 metafile = true
 
 [[files]]
@@ -800,42 +800,52 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "3a1aa754f9ab161ec4272d71a1eb20efa7303755e3050634e18e58c5cd5137ed"
+hash = "8e0a5f09e8269fe08aa20bfe8891e47dd0ff1b8db31bd15dcd02e95a80134866"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "9647ba32e5463feabd160c3b70416fdb4c4bd19c496d02c5c5d882562dde04ce"
+hash = "4a22e4ce31e770acf2afcc4176fc38e706ddd3086aacfca643ab8a3c2ea5f6c8"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "3a56e2505ea9d790ade43d994162ec211fabab8d4dbde77ca5d489cec4cb4183"
+hash = "f49e3b4d3d01329a58c3a458509935149f6ce0ab43a207f404fafb68a761ae3a"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "0c7ca161ab520fe620688dd3e864c5b3826dba2b151093b9c802968f86375922"
+hash = "adc20edd636a8036b8ccb69983581f0a6109cc5c62efd1f896fae44b1e5edbfa"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "a7d59a1ae68d7041af61860b15ea6a544c00f1fa45c3c63c20f2ee974acd8e01"
+hash = "a90ec13f355022bf92f7eab20e45f8c34784807b7239c69573468bc2af599e5c"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "ff1e68342f9fc2707af5ae9fb8c4addddb61168ad813b3dd1914688a33acf4a7"
+hash = "c5832bab53a202c16e4c7ba30f56848f99e3b1676bb62211bb77d266e5534184"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "088ca8b07fd707d61816c131c00b306bd63f1e16d686dcacbc28089133192f9e"
+hash = "e2b0b62d1c7ac5686456f23b70d655995d2a9579bd00d4a811b2ee5cae0b95ff"
 metafile = true
 
 [[files]]
 file = "mods/projecte.pw.toml"
 hash = "26b6891625bf09317245200e3adb871cea00dbd41859d68cf57062544c0e6041"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "4b6d6900e40ceea949928423e7863817aeb07c17dba719ca45dac34d3f8d5b41"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "85ecd63591604cd9e9dc2e33b9fefb07c8bceed4cc39b19c13caff6233818397"
 metafile = true
 
 [[files]]
@@ -985,12 +995,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "d0bd60037f7b5904b576727e402eb8c1925dfc01566430563668b9f09ebd4028"
+hash = "971fd3655a9149cdfd3b5760603ab6c38e0bfc6d3a94157eee6b00e4a2dbc5ec"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "84e557ae75cc1783ef59d3671787cc5c81665f163fbb3ec3f5d28de214dc7faa"
+hash = "f4b00250499d238c56ad286c406e7d3f37118deefdc0711071bc31f66ee48c15"
 metafile = true
 
 [[files]]
@@ -1010,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "01896dc57bdeee6520237a3d7ce2708748668023b870a89fb004f356cdc47f22"
+hash = "d874f7fdf137614672eb850d87ffc468eec99d691e659f0e81daeac9eb9c6443"
 metafile = true
 
 [[files]]
@@ -1031,6 +1041,11 @@ metafile = true
 [[files]]
 file = "mods/yogmod.pw.toml"
 hash = "9541726f166ff12049e9dad507d1bde7b1dd580341929ce9cc2644e479f7ed4c"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "03ad095aeaf39ddf0fd19cb25ea72a6aad6e89510b6e643bdcf39091d6a2691f"
 metafile = true
 
 [[files]]
