@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "3a88b5f0ba47ade60e0934deb27e96fa4c7d6c6e44bbb7cb8ac33accbc68c63c"
+hash = "bec5c4d6ef70fb1cfc73d6f0a56ed84f9ab132050824c5d70754716a53e38f30"
 metafile = true
 
 [[files]]
@@ -521,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "1b2f9e73000e34cd636f05ca351ebd59affdc976a9746a310b0799fd20beea34"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
 metafile = true
 
 [[files]]
@@ -856,6 +861,11 @@ metafile = true
 [[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "a025dddb33aaa8bd46888833c1e7099de509adef228666e5c4f2646a932e34a6"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "49eebd290bb6de991685e1be9342e5e89c4055303a9ce71173262a45c5f47bea"
 metafile = true
 
 [[files]]
