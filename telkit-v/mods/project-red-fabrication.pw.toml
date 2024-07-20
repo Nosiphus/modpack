@@ -1,13 +1,13 @@
 name = "Project Red - Fabrication"
-filename = "ProjectRed-1.20.1-4.19.0-beta+7-fabrication.jar"
+filename = "ProjectRed-1.20.1-4.19.0-beta+11-fabrication.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3a5acbd755dbe8c9a3e28d14b6a08d6b91e60b3a"
+hash = "af2efcbe57351264e6f934a48fc96ddcce5bed68"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5536471
+file-id = 5546802
 project-id = 230111
