@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "85d50a3bd39240d06e90fbb1ddf2434c35167a4c11fcd74285de33dc1450688c"
+hash = "3c539e61182a4cdd55158eef8eb97c5d4d37c12066657901c6d7d3f6b67526e0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "646a564cbee966e31b0ea3fc1556eb6a6f0187453126f5fb3518fa100d346a76"
+hash = "7dd159acaca115f42b2d7a46bf741161252d8249dc87d6ecd13a1b125ba90531"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "ddf9f864d6c07bbd4deaf2dbb2ebf00d39b0a5275c3e13c091d4610f32e3b658"
+hash = "0b7973a635480f32e758df10f62560d461c1daa9683e3f0d3798cb69c2325d4f"
 metafile = true
 
 [[files]]
@@ -1005,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "971fd3655a9149cdfd3b5760603ab6c38e0bfc6d3a94157eee6b00e4a2dbc5ec"
+hash = "714f68dd3aa6c6e4e7f468ad64be8b4cb01bc19ac2d0612e226ebd9310a49a98"
 metafile = true
 
 [[files]]
