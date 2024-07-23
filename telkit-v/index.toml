@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "3c539e61182a4cdd55158eef8eb97c5d4d37c12066657901c6d7d3f6b67526e0"
+hash = "ce9adc4b3c4721994e765adc96babaa99cb8d37514f4f6cf0cd35818f8af956d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "70f677a3c35b5bb6f63450fe9b231529d2f17aefa5cca2cedcd56cb4d5e01e00"
+hash = "d5dbd5e742871cbe5217ea21879a29b96a82895438e7406beedd0f71137b5838"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d86f500428d5097868b2dc9395090e54deca88cf71e9e6e76283e517ebb82410"
+hash = "35dd0bb664ccb2d066ea128c16f77745e5cddfe37b697a3f1965b6256942328a"
 metafile = true
 
 [[files]]
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "f89072240962d6626670a875ae6158ef85b068cf67eaf97a0a3ffd661287f260"
+hash = "a264530c93a44f0760b41bd21f6698e25655a3d47c93eb34019a96aa3c80837b"
 metafile = true
 
 [[files]]
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "e4661f9dcd8da66c7708de7bf409ceeaa3d7463c9a1865c06baf04a7192b7605"
+hash = "3b4e1e786ad25484232110da3c367190cac0cf47f9d584313906adc039a6fa67"
 metafile = true
 
 [[files]]
