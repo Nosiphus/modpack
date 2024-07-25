@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "ce9adc4b3c4721994e765adc96babaa99cb8d37514f4f6cf0cd35818f8af956d"
+hash = "203495301212d649b5d35d0df51f55404141646b51cf7fd723e8c401268d7f7c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "6d15ef33b8aa38cd5a53211d8ac444a2cfed30eb83cf10c71862f07f13c78844"
+hash = "a78d8ed1e7cb27b1733f5e9d87796c632868dd712199987a6f70fea7dd0166ba"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "ba164758677e38b8d7861d7e9b434caba634a41a77c3f6d99a70aa546108a4db"
+hash = "fe08713e0947357181cdcef315ae453017e60c61094644456271f3e1587754f6"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7dd159acaca115f42b2d7a46bf741161252d8249dc87d6ecd13a1b125ba90531"
+hash = "92cc55b1cf5574dd82d813ddd0bdb01b371ecb04528aa1d89d5395932ca74ad4"
 metafile = true
 
 [[files]]
