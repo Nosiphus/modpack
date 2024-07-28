@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "cb7dd3b1d6bf16b5351546f2444e97101595777e3a26bbe82396cfc2631423b3"
+hash = "50f552ed57b749c0b02447b4515c3294fd52ead102ef2ee7bf8bcb015125ff98"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -762,12 +762,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e466491645e0124318835dda000ad03aca212387792b92075a62bd26d21c46b6"
+hash = "695b3144a0d11c300f56f67c22c92f721deffb15d7421fc11eed11facf257908"
 metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "6a556cb5b47d26cc8b8abf88de102eaf9d14176a3781a7d09a66f71166425594"
+hash = "4b5cbfb1601ab7edacb8f92dd70dbd3b429784c7aa196a6aac5ce1f2b65092f9"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "0556e37102b980f50920f096a73700a54a651287d9be40dc4db6d0a1dec83d39"
+hash = "f4bcd22ec1a12eb2ca71c6fbb88a6d6db9fc8ec776c0569c9f0021cffcdf05eb"
 metafile = true
 
 [[files]]
