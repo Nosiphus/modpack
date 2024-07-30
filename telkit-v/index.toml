@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "d23595ffb2057dc4a98023f84a8939dce6b73a3a048958c5cd0a76137359b1fa"
+hash = "770f66a6ab04621a8e759b7164d0c8c84f2bb37fad92948550b00efa719d945e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "35dd0bb664ccb2d066ea128c16f77745e5cddfe37b697a3f1965b6256942328a"
+hash = "cb6400f0a2704a02e16cef0f47b877c382adca2db59445f7bba818a1e139df10"
 metafile = true
 
 [[files]]
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "d0494302b9231e1aec399fa1561fd1dc866de33e9b050c57b9d8ecb7616e0559"
+hash = "d809b9b28e24d6897e21ce9e7e7c9a2dc3f2aca9f4f41bfa2b8b7bdec6a5eb6b"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e62c31e466c9e2d56e5b20625e8e5aaea5455b43484350f99a6a4a0b9b9558b8"
+hash = "caf6ebb82f628ece3e2ee9a0a98ac6c001dd2385b2b4daaea48fbdf0e393003b"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "0b7973a635480f32e758df10f62560d461c1daa9683e3f0d3798cb69c2325d4f"
+hash = "52e21b8a8a603260446cefb58878b7eccca19da95d3efa1c8030b6ca8c1bc74d"
 metafile = true
 
 [[files]]
