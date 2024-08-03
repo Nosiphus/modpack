@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "529e235362580f464ce3faf57f5b56876c860d5d7ea1a17d7c9bc7f6fb673075"
+hash = "de58ca32f15ffda95a10f535f3aa51bb9de78a8ceb0d5255bd3bf1474d9966ec"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "d115c106f6d3ef7d85bb06351b5b12c8305f7e6b1f7aa0980d13c4c64b96fd80"
+hash = "cf500911437495c21f4c8abadf1f2eaf7fb5ac2baa67ed248cbe4bed12c12673"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/xercamod.pw.toml"
-hash = "b280616d3f3e8b0c884b246a4a13310af74e612558c21ccbe20642e2fa1b29dc"
+hash = "10adc392e8b9b35760f5dd67baf02267714b293d606d86063b79729051298316"
 metafile = true
 
 [[files]]

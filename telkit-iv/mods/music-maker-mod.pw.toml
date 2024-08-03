@@ -3,11 +3,11 @@ filename = "xercamusic-1.19.2-1.1.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/qQpWCN75/versions/M4AfyD8G/xercamusic-1.19.2-1.1.1.jar"
 hash-format = "sha1"
 hash = "447dacf0c39d309671d53065e7a4b0fc4db18554"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 5576657
-project-id = 341448
+[update.modrinth]
+mod-id = "qQpWCN75"
+version = "M4AfyD8G"
