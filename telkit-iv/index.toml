@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "35fbf742c56b5488aebc070813b3763a42aac76ae6c3e5b0574b976a94aad265"
+hash = "15db9b9f7471cda7ead2fa0a1f4cb6ab315593c4478c33bbe83e04c9480f98fd"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "f5e3281c535e0496e47c599773da24ad7513904701dff2114f584198588c47a3"
+hash = "1778041831b076641df3f4968d5989328dbd0447b49542dfcbaeb01f54a3af9d"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "52e48ec6907c9fba38819304325362bf532ceb904a838b75c29530480f11bc81"
+hash = "529e235362580f464ce3faf57f5b56876c860d5d7ea1a17d7c9bc7f6fb673075"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "a772503d6306277e545699374c12511114cb0d4e8bf0ee81f4c4d33f2d1167c8"
+hash = "36135a18f00427769ac4d707b60a2d4da9353cd4843e1fbc242efac2dfbcfb42"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "a2d03a27e84f5f404bdc44c5f952d4f006ed146e2a49c351f323853cb22417a4"
+hash = "82309118a82e38f57b50234079df9ff66ae52a56b686cdceb1757fbd3f636120"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "1107357f27bb0b33921d00b2d85b3457e11978e19991c29f965a9d4f24a874a0"
+hash = "d115c106f6d3ef7d85bb06351b5b12c8305f7e6b1f7aa0980d13c4c64b96fd80"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "ff13ae962f55525534b3cd7bc5da6ba74eaefa82bcb6c377093ba09560148f60"
+hash = "852d4484892ca01af3b75dcb33a3152f48765215df657f5a47985c6fd2a3c87e"
 metafile = true
 
 [[files]]
