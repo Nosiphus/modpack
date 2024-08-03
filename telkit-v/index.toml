@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "e6d455a4b9166ae18e1d530ed68a05c7c6852796babf5d5cad3c45ea875e4bd4"
+hash = "559095315a666d3aa83ad3b790fcf84eb3e061caf5b5d62dc79717dc3ef5c660"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "bec5c4d6ef70fb1cfc73d6f0a56ed84f9ab132050824c5d70754716a53e38f30"
+hash = "d9499f40d784cb3df7e8feee6f20a4435a168afe4a7e5be528d4e998b0be78c3"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "3e7972e002c83cec1c92da444fed68ec30dcc36db0c8812d0431c81d33467c00"
+hash = "9da3c3ee66453579523127d0cbeffde27dd0eaf1bb9ae3017805d475451c2e53"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "30e136ebbb3f07f49403e513291253d45a3fae1c7c0250e3cd926d38ac193115"
+hash = "0a141cdae9c73e39dd61cabcc2bb3902bb2d558abe39b83dab46ee7c9a6ea110"
 metafile = true
 
 [[files]]
@@ -650,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "db40389c09775cc7ac7837ca14fa9ebfd8e6ed073918a451e758c3fe3a67d9f7"
+hash = "fe6ba0e62c6791d76b18fec6a44d35b1dc50ad0a7a4aad7e6134ad09306e29a1"
 metafile = true
 
 [[files]]
@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "51293e548b070b3654fb1d30f12e9ef11febafdab9d68830e5ca783003180233"
+hash = "34619b04852dec7d7b7e0517b0c7a9725de792271d9b40e0badcce7377636c73"
 metafile = true
 
 [[files]]
@@ -1010,7 +1010,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "f4b00250499d238c56ad286c406e7d3f37118deefdc0711071bc31f66ee48c15"
+hash = "c94ce718657e4f2cf32e87dee8eb9a0e8eaee857b68529d494425a8af316053c"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "aabc858848ef2755070926a24572de1519b8dfca10a5a2288af8fb34f1d55bc4"
+hash = "d874f7fdf137614672eb850d87ffc468eec99d691e659f0e81daeac9eb9c6443"
 metafile = true
 
 [[files]]
