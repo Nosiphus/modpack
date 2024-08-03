@@ -10,7 +10,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "d5d560c1205eb0756573355d217984f4ae71410e337d1d7f60e3c507bf373fdd"
+hash = "c691e07efb47a21fd9b61812ccba3f249aa728865bb4ed6478756f85e9538aa6"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "fa6e9e9fdae2076a024ad68f147b535e3d8acbedb8a4bf9a7f8dc0e0813cc5bd"
+hash = "41a3403cc9a84fab7cf68756a1edddcde6d0d2b1314ca7b70a3c11f4bc95f897"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "27144e16607d055634349f57db21a8e9b4caec2191d9708efc9536fec2b13a4d"
+hash = "add4425fe34b17f11ceb4831af3ff0f7a7fcc79eb97efbfa9f6586a3b061bcea"
 metafile = true
 
 [[files]]
@@ -149,12 +149,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "314cd3d09bb98a39542551090e3daefd5fa3cfc184bcd134cf4c8a820e804281"
+hash = "4a9f9c1bc8b5cd47f2e7e243af68e697f7c5803d19e47b2c519653f83f6cb905"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "0cc365d0b8dc524a0b857c8bd162a478b1f52e5a307f18b32ef8c8091ad29259"
+hash = "49f9898e97206a5407ca32e7fee73cf7bd901e0c4406da8bb4adbc31525f1397"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
+hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "860538dace2029fb4539bfc33182f560ab7ef66fcbb3427c0dd262405229a8fe"
+hash = "9b561d57bf92aa8005e567e4bb95a2b65c8ed9c3ab30de09ea6c7e66f2e4d2da"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "fff96321f9e8aa9d5584b7879128ee462acb1797b5908379bf50a8cca2519f32"
+hash = "91bf41828dd57b6daf584c3d64fc2eac27a924dd1df1dddde2acd64f87e7e6a3"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "8649b82304ae952be04d0dda3ce6dac5648801fd7345336a5eba72307bcb0c5b"
+hash = "c3bbd3b16611db5818ee0646acac646d90c74b29e694f6b37b43f1abb402cdd2"
 metafile = true
 
 [[files]]
