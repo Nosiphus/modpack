@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "2bf1f46465f3a9650a62eb30c0608a566c1ad56e256bdfa378d5fca0e6245f42"
+hash = "85ecd63591604cd9e9dc2e33b9fefb07c8bceed4cc39b19c13caff6233818397"
 metafile = true
 
 [[files]]
@@ -1060,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "54b2a26706f632085644f2340b009df87820eeb3ed11be9428cf782926ff66a1"
+hash = "03ad095aeaf39ddf0fd19cb25ea72a6aad6e89510b6e643bdcf39091d6a2691f"
 metafile = true
 
 [[files]]
