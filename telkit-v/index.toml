@@ -559,6 +559,11 @@ hash = "6aac88169e127b8e0afb26afb89854adbeb6d4cf70b9f11e1f4b5a5248c19ce5"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "8990510055e6dd69379ccf1028b823fcaf972c108e997b3173f5b4dc66db4254"
+metafile = true
+
+[[files]]
 file = "mods/iris-flw-compat.pw.toml"
 hash = "19b8432398436bdd5ac510ed7baa899e9a8290c29cc642cd1d392d9537914bba"
 metafile = true
