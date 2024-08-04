@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "d9499f40d784cb3df7e8feee6f20a4435a168afe4a7e5be528d4e998b0be78c3"
+hash = "bec5c4d6ef70fb1cfc73d6f0a56ed84f9ab132050824c5d70754716a53e38f30"
 metafile = true
 
 [[files]]
@@ -1035,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "d874f7fdf137614672eb850d87ffc468eec99d691e659f0e81daeac9eb9c6443"
+hash = "aabc858848ef2755070926a24572de1519b8dfca10a5a2288af8fb34f1d55bc4"
 metafile = true
 
 [[files]]
