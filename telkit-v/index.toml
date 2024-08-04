@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "cb6ce5e66fca1b60f421034469fa89ad0c09042c7feddb53df0617804c36afd7"
+hash = "62d84ee6ba18547ebb3f3b3aeff817ef15f1b5f418d884d61d83fa286c04a30e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "bec5c4d6ef70fb1cfc73d6f0a56ed84f9ab132050824c5d70754716a53e38f30"
+hash = "d9499f40d784cb3df7e8feee6f20a4435a168afe4a7e5be528d4e998b0be78c3"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "cb6400f0a2704a02e16cef0f47b877c382adca2db59445f7bba818a1e139df10"
+hash = "7473f744b04ff3bc1b1bffa1abbd433f837f6195ea487fba6880505c0b6a575e"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "d809b9b28e24d6897e21ce9e7e7c9a2dc3f2aca9f4f41bfa2b8b7bdec6a5eb6b"
+hash = "19b8432398436bdd5ac510ed7baa899e9a8290c29cc642cd1d392d9537914bba"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "caf6ebb82f628ece3e2ee9a0a98ac6c001dd2385b2b4daaea48fbdf0e393003b"
+hash = "e92ed3b730381d2edebf70a724228ae740d2811c9c448c4824ca466f6929eda7"
 metafile = true
 
 [[files]]
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "85ecd63591604cd9e9dc2e33b9fefb07c8bceed4cc39b19c13caff6233818397"
+hash = "2bf1f46465f3a9650a62eb30c0608a566c1ad56e256bdfa378d5fca0e6245f42"
 metafile = true
 
 [[files]]
@@ -1035,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "aabc858848ef2755070926a24572de1519b8dfca10a5a2288af8fb34f1d55bc4"
+hash = "d874f7fdf137614672eb850d87ffc468eec99d691e659f0e81daeac9eb9c6443"
 metafile = true
 
 [[files]]
@@ -1045,7 +1045,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "958f38000a61bb449285be7c9cbef62ba217597404d0626a99470f20761feefc"
+hash = "abc24e9016198babf3eb5c7c7a3c2fcf1fe609dbd0d5df8040afce1469301647"
 metafile = true
 
 [[files]]
@@ -1060,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "03ad095aeaf39ddf0fd19cb25ea72a6aad6e89510b6e643bdcf39091d6a2691f"
+hash = "54b2a26706f632085644f2340b009df87820eeb3ed11be9428cf782926ff66a1"
 metafile = true
 
 [[files]]
