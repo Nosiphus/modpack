@@ -18,7 +18,7 @@ hash = "2c94a4a7ce5facfdf02b94cdea0063f45791f9b24cf223c8859e56b70ac40d0f"
 
 [[files]]
 file = "config/ProjectRed.cfg"
-hash = "cb4c66459708a18682263f036c3ac4aa57260cdf63bb525197be4542b1584a71"
+hash = "3874b0d54e3b60d0280cac3d2f2b63a651bd905c55d891e9cfec5e7528928874"
 
 [[files]]
 file = "config/computercraft-client.toml"
@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "62d84ee6ba18547ebb3f3b3aeff817ef15f1b5f418d884d61d83fa286c04a30e"
+hash = "6630a7837e676ccb4ec8764a59947857a8f8debf5c45e5350c7d26e3cbbf822e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "bec5c4d6ef70fb1cfc73d6f0a56ed84f9ab132050824c5d70754716a53e38f30"
+hash = "cb55e6e829fa88fea5fd513d192271a52d7e8c78ebee0859241589f0394589e1"
 metafile = true
 
 [[files]]
@@ -509,6 +509,11 @@ hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
 metafile = true
 
 [[files]]
+file = "mods/fazcraft.pw.toml"
+hash = "d7bddc6272935a73bd3dda5988c64f1b7308d3bb8f3092a2810f89fac0a59ce7"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
@@ -531,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
+metafile = true
+
+[[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "49dfc6e8737d45a945e5a91cfd19ec8e810eec40a0f8c16d19690633c440aca1"
 metafile = true
 
 [[files]]
@@ -580,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e92ed3b730381d2edebf70a724228ae740d2811c9c448c4824ca466f6929eda7"
+hash = "d7a961cf71112629c163f53cb52f4bc3affb3dde5939414f2a4f114eee931dda"
 metafile = true
 
 [[files]]
@@ -815,37 +825,37 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "31366b4ea60f3178aad8ec9248d8df4799ce4ef771336f90beed9a18b6b4dcf7"
+hash = "6a64616e22722a5f416928f83390e905663cfeaf937578c0ad367c420fe7471d"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "d0ff2f06c474fcb4fc81d9855cb957fa794ea7f91d06f32eaf20f94a8098b17a"
+hash = "2e29ea423d2fab72858b8757b5547234918a753b3847612b317022d05029cb04"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "fd4226f1b8f943a9362e7c6ee770cfb045cd7f7d490391e76f51b2e24073ca99"
+hash = "d11556797c33675bf738db98c3d18fa12176594ace4043412ba99d372aca804b"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "f6ed1cbb52540004cdea1704c12a68e59d15d8e1f633e65a94ed393260df8ae1"
+hash = "fa768ce7a174706bd485b39426cf5a5055504c0d0165431aa4d4085d0151fb20"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "452595940fd0a2baa1e936b465613072d4b6a5570113552b915e5e31a54107cd"
+hash = "aa93c5eecb555b74b3b1b209e16b2f5aab703e93b71a9519b32ca48bc2b1dbc7"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "18cb17d0d885df72998a10a64d1bbed9f9ec6e81e6993bf4d167755cabc2a419"
+hash = "6dab78d497184c2f2e861871b17326584c8a24f2af90df9d07b6e2401f88363d"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "b4574f43349219dd0e16538ea332f2a06276a5def326e47affea9ace8af0737b"
+hash = "6c74894b08ab36dc43f7fca3576f7e4063943c50083328d152b817b669da9919"
 metafile = true
 
 [[files]]
@@ -860,7 +870,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "85ecd63591604cd9e9dc2e33b9fefb07c8bceed4cc39b19c13caff6233818397"
+hash = "2bf1f46465f3a9650a62eb30c0608a566c1ad56e256bdfa378d5fca0e6245f42"
 metafile = true
 
 [[files]]
@@ -1040,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "aabc858848ef2755070926a24572de1519b8dfca10a5a2288af8fb34f1d55bc4"
+hash = "d874f7fdf137614672eb850d87ffc468eec99d691e659f0e81daeac9eb9c6443"
 metafile = true
 
 [[files]]
@@ -1065,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "03ad095aeaf39ddf0fd19cb25ea72a6aad6e89510b6e643bdcf39091d6a2691f"
+hash = "3664bd4082d2852e252fcf094f0d82f4e20b3adb3d9f894c46be6a316e397971"
 metafile = true
 
 [[files]]
