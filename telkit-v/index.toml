@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "6630a7837e676ccb4ec8764a59947857a8f8debf5c45e5350c7d26e3cbbf822e"
+hash = "59da0878e2ea773d25bfa8f922fdb12350fc404a8b8074b4c85a753384b18ab5"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "a47990881875a7425050ff09feb0a51c09d1932e04156088b0ee9307a762a175"
+hash = "7f537bb03cab508e9aa00f810b307b8df1e31e1fa560da2d8a21fb059d0c623c"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "407b2ab9daad2f4c5d9931bcb11703ad792ebd2f6b35e056f7a4d7cef425231a"
+hash = "2bda116744ab10a64e92dc6f97549850e5d74b58b985f406818a8f76abcba7f7"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "9b4526ab8bfdd3bf813b788a382b849c31fde9a510668c80761ba8897952af2c"
+hash = "e37b37c2a89be3eff9ae1399adb69e9d9d148de9c1c008612c9ff00a08256cd3"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "19b8432398436bdd5ac510ed7baa899e9a8290c29cc642cd1d392d9537914bba"
+hash = "d2e3fbf3e2d258ecd4fdd41c735639a9c47b7ccc4533989b005d115b5cdd4566"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d7a961cf71112629c163f53cb52f4bc3affb3dde5939414f2a4f114eee931dda"
+hash = "051966f47d3aa9c6e9ae49f8fc659183172c6efa160b2766596b5e0b34a7f4f0"
 metafile = true
 
 [[files]]
