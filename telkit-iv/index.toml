@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "15db9b9f7471cda7ead2fa0a1f4cb6ab315593c4478c33bbe83e04c9480f98fd"
+hash = "5851ee65ac3a6740b4c07a3289c365fbc34b32da151d76f019c0da5905b9a9fc"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "1778041831b076641df3f4968d5989328dbd0447b49542dfcbaeb01f54a3af9d"
+hash = "8cb4e4ec3110920144fa977560230217bf73e1e93c95b44a4ae394afbea408c0"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "2672a08addcba5eb97a3f6b7f5a3c30777111bc7ea343c3b1e3671100f4fa0ad"
+hash = "25895967e1c82bc862aa37f426e26996958513f021d60e6f1a913d927cb5d8f6"
 metafile = true
 
 [[files]]
