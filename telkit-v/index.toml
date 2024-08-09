@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "59da0878e2ea773d25bfa8f922fdb12350fc404a8b8074b4c85a753384b18ab5"
+hash = "091d428e37891a3d089612c282ae549cd7d8e85bc6160681977065e19110cb62"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "cb55e6e829fa88fea5fd513d192271a52d7e8c78ebee0859241589f0394589e1"
+hash = "e9ea5853c6f9f2c426c8d02683e57129e983fcde2a8599f8e1e105b8e8635ebc"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8990510055e6dd69379ccf1028b823fcaf972c108e997b3173f5b4dc66db4254"
+hash = "2cf950d8cc5e2c77200a850295b6091b4bf4d1eaee8592d2f14a989506120c87"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "051966f47d3aa9c6e9ae49f8fc659183172c6efa160b2766596b5e0b34a7f4f0"
+hash = "bf99530568132037850300f656be3dc3a923a86e4bb327f7a362363a2ec74a1d"
 metafile = true
 
 [[files]]
