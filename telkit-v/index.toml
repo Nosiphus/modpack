@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "091d428e37891a3d089612c282ae549cd7d8e85bc6160681977065e19110cb62"
+hash = "00e74ce286559d64b6dac211775e3728ce52e4fbfcdf2f6fa35d0201adfbbdb4"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3d392f4802461d6473de7836ec3b44fe7bef954832c8315135530be5519f647d"
+hash = "1d38c49e888258c44a11b527522bbe75a12c17d567de1d503425bd61e8743697"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "bf99530568132037850300f656be3dc3a923a86e4bb327f7a362363a2ec74a1d"
+hash = "5f20c59eb8beca9fd643d3349023e9b2d267fb556e159656fd1557fca68f5b33"
 metafile = true
 
 [[files]]
