@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5f20c59eb8beca9fd643d3349023e9b2d267fb556e159656fd1557fca68f5b33"
+hash = "57e54e274563328ea97c88852bb837aaabe18cd321f53d498d1505d10afd8be2"
 metafile = true
 
 [[files]]
@@ -1006,6 +1006,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "f585401f2abc481550e0cb27d4abf85e78fe99237ff4864126f171b17a884d9f"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "d073612d625d607c5724054a168148ca354e9fcde9af6b8eb7eaa581214e61de"
 metafile = true
 
 [[files]]
