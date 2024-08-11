@@ -10,7 +10,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "d63d9610bde654f0b902b8e467e4f61e75abcd9eb0f014e9049f73c43e3b148e"
+hash = "699011ce4087f83a1d54ff39d2842ad93048683df73261da51c2bc5e53d86825"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d428c452d7b7c9cf4b79b7de81c7b472fa02bb0e1742d40725b36ef56c207760"
+hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
@@ -259,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "296b7d0239554700a4ffa979ce32ac57291c9fbd42255b3ee7042ff0375622dd"
+hash = "7e9bd0ba2fb2a8f9862d56704b35cddf0983cb178c218c3e471fc2afa7ed35e6"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
+hash = "ebbaf07d4e04f172081d5f4bec47837ae1008c5a6dbedc32f7ba471dd3d004cd"
 metafile = true
 
 [[files]]
