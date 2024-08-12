@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "6daed974a9a1eb547b35ac5e35b2265d8249aebc277b7d849925dce2899e38b3"
+hash = "ca3f5378a358a85ebdb3cc68c2f331b449f95c5681f6bb8219bc3498b5842e00"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -499,6 +499,11 @@ hash = "c20d0e1b13383e09cce4938386f0a7bb7b5806ccbb2474eb2ff755cc5a19f1ca"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "32504030cc409f25f4864cb0387b906cd07f1c818301302faddd0de7f777d51c"
+metafile = true
+
+[[files]]
 file = "mods/fastfurnace.pw.toml"
 hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
@@ -585,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "57e54e274563328ea97c88852bb837aaabe18cd321f53d498d1505d10afd8be2"
+hash = "398f8aa36c4ee047ecf4d0f1c1205f4d1af33a5c49c9d00b37b7428e493fb543"
 metafile = true
 
 [[files]]
@@ -710,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "456ed79ce8f33174dcee7c6a5f6e833e78f12c13d5f5e0bdc7b25a40fb5aaa29"
+hash = "c925ad9d4637516d1facba71d23a85d2833f8a57fa82301db575f0b16a1c84f0"
 metafile = true
 
 [[files]]
@@ -745,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3b4e1e786ad25484232110da3c367190cac0cf47f9d584313906adc039a6fa67"
+hash = "c84d01377b53fb315a8dc9307ec7a1464e63ee01e09cdf0752d06d00204a04d5"
 metafile = true
 
 [[files]]
@@ -1030,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "c94ce718657e4f2cf32e87dee8eb9a0e8eaee857b68529d494425a8af316053c"
+hash = "2f671980cf377a9c34466759d170bf20d12ce3f26a30d2802c479611e663bfa6"
 metafile = true
 
 [[files]]
@@ -1060,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "abc24e9016198babf3eb5c7c7a3c2fcf1fe609dbd0d5df8040afce1469301647"
+hash = "881da71e6dea9fdf0c562f414313c651954c26b9e7f997b72c8d82b7e9923e6b"
 metafile = true
 
 [[files]]
