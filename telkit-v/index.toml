@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "ca3f5378a358a85ebdb3cc68c2f331b449f95c5681f6bb8219bc3498b5842e00"
+hash = "ffdafcb404af5d6ee14dfc3da5a72a124ab1056214a334d029c04949ec59817a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "00a36c775ddcdbe1be447315b337cba5960778d9c0a13b40d22e012f6f069446"
+hash = "f8221625641894cd6d29ac2940740d675cfb60e35db911776ae89423e38a5b3a"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "e5755503a6eabcdca52ad30c9badadf8427c51115a4d6c84defb7661f0a479cb"
+hash = "57f976178a3e2d72866677fb77c5173c8d7bed04fc462e09753029dc50752454"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "7473f744b04ff3bc1b1bffa1abbd433f837f6195ea487fba6880505c0b6a575e"
+hash = "d451709c37fcabe050fe41847158af9eb2a9f569aeeef3dca5e5da8cd078f9d2"
 metafile = true
 
 [[files]]
