@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "24e1e760d74167bcaf8e09448ef8248649078bfe913a696b61ebf70e9424b419"
+hash = "b1b7f3b0dc027dc87ffaf948ce3d8c00e31187967cd1af5a7bcf9ce10e765600"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "e9ea5853c6f9f2c426c8d02683e57129e983fcde2a8599f8e1e105b8e8635ebc"
+hash = "deaacd1f41f3a585d0f2a12a8e3e797241cd3f286d0aa0ce0a3167c55bda7c3a"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d466a51878d3e73b70135f25465134d66a710dc1e4feddbfa2e832f337cdc84f"
+hash = "9f8fe761fd617ed06a128ff619d636b2a359b291d3e6f1ba427c4079983672a1"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c84d01377b53fb315a8dc9307ec7a1464e63ee01e09cdf0752d06d00204a04d5"
+hash = "1adca409f7c6f98ad295fe929383bd8861217474d8b9e0b8d285e2ad652c6fcf"
 metafile = true
 
 [[files]]
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "71ae0d122f30659cc6dda81bbf36492e4982f4733c275a9e79f370e8611abe3d"
+hash = "5205535aeb7074751a3b7e1a87c4688ff51976e9e3d445fa8f58c230a8508f95"
 metafile = true
 
 [[files]]
