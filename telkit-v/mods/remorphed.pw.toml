@@ -1,13 +1,13 @@
 name = "Remorphed"
-filename = "remorphed-4.0.jar"
+filename = "remorphed-4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8aeV5uJW/versions/PU58r2f2/remorphed-4.0.jar"
+url = "https://cdn.modrinth.com/data/8aeV5uJW/versions/eGJcxWl3/remorphed-4.1.jar"
 hash-format = "sha1"
-hash = "cf7c473c5bc433abe037fd9d43b2bd6ec18ca8d6"
+hash = "548e80c44d5b5ad7891b3f1a09852a1c3d92a06d"
 
 [update]
 [update.modrinth]
 mod-id = "8aeV5uJW"
-version = "PU58r2f2"
+version = "eGJcxWl3"

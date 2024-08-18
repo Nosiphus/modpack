@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "b1b7f3b0dc027dc87ffaf948ce3d8c00e31187967cd1af5a7bcf9ce10e765600"
+hash = "312ed85eb0b52adac2cde9d9a5794898ca97f8c2db47ddf2daa4cc6f98a2118d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "8df4661f7a00b5e01562b27370b077d5b6df3d584aaf63e954dd7e449a77f6ab"
+hash = "723eb1e1a42eb2fe8461d2b0ef73d8f5a37b723924a534fc054879e959aa28c7"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "d2e3fbf3e2d258ecd4fdd41c735639a9c47b7ccc4533989b005d115b5cdd4566"
+hash = "ef06e1c9f47714cd53f7becf085b5f50d83673cde74f1276780e29e2330dd6e6"
 metafile = true
 
 [[files]]
@@ -750,7 +750,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1adca409f7c6f98ad295fe929383bd8861217474d8b9e0b8d285e2ad652c6fcf"
+hash = "0e2405909c35aad4f2b5184470ab2262032b7814ff515edca9950815a85b63e7"
 metafile = true
 
 [[files]]
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "5205535aeb7074751a3b7e1a87c4688ff51976e9e3d445fa8f58c230a8508f95"
+hash = "393bcd0e939d47dcac45a3b24b4bfd2120595ea010ecf2a44655a3907acb54ab"
 metafile = true
 
 [[files]]
