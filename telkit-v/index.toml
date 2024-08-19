@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "312ed85eb0b52adac2cde9d9a5794898ca97f8c2db47ddf2daa4cc6f98a2118d"
+hash = "49016dceb1c2871e66af0d72345e023584e9679ff3104e35697d321bdb01db7f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f8221625641894cd6d29ac2940740d675cfb60e35db911776ae89423e38a5b3a"
+hash = "be8e217053e3e0bc0179a62beaa1f8e29e22b1cdc2cb0d56bd9836ce5e6dea3b"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "2500e18f940ff2f696b8ee26356ef941463458145683431995bc8dedc388481b"
+hash = "6bda60bbc4bbf9b615db6ae54cba617af10d2bd4fd5ae32a3ee72137a592999e"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "714f68dd3aa6c6e4e7f468ad64be8b4cb01bc19ac2d0612e226ebd9310a49a98"
+hash = "cd1281cc77b656d3ed8253a611787875006fe51827a971239a09571ed5765559"
 metafile = true
 
 [[files]]
