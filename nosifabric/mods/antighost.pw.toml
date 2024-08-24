@@ -1,6 +1,6 @@
 name = "AntiGhost"
 filename = "antighost-1.20-fabric0.83.0-1.1.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/RzyN0vkk/antighost-1.20-fabric0.83.0-1.1.5.jar"
