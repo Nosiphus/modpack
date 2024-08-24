@@ -1,13 +1,16 @@
 name = "nosifabric"
 author = "Nosiphus"
-version = "2024.08.11"
+version = "2024.08.24"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6bbfbcd39b7aede8d5505355ead0f3efc5ba0e3bef2413d4da8611cdad9c0a07"
+hash = "5b55c8afdbf8d063885b9d7b13e8eb171e9aa02295dfe54fa84b3bfd3f9f845a"
 
 [versions]
-fabric = "0.16.0"
-minecraft = "1.21"
+fabric = "0.16.2"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20"]

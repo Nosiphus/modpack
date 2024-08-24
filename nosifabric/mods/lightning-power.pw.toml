@@ -1,0 +1,13 @@
+name = "Lightning Power"
+filename = "lightning_power-mc1.20-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8xmgxdlY/versions/hGHJRGno/lightning_power-mc1.20-1.1.jar"
+hash-format = "sha1"
+hash = "8e10d2c3701d20fd7559ed00cf72d4bdbdd9829f"
+
+[update]
+[update.modrinth]
+mod-id = "8xmgxdlY"
+version = "hGHJRGno"

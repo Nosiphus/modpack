@@ -1,13 +1,13 @@
 name = "WTHIT"
-filename = "wthit-fabric-12.2.4.jar"
+filename = "wthit-fabric-8.14.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/PMExVaZJ/wthit-fabric-12.2.4.jar"
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/JQYXzJ1n/wthit-fabric-8.14.0.jar"
 hash-format = "sha1"
-hash = "9e2d7adb951d77ea20a6fd93cfcb75172d1a014e"
+hash = "b0d4e34cc6da1eb2e9bf6409f6d5c84312b57581"
 
 [update]
 [update.modrinth]
 mod-id = "6AQIaxuO"
-version = "PMExVaZJ"
+version = "JQYXzJ1n"
