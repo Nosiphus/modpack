@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f67d69b448e8e57500a95b206ed0d227d29c0b8252dd20933e2ebc242703ae55"
+hash = "198f1556d7bb15f0a62ef990cbcb9cdef6e6430e25c7094a6c7abe58ac388d9d"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound.zip.txt"
-hash = "5eca89d3e261a83f9b27559717662ba621f16b49083d6c5c6a7d3fa20edf4757"
+hash = "47704bbfc01f97a045322118c4c73dd9f7b1f8573071e40b0d8ee718c41f33cd"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.toml"
