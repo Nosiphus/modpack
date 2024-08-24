@@ -900,7 +900,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "4343bc764af8bce2ba13bc8cedd3b00c7e75b97b6cb47c6055fa0d4071e2bafc"
+hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
 metafile = true
 
 [[files]]
@@ -1094,5 +1094,5 @@ hash = "5eca89d3e261a83f9b27559717662ba621f16b49083d6c5c6a7d3fa20edf4757"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.toml"
-hash = "bb2c7343c5cee59e7f6a3faa32caa37f9683116ba4d998e2ed1432e91e51dc63"
+hash = "407200c44197ef322ee0b13a25680ead683aa0433e13f18f230508980fcf7a3d"
 metafile = true
