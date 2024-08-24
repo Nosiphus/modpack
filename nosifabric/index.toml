@@ -113,6 +113,11 @@ hash = "df8e3d9fa94e60d110de00e67fcd18be26cd76ce54af0e58396fc3d2e6898306"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
@@ -203,11 +208,6 @@ hash = "4bb621237a31c54f51c37d9a0660d176336a89888a931b294ee95d9c1a90856a"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "54b7d92cf08c2ac96b49249e96accdb012d5afa401b0f75eaf0160e0ba860d47"
-metafile = true
-
-[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "f2e1d6a93b68fbec1adbbb8fa107682a7fced5115b02a33f1e7eb70c50018c84"
 metafile = true
@@ -248,6 +248,11 @@ hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "36342dc0bef9e1203b2944e88716af2e30db36fdfe3c7648df8a4b8099127349"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "ff118d5d9ced175264395beb00b2c29222b0a236a0b0fed570c397afffaf6345"
 metafile = true
@@ -260,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
 
 [[files]]
@@ -368,8 +378,23 @@ hash = "1d43adb8adba96ba8396621d75585842baa5b5e4c072bf835fb558f07ec42559"
 metafile = true
 
 [[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "57b3027a5fc1975acd687f947a02f70ed0693f4bd2bee293ab42583609f95839"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "33dfeaeec4730da684884aff3b41b7ff2ed43839239c36c762b3102524ebdce3"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "3448fc32106cb97efb4da88e5ea44056ec62d4e5b172a2f71696dab0ca2ccbe8"
 metafile = true
 
 [[files]]
@@ -493,6 +518,11 @@ hash = "0be3d1717c60785b6d9b5bd4a02e7e9527c25765d70985715de9a0f252e31a40"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "a13a7c8cae3f43d08442d5560f5dddacc0ba05c94bfb7cff47adcb46a9543f77"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
@@ -533,6 +563,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "6f3048b09cf483874885a7f3000206dcff7badfc9a955f6a903944ea25ed8ab6"
+metafile = true
+
+[[files]]
 file = "mods/moremcmeta.pw.toml"
 hash = "627225973b6e09e473afb20eb37a558637fd9419f52260d35ff8b6aababd7817"
 metafile = true
@@ -565,6 +600,16 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "c1af094459b98cec11530cdaefc40588728aa0384d90e1a9c6d5deae47a900d5"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "d8f8394d686c32acccfa3542f8a596c65a5183d4a20d862bec630f47a570dfcc"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "0a8ec51bd99b9a569074eacd89cadf444630fceb1e6f64ffe9440069afdc1755"
 metafile = true
 
 [[files]]
@@ -673,6 +718,11 @@ hash = "4c3e112fd51bd798d94aee2d0b2b760273bea50480ba0f607f0277e3a7da068f"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
+metafile = true
+
+[[files]]
 file = "mods/traverse.pw.toml"
 hash = "5b878bd72f494ac80ddca64ac47be81d77c3544cb0490a09f9b18698e4173762"
 metafile = true
@@ -684,7 +734,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "2f671980cf377a9c34466759d170bf20d12ce3f26a30d2802c479611e663bfa6"
+hash = "51e5db168ed0f8b300028e00db63ea43612abdbb9ee990d08793638e3a45e58a"
 metafile = true
 
 [[files]]
