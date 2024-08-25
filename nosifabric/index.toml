@@ -173,11 +173,6 @@ hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "218786ae392251f942fd7f76fa881787264748d97c986ba0cae95d2087e44460"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
 metafile = true
@@ -239,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "a5e4250662b8df6cf572984c2ca6fa4ed69aac136745261c9b3745f0a1019970"
+hash = "7d2f7fbc60bfb6ad7dc747fe2c44c1bed0c45fce69e13a5d466c34a44ebfb03f"
 metafile = true
 
 [[files]]
@@ -294,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "dd00ffdc7b7bfc13786debe99dc454e6c6cc3dd0ad103fdc5a090a6934fd5b42"
+hash = "098851ac73531f92985c5ee7696ed4a184f7b6ddbb7044072d03421642266d0f"
 metafile = true
 
 [[files]]
@@ -389,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "68df9a2e507a6bba70f999042e5bec064b6ebae992f8620e7f19082e08b6cc9c"
+hash = "f5cf24f2aa3cdd5b30729e012c90a03a9b09e02d8344d8a8d8bc50c51edf603e"
 metafile = true
 
 [[files]]
@@ -413,11 +408,6 @@ hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
 metafile = true
 
 [[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "95811f751e6acf47e98a2be57684f779e839bccf42f30e928c865104d1ff1b6d"
-metafile = true
-
-[[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "2dda32a2725644942fd5526b57593be51425e254b9725d653e981d1d6ee3ce7f"
 metafile = true
@@ -425,11 +415,6 @@ metafile = true
 [[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "a31b71f410616ddc3e99c70744e35d0640eb94ff081af70d1054689f34c2b4b6"
-metafile = true
-
-[[files]]
-file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "70c0efbdfa18c5fbe7cc613e258d3f42e5ff276cc301c4109bf511898177d49b"
 metafile = true
 
 [[files]]
