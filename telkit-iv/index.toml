@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "680800fabd42f2807ebcac2c69328c132201201ec4c1abf933325f4be6b1785f"
+hash = "63643ea57120e824122e286233720866c855702d21346585ac0bec062d503a6d"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "6a75531ac880801549171a165149a721c05aa50256fe4b860672c3f7bd61861e"
+hash = "a49f5c3db01b326a497777100193a237a2b687c4a2c5631a739f7056110a3133"
 metafile = true
 
 [[files]]
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
-hash = "8cb4e4ec3110920144fa977560230217bf73e1e93c95b44a4ae394afbea408c0"
+hash = "ae2550e7d4f485a6f073a27cfdb9defb064e766eb4eb0128025a7cfbe3c1e433"
 metafile = true
 
 [[files]]
@@ -1070,17 +1070,17 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "ecfd6c17a2ef7c37a56858a716d9f1d794694ea32e3bc1c8490495a92fce2c00"
+hash = "f4cf4b1c388d30ae8b8de94e36e97287f73a4892fac967a8a06d607bbe449647"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "852d4484892ca01af3b75dcb33a3152f48765215df657f5a47985c6fd2a3c87e"
+hash = "e9eef0dbc281d713d7491af0460f9b30d2ad1d5ad5126319ded0596457fefc54"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "080292e6e91b7c1d0758d0293fab1ca967b5dfd5cda14aad41a4309265257b86"
+hash = "7eeb6ac705d9b15fc6d1f6439a99b2920a12b7e9e40c53ca0d772ae157e8821b"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "2672a08addcba5eb97a3f6b7f5a3c30777111bc7ea343c3b1e3671100f4fa0ad"
+hash = "d33650a998e588d4df74e77510d80e3fe6d9844c9526cce170fec7e2db7a3e00"
 metafile = true
 
 [[files]]
