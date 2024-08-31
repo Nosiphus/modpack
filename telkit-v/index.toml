@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "acb3c6cbbeba379bbb8214384318b9de0b26495b2b13a79981ecfd3b873a80a3"
+hash = "d47199ec2b7128826a9370e7af7c768f13f47d527afbbeb97714c53c6ec9b8de"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "1d94a953c988938c6bab9e3db7643b4941a0e4b1a10722999c0d55e93873effb"
+hash = "2f6e93acbf00b7a273928862a7ed9d3a72cfa811a40d7bb90ffbbbbdd75a8868"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "69dd03aa24b8172ed8644a73dd477521afd7ca6841b77320f0d13534968aad3a"
+hash = "ef744ef9850c42a100e7ba88527b7bc486079f43c0e5234162df25391a2197a3"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
+hash = "685338a17e0dc9a5caa54ef79972cf7c0c7e3bdfdf9e55aa0162c23ed473f46e"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7f9a77e674a6aaf6de2861cefd0b4558c4419c586b8a8d24c5e38d28ebb6c41c"
+hash = "fc4a2f9f6b9f2f5478ea5fda39dafe4093efe2ce150dc1d3f26983c4f690ae8a"
 metafile = true
 
 [[files]]
@@ -1065,7 +1065,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "1e5ae21af8c8b90283629bd92d8baf8543d0de29cce872f739db252afbab9d21"
+hash = "1909d70b92ed22b50901931533305de562be2487312fe3d14e9c0b6ef4257133"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "881da71e6dea9fdf0c562f414313c651954c26b9e7f997b72c8d82b7e9923e6b"
+hash = "4fe143b089c5a61fbbe1d2d051913cc9a9b2e2520fc329f4997b0e1b0e22d269"
 metafile = true
 
 [[files]]
