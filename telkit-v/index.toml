@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "cdc72b21651fa04953f146cb8acc6193c16a6d231f53bf9e66d7999625faef54"
+hash = "b113a47c8e729ab810c39f7abf17a30168aef4beebf00cce9f2f6769092cead9"
 metafile = true
 
 [[files]]
@@ -816,6 +816,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "85a41fb89b486dbcc1879c1953c443dd0715845696bb01e61ddf318dca367399"
 metafile = true
 
 [[files]]
