@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "2f877b597ccbcbb834e8be75dbe034bb1e30bf984c4c5ab6ccc90919f6a562e4"
+hash = "407a763ef76843710e8dfc8ebf03a3858eec91c8bd44491694db77342db9e0f9"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -414,6 +414,11 @@ hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
 
 [[files]]
+file = "mods/drink-beer-refill.pw.toml"
+hash = "1da2a6085071ca3a731c95785d094a8d27763ff8f33b1302e529c7ea5ccb1e3d"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-electricity.pw.toml"
 hash = "91126f11e5f49d923ff00c38cd7be0d598b7f67fbcaa4c4bc8de8adc558a55ea"
 metafile = true
@@ -501,6 +506,16 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "c20d0e1b13383e09cce4938386f0a7bb7b5806ccbb2474eb2ff755cc5a19f1ca"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
+hash = "898374cee525654ce1d4fc78ccdbd4ac1f25f58755e75ab8107b489f753d2bc4"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-quark.pw.toml"
+hash = "109dfb186a9b1a57291c0caf531b461aa4c30f030f49d7eb2987e272b525769a"
 metafile = true
 
 [[files]]
@@ -595,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "d6bc322eb12ca5c1fe91ec49fbe0b743b2351e8cc1ecc4f7d7378bb4013e75da"
+hash = "e6e50418b44918b97755a855daf93eb1e3b1f5b15de34a91ab0e742fbf06d864"
 metafile = true
 
 [[files]]
@@ -801,6 +816,26 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "f6883dbacae2ced2bd6218b2ab1d7a438edbfe772cab9396c7fe2fecc43234d2"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "58fa126079b9f120d9b70cc9676eda1fecbc515edd14123f57a88abd35645998"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "82da9f309f7f4a70cba7885bc52f0723137bb9925a62e545db07b95be65870a0"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "a710d790426a1a8c087a08524ad6ef69a9132e9b13f79722c18a984f35e7026f"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "e586ed7ece00777429172363892eb64d2dee76b41f5c5b84d0ac8e2bdcee7438"
 metafile = true
 
 [[files]]
@@ -1081,11 +1116,6 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "4fe143b089c5a61fbbe1d2d051913cc9a9b2e2520fc329f4997b0e1b0e22d269"
-metafile = true
-
-[[files]]
-file = "mods/xercamod.pw.toml"
-hash = "a9aa79ac242d3e480c8d775f0caf6e6b618bbce7765c42ade86c520d53bf61d7"
 metafile = true
 
 [[files]]
