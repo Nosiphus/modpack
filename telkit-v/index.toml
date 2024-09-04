@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "407a763ef76843710e8dfc8ebf03a3858eec91c8bd44491694db77342db9e0f9"
+hash = "bb3f539111680ed7dda482e701eb4866209bfb1311433a47585ce6766344d0c2"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "34a97d2567ff613154641a0b0dace49c4f151e8525fb4a47818cba78a3f08063"
+hash = "f0473aa1cc933a4a8f935f8845cf99387516a0bc76229ff757e2948e14574337"
 metafile = true
 
 [[files]]
@@ -355,12 +355,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "fd6158a6c5bd89eb4bb84d6b231f64b59d2692518cea43fa25fe41913c2e63b9"
+hash = "cfce8c8a8cc913d835c2e38d72738bf1368cd2035ba1a5e5237437c396dffd65"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
+hash = "dcf86796fa9b4459e3f0824b2a3fea2f314a2e991540171591d208e092a6ea19"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a1e2619c009123dcc77d9081d3d0cd61c3307ddbda6a5ff2d2e39d8543cba4fc"
+hash = "40f09f1ce2f2ca5929935955ffc51db5982e19d6f6e59b66b37419b84610706f"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "44d54775db333c9f73b29052bb824061485932bd7f322fa030c6e9c8549270db"
+hash = "a1dc0cfc58164c71eeea0a86b2ca8836423b86cbc409df3164e3a73c8f56882d"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "685338a17e0dc9a5caa54ef79972cf7c0c7e3bdfdf9e55aa0162c23ed473f46e"
+hash = "ce081a84c6f6ac4a79753761fbe5c48bfcd29077af2c849ea6e3d7824b8f3e20"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e6e50418b44918b97755a855daf93eb1e3b1f5b15de34a91ab0e742fbf06d864"
+hash = "8cf88c63542a4bb45bba64b9c639c3e25d8c561edf4fb012ae124793b8c5f448"
 metafile = true
 
 [[files]]
@@ -875,37 +875,37 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "85f9a173449502bb042773c631c3e772eb32809f7b37458b16cb2b0505264945"
+hash = "257f548e59eb2d413c5929174d34aa906f66cb5f4bc7d3c3b5fa4fd1c6b948a5"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "ea80abd344fa08db9cacdafbe34a58dbf955ece9ab361580c75ec988e60cca6d"
+hash = "ec2d7f86066a3076f27e89527acff473d00b179af5f9325ce8ecb90c49f79c46"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "33eb5e40fbac440cdbc35748ba1dc16919f16102c8b1fd05de8de71ea2ad1979"
+hash = "ce46f4a3419ca9c9663b9897a4371b55cdbafa6eeb3a6e294ff77222e13bf209"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "53cfb922861e92e8e2a23ff80b774ee274da1f940b286fca0636a9b592dce2cc"
+hash = "79e27942bdea980f5a5aeffa71f9c5f51a959464206da79903b738faf58e53d3"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "8806a9ffb536d6c708424145f73228feb30076056278bd7a0f611ee0c5b303b8"
+hash = "a2f76d451424197c1fe907a97841eab9b784556b46be1ce4f0db1f2d8450aac6"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "18e381dc43b4c3d3530e4bbfaf2bd9e975d528bd9ead0e1b8bfaf4bfe6ccff4d"
+hash = "c8004ffa2978fadc82b4b8fb01bfbc7a0ceb7778f831a6f40ed255c970816934"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "120998414e3da04fe7578b60ecec369cc1f1b1450462249e3656154cebcfcf23"
+hash = "a8a66f14ddc98d2752443360553f145cf16745abd481ecae211b2bcc55587b58"
 metafile = true
 
 [[files]]
