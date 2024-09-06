@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "bb3f539111680ed7dda482e701eb4866209bfb1311433a47585ce6766344d0c2"
+hash = "783e6c5ccad600488f9ced3cbccc7a9d203742426fd24e6ffb2dc14d9bd18c43"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "f0473aa1cc933a4a8f935f8845cf99387516a0bc76229ff757e2948e14574337"
+hash = "a0f2a9b06c75569ad3462aa4781f4ec69b905eac2a8a1020feced3e6410e90d5"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "7f537bb03cab508e9aa00f810b307b8df1e31e1fa560da2d8a21fb059d0c623c"
+hash = "7aa4f578a0bfb616042ad68b84330cd3aa48f9f806efde84889b0ad5e6f0e35f"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "40f09f1ce2f2ca5929935955ffc51db5982e19d6f6e59b66b37419b84610706f"
+hash = "2f9828a33adcea9984b6733afc63dcdf4dc585397d270b43dd639213c2f1b379"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "6ed284f27a5c056e66ee28cba71af4971922c5c016176db1f7758649c8b4071f"
+hash = "45f46eec37e994b86f91a0aed3552d394a6ea01474333c616695863b1b1751dd"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "85a41fb89b486dbcc1879c1953c443dd0715845696bb01e61ddf318dca367399"
+hash = "c619f9b5e0d5b3e521a239efb957aaa1e0f3448b56999a0d1050d552ecdd185d"
 metafile = true
 
 [[files]]
