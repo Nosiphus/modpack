@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "783e6c5ccad600488f9ced3cbccc7a9d203742426fd24e6ffb2dc14d9bd18c43"
+hash = "885cb4b265fbc0685a64747b7c747338f96799093b8a0c4175400a9c0a4bbc8f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -769,8 +769,13 @@ hash = "ed8710015d6f9b29b47b1434262d9d216b058c390773085484413f8ccf6c85cb"
 metafile = true
 
 [[files]]
+file = "mods/modular-powersuits.pw.toml"
+hash = "5213246e204c8305badeb3a186bae869bce3adc783dc1d0ec19b6b8875b3d04a"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d647d2a0f1e416b4866b05cdbd33977627ee24d6071b13860f4e328b77e50a38"
+hash = "1b97eb94ccf55535dbf4153af08023d9099a3a6996e99134bc6e7a12695fef5c"
 metafile = true
 
 [[files]]
@@ -811,6 +816,11 @@ metafile = true
 [[files]]
 file = "mods/nuclear-science.pw.toml"
 hash = "8ea726d8e623a4ef0d7a690dae145031152e995ffd93c830432794635d320832"
+metafile = true
+
+[[files]]
+file = "mods/numina.pw.toml"
+hash = "871cb13d35c5fbdd5d358953f4fdcac35cf0b3880bad1ad6368f8509861d5eca"
 metafile = true
 
 [[files]]
