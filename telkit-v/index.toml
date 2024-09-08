@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "885cb4b265fbc0685a64747b7c747338f96799093b8a0c4175400a9c0a4bbc8f"
+hash = "26ade56bfe1b4645d95d20dc6e65d2577368a7f72a188a8bbcd3d0cb81f6e77f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d647d2a0f1e416b4866b05cdbd33977627ee24d6071b13860f4e328b77e50a38"
+hash = "705547e6757eb0f707df8ab69f9add6031000ce4ad74c4fe6029b91ced64c37e"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "7420a83793d644cc790d2029220bcf52896d854ed56a7f4c28e807572f6c5d85"
+hash = "bfa0023bda27b2f7e2ce0d3a022c1e21823b582b07d7fc5cc7cd1591e3722cba"
 metafile = true
 
 [[files]]
@@ -1095,7 +1095,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "2f671980cf377a9c34466759d170bf20d12ce3f26a30d2802c479611e663bfa6"
+hash = "497128a8bead02d04de5c31584faa9e0f6faf35e9a31426c25276315287193d3"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "20f58a21bfd65e869f647d2364a71a84480e68ffe4f4a340f36e0a387d30c795"
+hash = "60cc15d8818656bc98864d8accc7d0cc53ec5a708c0d92fc518a24f0a601f45f"
 metafile = true
 
 [[files]]
