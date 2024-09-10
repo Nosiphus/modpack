@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "13efefcd3cb048b3c4ed835200c4df7f12cb046017954e3c9eb58184d80e9299"
+hash = "517fbbde5d39249d9f36cfc38ec7e73d5a90c3c0c4afd40b001a41d83624414d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "5ad9cbd70e99f9df7a2673b2dec61f6e5d76b11e775855e22a439528e9f52200"
+hash = "1b13b8fbd98de4be250153496797a01c25d22d61711f9ac4e333628f1001c6f6"
 metafile = true
 
 [[files]]
