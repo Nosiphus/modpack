@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "6d8386b3b7d3e168521d97935ca3d1cd22ed64de1ed3c311a79e5d161adf5192"
+hash = "5885c4f57928d3623b81181fa7ea197618eb229b67a1b419b8136bc855989125"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -375,12 +375,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "a5016e54779043016fef005525571ad13db8a70a9b1dc3f6e51d8541ecd9cb19"
+hash = "bc7a603b60733d2afb5dffc4f275a8d773c849cd63e46f66410bf5d5f33a4779"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "8f7b16bd319a4c534acbc80f83e4359b756b301c76444d5a0afa1d1cb45d20a4"
+hash = "44206591f2c6a38c6729417f238be27e18eded6f0209168cd7a23b2a934dc4a2"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "d418ad2d4704f29017739b4d3be460e05612252afca1148db0b83be56b636301"
+hash = "5da81758b1fee2158f7245ca9826f6cd415664095fab2091e54df2c64924f067"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.pw.toml"
-hash = "f8707a0a340e4599030378ceda3d791b8e88e1c7cdf0df7ce96baa5c53c7ebf3"
+hash = "ad42f9790461750228be800a61cc915557cc1f0e7e2d100af771f33303011537"
 metafile = true
 
 [[files]]
@@ -1070,12 +1070,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "f4cf4b1c388d30ae8b8de94e36e97287f73a4892fac967a8a06d607bbe449647"
+hash = "4921623af0514181144a79bca315977b4313a600da518b9b9956d32885021d97"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "e9eef0dbc281d713d7491af0460f9b30d2ad1d5ad5126319ded0596457fefc54"
+hash = "de2e3266a32e8cfcfbcea7a52110872ec35add5c8e17fc6b77e93140e6482292"
 metafile = true
 
 [[files]]
