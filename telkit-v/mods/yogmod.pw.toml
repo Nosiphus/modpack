@@ -1,13 +1,13 @@
 name = "YogMod"
-filename = "yogmod-2024.09.08-1.20.1.jar"
+filename = "yogmod-2024.09.12-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f290d37982d2f4255d7d87efcc2d9b963e979d31"
+hash = "21691f264c05138f99a1a849a7d839cb5a7a2cd4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5703373
+file-id = 5718133
 project-id = 372408
