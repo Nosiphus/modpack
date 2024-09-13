@@ -26,7 +26,7 @@ hash = "ce3e34235dbed98c8f9f07a0c1a4a5eeed4ddb5a370ab283a38f87474abcf5fe"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "5e24b07cde5794d79b87812fe86b1d8fad0540c37abc63706009bca675f18df0"
+hash = "5734a23ee5d721a26145ebe348f4f1651e9d6aac6937493a5121ee0052907afc"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "d5af604c50000e19eb1824e79f0db10f3ad847e3ce1fd0eb74d7e4588db1e951"
+hash = "d28c2b0e0d0ad675a5a2004f5c276074c3661a9e9e72271acfbad1d3d94140d1"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "25a9f7b7b846acaf6c230a4e7d1e245078449e32645fcee28a4597841171d716"
+hash = "6e37a782378bd8eee4421cebc8c67fab6b6185e4cf2398feb2e0bed967cf296b"
 metafile = true
 
 [[files]]
