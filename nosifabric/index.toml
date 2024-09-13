@@ -10,7 +10,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "dba9b77469af131b92349b284e234b04ac9f137d54a44f25aa863cb04303e48c"
+hash = "602ffc08a19c0b5cb51e3363b5ab97a3a2b4213a8455f3a8d7bdec11ff515f76"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -79,12 +79,12 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "c39fa91b0adc5ea58d3d1cc960ff4afd1755a821ff2add97015604634b36051b"
+hash = "9ea2c0f1da6ccd45a94f8371004e6d7a725da5060e33afc63580bdcbfc81b8bb"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "611dd38f46108493b1d0b63cb3580d522b42d43e6680ab07de74f51224e18a10"
+hash = "fba34808e6dd722bedced5c40367f7b96c6d528b8e328670d3d7663a6de8ada1"
 metafile = true
 
 [[files]]
@@ -114,12 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "2708aee80070eaae6f647a9b321a24d9cb7d3e188b02a145b4bc818180d04e95"
+hash = "77cba89986eae4a5a2d693a2e169cd91338127f625663bc26741094a75616bbb"
 metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "ef89ed48340d42ed705dc9e2459d6302f8e54b35a8ca43a1f4a6411df5799933"
+hash = "9556aa68bde18f9e06db249ac09e58ebd3806c9884b2124f29e42faa4ad7edb7"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "4d16b81c1a0f839ee04f056b065eed013dc57c9404cacf7adec641f6fce55c51"
+hash = "81c268e28ad8204470516c226dd0507ae4fa62e003ea8fb5f55ec2ebdd725f83"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "0d7fb8cd97b8e670839ea475b63df903039890bddfb14b2c6ddcf0a1980059af"
+hash = "eb191fd52e57123b52473f7a65e343e1c82b7aa9ea4fa3a111b82012a5e55fe2"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "f8a561f0ac371a33d5e5c4f3a525b5aaca4161b391f46505eac4e1a1d4895902"
+hash = "94171c3883d2705050db3b40f53a4a8a3ded6cd0dfcea631aebe383c5131f69b"
 metafile = true
 
 [[files]]
@@ -170,6 +170,11 @@ metafile = true
 [[files]]
 file = "mods/cupboard.pw.toml"
 hash = "6779c737552a9095ab04b60cd34f6611477226de79b232ba9a43e36e05d4551b"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "7c4410424962acf607a4b2ff1e522553bdf742d6025ad077772d4d9ec7ef5e50"
 metafile = true
 
 [[files]]
@@ -189,17 +194,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e8cf1bd4eb13233ca3d3bcef35a78976552c89b52d56ece96c5179b1c0188473"
+hash = "cd803ccc381b3de24813d53ce17b79dea5a44ef79f507839752401f0fcaf4b9f"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8078e4d71da6ead36a6134ba3f5f0b90b53ba6466a176986a644bee3f6c2da5c"
+hash = "444ec76f51b9713378aa4c900ca583a7df0888f89e76b76ae8cf5293d9cb51ab"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "479dc1be7b22163d5a4f13c3c156204bce08d2a5310412e8d8f237486d92ae94"
+hash = "dece10f161ad72eb069bc489fd10328b525b8c20858c0c13ff86f66452e2c8cc"
 metafile = true
 
 [[files]]
@@ -209,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "324b9816c2616ae8ccfacb2cf93c2ed0c1ea2218efad38ab02cdaa6f75c1db1b"
+hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
 metafile = true
 
 [[files]]
@@ -234,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "7d2f7fbc60bfb6ad7dc747fe2c44c1bed0c45fce69e13a5d466c34a44ebfb03f"
+hash = "468c9863bc39be73defa326ef1977025cf9c7333d6c9ff93ed48c532b4c92222"
 metafile = true
 
 [[files]]
@@ -254,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "8fd4b892d13ec3f22111704c61dd2a63427898f3808e2d8f18ef08aaafd8536c"
+hash = "94f620543fe3c4681004e2695959caf2d57c0cc6a383146e370f42c6abb4939d"
 metafile = true
 
 [[files]]
@@ -264,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3f8f7b594419ea4fefa330c82fee1be6d904390b3a6bb40e52aeb8e7b9009c82"
+hash = "ae42dc97752bf2031b0fb77994ab04e51e5569a637f2f9ee6a98937053b0d290"
 metafile = true
 
 [[files]]
@@ -274,17 +279,17 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fd0ee9e018a4e817cd5f872b4cd2958b83156022ec75f1560aaf1f8f09de7e29"
+hash = "89e7dde92d47d33e4430422f77a85ebd54cc5d8a1391758460ab4c6d00f01340"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a46dd07b1fb7e29cd1f777a1e3a93dce896e2d01f704ae533d00c3f747ce38ad"
+hash = "4956b512c2a452e4d72f4a7a4cb328ddce38c25de4ed343727d8515315053819"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7e9bd0ba2fb2a8f9862d56704b35cddf0983cb178c218c3e471fc2afa7ed35e6"
+hash = "aad1007acfe8ebd83ab2b4b95d15ae118c8704b0849ae11e35a9a6a3eb35d9e1"
 metafile = true
 
 [[files]]
@@ -408,6 +413,11 @@ hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
 metafile = true
 
 [[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "05cc0cf3e6069fda3b732a4dcb14a07447d65bc559540c85bd6c26a8190308df"
+metafile = true
+
+[[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "2dda32a2725644942fd5526b57593be51425e254b9725d653e981d1d6ee3ce7f"
 metafile = true
@@ -434,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "1a4a50480745c308e0cb26a7652ef356bd768ddd43560d7142f4a322743a6fec"
+hash = "5cb9afe02f8b7eaf58ce8777d35f81461941f7dbcac5c20f40eab25c4b7b6fe3"
 metafile = true
 
 [[files]]
@@ -444,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "e0ff987b9ed53314e62d6bc78285d9d7160e38128750c16b8844c58170b52e23"
+hash = "6575df2edcc7fa462bb3fa706c0d812b8aa561f87d12e17ed760c59ac71388c7"
 metafile = true
 
 [[files]]
@@ -459,12 +469,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "864d64ce47f96da4114ad1b3d5f5dd5d3c613cb3545bb59c0cd63f62bb7d3d15"
+hash = "cc8edba6a5252a6ae563fc2f95ab52eb8dc0b73f3533054cb22febc172c47657"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "51e5db168ed0f8b300028e00db63ea43612abdbb9ee990d08793638e3a45e58a"
+hash = "e535c7c47996ab778fd52a614a96badaf92aebdb45498aee7c44ed2c5c33501d"
 metafile = true
 
 [[files]]
@@ -474,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "02e5dec3bb2620f8fe86a408c87000fc6e9470d899b6d15bf2ac841dd9bb98ba"
+hash = "295d623efa0bddd6df48fb521a7e6b5900c9b8b3fd9e0e0bc9e780fad951ea5b"
 metafile = true
 
 [[files]]
@@ -484,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "648b0711e44e12b60ee1c32705bcc9e9a5eb90b9cb9e874a1f518f2c2dd6c1a9"
+hash = "e01bf177b091c990585f098b48ead07fa9000662de1874c3a79e4a979b8c7639"
 metafile = true
 
 [[files]]
@@ -498,8 +508,13 @@ hash = "f46ac3c4cc5da490427ecc666bd30146bc175903867f10a01d270d97d39cc289"
 metafile = true
 
 [[files]]
+file = "resourcepacks/minecraft-ttf-font.toml"
+hash = "f11066dc72d06a1a77e00625578957ba78b36d13386cc4fa9b3b13b7be926ed6"
+metafile = true
+
+[[files]]
 file = "shaderpacks/ComplementaryUnbound.zip.txt"
-hash = "47704bbfc01f97a045322118c4c73dd9f7b1f8573071e40b0d8ee718c41f33cd"
+hash = "2972ce2eef417827b3ca859954b4f8fa02e4aaeddb88d40fc38731f8ea7bd16c"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
