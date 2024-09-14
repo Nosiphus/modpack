@@ -376,6 +376,11 @@ hash = "f64b3f7f3d22351ad6bedfba759b1a3dc70d8cbc314db73cb446131a8e7db4ee"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "de542a99e85a42fc1e2f1eaf4a787d6e45e73509da5a72e0a61cab23dd648870"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "4d1016a0146c9e97386051bd85cbd66f47d00e6e1ec8390100ae3c49f78386ae"
 metafile = true
