@@ -1,0 +1,13 @@
+name = "Blue Power"
+filename = "bluepower-1.21-0.11.339-alpha-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "122db14295fa58bc71a7bacd081a8a4f8d17e420"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5504840
+project-id = 223099

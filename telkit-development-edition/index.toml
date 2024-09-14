@@ -26,6 +26,11 @@ hash = "73321caa495432ec5dc0432240593baacfe26e9445d8303cc29786e7427163d6"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "d4a813b8da40628cfbad2326c21a4da20e0ceac8e36dba029bb5c3629f5be866"
+metafile = true
+
+[[files]]
 file = "mods/applied-mekanistics.pw.toml"
 hash = "197aa8a2df21aef7dd1bbdf2835ef4dc5ea9b5f6b1c981f5461023d7a0198c16"
 metafile = true
@@ -36,6 +41,11 @@ hash = "ca6afb0d4430c8acb0dd2001efca650a7d5029ce8daf39f5a675c860abefb645"
 metafile = true
 
 [[files]]
+file = "mods/ash-api.pw.toml"
+hash = "c79b35d5581c78ef00b7c15343026e9ead5d701796acecd8749d635479bb9374"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
@@ -43,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "b3332ece8f80fd2a482b0a7402ee017e09939f72e14c5e0ea5a6b233dee7a3c6"
+metafile = true
+
+[[files]]
+file = "mods/balkons-weaponmod-legacy.pw.toml"
+hash = "413633534a8d8f839af2151f724efe692d9116f2e07689202fb464b3e5705be7"
 metafile = true
 
 [[files]]
@@ -58,6 +73,16 @@ metafile = true
 [[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "45741865e556af53771f38def2c14ca9d1a9e67e526adb57da185dff49c4d4f3"
+metafile = true
+
+[[files]]
+file = "mods/blue-power.pw.toml"
+hash = "88de4e09f70c710f2b3f40a3e9fb88119f35e5da5a04ed5616a230cd19623011"
+metafile = true
+
+[[files]]
+file = "mods/borderless-window.pw.toml"
+hash = "9226b8acf4413dc2af7072682d4bc76ae300747f8569ff6c6ce11052338e755b"
 metafile = true
 
 [[files]]
