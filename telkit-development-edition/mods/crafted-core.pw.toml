@@ -1,0 +1,13 @@
+name = "CraftedCore"
+filename = "craftedcore-5.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dg7PHdkJ/versions/nIEJY7n1/craftedcore-5.5.jar"
+hash-format = "sha1"
+hash = "6175677e720b1b7731b9393868621a7bc0be4ecf"
+
+[update]
+[update.modrinth]
+mod-id = "Dg7PHdkJ"
+version = "nIEJY7n1"
