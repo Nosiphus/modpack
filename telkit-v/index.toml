@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "56847024a6d331947a0b897cb35738d90e08a3f26227850e40d5278e1fc39b08"
+hash = "e64eb00d28f44aa8278350b22e4238a465dbafdb99ab699b9116c1fe5ebcdd90"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1ef1dd9591fdbe40dc3b0ca02f32931495796e3899f310b0df0610d7bcc211bb"
+hash = "73c6eae759b7fb4780cfa52b8b057a558c08f592c3665bb2cc4085b446411212"
 metafile = true
 
 [[files]]
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "d073612d625d607c5724054a168148ca354e9fcde9af6b8eb7eaa581214e61de"
+hash = "d1d5bf4f6b18e6eb56a65103982a86c99bf1edf066df0f64b896b9db1ac148c9"
 metafile = true
 
 [[files]]
@@ -1125,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "4fe143b089c5a61fbbe1d2d051913cc9a9b2e2520fc329f4997b0e1b0e22d269"
+hash = "8609a239df11ca4c749d904a84f2eedd4e9b991873257294f5fd69f123bc708c"
 metafile = true
 
 [[files]]
