@@ -1,0 +1,13 @@
+name = "Mo' Glowstone"
+filename = "mo-glowstone-neo-1.21-2.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/11OoLvep/versions/TUTkQDor/mo-glowstone-neo-1.21-2.6.2.jar"
+hash-format = "sha1"
+hash = "5ed31dd740778e7b294cdb50962e2d9a21693d5f"
+
+[update]
+[update.modrinth]
+mod-id = "11OoLvep"
+version = "TUTkQDor"

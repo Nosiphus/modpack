@@ -126,6 +126,11 @@ hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "fcb95ea1c89479739339ec74d5860a7fb365f4caf41849f2976094dc4e725d3a"
+metafile = true
+
+[[files]]
 file = "mods/crafted-core.pw.toml"
 hash = "92da7de3f7e80e7531257830eab88691c8495905162e8399c8d3b7d7ae885d92"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "8606856622f480476edb9faa81f19342fc3e4f35e45fd28d290cc2d700f9af32"
+metafile = true
+
+[[files]]
+file = "mods/ctd-core.pw.toml"
+hash = "773e95d21cb9f6eaedcf1e42ef7364c0abd675d1ee6c45c90fae795ff66d2dbe"
 metafile = true
 
 [[files]]
@@ -167,12 +177,17 @@ metafile = true
 
 [[files]]
 file = "mods/elevatormod.pw.toml"
-hash = "ee202b5c9351373ff629eacc639d699acaa5e5dbb4a5e47c16ec936189932b18"
+hash = "0be1480d1d134ce3bb76eb786a1a85037cf1ee07b1b0cd192adf5f9b7c9c7720"
 metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "f124765f90ed60ec404b652f32b8ca017b92b738f47dced9c8eea4b21baaffcd"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "a9df1166d9853fec2e66dea143d8442d992c9b4e6e4e99e5d794301d2f09c05a"
 metafile = true
 
 [[files]]
@@ -246,6 +261,16 @@ hash = "69fcc22b97acd846ef643c61f107cce10233345d1dea278865bd8cbfcae30c50"
 metafile = true
 
 [[files]]
+file = "mods/geckoanimfix.pw.toml"
+hash = "e5d14f6ff5314299881dbb51db12ea3e0613440b734c935335b951e0d6b6564d"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c5b43271b91cd1a678565e9edf76460a2fd0a82ad2a2ffce0c75d611d5ab52d6"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "55c683e421f94bb77538e0ffa3e555a887cdd7083fd17b5e04483a0202faa437"
 metafile = true
@@ -263,6 +288,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "7eec76df1ca2e9f90645f916a928e3b212a5ffe76b35530247e82d2ecd7beef3"
+metafile = true
+
+[[files]]
+file = "mods/iron-chests.pw.toml"
+hash = "2f9e77aec529a250d3ba1743c888b8f324ff602e36958725feb25c3309a8e408"
+metafile = true
+
+[[files]]
+file = "mods/iron-shulker-boxes.pw.toml"
+hash = "dc8b29cda4aba74a0399919540f0e6ac1428456db0e0608c00ac10d8618cd4a9"
 metafile = true
 
 [[files]]
@@ -361,8 +396,33 @@ hash = "a2ba8edf99b3ee4ab8a304e4e23e5c6f3e69ab4fb957b366b943fa10f9700d9b"
 metafile = true
 
 [[files]]
+file = "mods/mffs.pw.toml"
+hash = "ceeab3cd880bd1e5f130faa1edc7db722b4dfe2f5993d8f9996a0520bdd1c144"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3ff4dc52ec42f2a2ffc9b40ba4d40483808d49d754c1ce1301aa39e718e6c47d"
+metafile = true
+
+[[files]]
+file = "mods/mo-glowstone-lamps.pw.toml"
+hash = "63fd6446c548f81c4de0d467cc820cf24310f3b8830c89f6f233d5a9d01eeb81"
+metafile = true
+
+[[files]]
+file = "mods/mo-glowstone.pw.toml"
+hash = "57629e1151b5cbe6f7afa9a173e85ce8224517822d56d69cf1e52427b5f8f255"
+metafile = true
+
+[[files]]
+file = "mods/mob-capturing-tool.pw.toml"
+hash = "1596b386106765d3a4da87873393e6de34e29b19b6d776d2af80b1f7281cc2a2"
+metafile = true
+
+[[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "6bf9c420c8d358f12c9f12b9f26f4cf1b4a419fdd4cf73d644e2c6ec9a1127d4"
 metafile = true
 
 [[files]]
@@ -386,8 +446,43 @@ hash = "4d1016a0146c9e97386051bd85cbd66f47d00e6e1ec8390100ae3c49f78386ae"
 metafile = true
 
 [[files]]
+file = "mods/pams-harvestcraft-2-crops.pw.toml"
+hash = "84a4358b7fef498b59edfd5ff2c0692f31468a3573d2d46c1e5a9e3df6227f68"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "5b709a8de8e1ef072e8450a4bc2eedeae27908540fdbcce312522cb42c0c909a"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-extended.pw.toml"
+hash = "bcd3031c5010b49503c7fe7ed903511757b2592988400fb925a4ab11c866d55b"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-trees.pw.toml"
+hash = "913bff5c93d76ab287916d4f2e0844abbd7124f3dcc84d1c242e85f114e92066"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "7561c65a0e81eb992f4e93de8279f3786d48a8af4288ca069e19801033f61607"
+metafile = true
+
+[[files]]
+file = "mods/peacefulsurface.pw.toml"
+hash = "5a59bb58c886c6da4619ad62e66c2b9de631a02188926afcb38b9506c40dd247"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "e7325529b9767b0fb4fd6587b75f850c89ec15450f1a7af031f2fea2e4d49618"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8f04019537c909de742b37d3b40fd59f14fc66f8ecfcf058d97af73c99680004"
 metafile = true
 
 [[files]]
@@ -408,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/remorphed.pw.toml"
 hash = "8fd1d7f615100ee98e7a99ce7425234fe6f3444a0bc584279ee7a545fdb77db1"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "b6f2be931d6706fd16fb02d081a7b329b3148d9bb1dd900953ff4b86d13d2c6c"
 metafile = true
 
 [[files]]

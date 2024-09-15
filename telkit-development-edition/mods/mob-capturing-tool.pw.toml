@@ -1,0 +1,13 @@
+name = "Mob Capturing Tool"
+filename = "MobCapturingTool-neoforge-1.21-4.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c200fff10b0ce2828a039236ec1ba39bf67a052c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5534328
+project-id = 630272
