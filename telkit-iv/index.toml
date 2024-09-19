@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "5885c4f57928d3623b81181fa7ea197618eb229b67a1b419b8136bc855989125"
+hash = "32e57d67c35b3434c4966a911e0f28ae3ed89f1b2b836950daf2d6cd0b75f70c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "fe2b1cb8e815ed0fb5fbc46cb808411237f1694dce52f87242a1798fffcfc558"
+hash = "472290cc6cd7c549c72e9887ca973e8000f20e933c745eb1894734c9f849fde1"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1f3c6ed9a236c945ad04fe0b85079abbdb2769a922be982217b8972221adb412"
+hash = "d5b6ff1b3a29b3c46bb5964b5fdd61f1d651401f77cd2aa760eaae63069eea72"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "4d4d5806982dcf3fb8d2aa9da6bd19620aae9502fe1856ba939e9019c96915a7"
+hash = "cfc2321d5ff079aa23518c554c499ad2af445717aa0b8dced98954f8c225fc23"
 metafile = true
 
 [[files]]

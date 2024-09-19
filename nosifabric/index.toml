@@ -10,7 +10,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "602ffc08a19c0b5cb51e3363b5ab97a3a2b4213a8455f3a8d7bdec11ff515f76"
+hash = "6fdd0109da1d4b6341d20666587f0ccb9df844173383f9af48f4e15d699f6e3d"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "9556aa68bde18f9e06db249ac09e58ebd3806c9884b2124f29e42faa4ad7edb7"
+hash = "33b5e8b7fa10ce664756de0d7a1fc597fd3c3a009e1e147e6c3523f7e6cf6b9d"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
+hash = "cfc2c53b0d3cee953b423fe9abf210d87281d5bf774dab20cf03abe6224a9883"
 metafile = true
 
 [[files]]
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "444450a8f9c373ebed69a578c2acbbcdddc88676625017bfbfee4a9c00812b7c"
+hash = "363585e8e036661696b03a71bd90382072f77f4cdfdd9b5e0809eaa737e80b9e"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "cd803ccc381b3de24813d53ce17b79dea5a44ef79f507839752401f0fcaf4b9f"
+hash = "2ed06ddfb2e433024c5419af4dcb002dd854691b68565e4f0f1f1c96fc3fcdf6"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "dece10f161ad72eb069bc489fd10328b525b8c20858c0c13ff86f66452e2c8cc"
+hash = "f43d75e5464045610e79a4c3bd4ff7d982aa161a2758998e073def396ee5e176"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
+hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
 metafile = true
 
 [[files]]
@@ -279,12 +279,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "89e7dde92d47d33e4430422f77a85ebd54cc5d8a1391758460ab4c6d00f01340"
+hash = "e16a6442391c1989dccdcbe100e13063a043caef70b13ab4e37a11a7861cb497"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4956b512c2a452e4d72f4a7a4cb328ddce38c25de4ed343727d8515315053819"
+hash = "541c6c55291911ee8b728a1c82c74ec39db3dd3c37708e0b5d93ee84e658f045"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
+hash = "8aebf35e69552a0c1e51f406815df59f25baa700a2824e9e26cd0d2a036138a0"
 metafile = true
 
 [[files]]
@@ -424,12 +424,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a31b71f410616ddc3e99c70744e35d0640eb94ff081af70d1054689f34c2b4b6"
+hash = "6db5630aba9b540b81f9892d91fd26c1a1a9b988e3c475fdad553cfe6a2fedd4"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d24ad43869dfe068c041cc7da0a7ed5926f742d1676eb765ad66515e1e9568a6"
+hash = "32183306d7fd027a408716bc1d40b66f50fdeb5ecb5ad5ee3309f7c89bd00da4"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "cc8edba6a5252a6ae563fc2f95ab52eb8dc0b73f3533054cb22febc172c47657"
+hash = "d48845b72c3df1c166d8db81ee6c41a34a8a3de13810c2709511b49cb6a146e4"
 metafile = true
 
 [[files]]
@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "295d623efa0bddd6df48fb521a7e6b5900c9b8b3fd9e0e0bc9e780fad951ea5b"
+hash = "6dce2febacd48d40718fc68a3eaa99c003ac4611e7780b6f69c0e04e6568b70a"
 metafile = true
 
 [[files]]
@@ -494,7 +494,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "e01bf177b091c990585f098b48ead07fa9000662de1874c3a79e4a979b8c7639"
+hash = "2bdbee3cc913e901395c6c0a61514ec1ba0f842e53ff3b1f2e626864e9c638fb"
 metafile = true
 
 [[files]]

@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "c29b2e613741bb5fe754a2a93c58db0ed1897471cb656a8cb14821b792839fb3"
+hash = "cf35578f5d2ee12a448f8ab9fb326b6adc316d406db3c0c62b627c838f22caf2"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "f1cdbcc4d2d39ea0a67977c856edf176b9a3caffd586da8e972aeda3cff49a81"
+hash = "636fbc430a3825928b11c86af3628e53c02850a31b2154b836992687b27c1154"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1afd6d0c705394a404e508e41a1988d89192b9c932d0af9086191207615c791d"
+hash = "3426b629cf93e06d60cd09edbcb0dd74f73e3584e1650eb40346f64bddb08761"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4cdfc5f22ae3233b5846094492d66a06656394290a035bd475b6c0384ad63208"
+hash = "6b67d05d1c73feb0f3da41d2c9c7e1715dc363a3bcb799d7d26b712e4b23ab84"
 metafile = true
 
 [[files]]

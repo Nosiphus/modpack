@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "8a2eeb72d0c2bd73e84c8028d77fc096c0aaa14f9c10e65cd4b60cd8cb83a758"
+hash = "2c599d995afd8c4071367e69383c5b572649deeea0753036bb5083013a4124b0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4b2f4dc7c04a144b79b3501004e0ec8affde3d2b2647ffe58dea726c71a0a2d3"
+hash = "61f2bef6c0cd31a97afcf7cbc5f83fc3575b32c432e8deee6e83eb518bbc9be8"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "6d881f571406529de634f39c681a96ae5cac5ce1956051f235ec42a3517a8bd6"
+hash = "08ed517d07b3c29bcfea2498ae0e7016f3f62e1faddbc272cf8c3f7f2b160e45"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "6e37a782378bd8eee4421cebc8c67fab6b6185e4cf2398feb2e0bed967cf296b"
+hash = "e52c194c4d1ff5278fecc6080a855aeb70910341542129f47e5a447a6bd8a84c"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "57d5b8f99cd21e7d6bcf2c1ec28a1db02be73f78c5778f938445c6907f20680d"
+hash = "82cb7941848be7b185c0805739db847eda48dc4ce589b54f172eb8fbc773989b"
 metafile = true
 
 [[files]]
