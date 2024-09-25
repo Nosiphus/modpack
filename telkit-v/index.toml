@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "f333520a546c546e498be0db932cf1ef4284a706ef164ca795ad1f7a05850883"
+hash = "c2f61da0ce30fd1b4d8d1a6c31dc4014728890e851c80790065741669c6f0483"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechicken-lib.pw.toml"
-hash = "c011cedf1f29b16895af2f6bb513f0914380d5a24ac53cf84c5bc530d007c16c"
+hash = "74a525a623611769f07d844ea6d6817979ff88c92327785f34ebb3847f22cc39"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "1b13b8fbd98de4be250153496797a01c25d22d61711f9ac4e333628f1001c6f6"
+hash = "37e78b02e26a6da0a9ee0363f5d2e00dcd7e36daadfe29840ce6544fb4fba2a1"
 metafile = true
 
 [[files]]
