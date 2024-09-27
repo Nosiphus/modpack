@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "c2f61da0ce30fd1b4d8d1a6c31dc4014728890e851c80790065741669c6f0483"
+hash = "a63acf20bc896dd9dffb94d6d693fcc9915db44db12abf1e36bfebaf455bff17"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "2bda116744ab10a64e92dc6f97549850e5d74b58b985f406818a8f76abcba7f7"
+hash = "a71da6b2e8a7654cdc2936e0ac684fbcbed513eb07b32f68f39497c27fe0de1d"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "dfa629484d068b798114e568195f39f3a28134567c5aa2f67acb9c66e7faa088"
+hash = "77d629fe105a9a9e7cb728e7699f3cdbcc385236325eceb2919269b0ecf09ecd"
 metafile = true
 
 [[files]]
@@ -939,6 +939,11 @@ hash = "a947d3f9d6f75fbe1e85d3bd7c3c5b7b2df9182fb4983604ef6168eef0034db2"
 metafile = true
 
 [[files]]
+file = "mods/railcraft-reborn.pw.toml"
+hash = "6a67a3bf09a56d70d6512934be65d26c8617750e4eef07af812f976be14ba2f7"
+metafile = true
+
+[[files]]
 file = "mods/redstonepen.pw.toml"
 hash = "a025dddb33aaa8bd46888833c1e7099de509adef228666e5c4f2646a932e34a6"
 metafile = true
@@ -950,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/remorphed.pw.toml"
-hash = "393bcd0e939d47dcac45a3b24b4bfd2120595ea010ecf2a44655a3907acb54ab"
+hash = "4eeb2780f3aa864a6ccf2804404bb3e812118d1166b5b75da2299c65cd1d7651"
 metafile = true
 
 [[files]]
@@ -1100,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "6eef01180eb0e03eb10d89279286be0877ac9882b39b3b63f0ca50a02e18b58e"
+hash = "4bbb27da6629b444e956a490964cbdbe775f0b7da78bd4761cdb3029782d87a2"
 metafile = true
 
 [[files]]
