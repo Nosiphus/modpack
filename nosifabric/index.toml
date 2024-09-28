@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "fba34808e6dd722bedced5c40367f7b96c6d528b8e328670d3d7663a6de8ada1"
+hash = "20f677dc377f5069c8da4636cb7bcf068fbca27a60fda63ac9e2fe273fa9f765"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "94171c3883d2705050db3b40f53a4a8a3ded6cd0dfcea631aebe383c5131f69b"
+hash = "aa6914e50a5bc531fc8c4f6d3ad8244e06335ee5068ec6ad879af1e80d5294ba"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
+hash = "815f2171f1901de25664138b3ad37697d64985f6972adbbb76982806c32154f0"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f7c2814e0854842eb1872dff98052714a8235d2beb1f67e04b9ffd62009ff5b1"
+hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "541c6c55291911ee8b728a1c82c74ec39db3dd3c37708e0b5d93ee84e658f045"
+hash = "65e861f4ac137c232e0fe49268db934ef39ffa2a41b618586de52337d787a91c"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b3b33c53f8356928f86223f26eaebd7a266d610f8628e5077cda196192b0b7e4"
+hash = "c24fcd33ecd783569879dbe9ecb8cdd1dcc7e00c1f40cda0271100255e155162"
 metafile = true
 
 [[files]]
@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "8aebf35e69552a0c1e51f406815df59f25baa700a2824e9e26cd0d2a036138a0"
+hash = "e9133c80c483d4741651144ded2937be8454d673f08a720ce568c89c0050345e"
 metafile = true
 
 [[files]]
@@ -469,17 +469,17 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "d48845b72c3df1c166d8db81ee6c41a34a8a3de13810c2709511b49cb6a146e4"
+hash = "db027de5f6a0075b7baf0d66a2c89e3ada7ecf6822d4c068011365181579043f"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "e535c7c47996ab778fd52a614a96badaf92aebdb45498aee7c44ed2c5c33501d"
+hash = "8b593e62b57c7b2fc55d650d586c12fc8cfbc968e1f0e01a0a70aab7c44d4b44"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "3942461204beae8e1876528bb2fbfbaed242dec40f46bc89ee5ab1e74a4f0985"
+hash = "3c72e3d1035ad2f1c8525177e11cb9e6666a09d599d49099503cbdf81a202cef"
 metafile = true
 
 [[files]]
@@ -518,5 +518,5 @@ hash = "2972ce2eef417827b3ca859954b4f8fa02e4aaeddb88d40fc38731f8ea7bd16c"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "eee9df48da03f60649480e723c2062186f7d6b08d96196fec730814f35be0076"
+hash = "a0fc045008eab042b01f71df6ab896bdb65c907182716b094cc7932d1dad42e0"
 metafile = true

@@ -97,7 +97,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "d59f0245fbc2e8f76a8e42a72d9216db68915d56c7bae0da97acf94a3f39dcf6"
+hash = "717a9a0da39dd1e817d43de70631fb541efd0f543e2deefaed1bc303c131a2e7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "97f1ef92cea7ec31ab3718cba7249e529a04bf9c1aa0e6be7825e04c286efa45"
+hash = "03fa6aa4c44799b68f9f544d2ba1de8327acef11a6a405572125e93a474b7bcd"
 metafile = true
 
 [[files]]
