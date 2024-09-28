@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "a63acf20bc896dd9dffb94d6d693fcc9915db44db12abf1e36bfebaf455bff17"
+hash = "07943016817e78d4c7382100ed56b8cb62bd8b197760d0b6e678e68237de1e8f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "497128a8bead02d04de5c31584faa9e0f6faf35e9a31426c25276315287193d3"
+hash = "cab7fcd4918dfa6aef549d3965d1fab179eee00dd66ee32d5f0952abc2336881"
 metafile = true
 
 [[files]]
@@ -1154,5 +1154,5 @@ hash = "2972ce2eef417827b3ca859954b4f8fa02e4aaeddb88d40fc38731f8ea7bd16c"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.toml"
-hash = "feada4e9b5679ccf9e9e3d1d634fda1d4b08a5ee02d0f7b5e747c734c888c66d"
+hash = "6b732964ea005d0c7742f57322e94976397a1369355255da88153d79332e00a1"
 metafile = true
