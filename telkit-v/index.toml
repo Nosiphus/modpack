@@ -21,6 +21,42 @@ file = "config/ProjectRed.cfg"
 hash = "3874b0d54e3b60d0280cac3d2f2b63a651bd905c55d891e9cfec5e7528928874"
 
 [[files]]
+file = "config/Weather2/Debug.toml"
+hash = "0c456214161e2f212f3363fa35b04734a96c2e916e519b0b3720ab7c4d4c8f4f"
+
+[[files]]
+file = "config/Weather2/Misc.toml"
+hash = "9ca8862c92c0856bbc7b51c91faf54bc560671336af032348b54052cd1fae070"
+
+[[files]]
+file = "config/Weather2/Particle.toml"
+hash = "9ca0609a55e25e119a825890d4718d0fa464da28484b377e067d6c0c199b16a1"
+
+[[files]]
+file = "config/Weather2/Sand.toml"
+hash = "e98e719f6df5d6b54394b1869842435809856511f82fcb590870569e3c9454df"
+
+[[files]]
+file = "config/Weather2/Snow.toml"
+hash = "85edfa51707b7982e2c70afe7b9c9b8f513016e6945c469424f8183f15fea80e"
+
+[[files]]
+file = "config/Weather2/Sound.toml"
+hash = "554523c76b63c6535a5f9ff7da71def6d35ad6b0f430a1d11c20e4ee8d940fce"
+
+[[files]]
+file = "config/Weather2/Storm.toml"
+hash = "5c54e3f79a6c285e1289499340b121196a94a8d3e6e372b8c43c83d08a8e2413"
+
+[[files]]
+file = "config/Weather2/Tornado.toml"
+hash = "7acf0a86c248159876e6d920324bd10c065f8299979450f17258c71aaca204c7"
+
+[[files]]
+file = "config/Weather2/Wind.toml"
+hash = "fcf642ba7de5937fc4583d99f51f99d11b9577c237e4bccbccf7f945b3365353"
+
+[[files]]
 file = "config/computercraft-client.toml"
 hash = "ce3e34235dbed98c8f9f07a0c1a4a5eeed4ddb5a370ab283a38f87474abcf5fe"
 
@@ -46,7 +82,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "4e6179732e888f1a9442809099bc4833bedb7dd6bae948aa6f316bc3b59586bf"
+hash = "81c1d6ac94c6c8cdb8e96a512cd623615d0302cc70ccecefea8e7532e2cd7611"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -341,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
 metafile = true
 
 [[files]]
@@ -1111,6 +1152,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "f07e6b80b0cf2237210c2e3789074f891d48ddc97fe89c735bbcf747eeae1eb9"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "6db929420ad54de35d9f537b76534823c28e87a14f3d783a2760b0ccfc9188be"
 metafile = true
 
 [[files]]
