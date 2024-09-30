@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "07943016817e78d4c7382100ed56b8cb62bd8b197760d0b6e678e68237de1e8f"
+hash = "4e6179732e888f1a9442809099bc4833bedb7dd6bae948aa6f316bc3b59586bf"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "77d629fe105a9a9e7cb728e7699f3cdbcc385236325eceb2919269b0ecf09ecd"
+hash = "dd912597ec74c991774232bd520e82cc69a986bb68e5b355404766f21bb3e30c"
 metafile = true
 
 [[files]]
