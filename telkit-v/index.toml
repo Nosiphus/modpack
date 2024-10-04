@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "4e6179732e888f1a9442809099bc4833bedb7dd6bae948aa6f316bc3b59586bf"
+hash = "34e50524e0e057b31869916265905fca674287354464219cba853f94397b440a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "33e828c63a098d971fb2b98cfa0f90bf96337d3a254afdc863463f4d62b57781"
+hash = "84d99ba9b6c79b875570fbcc0439cb11627a7c2ff35885664ad20061850ee5f6"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "98a813e7a30f8ef3d907e32fbeff739f916e7e3437c141bed3a760e18c04c06a"
+hash = "e4d2183d31b5ea13fcddb0f370030c9c1556fcefd80297dda51cc64adb5a4ebc"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "cf9867731ae40bc1715f7c1020589b605dad55b8c780a45b048c75c76f7bbfa4"
+hash = "3bb7489e929b16c94210d4e28d9840c9d279193ace74a69234a250f0c429e9e4"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "88e59d5a80ccb60f8fe3c5fb7cdbc199375165c22be23cab5641e5c26c6baaba"
+hash = "d2689a7a707cd6c8e63523c627555b9fd740cdd0326d47666db72234f8e8f4f9"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
-hash = "898374cee525654ce1d4fc78ccdbd4ac1f25f58755e75ab8107b489f753d2bc4"
+hash = "f0a19aabcb9e51777dd3fca22689c4ed44e75b17c156d66ffba055fad56a00cc"
 metafile = true
 
 [[files]]
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "1b2f9e73000e34cd636f05ca351ebd59affdc976a9746a310b0799fd20beea34"
+hash = "d06949d49b8285965cbce24eece3efbc987c569b79f4512294d7324e6e55e3b3"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ce98a60cbe3a9ff735fa97de935c3a9949b5b8a2a35ae6a82192251ef795d0b1"
+hash = "9230c6946ed8bc55a1a112988975c99d626076e6a058f20a395b78bd43c395a6"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "068188a4198fd2fa3e0c5c23e32d7f5a70083c172d7d8fdec7961b3ae6c78e24"
+hash = "7b4ca93e41fb2eb370db8b5b2efb0c0d6c0d1c84c1990745859ffed0eae992f3"
 metafile = true
 
 [[files]]
@@ -1120,7 +1120,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "1909d70b92ed22b50901931533305de562be2487312fe3d14e9c0b6ef4257133"
+hash = "916c11e1ef4f1ed1402e01c58f052bb6304a93d0b710c17e635b587d78da3733"
 metafile = true
 
 [[files]]

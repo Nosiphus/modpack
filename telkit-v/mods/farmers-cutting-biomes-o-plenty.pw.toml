@@ -1,13 +1,13 @@
 name = "Farmer's Cutting: Biomes O' Plenty"
-filename = "farmers-cutting-biomes-o-plenty-1.0.0.jar"
+filename = "farmers-cutting-biomes-o-plenty-1.1.0-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QWfaJXEc/versions/kA7X98r6/farmers-cutting-biomes-o-plenty-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/QWfaJXEc/versions/xroQMKdK/farmers-cutting-biomes-o-plenty-1.1.0-1.20.1.jar"
 hash-format = "sha1"
-hash = "e636575c695035aba5fb0603c4645423056a9368"
+hash = "68a9cb87b8eaf5d11545ebc7379c38ca3c57c491"
 
 [update]
 [update.modrinth]
 mod-id = "QWfaJXEc"
-version = "kA7X98r6"
+version = "xroQMKdK"
