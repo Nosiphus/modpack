@@ -344,6 +344,11 @@ hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "f38240554929fc2c4312f8ea70124bfaee038158d97f2db4e04aa16e1efa7fe8"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "e37b37c2a89be3eff9ae1399adb69e9d9d148de9c1c008612c9ff00a08256cd3"
 metafile = true
@@ -586,11 +591,6 @@ metafile = true
 [[files]]
 file = "mods/hamsters.pw.toml"
 hash = "6aac88169e127b8e0afb26afb89854adbeb6d4cf70b9f11e1f4b5a5248c19ce5"
-metafile = true
-
-[[files]]
-file = "mods/identity.pw.toml"
-hash = "2af473e2ab579f46b96e19764c7c7597d1ff1c5fe2d410f289129d62599cdeec"
 metafile = true
 
 [[files]]
@@ -959,6 +959,11 @@ hash = "6174bb14ac82ddbd83df42d91ab413960a2d173186b16bad918e378a49494143"
 metafile = true
 
 [[files]]
+file = "mods/remorphed.pw.toml"
+hash = "4eeb2780f3aa864a6ccf2804404bb3e812118d1166b5b75da2299c65cd1d7651"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
 metafile = true
@@ -1116,6 +1121,11 @@ metafile = true
 [[files]]
 file = "mods/webdisplays.pw.toml"
 hash = "157409c7c77537e2a6d852a845340a210e06fbaeb9d913f595c2c2c201b0c297"
+metafile = true
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "ffdfaa33ea1e52a99f7a20e272538e4be80ad9f92d25c315b7d769137d3479f4"
 metafile = true
 
 [[files]]
