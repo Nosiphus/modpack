@@ -579,6 +579,11 @@ hash = "315418827149c57947f77defb618c60eb776209bb5ae966d1a4b5af1bca96539"
 metafile = true
 
 [[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "d4c6bc55830afc0eba1d873b8c11d8603c7692c0a30f6fe246c3f855b4492b7c"
+metafile = true
+
+[[files]]
 file = "mods/hammer-lib.pw.toml"
 hash = "d46f2b77f212f228099333b67b92267ca010234fb0d9f10feb971ad1478a284e"
 metafile = true
