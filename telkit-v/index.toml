@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "ad60b09c2971d32c44072a9910f56d5b72be96a34f0cb111d8dccfccd58ebb23"
+hash = "3959e9aef6b4a65ab8f5b4df94e3ca389343b9089d18867acc06b4f6f12efa7a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d2689a7a707cd6c8e63523c627555b9fd740cdd0326d47666db72234f8e8f4f9"
+hash = "cedc40fea966e262016c39fd24cd5aba337fb8d1302397f704dc98d9b411eac2"
 metafile = true
 
 [[files]]
@@ -615,12 +615,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9230c6946ed8bc55a1a112988975c99d626076e6a058f20a395b78bd43c395a6"
+hash = "3040dc0e422d8ffa85d44d4be9466fe7eebfdf631cb998491b30c5c931cc75fd"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "b113a47c8e729ab810c39f7abf17a30168aef4beebf00cce9f2f6769092cead9"
+hash = "1ff2d8ad68c4c66a92454a917ab0e383ac67872e56832bf80559a724c8845041"
 metafile = true
 
 [[files]]
@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c619f9b5e0d5b3e521a239efb957aaa1e0f3448b56999a0d1050d552ecdd185d"
+hash = "1a1aeba225fa472a37d6f757e20258d7e9146c9c70e24cd3e5c89127949929a7"
 metafile = true
 
 [[files]]
@@ -1125,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "ffdfaa33ea1e52a99f7a20e272538e4be80ad9f92d25c315b7d769137d3479f4"
+hash = "d4f4c08189748eeac94188d8bbc1b0ab0399a543c56300570d2640704afdf10b"
 metafile = true
 
 [[files]]
