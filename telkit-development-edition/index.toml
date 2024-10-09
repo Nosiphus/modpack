@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "595245a2c2f29a66ecbef5e28dd4fdcbe53504ad9c2a306be7b3639294a86639"
+hash = "3a5a13aafe6c93bf3bcf07f164ca00eab3867ca04fef59533aca6214234a505c"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "cf35578f5d2ee12a448f8ab9fb326b6adc316d406db3c0c62b627c838f22caf2"
+hash = "ced08906410c90a2c3de347b01786c73f805f186a96efa3345eed396aa251638"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "8a61f71b307708ff8ee297712188d5b47cc3e5cc3fc0088c795d9108047b1c4f"
+hash = "e44cc5532d322c6ff120f227b3798f8ffe5bb8e77a4459f1b6d76a04001ff7c6"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-slot.pw.toml"
-hash = "f124765f90ed60ec404b652f32b8ca017b92b738f47dced9c8eea4b21baaffcd"
+hash = "593b1919e30b079b17598edf195734fbe87ff19360b28c223e965eb7b65c3c46"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "7607340641a4934a8717af8f639f74d47c8ddbf756b49aaa61cbcb33f4147557"
+hash = "9e20f3959d221be081494e8e2a3716235c74ea361f99c577acde6a0a7342298f"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "ef699c243bb1c52378c07d0fdabe210c10878d57f2a0ce4bdb7f408cba9cf34d"
+hash = "d1dd822f982db0cbff113e6143bbf652ec386fb22d3b7971c8e01a4e487bc97f"
 metafile = true
 
 [[files]]
@@ -297,12 +297,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b51afec0c0f5b741214c0427efa933fd69147af0d2a4f1b8a22e2df0660a4811"
+hash = "0110dbf46c4ced4a0d88518f943b12fde34099e2a9cf891368c75dc508c00208"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f8dd4ee28f1c73953811cc0fcab438084391cbc67cbcb49f069e1a560621f427"
+hash = "7b7335fb71780b169dfbfbfed5dd6736738af9c12401ccc21951795c10445c6d"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "9e4376106f6c4b1d16a9006510e2e67bf6fa9bc8af842d0cb5ad560616b0b605"
+hash = "a466ce239a101d4a09db2905efc245e61f2b13c124ce9afd3d8eaec0b280678d"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "44e965fb728200a92ae316ea2e75dba96a7d057a838774c70af9abb830877b49"
+hash = "6d5500eda5f40e4bb482dfc3519d51201a4f8e0b60e71a89b3167e16122b38f8"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "7419c428a86ccfd314c7388cbbd0d0815073fe370464faca2048c22d15b4eae5"
+hash = "61a8b246ec01384e1cd01c493a90c1ef97c10a3085d6c8f05ac82bd2a36cd701"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "8b593e62b57c7b2fc55d650d586c12fc8cfbc968e1f0e01a0a70aab7c44d4b44"
+hash = "5670eb18924ffb98b3ea6e63080e8f21ed5d86180ef247d4b3dfd7599b0034cf"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "b85a3e81d39eb7adc5722ea01abed8e24e3c322e8681469feb04051d12bfee3d"
+hash = "3eb38ab6f4572135d530a486c0a168b76cc787fb24a1c85cf432549be898612f"
 metafile = true
 
 [[files]]
