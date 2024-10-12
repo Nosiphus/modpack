@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "3959e9aef6b4a65ab8f5b4df94e3ca389343b9089d18867acc06b4f6f12efa7a"
+hash = "c642a64f09f0ac041ec7df4c2bad7e552f02340bc2610e218e68e0b306ac66f1"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -355,12 +355,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "cfce8c8a8cc913d835c2e38d72738bf1368cd2035ba1a5e5237437c396dffd65"
+hash = "c6bbc40d9ae68d8f4f5d350f7e7b595095bc4722f95a6053be6e0a77726fdfd8"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcf86796fa9b4459e3f0824b2a3fea2f314a2e991540171591d208e092a6ea19"
+hash = "ccbe9dd7fb1bc65736710d0340bfcb9a7277936d999f895d2bbf25f650df0712"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "cedc40fea966e262016c39fd24cd5aba337fb8d1302397f704dc98d9b411eac2"
+hash = "b65925c49d0a9f3bd06a70aec8a82cfd6e84a4f903b89c83a56536441be518f0"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a9b1e4f7f3e464010fde63842eacf99517c300fca78210a8ea30c72c0587b2c8"
+hash = "c86803d735389f521f20d9d9303feadb67c5fb692f990209c31dc1377d5a5e38"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "cab7fcd4918dfa6aef549d3965d1fab179eee00dd66ee32d5f0952abc2336881"
+hash = "4216e58aa7c100c9d5683fae7c8d0da9a7ae7f414c976fe144de0c6e67be4234"
 metafile = true
 
 [[files]]
