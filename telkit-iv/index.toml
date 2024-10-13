@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "e529ecf7b6c4e2a1e4eddc3cd051ced2b826bd76b15da52bd97aeff78d1b5fee"
+hash = "5f520f68a11ceb0beefd21834e3a7c55c1d1b899c5f6fd6cc4453af38c6cdf3e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -74,7 +74,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "9f6a66d16d299918b5e708282cdc1b563d3763d966d2d6b1111bd9f33c43985a"
+hash = "63a5dbb26f0ea51a0f96da8ea8790729bd56ff1f0b1c27d5531a3ff100a2affb"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_0.png"
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "a31da32a4f5b0326a182304710786627c68087e858758dfeadcb7028c69b4ebc"
+hash = "7bf3dc763f3b205dea6a8283d181b705928d19b6913c897b3f2ee7734ace25a5"
 metafile = true
 
 [[files]]
