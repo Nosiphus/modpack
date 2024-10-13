@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "e6befacbc101f82083779eeba5401116b0733a5b67df20f276ae861ef651f6b6"
+hash = "329677565a5cdeb726bc07650bf190b1c78da982a755da66313c73ddf07969ec"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "b65925c49d0a9f3bd06a70aec8a82cfd6e84a4f903b89c83a56536441be518f0"
+hash = "06c43a2d2150ad010acd7c2fb824aed9f5d5d4b73aaf48f7ccc8599f471cf314"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "c20d0e1b13383e09cce4938386f0a7bb7b5806ccbb2474eb2ff755cc5a19f1ca"
+hash = "c7fbbc65afca35dc64f75ec6276324c60af2a0ed8688cc85a2006db4599558ec"
 metafile = true
 
 [[files]]
