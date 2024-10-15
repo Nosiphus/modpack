@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "329677565a5cdeb726bc07650bf190b1c78da982a755da66313c73ddf07969ec"
+hash = "051cce51dc7b97784c1dc53127bdf3680d51228f8a54d3074a2406ece59fb315"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "e37b37c2a89be3eff9ae1399adb69e9d9d148de9c1c008612c9ff00a08256cd3"
+hash = "b7be94140adb53dd27469efd567efd29d77293a1bf75d44700191083a95c01e5"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "06c43a2d2150ad010acd7c2fb824aed9f5d5d4b73aaf48f7ccc8599f471cf314"
+hash = "5cb1873bb6e0bb54f6cf89f1e9464a6cfd1e0dff248f87e42253bdeda624703d"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "ce081a84c6f6ac4a79753761fbe5c48bfcd29077af2c849ea6e3d7824b8f3e20"
+hash = "c54736c6ca21387a33ec422e2dac89789869c4b61705cfaddf69535a2c8008d7"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c86803d735389f521f20d9d9303feadb67c5fb692f990209c31dc1377d5a5e38"
+hash = "b5df0c1dbafd8c73fcb57126fc237ea4ccf2dcdc9bc681b9515d6952038e169b"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "4216e58aa7c100c9d5683fae7c8d0da9a7ae7f414c976fe144de0c6e67be4234"
+hash = "0c99846d326f4aac369d7fcda7be4c7680bf621a5b95759fa9a29786f23da7ad"
 metafile = true
 
 [[files]]
