@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "3a5a13aafe6c93bf3bcf07f164ca00eab3867ca04fef59533aca6214234a505c"
+hash = "fa1a4ebf60a48c420655a9f7e87bdbf174843a05e62fa87f1cd95c8f59130a9c"
 metafile = true
 
 [[files]]
@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "11759b1ff2d23988a25016f34c1ae1b3e003c3641670f1673f365807cd2857fb"
+hash = "072748d15e0b08ffde42d836e6038e397dcba08bc6deacbd656558aab00a384e"
 metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "ced08906410c90a2c3de347b01786c73f805f186a96efa3345eed396aa251638"
+hash = "cf20c08e04df07a352e975b6aca1f9c166ded321187b297b5c5652db24a5f00e"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios-continuation.pw.toml"
-hash = "96c8e8ea4c01778e602ade49806efa3423622a886a10c9add0f34183f497d928"
+hash = "7359c9d50a1bb157dc8561b40a45d5c2e249466bb541a6bfbe330e44f74df003"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "4af38f04312347afd1920d159a79da53c40be02ab7a07dd9e02ca2758bbb9004"
+hash = "e37b41736c7550230de5701507f2025385ae8b2d204ef9e1a30bf1c4501e9b58"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "be776ef85669a11030f5edd190cf9dda175b8ede2cc93b48ccaf920bad2bdb43"
+hash = "f8625e18dc4e97b24bedae49daa1fa9f8d66270fd4912ac92266bfa402c3bdb8"
 metafile = true
 
 [[files]]
@@ -252,12 +252,12 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "7bd0cd1b9d1dca95f462cba4d9817d0be563cd3666926dd66bae089f871ace5e"
+hash = "6da57285c17decb0c8ac8ad07b3fce7a7607f604384007f91bf7a20c1d21e2b0"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "a9eb3b1786f6c506ea9aff1aa178b3518597a05b9c6e221173fcf5d28759a276"
+hash = "988eaa5ba2c80337dedc42ef7516fbf94fae2633ee6b7199a315aa20e77984bb"
 metafile = true
 
 [[files]]
@@ -297,12 +297,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0110dbf46c4ced4a0d88518f943b12fde34099e2a9cf891368c75dc508c00208"
+hash = "a030465506f68bf7774ec98b387102d329a28148095fd996282bf4a5103cbee9"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7b7335fb71780b169dfbfbfed5dd6736738af9c12401ccc21951795c10445c6d"
+hash = "e2f8dee5d7e99b01fda4157785752aefcd6f2450b3f1b470c37db648bea26ce3"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a466ce239a101d4a09db2905efc245e61f2b13c124ce9afd3d8eaec0b280678d"
+hash = "eb95bee31ef807d6eee044574c2c312b56feb0957cc46fe94c09c7fc28a77fa4"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6d5500eda5f40e4bb482dfc3519d51201a4f8e0b60e71a89b3167e16122b38f8"
+hash = "1b05bb9bb2383107184787741e44e77b5bcef998a28e1656f37807a5ccfbc1b2"
 metafile = true
 
 [[files]]
@@ -557,12 +557,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "6097e5879ddc91a584d3131370a8c56102789fc2a465e6a2930c375cd74bc2a7"
+hash = "2e09858d0c85b60cb823fdc963dfbb8acb937afc6e0252dcab1c1231b1b6b9e9"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "5670eb18924ffb98b3ea6e63080e8f21ed5d86180ef247d4b3dfd7599b0034cf"
+hash = "248b26082daa6b4112617d8e08ded7975962c5888573c520013fbdce92c6ba3d"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "dfe19bad98c15297b7468ef47ea4d84bad68fff559767063c54b386f53759d7c"
+hash = "0185b4cc951173dea098379055ef7388e8ff7af84b008d8a17bea4a743f04471"
 metafile = true
 
 [[files]]

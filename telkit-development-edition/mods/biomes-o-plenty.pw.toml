@@ -1,13 +1,13 @@
 name = "Biomes O' Plenty"
-filename = "BiomesOPlenty-neoforge-1.21.1-21.1.0.5.jar"
+filename = "BiomesOPlenty-neoforge-1.21.1-21.1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HXF82T3G/versions/Pzxn1D3F/BiomesOPlenty-neoforge-1.21.1-21.1.0.5.jar"
+url = "https://cdn.modrinth.com/data/HXF82T3G/versions/eXMw8bB4/BiomesOPlenty-neoforge-1.21.1-21.1.0.6.jar"
 hash-format = "sha1"
-hash = "6cc7a0f00acbf087b7429fc53fbe345910432b32"
+hash = "67bebf8564aaa1d6a4718f300a224219a7c047fa"
 
 [update]
 [update.modrinth]
 mod-id = "HXF82T3G"
-version = "Pzxn1D3F"
+version = "eXMw8bB4"
