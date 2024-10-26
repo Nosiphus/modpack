@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "bd4efc188f46d8eb341a95013a713ff395d6090e12b61f375e67543cb295fa43"
+hash = "1fa6b8f8e4dcf6a2ab218fa404ea4f940316bba9433b9106f64bf269c48bbff4"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "8dce782d35499ad82aa8baa59e9a9b1c1a9ab0a6eac55ffabcea6f8f98b2b681"
+hash = "c5eed7a5b7827b909fc1b2808c133f7d12e0314e8a553cec7108d1ca925e9a97"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "7aa4f578a0bfb616042ad68b84330cd3aa48f9f806efde84889b0ad5e6f0e35f"
+hash = "7bdab6e0ee3e517ac8a9966e54556713358dddd24fc4537ca64e776815b8d824"
 metafile = true
 
 [[files]]
@@ -355,12 +355,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "c6bbc40d9ae68d8f4f5d350f7e7b595095bc4722f95a6053be6e0a77726fdfd8"
+hash = "e5a6aaa216885d6f60a4184e7052e365cc4482618449ee769b9652429a2de7e3"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ccbe9dd7fb1bc65736710d0340bfcb9a7277936d999f895d2bbf25f650df0712"
+hash = "b916a712a0697a6e62b2d2982f9ce1eeee081ab780465653e8c07d274a4b4826"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "e4d2183d31b5ea13fcddb0f370030c9c1556fcefd80297dda51cc64adb5a4ebc"
+hash = "961deb094ae64cb9382986f1ba9fdabb4c17b20bd378d3f5bc48410135d9f743"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ef744ef9850c42a100e7ba88527b7bc486079f43c0e5234162df25391a2197a3"
+hash = "e5c70c97f5c25e8cc14838d78739934ec963cfa70373c018eb9eb96f1685d84c"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/drink-beer-refill.pw.toml"
-hash = "1da2a6085071ca3a731c95785d094a8d27763ff8f33b1302e529c7ea5ccb1e3d"
+hash = "9c30d8556699ce81d9963dd22bc5667b546d030501c9e4f5e54cc2dd550240d6"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4368a805d2904edc9af0b5421c7d17286e440a5377ab319a34db960928e6e966"
+hash = "fc0ca54c2ec0573e4d088023df5db821570311139f2e8b72eee6ca125b572d96"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcef.pw.toml"
-hash = "697f71e69139e2861f1a4ae35b0e0050ba81c5cdfe4bf33bdbb49ab8ab3e66b9"
+hash = "412233cd17c8195f4f80d67fc34861c086c124ad4aa627cdd4b0b266fc2a6e8b"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c9f56471cf84eb7c3c2ccb44bf54ca428e12e5a32841d4838db769f2df0bd6bc"
+hash = "0038b3f94c0c14d517062ed5e2510e1a2d54f7503c6fae2ed60f1e22aac806f0"
 metafile = true
 
 [[files]]
@@ -1000,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "58894386304eb743fbf5a5bc757c997df3d357f6c9acc64b2bb473d050110b3f"
+hash = "fed6f7a26bc68692af84d9e2a5e6cb1829f427f660b3f52a10e033e23b55a69d"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "0c99846d326f4aac369d7fcda7be4c7680bf621a5b95759fa9a29786f23da7ad"
+hash = "723473826359b461be774e40df1e76cdc383bd832e588b81f8a4d5f7240af0e6"
 metafile = true
 
 [[files]]
@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "f07e6b80b0cf2237210c2e3789074f891d48ddc97fe89c735bbcf747eeae1eb9"
+hash = "3eeea7bf3d9841dd2442ab0a9e4ad16c43e2bc10d50b7e1cf5e55f351bbab3e0"
 metafile = true
 
 [[files]]
