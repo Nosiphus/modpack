@@ -1,13 +1,13 @@
 name = "Ultreon Devices Mod"
-filename = "devices-0.8.2-forge.jar"
+filename = "devices-0.8.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YDa5wT4H/versions/LM16GjAh/devices-0.8.2-forge.jar"
+url = "https://cdn.modrinth.com/data/YDa5wT4H/versions/nWDbtjUw/devices-0.8.3.jar"
 hash-format = "sha1"
-hash = "2a19f497cedf979a4e1037b5c487babfb62d20d8"
+hash = "4ae9233c8bac1422e9687b1b76793532c60f01f8"
 
 [update]
 [update.modrinth]
 mod-id = "YDa5wT4H"
-version = "LM16GjAh"
+version = "nWDbtjUw"
