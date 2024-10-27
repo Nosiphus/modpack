@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "1c1dba083e470fcdf1f25c1b05688f1edb984796686b15e96bc48724cdf44698"
+hash = "e1b2e3d18bcaac605e5da6a09c09436ff6e4e3275c3bfa7c899595c78382e61b"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0038b3f94c0c14d517062ed5e2510e1a2d54f7503c6fae2ed60f1e22aac806f0"
+hash = "903f5f6597eb4de3e0ace1838a7af7b0305169b4007abf831568ee5fdf096abd"
 metafile = true
 
 [[files]]
