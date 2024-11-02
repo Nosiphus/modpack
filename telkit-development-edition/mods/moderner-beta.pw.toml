@@ -1,13 +1,13 @@
 name = "Moderner Beta"
-filename = "moderner-beta-1.4.0+1.21-neoforge.jar"
+filename = "moderner-beta-2.1.1+1.21-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xkrdwmh2/versions/mYPBCD6P/moderner-beta-1.4.0%2B1.21-neoforge.jar"
+url = "https://cdn.modrinth.com/data/xkrdwmh2/versions/BXCjcoIq/moderner-beta-2.1.1%2B1.21-neoforge.jar"
 hash-format = "sha1"
-hash = "7d84cb8cf3ff122f6e72e1f712e34a6217426dbc"
+hash = "c2192fcbe2f42cdbf5bdccfba562f04203626419"
 
 [update]
 [update.modrinth]
 mod-id = "xkrdwmh2"
-version = "mYPBCD6P"
+version = "BXCjcoIq"

@@ -1,13 +1,13 @@
 name = "woodwalkers"
-filename = "walkers-5.3.3.jar"
+filename = "walkers-5.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Sr1HeD8z/versions/weI0cSse/walkers-5.3.3.jar"
+url = "https://cdn.modrinth.com/data/Sr1HeD8z/versions/cfz6YcWB/walkers-5.4.jar"
 hash-format = "sha1"
-hash = "0c54ab771a2b1e494ab06fd3ec00b6901881f0cf"
+hash = "c0d9e6d8df92177188457ec8a2d38b568bf4cd29"
 
 [update]
 [update.modrinth]
 mod-id = "Sr1HeD8z"
-version = "weI0cSse"
+version = "cfz6YcWB"
