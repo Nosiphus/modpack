@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "45ad86a4a5aaa86ac373aeead87763cd2006878f4c6df39acd714c19e387e778"
+hash = "917d5438629cd6fb4e043dadd1c2f9959c718640b8e080a0b2a21e5215ffeb1f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "7bdab6e0ee3e517ac8a9966e54556713358dddd24fc4537ca64e776815b8d824"
+hash = "d71058b42f191308b6cc4edf947717cd5bd9632f36bc906c4b464716e5c23fd1"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/ceiling-torch.pw.toml"
-hash = "11363e30692e31e72637080c47a64aa3df69dfdf0d060f5edf3dc2e4e97e2f6b"
+hash = "b6a5dd77748f010dece44fcf771b33a557545cb81b20e77ed88c8a6dfb6664a3"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "961deb094ae64cb9382986f1ba9fdabb4c17b20bd378d3f5bc48410135d9f743"
+hash = "520aa1f66305ee4124e5e338845594cf85a10d4778b083a44f5d2828cf95e26a"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "2497b7f5fefc096dedf5bcb0fcecba182b40339fb8410f6699605fdc5d32b06b"
+hash = "e9a33f79f47433a442fbe50fda5e9f1fcf4341bd4bea561c4ec23e2743d64025"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "5cb1873bb6e0bb54f6cf89f1e9464a6cfd1e0dff248f87e42253bdeda624703d"
+hash = "ece4362d11f5a3d12b5aa89559431defe7da6794d28fc35a110efc78b8b5cc23"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "fc0ca54c2ec0573e4d088023df5db821570311139f2e8b72eee6ca125b572d96"
+hash = "eed23a2df85b96496371239745b9b8eb359bd39ffc9164bbcdba5d896a56fd1b"
 metafile = true
 
 [[files]]
@@ -740,7 +740,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "c925ad9d4637516d1facba71d23a85d2833f8a57fa82301db575f0b16a1c84f0"
+hash = "e472e82c4c2002a28615c878917391ff84844f677549865d0429e84b60f8cc06"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "e1b2e3d18bcaac605e5da6a09c09436ff6e4e3275c3bfa7c899595c78382e61b"
+hash = "030707a8506f67cb6b5a5204ee804375326ae1dedec67ebd38bf8e4e82a1120f"
 metafile = true
 
 [[files]]
@@ -780,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "903f5f6597eb4de3e0ace1838a7af7b0305169b4007abf831568ee5fdf096abd"
+hash = "40e7138e1d8242e2890fb1aa0b9dd45a74c73a8b5a8153de75181dd580e51a42"
 metafile = true
 
 [[files]]
@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "1a1aeba225fa472a37d6f757e20258d7e9146c9c70e24cd3e5c89127949929a7"
+hash = "521be56c89bdbcb7492f5cbd513342fe9bbea3b6bbee50832109d25deed14a5d"
 metafile = true
 
 [[files]]
@@ -1100,12 +1100,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "37e78b02e26a6da0a9ee0363f5d2e00dcd7e36daadfe29840ce6544fb4fba2a1"
+hash = "9315c4dcfdc8ff67bff290c27ca4346181f7ef9a00ead9182a95b71580e8945b"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "0c99846d326f4aac369d7fcda7be4c7680bf621a5b95759fa9a29786f23da7ad"
+hash = "63ac2e09253c857384613195487998e37ebe1382916ffc5f9b428176f6960abf"
 metafile = true
 
 [[files]]
@@ -1125,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "d4f4c08189748eeac94188d8bbc1b0ab0399a543c56300570d2640704afdf10b"
+hash = "c180d5fa857aaa4595bbf0bb78143fb85cf6da599ec2f23d0a4b1c8f5e0f1cf3"
 metafile = true
 
 [[files]]
