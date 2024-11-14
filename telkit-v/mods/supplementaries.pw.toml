@@ -1,13 +1,13 @@
 name = "Supplementaries"
-filename = "supplementaries-1.20-3.1.3.jar"
+filename = "supplementaries-1.20-3.1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/VKTtfij5/supplementaries-1.20-3.1.3.jar"
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/JBJRugqY/supplementaries-1.20-3.1.6.jar"
 hash-format = "sha1"
-hash = "d9b30e5456f59b8c7efb49686f306d3d1639921b"
+hash = "9ba914f5e9421a19c0a6797e10167f65b6cca50e"
 
 [update]
 [update.modrinth]
 mod-id = "fFEIiSDQ"
-version = "VKTtfij5"
+version = "JBJRugqY"

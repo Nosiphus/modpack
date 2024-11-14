@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "a113d91e62404abedd1050a2f64da0db65a36f71790c25088a7b0e3a515f1e3a"
+hash = "47eacfd98ed8a188bb04bc11c6652a95a340400ad515113f153b8a6d027c9e96"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/appliede.pw.toml"
-hash = "3f0569b85a015a816a6f928966ccb8299c07cd4c187c23c30e2df1b7ab9f5a5c"
+hash = "18f4ee5504504d076f0438f26a2bd4332cb70f585815e1e41e88ed8f1cf41a3b"
 metafile = true
 
 [[files]]
@@ -339,13 +339,18 @@ hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
+file = "mods/controllable.pw.toml"
+hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "f38240554929fc2c4312f8ea70124bfaee038158d97f2db4e04aa16e1efa7fe8"
+hash = "ab71018859500b94ba90b79cbaaa0b04b10909cc0eb46b2322921f20779ad1e4"
 metafile = true
 
 [[files]]
@@ -470,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "9ca27bb793a5a39e45204886df05d03ef6b59b657a42ec24993cb66747b8b6e3"
+hash = "f8b02970e563950b90708f63f447e0bf0fdd6ba2ef2e6f253f5a07d31b85e823"
 metafile = true
 
 [[files]]
@@ -595,7 +600,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "eed23a2df85b96496371239745b9b8eb359bd39ffc9164bbcdba5d896a56fd1b"
+hash = "cbbbc1ca5d31d73828f067503310d3b39119e4a2fc196dbd17e1b23eacfde8d4"
 metafile = true
 
 [[files]]
@@ -740,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "e472e82c4c2002a28615c878917391ff84844f677549865d0429e84b60f8cc06"
+hash = "74d676fb885ce3aeea0a05f8cc490964f83182115c61ee7bdf814d21a4b652b3"
 metafile = true
 
 [[files]]
@@ -945,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/railcraft-reborn.pw.toml"
-hash = "6a67a3bf09a56d70d6512934be65d26c8617750e4eef07af812f976be14ba2f7"
+hash = "b77e6da12b779702f2632f818a8a7da04f85fde8d45aad5d58bdd30d87de71fd"
 metafile = true
 
 [[files]]
@@ -955,7 +960,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "6174bb14ac82ddbd83df42d91ab413960a2d173186b16bad918e378a49494143"
+hash = "d9df6bb446a3cb63a2c42ac70a04b047cd1ed1c426248306f314e4163344dcd3"
 metafile = true
 
 [[files]]
@@ -1030,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4f431c1407dd207b458650589b8a60798cc0b71edc62dd9cc77989ece5233def"
+hash = "bea4a4926d01385d9b5afc4fa9749a8e794f6513ef70a8660ba647d3096f858f"
 metafile = true
 
 [[files]]
@@ -1105,12 +1110,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "63ac2e09253c857384613195487998e37ebe1382916ffc5f9b428176f6960abf"
+hash = "6fd32a844164fe351c7320240d574bbedfc39fed67ae2ade477d16516136a98f"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "4bbb27da6629b444e956a490964cbdbe775f0b7da78bd4761cdb3029782d87a2"
+hash = "55ba5c656c56e3d5759098a5481b74b67740f5e3c637bad5cb12e2f6f513cebc"
 metafile = true
 
 [[files]]
@@ -1135,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "8609a239df11ca4c749d904a84f2eedd4e9b991873257294f5fd69f123bc708c"
+hash = "570bd34f81398327f57fbea2f4d49db1011a65417b96f48791547895466ab654"
 metafile = true
 
 [[files]]

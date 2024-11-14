@@ -1,13 +1,13 @@
 name = "AppliedE"
-filename = "appliede-0.14.0.jar"
+filename = "appliede-0.14.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SyKS54UY/versions/vYxs340D/appliede-0.14.0.jar"
+url = "https://cdn.modrinth.com/data/SyKS54UY/versions/Y2AAOIY1/appliede-0.14.1.jar"
 hash-format = "sha1"
-hash = "df62a7e4b291bb2a33933b6d1163ef68867e1391"
+hash = "3497a62be89ba4d67c65d8065c8f6d1f66559548"
 
 [update]
 [update.modrinth]
 mod-id = "SyKS54UY"
-version = "vYxs340D"
+version = "Y2AAOIY1"
