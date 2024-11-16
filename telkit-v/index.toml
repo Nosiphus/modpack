@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "47eacfd98ed8a188bb04bc11c6652a95a340400ad515113f153b8a6d027c9e96"
+hash = "32ab2e6fc0b412a16262a64a22361b60896a6dbbd7a18e02f0652e649af0c752"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -110,7 +110,7 @@ hash = "848b6f23735b9a10abf8525b75a16006daa88fe9baa8f694735d4c7410a228e3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "aab6eee965312f66601aec93606bde3b14d842140190b16b096238fed2583955"
+hash = "112b0e8318e2fac9b264eddd926bd8629371262e5797eec293e5218612350299"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "1b7c49374b0a87723138d12ef15d1d8374787e012cc6de6dd58a68602664ff2a"
+hash = "1c3cfa81a388998354f502d8dfa2aa21edf8dfd52cca685d1ba6d2bdb83f3470"
 metafile = true
 
 [[files]]
@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "55ba5c656c56e3d5759098a5481b74b67740f5e3c637bad5cb12e2f6f513cebc"
+hash = "ca00e16293b19cf3f2da6453828be17ec190720de24868f1f6dbc8913556d17d"
 metafile = true
 
 [[files]]
