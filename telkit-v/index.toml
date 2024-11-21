@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "32ab2e6fc0b412a16262a64a22361b60896a6dbbd7a18e02f0652e649af0c752"
+hash = "b255fecac5daa2250e79e5f6a17189d4b4b239c0794006509a810287c12b868e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "bf478af7ae31e03fd5029f622c1ebb764466442f1902b7be2cba3ab040811b52"
+hash = "bf85fa7d542ddf7b41f05954ed77a9e5f95a7e68304324015c742ddc63c9bd89"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "43bd0de3b867581d9e806c36d70096f427100bcb47c248121247e81f1f07a0d5"
+hash = "5623ca0299d42b18557a10cbc1ab438e701b30295111c986d00915f15b122112"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "d9968d6500c4052633307714bdb3044ae29deefdc1548c6aba16fa36e5697e22"
+hash = "5c20b2ca414f1e102c064addcae42507fc9b980030ddfc94b5e2820c24181028"
 metafile = true
 
 [[files]]
@@ -470,12 +470,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "e9c6b3b5136145f21ee53f5365227159363126dd687e1040001ac3dc28ad3c61"
+hash = "2a793e04fdf149074c8b72061d957d61d9f521318b846cfd8eb5d7da809440bc"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "f8b02970e563950b90708f63f447e0bf0fdd6ba2ef2e6f253f5a07d31b85e823"
+hash = "bf972338155367fe3d3cab68b2c9f34fe58616caad6ff601a327eb452f6dacac"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "c54736c6ca21387a33ec422e2dac89789869c4b61705cfaddf69535a2c8008d7"
+hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris-flw-compat.pw.toml"
-hash = "e71694b7c6640af4b9020bb10c634155ffc7c5f5bd520990b65d954d851e3922"
+hash = "f0c4b5a898f3954d3165c8f6f9e3679a3d84ba016785011de528593679993d7a"
 metafile = true
 
 [[files]]
@@ -710,22 +710,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "6595e106065ed61341ffb94c3e7b9bed8d9b16e18addd2ced97e8da927456bf3"
+hash = "aebbb3b3a12efb041bccd743138e7ce3592ea4d9239e17fb2bf1a127b8c82297"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "59fa9d1bd62cb752d909131e3560e5c15d20e35aa6847a6a6f39102ba03af6d7"
+hash = "cbeee23d8a6f5b4d70de812ef95c20c3c073e010306e5753ea4f665348c13319"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "7b17c1a9f691d0e971b11db1d78ac25335fde38bea36fa43f6a8fbb72ccb2d84"
+hash = "8261ea49ec193bb9c2e1ff15ba0a8d0f3d0b052890c55b2ae67f542de83c5db6"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "fe59719a3c52224e8a02b13b8dfc70f9bfc6625beef19c6b353249eb53714f86"
+hash = "3cf734edbfe60f999c686fdfd952b263746e4d523628c6a7391906ebf4a14598"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "71782ceb27809f91d690d7f2d1946d1e49956550595f5d9aaaa138b2f827b038"
+hash = "a786a378b236ed1a9d61f8e30160f069f12b639efa89892ddb30fd64c6ec3d44"
 metafile = true
 
 [[files]]
@@ -885,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "521be56c89bdbcb7492f5cbd513342fe9bbea3b6bbee50832109d25deed14a5d"
+hash = "70976b55c95c9003aa981699784a18636116ad950061fdc5fbeb5a257113536f"
 metafile = true
 
 [[files]]
@@ -1035,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "bea4a4926d01385d9b5afc4fa9749a8e794f6513ef70a8660ba647d3096f858f"
+hash = "8dcb922aa930656a8755850be60c75a010b28b3dea5563acd873d1c83b6ab064"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "6fd32a844164fe351c7320240d574bbedfc39fed67ae2ade477d16516136a98f"
+hash = "66a82e4c2d0d0a0cee8870e8050ba79b4fad594569282d0726e7749c39e2daac"
 metafile = true
 
 [[files]]
