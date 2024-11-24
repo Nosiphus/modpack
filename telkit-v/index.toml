@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "b255fecac5daa2250e79e5f6a17189d4b4b239c0794006509a810287c12b868e"
+hash = "ea9ec4c24296ce67b7015d2bd0211dcec2c87b4bb37208e9e1da39fbf58d823a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "1c3cfa81a388998354f502d8dfa2aa21edf8dfd52cca685d1ba6d2bdb83f3470"
+hash = "ca9bf272ff59fea86b50d9a6f6728a9a5b1b5079b538ac5d6e17e2d6fa66780d"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "bf972338155367fe3d3cab68b2c9f34fe58616caad6ff601a327eb452f6dacac"
+hash = "a30ade70e5a83421bacf718a4ce8d76a6e10a043735d9a80ce337f195df8ae17"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "e7a40fe1098ebe6927703ba59660eec7b90777cd00cfe9baa8fe48e0a888e2b8"
+hash = "6e12f6c7549e2a4029c61d6849b187d6ec26c286ac216ad2db64178c0f495615"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a786a378b236ed1a9d61f8e30160f069f12b639efa89892ddb30fd64c6ec3d44"
+hash = "0a14c3ff8df25920f039156fa2b0bf1c3f6978dae48e40ecd80608a587ae9527"
 metafile = true
 
 [[files]]
@@ -1035,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8dcb922aa930656a8755850be60c75a010b28b3dea5563acd873d1c83b6ab064"
+hash = "7d5d614a45b10f0d1a8b8b362ef638da3819fd03487e46ea5e3b5a7763661ea4"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "66a82e4c2d0d0a0cee8870e8050ba79b4fad594569282d0726e7749c39e2daac"
+hash = "8808d070bed77fd0643c9b61dad51ed2ea5f850e71d83b7ec01f96348fac30c9"
 metafile = true
 
 [[files]]
