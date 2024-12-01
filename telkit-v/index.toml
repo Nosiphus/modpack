@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "b6b72cc33c395a309e886fcaf497985e07af09f6c7e0010836458fa8750ea8e9"
+hash = "de994ff3b8e39acde096cf7653757ca3cb6023b6d5c73c0926aaaf930a4303b6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "02d48efda275a879a8af759d78c05133cadeb336bbeb26aea6b2fc40ad64aada"
+hash = "53e00942cb19a0b2c096ab153341ec53a186c7745881bbe9fab453887eabfa0d"
 metafile = true
 
 [[files]]
@@ -430,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "5c20b2ca414f1e102c064addcae42507fc9b980030ddfc94b5e2820c24181028"
+hash = "be04da0004ea86c126254940907e6767082778405141c15c170fb6c7fffebd37"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "4ddcdbd91c0267130f149945f4cdadbcf27f963b1b4e4aafdf3738f5df5c8813"
+hash = "5350a79dbf2c08710968b29ee065d95e2c5c313d1346c71f1092890021b0d5f5"
 metafile = true
 
 [[files]]
@@ -995,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "7b4ca93e41fb2eb370db8b5b2efb0c0d6c0d1c84c1990745859ffed0eae992f3"
+hash = "fd0dc17f8399f56b6ada89d0fe45dfe5e60b2dc5ccaecd0685e586abaf8feed4"
 metafile = true
 
 [[files]]
