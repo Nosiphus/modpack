@@ -1,0 +1,13 @@
+name = "KleeSlabs"
+filename = "kleeslabs-neoforge-1.21.4-21.4.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/x9fJOK71/kleeslabs-neoforge-1.21.4-21.4.1.jar"
+hash-format = "sha1"
+hash = "d58dd3ae7553508014e4fc5797c59963833ff0f0"
+
+[update]
+[update.modrinth]
+mod-id = "7uh75ruZ"
+version = "x9fJOK71"

@@ -1,0 +1,146 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "369f1bdac961b4fb67e5e5c3001fcd1718d13e1371f46a1e2e0a6209cb4417ca"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "7d7b351963839c1ddfe2789891caef75cb440b2067bc4052ba0d0a2ebdceb8f2"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "b3bcdda642c7145d88d9c92b1369e29988a8424c99b17080741b5ac0c0cc1e36"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "5be9efdc4aa6ed914949b313af08ed6b9946b3fddde2a35602a60336aaf4dc40"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "b3332ece8f80fd2a482b0a7402ee017e09939f72e14c5e0ea5a6b233dee7a3c6"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "19bd9ee3cf483baccec23324be6c50db1501b56f45195b28dba37a49095dc5ff"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a628ec9679359bfbbf7d72b0fad460b96aea27779bde374f3d47307276c6c526"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "83a9cd850c14df8e4e102fd8deec2ef3087674964d985a194a3452232b2100da"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "5b104526b3ebd4d213690850bfde9069d6fd53c5611e841b8f330eb6a69f0f7a"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "8b8edef314e8b9a2958177559f4517233d95e6fa1085c071bb37308f88893a51"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "93b9daa62a46ad070bec263cf43ab288c2c86d97999b0a911e6c8d92dec68583"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "8c2b6a399172ad70e7008e1f25b5c0c72cb2c567fcb34db7978c4df17d976e3f"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "4b076b33ee9c71ddf9997db17b82391d4a3f7841cb640dc1c6c39855c93f0544"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "27ccde7f0ed9f901c70865aeb392ccbca5fdb94da7c92e23503e7a6eba8c5988"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "7f66c57fe989fcf83506a055ffb98988f4ccceb4522dd5120b1304e69026439e"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "bc0951904195f0321a238a20aa41010a84ed31b3c724168fd4ff4cae4e7d0a86"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "73a885eda2ec9c9066d718a385b04229094830498797f7ddde13b55284a818a4"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "226363c98282c10cf9a830c26407aec90aa8b5212374a7b7b476e98b2f92affa"
+metafile = true
+
+[[files]]
+file = "mods/moderner-beta.pw.toml"
+hash = "7dc5cbdca42831c161262b7de5db2201efd61f660d7800606b92217de6158505"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "71b0f9addfa56eb0e9884bb60a75a3000856246d420c14e9f036b2f5c5a0f717"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "c6897412855cc257522528388d6e7a0bcb8a12b63a68b1b56dd3067a7e0f9b72"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "6c013e51a46b33cd525add1aaf7a33706cf0224c54d6688aec0db86c3b275bac"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "ee144064a08e7f2f6ff3e1bd942f51c8c5d3cc92f0a8d90706e781abb48741e2"
+metafile = true
+
+[[files]]
+file = "mods/sodium-shadowy-path-blocks.pw.toml"
+hash = "2c9b13ed888fe1f0230a473400968c5206a17d0f43ad9898fef75c0b8d262d21"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "c4892bbae1d8207802e32de135a3763b6f77a523974d0215e39232028ae59bfe"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "846f95d667af918af7d6a68f68d5c207749e74246894f0df17f84424d05306dd"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "ec3d6faa700485dabc3d7b0bfbffcaa425c9987f78bbcafa048a5bb556e76260"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "91fffad6142d3cc85ccbc4c9861578c165baf6e77a0f980f86aff99512b550f7"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "8f4c70435e1bed26c1463e7533b9549282ee661f9c39715b2cb5ccdaa0146628"
+metafile = true

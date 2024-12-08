@@ -1,0 +1,13 @@
+name = "Cubes Without Borders"
+filename = "cwb-neoforge-3.0.0+mc1.21.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/3qGYXhTs/cwb-neoforge-3.0.0%2Bmc1.21.3.jar"
+hash-format = "sha1"
+hash = "fb5225f66af0d5469e3308993e5304c19ba21a5b"
+
+[update]
+[update.modrinth]
+mod-id = "ETlrkaYF"
+version = "3qGYXhTs"
