@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "9d4e3cc05f59bdd92410062346f2374eb80261253e85c725a35c24f4bea3f87a"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "369f1bdac961b4fb67e5e5c3001fcd1718d13e1371f46a1e2e0a6209cb4417ca"
 metafile = true
@@ -43,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "5b104526b3ebd4d213690850bfde9069d6fd53c5611e841b8f330eb6a69f0f7a"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "1823d8b3491804ffe8326866343519fdcdbfc92b999305f51d5948c99229f9ec"
 metafile = true
 
 [[files]]
