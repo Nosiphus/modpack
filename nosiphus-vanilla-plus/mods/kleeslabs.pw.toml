@@ -1,6 +1,6 @@
 name = "KleeSlabs"
 filename = "kleeslabs-neoforge-1.21.4-21.4.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/x9fJOK71/kleeslabs-neoforge-1.21.4-21.4.1.jar"

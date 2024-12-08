@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "73a885eda2ec9c9066d718a385b04229094830498797f7ddde13b55284a818a4"
+hash = "4e303b214cc4aa33c1b56705fa34c935d3ab15213ae5769ee355d9b878c2cd0c"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "71b0f9addfa56eb0e9884bb60a75a3000856246d420c14e9f036b2f5c5a0f717"
+hash = "5a6528b2b6bda05151bdf708fca54c8aa862bfdd82e3fe25b0eb9a1271a7d18a"
 metafile = true
 
 [[files]]
