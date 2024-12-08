@@ -51,8 +51,8 @@ hash = "8b8edef314e8b9a2958177559f4517233d95e6fa1085c071bb37308f88893a51"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "93b9daa62a46ad070bec263cf43ab288c2c86d97999b0a911e6c8d92dec68583"
+file = "mods/dynamic-torches.pw.toml"
+hash = "cbc5ded8270f2cb97ae794ec88a2cf6da02723ba91fd3371c1974d0fd316ff98"
 metafile = true
 
 [[files]]
