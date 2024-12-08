@@ -1,13 +1,13 @@
 name = "WATERMeDIA"
-filename = "watermedia-2.1.6.jar"
+filename = "watermedia-2.1.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/G922NeHS/versions/ewjC4SvT/watermedia-2.1.6.jar"
+url = "https://cdn.modrinth.com/data/G922NeHS/versions/iamQbJkF/watermedia-2.1.7.jar"
 hash-format = "sha1"
-hash = "16e1179715c17f73005157d996da7fe14accf535"
+hash = "28d31c0723a4750f13863f0cee7b52637f6dc247"
 
 [update]
 [update.modrinth]
 mod-id = "G922NeHS"
-version = "ewjC4SvT"
+version = "iamQbJkF"
