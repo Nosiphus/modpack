@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "50f552ed57b749c0b02447b4515c3294fd52ead102ef2ee7bf8bcb015125ff98"
+hash = "c071de9080b3e496f7b5d14f3d6b955fca5072abd728fa51348ffecb43360093"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "695b3144a0d11c300f56f67c22c92f721deffb15d7421fc11eed11facf257908"
+hash = "1982c409c2a0dd1627f7cf36b78075334994299fa5a3c6689a903e615957ebe2"
 metafile = true
 
 [[files]]
@@ -997,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "a022f50e008c09811397930e79bdd8c96c9faad8ab106eb646b1360f8e01519b"
+hash = "c39873c3e8c4d1498a543ec3f689bd4ef6f019d0c286f5495baa40a77fcdb91f"
 metafile = true
 
 [[files]]

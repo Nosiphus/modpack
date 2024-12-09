@@ -34,7 +34,7 @@ hash = "fd23cb8becf6463b7ae75767584a5a6a61de0b104eba768faa6d4582b1a91f57"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "c6870a11fb308a71941164795e2d49c63a74a1a6de8d57d85d1e283534c1a020"
+hash = "fdd265ba5bcd988a07b018928eebb205653a6fddc262f37208c00a42a7eb5173"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "5350a79dbf2c08710968b29ee065d95e2c5c313d1346c71f1092890021b0d5f5"
+hash = "c0865973898c4608085af900179646c1ddc70f6e59cb4a633f11130caacdbb72"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "63b217c92b6d1f77bfc81ac499dbaba2ae3d964888d44057a34bb5dab8b723e0"
+hash = "17119379a925a5d60f97d618336a7ac1524ec9c434beb63dc510b53788be0ff9"
 metafile = true
 
 [[files]]

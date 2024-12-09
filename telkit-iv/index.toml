@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "500ccb8b3976f9b954e86b0927500ea58138bbed7486999aa4ddbd7b15215b68"
+hash = "03325e56cff09af48babd81bfede9494ff367beb9e58abb32bb899599336da9b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "63643ea57120e824122e286233720866c855702d21346585ac0bec062d503a6d"
+hash = "f6c3adae9dd91c287548ac56c49bb1f097794a3f179d5614ae0fd0a769b5d523"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "b9c208629d8bed0fe32986525ce9a99c0a7b198077f036cc89a7298447baf92a"
+hash = "967890e524ab2e08db3b70ddca1db0c50afed2b2d1a8213b3ca16c31095de890"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "5f25fc7780b589577a825f8e5f3063eda67c6057052f76054bd7620901a67ea6"
+hash = "fc002eee04583c5cc5789aeff36d8fa5df384fbe1aaeb6271c693f038ca575c7"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "708c9eb59187d616007ba99f8f2ecadb87f5df0bf7dbe63df940fbcf7236e02c"
+hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.pw.toml"
-hash = "fb6aaa205e20ff13b83ab0777e063d1395e5f4b2de62d158cc5c393930c83646"
+hash = "aa03fef187b547e8351af47152631140875de32acabc293fb76428b7d1e41217"
 metafile = true
 
 [[files]]
@@ -1070,17 +1070,17 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "4921623af0514181144a79bca315977b4313a600da518b9b9956d32885021d97"
+hash = "37192962beb8414505f25aeb7c4c08f5660875e4de58f4e1100d363dbbba5e0a"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "33f99562eeb910a7ab3a93370b8beaa8d0038e1fa4e9c4030f32cc4541ad5edd"
+hash = "adb73fa757cda1dc466cb811d0e17cb6b2590600063fca8988b4cccac8d7e1af"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "c294826aa15e099fdc8a47874b8a1e9daeb5ea367666204442e93d656203d2e6"
+hash = "b6d76a5e88399dea0579ca9ffeb5821d42d05e32c48fd75cb17270fef9411b3f"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "cfc2321d5ff079aa23518c554c499ad2af445717aa0b8dced98954f8c225fc23"
+hash = "fee7ec23691af1d4a85b8cdb5cdd00b6a55da9e1fff604fe8da216e3273de3df"
 metafile = true
 
 [[files]]

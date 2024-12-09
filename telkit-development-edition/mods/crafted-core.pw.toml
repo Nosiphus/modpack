@@ -1,13 +1,13 @@
 name = "CraftedCore"
-filename = "craftedcore-5.5.jar"
+filename = "craftedcore-5.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Dg7PHdkJ/versions/nIEJY7n1/craftedcore-5.5.jar"
+url = "https://cdn.modrinth.com/data/Dg7PHdkJ/versions/O0przLxX/craftedcore-5.6.jar"
 hash-format = "sha1"
-hash = "6175677e720b1b7731b9393868621a7bc0be4ecf"
+hash = "c2f593f3c3c0ad53361123a20cdf9000cd2b0c76"
 
 [update]
 [update.modrinth]
 mod-id = "Dg7PHdkJ"
-version = "nIEJY7n1"
+version = "O0przLxX"

@@ -1,13 +1,13 @@
 name = "WATERFrAMES"
-filename = "waterframes-NEOFORGE-mc1.21.1-v2.1.7.jar"
+filename = "waterframes-NEOFORGE-mc1.21.1-v2.1.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eBzFuVTM/versions/xZWyO7K9/waterframes-NEOFORGE-mc1.21.1-v2.1.7.jar"
+url = "https://cdn.modrinth.com/data/eBzFuVTM/versions/PdtAWav8/waterframes-NEOFORGE-mc1.21.1-v2.1.8.jar"
 hash-format = "sha1"
-hash = "96b1d933a1827766b51caad215d62efdcfd802a6"
+hash = "08c0e3639ef8a320d77ae86c9a5d61989da1c5a4"
 
 [update]
 [update.modrinth]
 mod-id = "eBzFuVTM"
-version = "xZWyO7K9"
+version = "PdtAWav8"
