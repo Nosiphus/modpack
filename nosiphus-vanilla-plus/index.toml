@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a628ec9679359bfbbf7d72b0fad460b96aea27779bde374f3d47307276c6c526"
+hash = "ac50a02f87ff58b347da93f35b525631cc9cb600f99127c1c8c3a9629715feef"
 metafile = true
 
 [[files]]
@@ -82,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "7f66c57fe989fcf83506a055ffb98988f4ccceb4522dd5120b1304e69026439e"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "39b37eefdf85d784621860ec1ad83c0750aa1bee9d370656eafdaca6208bb6b5"
 metafile = true
 
 [[files]]
@@ -136,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "846f95d667af918af7d6a68f68d5c207749e74246894f0df17f84424d05306dd"
+hash = "55c43781e356b127d839fa3617109402751e5507bd6aeb57166d4f24c7ac23b3"
 metafile = true
 
 [[files]]
@@ -151,5 +156,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "8f4c70435e1bed26c1463e7533b9549282ee661f9c39715b2cb5ccdaa0146628"
+hash = "08992776b21c4d195d0659d5aa91b1603acfc39ac787cb7658535df66e37b3d0"
 metafile = true
