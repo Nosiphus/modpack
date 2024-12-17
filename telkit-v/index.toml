@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "5460eb37f3772817a7d30e8207de6c348d5585bed895e6f8c7cd6fa06177a59c"
+hash = "258dcfabf9592f852e67a42c7da95f2138a9e96d6c55e1717f120bef299abc2d"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "72acca6c72758d486a729d72573c789bdcf5f65ceac79ea70cbcb134405ac999"
+hash = "17119379a925a5d60f97d618336a7ac1524ec9c434beb63dc510b53788be0ff9"
 metafile = true
 
 [[files]]
