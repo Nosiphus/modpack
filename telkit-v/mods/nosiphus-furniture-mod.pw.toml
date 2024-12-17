@@ -1,13 +1,13 @@
 name = "Nosiphus Furniture Mod"
-filename = "nfm-2024.09.20-1.20.1.jar"
+filename = "nfm-2024.12.16-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9cf05f00d31e613b849086d077166167da925d98"
+hash = "68d0afcb90313967194efe69396486b31f6a19f0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5740353
+file-id = 5997521
 project-id = 593876

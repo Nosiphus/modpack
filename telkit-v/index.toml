@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "069624e85a785368a3ad64efb89c533c206854fd41b309d3889fade55782d35a"
+hash = "667e12386aea2d0d74d58774e524b67921f03d8fd2b5382967e1e9b3f1b10cf6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "e2198e0978598945ad2eb864880c0ebae03f95d1c8b2e4b0fb65421d8b865812"
+hash = "206778d49fb3009bc2a98b415102a5d750b38b8ae710a8140e8dd04d32f0ced7"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/devices-mod.pw.toml"
-hash = "999cb51876b7d9f9cecc729d2f4b524b1535bc85e18fac1f338dd1c9823cbb76"
+hash = "ca9858e634ae40cf652b39be0029a40a883bf185866397ecb41c4913fc81e67b"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "258dcfabf9592f852e67a42c7da95f2138a9e96d6c55e1717f120bef299abc2d"
+hash = "5460eb37f3772817a7d30e8207de6c348d5585bed895e6f8c7cd6fa06177a59c"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "17119379a925a5d60f97d618336a7ac1524ec9c434beb63dc510b53788be0ff9"
+hash = "72acca6c72758d486a729d72573c789bdcf5f65ceac79ea70cbcb134405ac999"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "636ea5ccc8360766a0dd5e43f0016812d857df704cbfe851c35c08f96a9aca1b"
+hash = "065450dcc195706a9c392f37678404aa5cdd3268b4fb641237014abec50dd0cc"
 metafile = true
 
 [[files]]
@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "00322f0c2a1ed0b9e28f823b3c7f5b40d3ede06db32f3d4aa4d1391a994c306a"
+hash = "4b156e5231ebc8aa2ca733dbd029d00be50d08fc219d60022020037b1c21e62f"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "c180d5fa857aaa4595bbf0bb78143fb85cf6da599ec2f23d0a4b1c8f5e0f1cf3"
+hash = "a62831380cb585ff66f4cf9f4c2c136bca13147714597b9add9afa25ab5ff852"
 metafile = true
 
 [[files]]
