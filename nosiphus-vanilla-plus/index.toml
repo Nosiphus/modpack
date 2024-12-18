@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "19bd9ee3cf483baccec23324be6c50db1501b56f45195b28dba37a49095dc5ff"
+hash = "7e1a025cfbc4b528516e5150b9fc7d1e4dda267b9c786144161fddfe49e0ff03"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c4892bbae1d8207802e32de135a3763b6f77a523974d0215e39232028ae59bfe"
+hash = "4929fbfc1d3401e4448ebd7a42afb604f2ba26f1d0f30687d8ddf05d7cbbabc3"
 metafile = true
 
 [[files]]
