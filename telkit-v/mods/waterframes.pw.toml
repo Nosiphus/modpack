@@ -1,13 +1,13 @@
 name = "WATERFrAMES"
-filename = "waterframes-FORGE-mc1.20.1-v2.1.7a.jar"
+filename = "waterframes-FORGE-mc1.20.1-v2.1.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eBzFuVTM/versions/MGzbWa4B/waterframes-FORGE-mc1.20.1-v2.1.7a.jar"
+url = "https://cdn.modrinth.com/data/eBzFuVTM/versions/JK7CgKYe/waterframes-FORGE-mc1.20.1-v2.1.9.jar"
 hash-format = "sha1"
-hash = "ddaa4a685920941db9b7e62c36893fac350ee381"
+hash = "80a7475b04948f126ceb5718eff24fe67d1e5ac7"
 
 [update]
 [update.modrinth]
 mod-id = "eBzFuVTM"
-version = "MGzbWa4B"
+version = "JK7CgKYe"

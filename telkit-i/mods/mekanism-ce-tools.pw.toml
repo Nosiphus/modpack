@@ -1,13 +1,13 @@
 name = "Mekanism Community Edition: TOOLS"
-filename = "Mekanism-Community-Edition-1.7.10-9.10.41-Tools.jar"
+filename = "Mekanism-Community-Edition-1.7.10-9.10.42-Tools.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9a2dd51dfea7195fbce41104377970cc2faa878c"
+hash = "24326e1e49ea88b7ed8b384b9cc2330d3d247ff9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5826326
+file-id = 5988085
 project-id = 813407

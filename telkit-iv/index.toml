@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "03325e56cff09af48babd81bfede9494ff367beb9e58abb32bb899599336da9b"
+hash = "cf05738123a5ffa6556bc72de9c4cb411e0e14f93ec66fb5a024f97f19649550"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "e62e06226f0c8c2a9121ab2316a310f5978f95471b22cf25b96b5e030c95fc8c"
+hash = "dd8eb5ca7b38b7607b1632ee0cfd7e6d9e3d3e6db2c345639e99b431f840cf20"
 metafile = true
 
 [[files]]
@@ -1070,12 +1070,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "37192962beb8414505f25aeb7c4c08f5660875e4de58f4e1100d363dbbba5e0a"
+hash = "b62d7ceb889d7b5eb7e4e54275349d61e5312d837fb506206a660846b8e0bcff"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "adb73fa757cda1dc466cb811d0e17cb6b2590600063fca8988b4cccac8d7e1af"
+hash = "833687f3fae2e07924ec1a47895959b9a309cd88edf24a59658852b54e01d9a3"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "fee7ec23691af1d4a85b8cdb5cdd00b6a55da9e1fff604fe8da216e3273de3df"
+hash = "b30fea1b7a85110a39609128097891e21553ebd3709a5f1b788e806ae07f23ed"
 metafile = true
 
 [[files]]
