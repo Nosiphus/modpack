@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "24313fe91c6e630547c65ee7963f705c8a627476ed22d3b17441b58b35ffe11a"
+hash = "8c34cca4a4892d1615069e21cc41f2cbb59d3cca55ae815a431447eb1d6eeb8c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "72c3437c4ebd722d84a0f9c2c12a68de1b82dbeb18ea862efa28a65fc412ede4"
+hash = "f3f288493f1901e2f6360a63568ae17518edea1f88256db52b5dcefbedd4b208"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8fb9336b3b179de547c47d1bb92498bcb06b1be1826bf03921822a51e7cbe6f8"
+hash = "5781be25e0015e0734233f2bcffe225833d49ef34f30452525ddd6a1a919836b"
 metafile = true
 
 [[files]]
@@ -1050,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "3c812e3e57600eef81724eba1bd36452338bcd0214a6364ae980026742fe96a1"
+hash = "5b0f0631973afd0e2e62ed62a88e17a95a7561fbe20d2a4dda669281c12b8b3b"
 metafile = true
 
 [[files]]
