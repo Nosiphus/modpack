@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "cf05738123a5ffa6556bc72de9c4cb411e0e14f93ec66fb5a024f97f19649550"
+hash = "adfaf13ef2013c728ee327b9b101ecfd8937c78732b1ec87ebb448c4b75dad68"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -1020,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "6b61842d36d3905f4db39c1c1bec49490031dcdd4d0ddc447d7a819cf0bb8c9b"
+hash = "92ffb042484c70f7d31d9ff15d3b404eb05e1799cc94c2b0f0c2112a8bb51df4"
 metafile = true
 
 [[files]]
