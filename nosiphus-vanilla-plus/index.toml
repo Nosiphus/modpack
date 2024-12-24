@@ -15,11 +15,6 @@ hash = "e70b89e664893a96d2b2b4f5a3ff2cb72621cf25799c35327f1584469a1fb822"
 metafile = true
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "f0bdd5956ebf7a31977cf03b3a98c91809fd9eeba475da2f583981bd204dffd1"
-metafile = true
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "7d7b351963839c1ddfe2789891caef75cb440b2067bc4052ba0d0a2ebdceb8f2"
 metafile = true
