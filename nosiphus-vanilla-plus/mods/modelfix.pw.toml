@@ -1,0 +1,13 @@
+name = "Model Gap Fix"
+filename = "modelfix-1.21.3-1.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QdG47OkI/versions/tgaRyAbD/modelfix-1.21.3-1.11.jar"
+hash-format = "sha1"
+hash = "db14fd195ccfbd11325f1ba9ca33771c23a4ef50"
+
+[update]
+[update.modrinth]
+mod-id = "QdG47OkI"
+version = "tgaRyAbD"

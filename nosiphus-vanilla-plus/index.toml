@@ -10,6 +10,16 @@ hash = "369f1bdac961b4fb67e5e5c3001fcd1718d13e1371f46a1e2e0a6209cb4417ca"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "e70b89e664893a96d2b2b4f5a3ff2cb72621cf25799c35327f1584469a1fb822"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "f0bdd5956ebf7a31977cf03b3a98c91809fd9eeba475da2f583981bd204dffd1"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "7d7b351963839c1ddfe2789891caef75cb440b2067bc4052ba0d0a2ebdceb8f2"
 metafile = true
@@ -35,8 +45,18 @@ hash = "7e1a025cfbc4b528516e5150b9fc7d1e4dda267b9c786144161fddfe49e0ff03"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "e25b6fb6134930209ed05c423be209983db4d9d8e10a3a25ecdd820345c787d1"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "ac50a02f87ff58b347da93f35b525631cc9cb600f99127c1c8c3a9629715feef"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "11f1744c1d48be2404f0b8db9072a368d839dfd74f5a6f7581ffbd1a98623598"
 metafile = true
 
 [[files]]
@@ -47,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "5b104526b3ebd4d213690850bfde9069d6fd53c5611e841b8f330eb6a69f0f7a"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "f905f7cc54dc51ab76572405639cf5d45e4c75e83286472603e0d7ec66da1d34"
 metafile = true
 
 [[files]]
@@ -105,6 +130,16 @@ hash = "226363c98282c10cf9a830c26407aec90aa8b5212374a7b7b476e98b2f92affa"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "ca94b98e753cdfc2da1fb79b80496c343fbbfa203667bda516b993f48479ff2a"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "45417ccc858d1a15abaa9985b40975897e1beb5fa4130552fbc4b5de696a09a8"
+metafile = true
+
+[[files]]
 file = "mods/moderner-beta.pw.toml"
 hash = "7dc5cbdca42831c161262b7de5db2201efd61f660d7800606b92217de6158505"
 metafile = true
@@ -122,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6c013e51a46b33cd525add1aaf7a33706cf0224c54d6688aec0db86c3b275bac"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees.pw.toml"
+hash = "f25a87105e57e749dcb6a73e7055bf8080b961ccd280164c4ade37cd474b1a76"
 metafile = true
 
 [[files]]
