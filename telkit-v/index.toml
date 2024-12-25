@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "0c6315dbf4e5c2bd70240e931ef519f4aa5987ae9945a31f8b9c4418e1a718b8"
+hash = "c91875f272f52f121de95ff8466b4fe30d78e2a90a8be5f80dbb5e8d3f25dba2"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -216,11 +216,6 @@ metafile = true
 [[files]]
 file = "mods/basic-parts-a-flans-mod-content-pack.pw.toml"
 hash = "1d68e0669a230db12112fc063975afee4ee506df9b9d243578c8e9115c83cde8"
-metafile = true
-
-[[files]]
-file = "mods/biggerreactors.pw.toml"
-hash = "4e6da4cf2017bca4146c97269e1a0c80eb377e9250b2629bcbc86476bc87fc55"
 metafile = true
 
 [[files]]
@@ -481,6 +476,11 @@ metafile = true
 [[files]]
 file = "mods/exlines-furniture.pw.toml"
 hash = "e5656d377d893e15279fa1dcaf062bea31bb60dadfbdcf6871180770845a44b9"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "40568e27bafdcd30606f25192bf1450dfb292b77cb7a3d9b47cf05b59bd8aa51"
 metafile = true
 
 [[files]]
@@ -869,11 +869,6 @@ hash = "a6e67317c7ce8c47a4197d7312647e8bc0065945fa976f1dedd8ffcba1d47d8e"
 metafile = true
 
 [[files]]
-file = "mods/phosphophyllite.pw.toml"
-hash = "8fed46897c8b28c832e0c3c6733d591ce462530280a8b0e84b9f5b84d222d93b"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
 metafile = true
@@ -941,11 +936,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "2bf1f46465f3a9650a62eb30c0608a566c1ad56e256bdfa378d5fca0e6245f42"
-metafile = true
-
-[[files]]
-file = "mods/quartz.pw.toml"
-hash = "a947d3f9d6f75fbe1e85d3bd7c3c5b7b2df9182fb4983604ef6168eef0034db2"
 metafile = true
 
 [[files]]
@@ -1146,6 +1136,11 @@ metafile = true
 [[files]]
 file = "mods/yogmod.pw.toml"
 hash = "06fdad871015065cc8da935a04298f97e5f9bb87e26d157acab55d09e3f53788"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "46eaae7e5edd7fc4169a3ecaee4f4b6f54edbf620232193531b1dbc7b34051dd"
 metafile = true
 
 [[files]]
