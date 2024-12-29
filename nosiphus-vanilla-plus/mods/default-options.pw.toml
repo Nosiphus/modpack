@@ -1,13 +1,13 @@
 name = "Default Options"
-filename = "defaultoptions-neoforge-1.21.4-21.4.1.jar"
+filename = "defaultoptions-neoforge-1.21.4-21.4.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WEg59z5b/versions/3vQgoPcl/defaultoptions-neoforge-1.21.4-21.4.1.jar"
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/jEO1c8T6/defaultoptions-neoforge-1.21.4-21.4.2.jar"
 hash-format = "sha1"
-hash = "eda84d734d96a8a1df0fa232ad915b53af05af4d"
+hash = "7b49578b82885a36172dc186fed9997edc7a2573"
 
 [update]
 [update.modrinth]
 mod-id = "WEg59z5b"
-version = "3vQgoPcl"
+version = "jEO1c8T6"

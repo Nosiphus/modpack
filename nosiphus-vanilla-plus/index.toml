@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7e1a025cfbc4b528516e5150b9fc7d1e4dda267b9c786144161fddfe49e0ff03"
+hash = "020f407f413540c0c1bbe61c39be11857eff23ea59c36fcb9cff9583b4a2432f"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "1823d8b3491804ffe8326866343519fdcdbfc92b999305f51d5948c99229f9ec"
+hash = "a178e48c7044cda56ede5e826cfdd33cd1bf7bda308e54b20de9b4c2903e0313"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "39b37eefdf85d784621860ec1ad83c0750aa1bee9d370656eafdaca6208bb6b5"
+hash = "469875b34c8e3f178c88b103455a9b98fef170f65286779f09cd1f21688cc934"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "4e303b214cc4aa33c1b56705fa34c935d3ab15213ae5769ee355d9b878c2cd0c"
+hash = "59dc0b6baa4bac1e8c7df1c1fad153f3d95db8778e1f02c3235233a7e1e1e7aa"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "6c013e51a46b33cd525add1aaf7a33706cf0224c54d6688aec0db86c3b275bac"
+hash = "f04bfa41ef06f3138ae8b61031a409df5d7ed4dba467075960d52ea667153f5c"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4929fbfc1d3401e4448ebd7a42afb604f2ba26f1d0f30687d8ddf05d7cbbabc3"
+hash = "c6bf9caaa9a0b15b2f5f73e99b6f4625dd261b40edd061d0ec9f4f0d6df76f50"
 metafile = true
 
 [[files]]
