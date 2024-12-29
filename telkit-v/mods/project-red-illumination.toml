@@ -3,11 +3,6 @@ filename = "ProjectRed-1.20.1-4.20.0-beta+16-illumination.jar"
 side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/6027/641/ProjectRed-1.20.1-4.20.0-beta%2B16-illumination.jar"
 hash-format = "sha1"
 hash = "3e8561da6bd12d25b7a83bbf376eba78c091ed50"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6027641
-project-id = 229046

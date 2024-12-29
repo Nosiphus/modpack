@@ -3,11 +3,6 @@ filename = "ProjectRed-1.20.1-4.20.0-beta+16-fabrication.jar"
 side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/6027/640/ProjectRed-1.20.1-4.20.0-beta%2B16-fabrication.jar"
 hash-format = "sha1"
 hash = "95463e073bb37d55dbe904325292eaf6f318b46b"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6027640
-project-id = 230111

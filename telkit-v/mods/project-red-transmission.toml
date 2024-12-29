@@ -3,11 +3,6 @@ filename = "ProjectRed-1.20.1-4.20.0-beta+16-transmission.jar"
 side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/6027/643/ProjectRed-1.20.1-4.20.0-beta%2B16-transmission.jar"
 hash-format = "sha1"
 hash = "4ef6904fd4d7630e4123050a13ea4836a4f1d9b8"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 6027643
-project-id = 478939
