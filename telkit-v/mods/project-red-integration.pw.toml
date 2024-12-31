@@ -3,6 +3,11 @@ filename = "ProjectRed-1.20.1-4.20.0-beta+16-integration.jar"
 side = "both"
 
 [download]
-url = "https://mediafilez.forgecdn.net/files/6027/642/ProjectRed-1.20.1-4.20.0-beta%2B16-integration.jar"
 hash-format = "sha1"
 hash = "7adbbdc705cae4ed74be7028fde9943f10f62b10"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6027642
+project-id = 229045
