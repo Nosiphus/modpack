@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "111d83ae625609a22ea9ddd6dab37265c7e7160130bcc694cc06ddb6329f2007"
+hash = "591d22596a6357802172792261f622f5b9070148830d7c530486258a8e2efe06"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "a278ba1582d5e6c318516e985b41734ca8b9097b79a0e1c30e02d1239f9c154f"
+hash = "de8568a49fe56e265af74a8e54bc9c614dd194374ee92ea7b28e41e5d6ca49da"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d7778518d16fd1563a8a6afae25dba9ca4c99233e392ced0da872e223f6dec58"
+hash = "eec40b57c6b45c52080da7cdfe3b46891d514676810f0d001a90c05a0c207e32"
 metafile = true
 
 [[files]]

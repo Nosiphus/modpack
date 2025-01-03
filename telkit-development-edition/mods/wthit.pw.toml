@@ -1,13 +1,13 @@
 name = "WTHIT"
-filename = "wthit-neo-12.4.4.jar"
+filename = "wthit-neo-12.4.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/TiPykZT7/wthit-neo-12.4.4.jar"
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/w2ZsQkFF/wthit-neo-12.4.5.jar"
 hash-format = "sha1"
-hash = "11843bda852bb9db244c1fbfb117364595e2885d"
+hash = "3bc123cdb541cad113e5608583e98c75dd5b89df"
 
 [update]
 [update.modrinth]
 mod-id = "6AQIaxuO"
-version = "TiPykZT7"
+version = "w2ZsQkFF"

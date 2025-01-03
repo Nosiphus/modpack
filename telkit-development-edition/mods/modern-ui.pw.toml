@@ -1,13 +1,13 @@
 name = "Modern UI"
-filename = "ModernUI-NeoForge-1.21.1-3.11.0.4-universal.jar"
+filename = "ModernUI-NeoForge-1.21.1-3.11.1.4-universal.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3sjzyvGR/versions/JfVQOdXL/ModernUI-NeoForge-1.21.1-3.11.0.4-universal.jar"
+url = "https://cdn.modrinth.com/data/3sjzyvGR/versions/UuscfpFR/ModernUI-NeoForge-1.21.1-3.11.1.4-universal.jar"
 hash-format = "sha1"
-hash = "7e6687612aecb589ef4797dd18d7b561af9c5bd1"
+hash = "4032cf32bec6be83e16cd24682540ad5133a64e0"
 
 [update]
 [update.modrinth]
 mod-id = "3sjzyvGR"
-version = "JfVQOdXL"
+version = "UuscfpFR"
