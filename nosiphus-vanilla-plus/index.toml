@@ -156,12 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "b47f4526ae6d9733062f98b7af95027a86e012a9afc61634266688a4d6863fcc"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-server-component.pw.toml"
-hash = "72b8fd759c6ccff7fc2f605fc751aff3b08d93b0686f19da28de98e233cb2f77"
+hash = "d6aee2949beed4500b0401b6bd27f3ed5296ff0a3a6047dfa2d0ffb7fe288720"
 metafile = true
 
 [[files]]
