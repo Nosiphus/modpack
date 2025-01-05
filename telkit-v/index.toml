@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "591d22596a6357802172792261f622f5b9070148830d7c530486258a8e2efe06"
+hash = "879f20b571f4d4c19d1328140f921ef17886d3cf86ee58f7dff050f3c7a885b1"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "78459b7609cbf110e640bdb5712d11f72e19830297ecaec5274a660f55e7b06e"
+hash = "9a236307deb2c8e352f465a5883e10bd2b068f8579993c0a7da562e453055e45"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4ad25b01101b060d83f6c83865197076327afe84018dd0db1d4dfb2e10349a53"
+hash = "70386974a7f50e3a95e7d5d37a17b61dea7990105495d08061e5c2128233d9e9"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-lights.pw.toml"
-hash = "93b9daa62a46ad070bec263cf43ab288c2c86d97999b0a911e6c8d92dec68583"
+hash = "be04da0004ea86c126254940907e6767082778405141c15c170fb6c7fffebd37"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "dd25b747539b0ed980f1b344df5007b9eff805c3c40ace675353db62921309a2"
+hash = "5b516fe97356c1dc41afd98a9c006659da28d10a3961d4d4c3b101c4ebac0e75"
 metafile = true
 
 [[files]]
@@ -880,7 +880,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3d2a12fbb35dfbab10ae6e916bdf2ec9325691a1b8e488f2eab8240c17b3fe45"
+hash = "6584a0a1e33563ee1a549d167ba0a2f646d96c1114141e53b8273d7a051eac7c"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "80a025ef0a69094153c9d5c6b8d773bdcfc8495a37678d3293c887680420df95"
+hash = "78be6756d8866a64b72d2974bff8c98f9af303df4d86bfcb70d75275c1c3bff5"
 metafile = true
 
 [[files]]
