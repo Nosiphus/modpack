@@ -10,7 +10,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "9fa5d701aefb5da3d76006741ed94b2a15715e3cd88b22770c99019e3dc78a30"
+hash = "70960001a6d35047b5e2bf07440b786c1a334a11d2ed642834a05eddca173d50"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "b9eca84e7f8d2c8c2500a7b0c91ec97a853b6bf54d4d76ee1500e3b4c937799d"
+hash = "c65b70c22a2cebd20ba540495fe9fb6c578fb3fbd0ffbe6d8020559d8b78f7eb"
 metafile = true
 
 [[files]]
@@ -364,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "c92f16b78cff38e191383d0cdfd15a9479461277d1feda0176f8d4f4d4e5c86f"
+hash = "fe579a74d665fa1a39ad1cd16b4394502e779fa930b7a2665f1017e226a42d0e"
 metafile = true
 
 [[files]]
@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "c2862ac5438b7b40320660d601a1e9c2929e44d67eb7c57de679042b73e622da"
+hash = "52fe561d29125d391795de8e7a9d240674d3eb3ba5675aca264b8c0e66d22c50"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "215cb578c01a64af4f916e5743c537bcab4a52782ac8ad4b72eca605b2ea6260"
+hash = "43e52d34120f3510683806c0caf34b9b1cf1e1b54b993f0f8eb13f21a867eb91"
 metafile = true
 
 [[files]]
