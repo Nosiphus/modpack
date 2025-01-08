@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "879f20b571f4d4c19d1328140f921ef17886d3cf86ee58f7dff050f3c7a885b1"
+hash = "31e36dee30e22515af1d33f45faf3e48d32f1e60c35115ebc20b00c380a74bfb"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "de8568a49fe56e265af74a8e54bc9c614dd194374ee92ea7b28e41e5d6ca49da"
+hash = "4d5d23c97c87b10111c7070d2886ea46664d3d8476724985bde412e3beda5805"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "e5c70c97f5c25e8cc14838d78739934ec963cfa70373c018eb9eb96f1685d84c"
+hash = "9ec365a4521884704ec5bf750c8eb56eb23fbfcf9e77e67d7ae613feb60a3c30"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "804dc3247772e702ff6468bd10472898259d56aa0ebffff91a23a3c9ad5225d3"
+hash = "cf8f0283134b8fa0d1377f4602f1506d2c3b7f505a1807c28a81e0dad9181835"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "d1d5bf4f6b18e6eb56a65103982a86c99bf1edf066df0f64b896b9db1ac148c9"
+hash = "2f7a3707e1d5efde52fb25310a48258d6ac924414f14e952bc2c8db2e6852738"
 metafile = true
 
 [[files]]
