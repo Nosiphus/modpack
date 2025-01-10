@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "b3332ece8f80fd2a482b0a7402ee017e09939f72e14c5e0ea5a6b233dee7a3c6"
+hash = "fd1731fe3f5e5ec8b89e5487fa25238985e406cf0b3f44f44b01bc314eba72e6"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "7dc5cbdca42831c161262b7de5db2201efd61f660d7800606b92217de6158505"
+hash = "81c35c7678ce8c9aec3be1d444acdc2251b6a73c9387ca39d7267f75aeba00e5"
 metafile = true
 
 [[files]]

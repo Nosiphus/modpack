@@ -1,13 +1,13 @@
 name = "bad packets"
-filename = "badpackets-neo-0.8.1.jar"
+filename = "badpackets-neo-0.8.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ftdbN0KK/versions/Ua3Y89qt/badpackets-neo-0.8.1.jar"
+url = "https://cdn.modrinth.com/data/ftdbN0KK/versions/RNyYl9M3/badpackets-neo-0.8.2.jar"
 hash-format = "sha1"
-hash = "bfe0d6232ccc0e78cd9c0a3a76c9d287ae893016"
+hash = "6a29963a30afd7fa8993b97e4f870460b3f51323"
 
 [update]
 [update.modrinth]
 mod-id = "ftdbN0KK"
-version = "Ua3Y89qt"
+version = "RNyYl9M3"

@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "b3332ece8f80fd2a482b0a7402ee017e09939f72e14c5e0ea5a6b233dee7a3c6"
+hash = "fd1731fe3f5e5ec8b89e5487fa25238985e406cf0b3f44f44b01bc314eba72e6"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "6978b78d6b01b8d5ca2c9a5c27d83a51837299270f80f0a9660deb2f36804f20"
+hash = "6da19e35668bad6ca56cbdfce582cb04b6312ca3e2b35670fbe323ff5ff2f80e"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "5dabffea30775ea1d0737598dc1252afa80150cc5514236f2c88a540b12d28d5"
+hash = "131c5742aa9682a2e81fa53a620764b49a297bae57398795c84e528ffe8ed57b"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "a465bdb1e059ffa30082a8162d7c1dc29861b1777b0815ddaeced6bff3d47577"
+hash = "9a330ee9be45a3a40418be70e997158e8280ae4fdb8b11a432613bf64550e03b"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "508f6accd2fa287678c2840cecb2d23c288c99fc353b342ef8fe0640ebea8765"
+hash = "dd9d9afbd257c59a0a738cca47d6028003e6088b645e7dfab52d708056153e34"
 metafile = true
 
 [[files]]
@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "14919199de402c1765e5d6eddc90316b7bdd849174f9b054cac7601e2beed14f"
+hash = "6f6107d26cfd0b4dfae004af57a3c708901266327b0681c80a6510efc04f0ba3"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "6a75f8656eab3ffabfba1a422504a91517068896cb23b94a7480e1709ac9a7ab"
+hash = "fe6af29a88ddcbf71cc3836b02f61a23e3409c00f03ef2152ec42f435e4cd80a"
 metafile = true
 
 [[files]]
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "215cb578c01a64af4f916e5743c537bcab4a52782ac8ad4b72eca605b2ea6260"
+hash = "43e52d34120f3510683806c0caf34b9b1cf1e1b54b993f0f8eb13f21a867eb91"
 metafile = true
 
 [[files]]
