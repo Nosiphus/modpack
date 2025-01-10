@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-capturing-tool.pw.toml"
-hash = "1596b386106765d3a4da87873393e6de34e29b19b6d776d2af80b1f7281cc2a2"
+hash = "85171c847dd6863d5fafeda7b236b77437d08a34153a81b399d7ab9f703d02fd"
 metafile = true
 
 [[files]]
