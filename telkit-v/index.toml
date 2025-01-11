@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "bc366a1182ed68fcfdfe66726e36865c9ce83d1800d26579fac99b3291607ef9"
+hash = "3fd8f8ccd12debb43a8994805cb8014e1d8624d48082be78a1fc124b9c1a3d1c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "eec40b57c6b45c52080da7cdfe3b46891d514676810f0d001a90c05a0c207e32"
+hash = "c2414748d287209d0b7cb198bb4180bf7976d13e8072c9699a11d3b7042614ba"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8f3923f8cd83b8a347c613c06eadd1c39e2984d8cee5a9c1a59d6f09a3f59e6f"
+hash = "1e1e2fa9039471b0fb31320d4627ebe221069cc50f6aa055e13ce363dc19b833"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "5b516fe97356c1dc41afd98a9c006659da28d10a3961d4d4c3b101c4ebac0e75"
+hash = "80e0a52f08bacf42ace044468ea82a7f911366425d831126d12ea0993ae91ce4"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "140c53480ab8cca8e04e2cfacf84635688f4fbe0aaa79292a5b35d360c72b015"
+hash = "80cf135c4adb88716200e188b7819b1c8b9591ed43ac785f7666cdd8de2b378d"
 metafile = true
 
 [[files]]
