@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "b50e6fe258045ea3542707626b1861bb3017785cc994c14472929dcf8ba8d134"
+hash = "6946aa6679b9ef660ec5183d49b5eb0f097c54772d0215d21a9f33b25529a73b"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/appliede.pw.toml"
-hash = "918577e2f9afef3804b1882ceb03742e5b5f1c419645e688a0854c4288628dda"
+hash = "687c8f8bc8c9aa8c5ccbe88bdb0d5761872eb13bee1210354f482fbcc632e6f0"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "39ce558caeb091481a28659b8e1dda2b507d400f7319019518bbe0d93494870d"
+hash = "1df5109198b381d606abc6ab2fa4273d3fb23de5b468c90d4738cf581b4fc41f"
 metafile = true
 
 [[files]]
