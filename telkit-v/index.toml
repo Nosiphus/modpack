@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "a6d13bb1bbfdc24c3b66156e057a951eb765065f023dbcb6b94fd2accc8559cc"
+hash = "b7a92ce3be48f2ddd89f2173350b0dbd438c8798495036608afb64c5ed74d2f4"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "70386974a7f50e3a95e7d5d37a17b61dea7990105495d08061e5c2128233d9e9"
+hash = "ef3b764b49a86b8b95e329a48bd34cc10062edbdf3dc55a89e94d5e5c99b06fb"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "c2414748d287209d0b7cb198bb4180bf7976d13e8072c9699a11d3b7042614ba"
+hash = "5a9e8792de1dfd055010f7407499e123cd84baa3be8d4123b0bd3863a75c1bfd"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "e96e6d406eecdb22880d5710dfccfd1a90471b7eae0ce40ff076b8d7ff45cc05"
+hash = "13f89e685d3c5e5e7780e93084c0599dc7fc1d37de8f14f7ef9deb6fc912409f"
 metafile = true
 
 [[files]]
@@ -1000,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
-hash = "c90eba9768e17ab4598d3fb1819a3b2df344242ae7f563aa38d46f125de42636"
+hash = "bd6a9f079a629cf4b63e18ddec683910aba594f68f7648e37533da9f06e76722"
 metafile = true
 
 [[files]]
