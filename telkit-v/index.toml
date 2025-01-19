@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "b7a92ce3be48f2ddd89f2173350b0dbd438c8798495036608afb64c5ed74d2f4"
+hash = "d64824de3bfdd89273b7549b35cb18429767b31f7ab13735b7ba3de798d170fd"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -970,7 +970,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "f28e1481c14143758e65c2ae472f644793228ef91f5fbc041909b4c25c3525c0"
+hash = "8c6d91d8b28036329810392f55f4b57ec98ed58e72b72f85aa90903d0b6c97b1"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "5118f770982dbcf94783ba46d1e61c9b7d1b8a5b38acefb43ace4a2b8cb0dc02"
+hash = "b5c74e4d0b26cac3b2778bbc0d36186edc86d9f3d997ff52a563850c5c3ab8b0"
 metafile = true
 
 [[files]]
