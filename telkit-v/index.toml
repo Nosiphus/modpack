@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "d64824de3bfdd89273b7549b35cb18429767b31f7ab13735b7ba3de798d170fd"
+hash = "7fe9b0cd936e64f396d61645bbf58c6cc49af0d9b51b47a47642d2abf2ab0e2d"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "c31c0818cdd27b83743746b163d47f0823f30af1cc3196bb147c2939a16853c7"
+hash = "c08f966c1e098d7225bea18abe9f4bf376f6266cd1142ec461dc3fa63ce659f1"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/basic-parts-a-flans-mod-content-pack.pw.toml"
-hash = "1d68e0669a230db12112fc063975afee4ee506df9b9d243578c8e9115c83cde8"
+hash = "8b904c9225c1dbcab70cf09772c0125bafd10c52733a379f9ab3db9b310b1457"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "ef3b764b49a86b8b95e329a48bd34cc10062edbdf3dc55a89e94d5e5c99b06fb"
+hash = "bd25f496baab13a8452c7b03fec071342cbeb0eed088acdd9bdfb70a37426bea"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "5a9e8792de1dfd055010f7407499e123cd84baa3be8d4123b0bd3863a75c1bfd"
+hash = "397ca6bce54a4ba541935a1675ae5e4183006e47e117409dc2052002864d8259"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/flans-mod-reloaded.pw.toml"
-hash = "edcff5ac3f48e3f33e7193745e8cbf8428bc5bc4ddea5f0629c4e14b172883f4"
+hash = "c46860ae176b53f925dcde61754fa792e26a1d68629f175d44a23fd203c6e98c"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "1df5109198b381d606abc6ab2fa4273d3fb23de5b468c90d4738cf581b4fc41f"
+hash = "14611cd88e41ecaac5f3116b8de09f6aa236b3cc5620c328f246450b2121a567"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/mffs.pw.toml"
-hash = "b0e9db5261901ffbc589b12cf8f3946075fa1a050b07ed404df4465e35685578"
+hash = "50f3a23a11fe1f161ae990f8a49ba98b11f16ec7ec71df0f6ed0f5e4845365d2"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "13f89e685d3c5e5e7780e93084c0599dc7fc1d37de8f14f7ef9deb6fc912409f"
+hash = "b0b374a00e2fb5623f256d32c3310bad7b8a299023151f32646751de8225bb91"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/peacefulsurface.pw.toml"
-hash = "fa903a123538c3fa511ec250fc9c8398e48eb58c1350a80f7bcdd87d73fa9831"
+hash = "c9fc80676474552f9f28d902485d788ea7f034d7bc8132b1ea004555c7cb0288"
 metafile = true
 
 [[files]]
@@ -890,37 +890,37 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "2d57403978d1aca3180bae881905c01a691fc406cc12420d5b0ca491e024fbb4"
+hash = "be79385fd15ac139a7a5f7b3783d332d01b7d81b8b61660500b19c3b5cc527b0"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "e73a18100f8fc440357df2ea2658b0c3c31e70a89ac87ab1e7eee255de7efb21"
+hash = "ed534f2de9efd4ca1c2027b1ccb550188c804959ebae52adb59a5471f375758d"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "9df1221699002f68ed4f3ae30a57e795e24dff24966abdb8e1d6d4c3da8ec1f3"
+hash = "1cfa8ee0d7aedf002690aacf25ca720535430a158f940c0cacda014b8833ae70"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "04f63ab91413f46216baf625845f51232a74e486d1b1368b35da8135deb74d06"
+hash = "3c3c13bd84489971059a935272f85df33f2dd7dc8c08286f8848a204b781a5b4"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "7bf590255c5bd375b35082d498d80a21adab1ad6a22ffd9f6da2eb63cf514993"
+hash = "1f8e6839533ecfd62967b197bdc9b7fc1d05543b1bf44f44a35c17eb0f7b8ff5"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "ba00fd11ef7701d8d490442827b2c63e266508248979532e643bf567652e32e4"
+hash = "e74426ab4ceb9486b904c10936035e0c45bafa74f6f7afc00ed0fd0e7b50893f"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "844de891fb93a8fcb8c69e6464395bda89573c72d17666bc7c0a54a744992d97"
+hash = "278eb9a3c80d1e854a40fa121d7aa7b16b9ef4ccc3c3aedff29fb496d0811062"
 metafile = true
 
 [[files]]
@@ -1090,22 +1090,22 @@ metafile = true
 
 [[files]]
 file = "mods/venders-game-a-flans-mod-content-pack.pw.toml"
-hash = "9f949fc3a441943ced230a472aebbccdab34e22c9343bf592c06c245ff09fab5"
+hash = "35357bb130bf9914d86754af1a2e61719df4113073a17288f3a87289ee31054e"
 metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "a84864e42f7044ae1bdd23479c92131707a6979608ab466d00c203244051295b"
+hash = "5780d0bdd56226820f96e6105e070a2a4dbe96a69319e2485a5d2e803b2977f6"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "82b1deaa636ddb88b007f33d1cf63ffb3c32b0ec9e6e4a97007bc6668b824356"
+hash = "32f81dbb5d09f54a770cbb9d0f37a74e6e7a65cbe6a594fe927976e164cdeab1"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "b5c74e4d0b26cac3b2778bbc0d36186edc86d9f3d997ff52a563850c5c3ab8b0"
+hash = "a841fda46bb2775529ef3f2979874a250a7b797d796601fb8be39412e3bb7e5d"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "f853066e6886d12eadd881bbf32f3b4f84125e597f1ba02577cff5cf710eb602"
+hash = "16c3900c8c0dc3b45b162b7a18921658a723918c9cb277b2b1aecd569e52ceca"
 metafile = true
 
 [[files]]

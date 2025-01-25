@@ -1,13 +1,13 @@
 name = "Basic Parts - A Flan's Mod Content Pack"
-filename = "flansbasicparts-1.20.1-0.4.193.jar"
+filename = "flansbasicparts-1.20.1-0.4.302.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aaffb70164e9e157da6608a5bb38d85116ef256e"
+hash = "dfe977591b9813e7fe6557f86a85a56b58ad4609"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5448948
+file-id = 6107483
 project-id = 944007
