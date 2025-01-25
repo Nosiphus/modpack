@@ -97,7 +97,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "9f29aeca2f02d63ec6eaeca84b5e3fb6248d0f0c734fd2ddd797da0f65620e8d"
+hash = "9182340e23f1fab74a487754626e4829b6986a52e90c95b18c746290732d552b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/forestry.pw.toml"
-hash = "72943782f290c02c8ecf2f4177d6d286840483d928771bd675e8a66080264dd3"
+hash = "763b3aaeb0ae8a85e860fab000fcd8f48f630dc8e8821bb324d7186b72eb1686"
 metafile = true
 
 [[files]]
