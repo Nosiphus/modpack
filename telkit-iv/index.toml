@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "38e27b9bcd49ca2120ea1715add8d232ee4e9cb60521070ce55578b3977079d0"
+hash = "600b39ea324f0f6628a2a6e9d3c3d6b1ecb76db8caa7bc183951b10ecbe3b912"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "69b90898b4f27335085cfc9a8c644daf22a5c3716e2836282595cbe207b7bca4"
+hash = "10ae93575c6b9a78f6cc5a2bf98b1563088cb12b5416d8c218aa6098476deae5"
 metafile = true
 
 [[files]]
@@ -1070,17 +1070,17 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "b62d7ceb889d7b5eb7e4e54275349d61e5312d837fb506206a660846b8e0bcff"
+hash = "c37d28a2d335dcd9751d5645cfdaed8bd2e508f63270103ca4e5326f88d4d2b1"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "a28f77d162fc7e7e45e369c7586866d29ae05181a59268d05a79929b23df27a8"
+hash = "d06a206370f28ea1deb96488525fb951de75db873c50e537d6b4a05bf3668006"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "b6d76a5e88399dea0579ca9ffeb5821d42d05e32c48fd75cb17270fef9411b3f"
+hash = "fe9aecc592ddb8394bdf5aaf4e24e98f4c8a6cdc959930ad9108de45e839ba79"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "789a6b5ad394d7819fbbde503da94f9957456c61550e06a7708bda82273b5a3c"
+hash = "3d8810885a28f392af4c40a00d5226705ab6e53a22e202c2a2598136fc00ca3d"
 metafile = true
 
 [[files]]
