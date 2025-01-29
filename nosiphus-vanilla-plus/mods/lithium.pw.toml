@@ -1,13 +1,13 @@
 name = "Lithium"
-filename = "lithium-neoforge-0.14.4+mc1.21.4.jar"
+filename = "lithium-neoforge-0.14.7+mc1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mhrxIJQX/lithium-neoforge-0.14.4%2Bmc1.21.4.jar"
+url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OUCV8IgS/lithium-neoforge-0.14.7%2Bmc1.21.4.jar"
 hash-format = "sha1"
-hash = "d35819c533da7f4c967a74e12c806ac20a18a729"
+hash = "75c6b46db5378b53615cb32a486f5e5cf27166c4"
 
 [update]
 [update.modrinth]
 mod-id = "gvQqBUqZ"
-version = "mhrxIJQX"
+version = "OUCV8IgS"

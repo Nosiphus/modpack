@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "020f407f413540c0c1bbe61c39be11857eff23ea59c36fcb9cff9583b4a2432f"
+hash = "68ec0e4f10e9134ac4fbb5f2e9a8dddb80d19f41714f9538c11d78dcbb2280d4"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "83a9cd850c14df8e4e102fd8deec2ef3087674964d985a194a3452232b2100da"
+hash = "f5ffa0d1f896184e21d9f46d2c87bfbf7bfcecc1f9f5c0829fe939b8cd1ba97e"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7f66c57fe989fcf83506a055ffb98988f4ccceb4522dd5120b1304e69026439e"
+hash = "bf00f203f7bb4ecb46a50ee217b3679dc998d7dbe1e7f48f5e373dcf892000ba"
 metafile = true
 
 [[files]]
@@ -111,22 +111,22 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "bc0951904195f0321a238a20aa41010a84ed31b3c724168fd4ff4cae4e7d0a86"
+hash = "e513bc15a22b197836e4e1eb801b8697de31057401ff7e9b2cd2809c0057589b"
 metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "59dc0b6baa4bac1e8c7df1c1fad153f3d95db8778e1f02c3235233a7e1e1e7aa"
+hash = "a98f358072cdbcaef783449198ed2c15ea7ab5426baeaa895e5442d02ac12935"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "226363c98282c10cf9a830c26407aec90aa8b5212374a7b7b476e98b2f92affa"
+hash = "62aa73db81079315f44cdd93ccae0321af320359aee17f545fd187e033fac6de"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "ca94b98e753cdfc2da1fb79b80496c343fbbfa203667bda516b993f48479ff2a"
+hash = "dee6a0b64357b4c65ccb635cc4c4aa9ed836b2635147c435b111182063737bea"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "81c35c7678ce8c9aec3be1d444acdc2251b6a73c9387ca39d7267f75aeba00e5"
+hash = "99f2d17f29cf12fd925375f22cce5c2104eb7a46f65165a4e72084ac2d8cbb46"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "f04bfa41ef06f3138ae8b61031a409df5d7ed4dba467075960d52ea667153f5c"
+hash = "c9d26b8a710c0f4b59222216e484a0f31c48d50eed7516c8a57174f87b31030c"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "ec3d6faa700485dabc3d7b0bfbffcaa425c9987f78bbcafa048a5bb556e76260"
+hash = "e30530f65b58bae4f361763301b237da60acc8e6dd7a8a7fb7fa6bd620599078"
 metafile = true
 
 [[files]]
@@ -196,5 +196,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "08992776b21c4d195d0659d5aa91b1603acfc39ac787cb7658535df66e37b3d0"
+hash = "be5dc13594d0b123db7342a3d6acc5736425579f81eadf6f94237adf25386dca"
 metafile = true
