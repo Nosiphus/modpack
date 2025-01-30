@@ -1155,7 +1155,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound.zip.txt"
-hash = "2972ce2eef417827b3ca859954b4f8fa02e4aaeddb88d40fc38731f8ea7bd16c"
+hash = "0d486367240c828485b242b6b9e590c815f718370aef7bc835ff01a653b1e725"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.toml"
