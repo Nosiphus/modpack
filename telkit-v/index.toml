@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/controllable.pw.toml"
-hash = "6165c8e5bdb438144bd79d131f6605d2cefa541e4948e438ae85bde1dc68eacc"
+hash = "a43401d685fc24595cb18e5a51f4fa7af4a4dee2ba7bf7879a08769b037495fa"
 metafile = true
 
 [[files]]
