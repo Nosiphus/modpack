@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "f25a87105e57e749dcb6a73e7055bf8080b961ccd280164c4ade37cd474b1a76"
+hash = "a5a765d3a11ef49001f7e9017828a4786a99d1510d91b1873e62917e681a4d28"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "91fffad6142d3cc85ccbc4c9861578c165baf6e77a0f980f86aff99512b550f7"
+hash = "434b32fbb8c994dca351cc22f64ed66f0e5c253fac5afdf08b80c73fa7b441aa"
 metafile = true
 
 [[files]]
