@@ -1,0 +1,13 @@
+name = "Stellaris"
+filename = "stellaris-1.21-neoforge-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ItTQpuBn/versions/MEGvFXqh/stellaris-1.21-neoforge-1.2.5.jar"
+hash-format = "sha1"
+hash = "9bc656fdf3f6360b460de9b73544a3d1f5c1abc1"
+
+[update]
+[update.modrinth]
+mod-id = "ItTQpuBn"
+version = "MEGvFXqh"

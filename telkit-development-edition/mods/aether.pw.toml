@@ -1,0 +1,13 @@
+name = "The Aether"
+filename = "aether-1.21.1-1.5.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/SpinsIaR/aether-1.21.1-1.5.3-neoforge.jar"
+hash-format = "sha1"
+hash = "5f81219bcf5e223f382ef4d60edf8dfd4d6c4bb4"
+
+[update]
+[update.modrinth]
+mod-id = "YhmgMVyu"
+version = "SpinsIaR"
