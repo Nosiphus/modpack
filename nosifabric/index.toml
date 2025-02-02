@@ -518,6 +518,11 @@ hash = "0be3d1717c60785b6d9b5bd4a02e7e9527c25765d70985715de9a0f252e31a40"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "cd48922551ba0248a0b3bd3007582c49ab89aba779eb5f49af1baf488e792462"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
