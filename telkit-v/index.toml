@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
-hash = "40568e27bafdcd30606f25192bf1450dfb292b77cb7a3d9b47cf05b59bd8aa51"
+hash = "0be111cc999b7274de5bd5c4800c9ac81809a9657b1e34d0050e1f365c4b163e"
 metafile = true
 
 [[files]]
@@ -1140,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/zerocore.pw.toml"
-hash = "46eaae7e5edd7fc4169a3ecaee4f4b6f54edbf620232193531b1dbc7b34051dd"
+hash = "824e624db9e75492a8f461f0b2ea61251729957d6645242ae83daaece0333020"
 metafile = true
 
 [[files]]
