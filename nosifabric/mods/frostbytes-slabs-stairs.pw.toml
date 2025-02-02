@@ -1,0 +1,13 @@
+name = "Frostbyte's Slabs & Stairs"
+filename = "slabsandstairs-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WWL04tjR/versions/8k9apolu/slabsandstairs-1.7.2.jar"
+hash-format = "sha1"
+hash = "01d4a2b05920ecec87c2b0888f747e945932ff7e"
+
+[update]
+[update.modrinth]
+mod-id = "WWL04tjR"
+version = "8k9apolu"
