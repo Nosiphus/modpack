@@ -135,11 +135,6 @@ hash = "45417ccc858d1a15abaa9985b40975897e1beb5fa4130552fbc4b5de696a09a8"
 metafile = true
 
 [[files]]
-file = "mods/moderner-beta.pw.toml"
-hash = "99f2d17f29cf12fd925375f22cce5c2104eb7a46f65165a4e72084ac2d8cbb46"
-metafile = true
-
-[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "5a6528b2b6bda05151bdf708fca54c8aa862bfdd82e3fe25b0eb9a1271a7d18a"
 metafile = true
