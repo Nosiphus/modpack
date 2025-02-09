@@ -1,13 +1,13 @@
 name = "Controllable"
-filename = "controllable-forge-1.20.1-0.21.6.jar"
+filename = "controllable-forge-1.20.1-0.21.7.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "e4a63174981ccf2b206ff88d72b4af28c0cf8f5e"
+hash = "45bf6729d334de98a86e717e81475365607b4a6b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6160039
+file-id = 6171424
 project-id = 317269

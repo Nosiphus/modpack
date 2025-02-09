@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "83e5065d189f9d263567f7a4ae04be73f411d1fa9dcf4cc2ba23d8dd4542e5fb"
+hash = "9b87c6a15204efe30358cddb06d75943ccf1a875e4ff9f7a5ebbd0a47da84f92"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "d71058b42f191308b6cc4edf947717cd5bd9632f36bc906c4b464716e5c23fd1"
+hash = "41e19bed69ae16025384f9fceb3503045e35272f0531d8105529a0dd8719e09e"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f8c57b637ce6f19115362af424474e94dd056b190310902933cd39c0faddc4c7"
+hash = "98a5be921a2deb3830f9294b6acf55eb4b689f0c0c8904286448e62f43d3805c"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/controllable.pw.toml"
-hash = "978a779eb66b42d1eeba6826a83bf7a19af38837588a27df6de30f124d543755"
+hash = "30b5a90befb055fd18307700fa5eafdf4cd26d4c922fa780b5738f7656f3d650"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "aa73d26c0e434af95b5ff776adc2003bc747338e45459ff59428515b37abe931"
+hash = "13aad5e0ef73de82cb33253fa4ff035478f66df8807ee9acfe3b07cb3534e421"
 metafile = true
 
 [[files]]
@@ -995,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "f45710af25d0b5fc3455007b30609f5371943281cf3b550997f2dea29e8fd2d0"
+hash = "9dc4a0e56ac81ddc2256eef6447c74840b48ab000f581619f0301f641f02dc50"
 metafile = true
 
 [[files]]
