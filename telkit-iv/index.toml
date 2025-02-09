@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "2e63c4aa0467fa19e8cc869f74b6019fb812836000a5da62b1a22b86f0ce005b"
+hash = "ca9f4ad06ea5316048089201d70c5b2c4df24623d1767a5f363b4d42d0edc8d6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "3940499474ff2c7d4609149e1357f91d6a54b8b198dbb49e1fe1a13c456efadb"
+hash = "59114680911c9a6be4584213ac5408546ab1d73a9e8b4ef448e422f84cb3933f"
 metafile = true
 
 [[files]]
@@ -605,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "7657dc49fc61843fbc83c851a69273b673ef2b701de7d3316a2fa3f0b85310f6"
+hash = "4162c4ccd7b21bfe8136f2a007ab810e29b3a23c83f98d106293fddd1306e1eb"
 metafile = true
 
 [[files]]
