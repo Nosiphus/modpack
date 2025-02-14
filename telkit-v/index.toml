@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "183d38bb6d8ae1568749c3f59d16f5f2ae98b6eeda6d12d16df3d0e8a4a64f93"
+hash = "08a2f96bf19f617fa5349554bef53c2d7b9786c364cb33de60a04c1e158d1c1a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "98a5be921a2deb3830f9294b6acf55eb4b689f0c0c8904286448e62f43d3805c"
+hash = "409ee0db16367194efb60ab30d97de7d0d952aae941c74ee4082b70b88ffb6dd"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "ef02794d516cc630a16b6b55348bc95bfcbd631eef19e8c3091331abb66448e7"
+hash = "82c296cbfcca7bfb9d8c61406bb65ff4775964d15f23a5790f6eff5c016166bd"
 metafile = true
 
 [[files]]
@@ -510,7 +510,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "70ddd2059fb05f2beaa6d9bfcb12741190dd113c550ef715fe29fe07ffdf568e"
+hash = "3480844fb0ebf90b978440b114c19c35118abf6909095ef1ad94f1c7b11dbf60"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ca4c8713461bafb052c6525ce5b4a31044f30fec5c7bcbf9879dc98110d54f38"
+hash = "2148909ecb38d00986f812b34dd2e0fa71f2b85b71a290bebfdbc4797677fcc8"
 metafile = true
 
 [[files]]
