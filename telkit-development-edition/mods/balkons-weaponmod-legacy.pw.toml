@@ -1,13 +1,13 @@
 name = "Balkon's WeaponMod: Legacy"
-filename = "weaponmod-neoforge-1.21-1.22.4.jar"
+filename = "weaponmod-neoforge-1.21-1.23.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MCF15nCy/versions/qRlHXhoz/weaponmod-neoforge-1.21-1.22.4.jar"
+url = "https://cdn.modrinth.com/data/MCF15nCy/versions/VPVnHnkz/weaponmod-neoforge-1.21-1.23.0.jar"
 hash-format = "sha1"
-hash = "88ce8370e32881b20c05f74548b50f1dc4ab03a2"
+hash = "289583137d1041817c8be9a5185a8d69c7343a7d"
 
 [update]
 [update.modrinth]
 mod-id = "MCF15nCy"
-version = "qRlHXhoz"
+version = "VPVnHnkz"
