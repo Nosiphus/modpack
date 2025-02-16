@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "409ee0db16367194efb60ab30d97de7d0d952aae941c74ee4082b70b88ffb6dd"
+hash = "ab0cd0c2af84b8e0ad741eba9d4b7eae220f15d2eecce82b27dcd187765f192f"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "d553097ab7e7134b576772a024bb3ac9df66bf6aee990fc186471fef8f7af5cd"
+hash = "f54718d76496a42e5f2e01299034cfa4f06745e74f29abbfe6b9279c92e7f915"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "17314804c37c3d68df27f9a68985dbba5a5382248c4a7ab1437ac644ad69638a"
+hash = "f6e0a5c78f13cbb493672cd33acf56aa74fd4ae7926832b84e2fc92255d8b80a"
 metafile = true
 
 [[files]]
