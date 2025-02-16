@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "9d256ff597eadde5e3fb63ba1d15287447dc51a55053cfffaef922bd3438e652"
+hash = "df0c13ffe27d8cb5ff1ae1181df18b9899b059fb32916ffd428c3328cf4fffe4"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "17314804c37c3d68df27f9a68985dbba5a5382248c4a7ab1437ac644ad69638a"
+hash = "9667b65c47fa3ca162f28cb27896c46022841a66ed4677fdae95e754cbc034b6"
 metafile = true
 
 [[files]]
@@ -816,6 +816,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9a3c80bf6eee8234001d2a1602b3e123ac5706af051902e40f24abe317b86e50"
+metafile = true
+
+[[files]]
+file = "mods/nosiphus-custom-blocks.pw.toml"
+hash = "97394a3794d9e47a1f4fe077d02d681b1551880e227c0ab1ebf85f7dd36912ec"
 metafile = true
 
 [[files]]
@@ -1135,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "06fdad871015065cc8da935a04298f97e5f9bb87e26d157acab55d09e3f53788"
+hash = "c95ec363713a2f43ec92ab2c2482ab9eddf1c3cb3cb50516947e0314e10c61bf"
 metafile = true
 
 [[files]]
