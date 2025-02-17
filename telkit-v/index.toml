@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "41e19bed69ae16025384f9fceb3503045e35272f0531d8105529a0dd8719e09e"
+hash = "61c5d7a39bd2fab96934456b6622307fca2e7b22ee64d8dba6182311d609bb91"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-custom-blocks.pw.toml"
-hash = "97394a3794d9e47a1f4fe077d02d681b1551880e227c0ab1ebf85f7dd36912ec"
+hash = "a0036a750bf8d6f003469c9ca9524e2c0aaa05ab3cfb028a8ed0ff1b0d7529d6"
 metafile = true
 
 [[files]]
