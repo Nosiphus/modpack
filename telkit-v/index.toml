@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "df0c13ffe27d8cb5ff1ae1181df18b9899b059fb32916ffd428c3328cf4fffe4"
+hash = "88ee714a328904c73d180ccdee4d49a46cc8244ce420c6fb26058e2fe3fecfcc"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -205,17 +205,12 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "86c8619df02cce315b1e8bf65720b5263d8cdf6a9dd41ce26ca8e5f2255dae69"
+hash = "6078d8ad7c305943f4133a80e05cd113e7f33f2c68279c63498559e6e725f2a6"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ab0cd0c2af84b8e0ad741eba9d4b7eae220f15d2eecce82b27dcd187765f192f"
-metafile = true
-
-[[files]]
-file = "mods/basic-parts-a-flans-mod-content-pack.pw.toml"
-hash = "8b904c9225c1dbcab70cf09772c0125bafd10c52733a379f9ab3db9b310b1457"
+hash = "b7d63815b042ff01fe5d45d82a68339c88c130ad9c69f267de4c9bd1848dff62"
 metafile = true
 
 [[files]]
@@ -430,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "7e24bc360a327c848e250ecfa29e52837eb86851a880ca4ccf06b03f6c03d866"
+hash = "f3839e7c7488416b949d447604419ccb7fd3ed35b80f78ec356b7642fc2e81a0"
 metafile = true
 
 [[files]]
@@ -470,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d825be32d1df6141d693ea021cb70a60c3de654ecd6d2771a8d90316ea67f6c6"
+hash = "3e8e5de1974ef3448f167955bb89583d3d2852f19da5247f512502cb05aaacd4"
 metafile = true
 
 [[files]]
@@ -546,11 +541,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
-metafile = true
-
-[[files]]
-file = "mods/flans-mod-reloaded.pw.toml"
-hash = "c46860ae176b53f925dcde61754fa792e26a1d68629f175d44a23fd203c6e98c"
 metafile = true
 
 [[files]]
@@ -790,7 +780,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "f6e0a5c78f13cbb493672cd33acf56aa74fd4ae7926832b84e2fc92255d8b80a"
+hash = "7068147d9dcc780a3dcf13286dd0f1131bd368c3c6e54d9cf25311b8c12c9c24"
 metafile = true
 
 [[files]]
@@ -954,11 +944,6 @@ hash = "92023aa2c87bec70ae04a2d9867a66fff6728e720b740724f63867455144cefa"
 metafile = true
 
 [[files]]
-file = "mods/redstonepen.pw.toml"
-hash = "a025dddb33aaa8bd46888833c1e7099de509adef228666e5c4f2646a932e34a6"
-metafile = true
-
-[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "0fb014967acd6c2724313beefa286a1b72ed24a285377add8593a506fa73c30c"
 metafile = true
@@ -1099,18 +1084,13 @@ hash = "bc249e4bf77eef00e13ba01233796c4e3b453779f255a2d6cfa3f7bd1e1b1f28"
 metafile = true
 
 [[files]]
-file = "mods/venders-game-a-flans-mod-content-pack.pw.toml"
-hash = "35357bb130bf9914d86754af1a2e61719df4113073a17288f3a87289ee31054e"
-metafile = true
-
-[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "5780d0bdd56226820f96e6105e070a2a4dbe96a69319e2485a5d2e803b2977f6"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "ad185615c29f1fea113125006436995639e54d6087b3efe25d45f12f1d63b835"
+hash = "4f42713333de85ddcc7e6c8ba74f8d3501842c20d42551807033a018046dd50f"
 metafile = true
 
 [[files]]
