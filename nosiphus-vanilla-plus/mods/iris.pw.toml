@@ -1,13 +1,13 @@
 name = "Iris Shaders"
-filename = "iris-neoforge-1.8.5+mc1.21.4.jar"
+filename = "iris-neoforge-1.8.8+mc1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/8l8TrrQz/iris-neoforge-1.8.5%2Bmc1.21.4.jar"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/FNc0XYTL/iris-neoforge-1.8.8%2Bmc1.21.4.jar"
 hash-format = "sha1"
-hash = "153fc7c9136c6352c005f60bf07aa9d975e2563f"
+hash = "dad7229a302126503fb8651d7f101949c2c57184"
 
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
-version = "8l8TrrQz"
+version = "FNc0XYTL"
