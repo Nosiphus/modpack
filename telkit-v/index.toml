@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "c7b39ce1db5d5aa7b8b11c151ad02f6bbb50a83564666151f7f636943e2348f3"
+hash = "1221caafc41e9033ddfe81d1549eff6abc1597632d6d0a814aabcd90ae2e3484"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "36bc20d8e9ec2f80840226db61a0ff615fe65650f6423799e4ede645716ad5bb"
+hash = "e464420bf2954f58ad348221d6cd8aa838d5ad38b079aa56eef1f25e7924bf26"
 metafile = true
 
 [[files]]
