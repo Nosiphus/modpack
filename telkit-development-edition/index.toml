@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "40b6ef325cc8ba4f42152f13482d02707585d9ac77a89d82ff0c6dacd1eab5b3"
+hash = "53fc0b6808148850d941e3569ba1227248d8c048610a6e1ba2b58bbdc052568a"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "9c9e7cf4b2b0f5adb22ee3548a5d7168e67e14998edc26e055fa81b2e6ae3795"
+hash = "2a058b6cb15154120266bcca3095e666cafe099c4ca9dc1f84da1170c60ae1cc"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "0789d9e45edcb34c766412c1038fed4d4480a397111816c773fcdf4ddc3f4947"
+hash = "0ec109ee44a626bc7f824b20ac13aa2274a5445aaf1850320a71d363c943b5ea"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e3911a50a9fb971e6c4742045f6cac9b1b8df1630b3cafd7957e75ae752b8e86"
+hash = "d042f2e187723eb3c283d50d08ec50bcb2cb4d756fa0260ad0d71ea1e5c05963"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "621acd1cd18d6c9c2d149245cd4bca15c700ca3c3756481a7a8b5928c2e9012b"
+hash = "183891e7781f5257de93589d5641b6c052d27319d707938ac2c0c9f453ed3792"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f54af3d82165b1c8d073b3d0f5fb48e23048f3b8aafdfae6ad90ca0a4c4bad31"
+hash = "f90ee8c04ef119fc39054348b125687c083a6b8b7fecabff6aea67d1aa60e899"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellaris.pw.toml"
-hash = "6832347dde90b1be208d6442be4bd4d318d0666922e3b7d874f101cb0ef67d6a"
+hash = "161018249633dad8101c2a80c9d8309ad4650a8c37d994dc9374f8efa71b4b90"
 metafile = true
 
 [[files]]
