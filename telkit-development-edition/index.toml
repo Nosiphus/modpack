@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "0ec109ee44a626bc7f824b20ac13aa2274a5445aaf1850320a71d363c943b5ea"
+hash = "15704a5a729329f809e32edb6d59cc7094a314389bc2437e2d04c1ca72c7130b"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "5caa97a6baee00deb7c45046d6ec5d153c08231e7ca8cfe56abf3e42048bee34"
+hash = "396661bebf7e7e618ec2ccc1199489afc87807fbb00fdac63e6787d8e13b11d7"
 metafile = true
 
 [[files]]
@@ -262,12 +262,12 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "d998ce8f08b88fa8e94c4af7a86f9433353501fc74ec4696e0d02f2da9351c36"
+hash = "b040e0c1f65a5278ed89ee2e100221b912bf707a7ea61f461e60ae221528e17b"
 metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "38c6461ba53cdf10e7fefd492e2decb5fd4777bdd2ec93b99938ea3dcfc82a22"
+hash = "b2583ffa75e6218637182dc5cbc73bcf05ea0acce8b21e917917e01c616feaf3"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "47464af4639a22b85dbbeebde901d37d08733b1a1dd266dba8fd2e619ee921ed"
+hash = "440a02dbbe37c146f10989a9ada715a78fb3e44ed6ef8d771e0f7076f3cf0c8f"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "523ea939bef0629bd84f939834362aca34f33d484de2061d379dd7b67536c420"
+hash = "dc3d4dd19cec48bb5a982c896f72c818cad4fefbe12343a495a0c09c24192750"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "bbbf86073fc55d8b1a23e5ffe1ef0dcd470625263ec09bd302adcdf23f9898cd"
+hash = "b01bdc78b23f735d530c40c3c48d5e5c869a252c69e1bf6d25c7cbdc2a73b9d6"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f90ee8c04ef119fc39054348b125687c083a6b8b7fecabff6aea67d1aa60e899"
+hash = "ad8801c113d4e3221e191e856eeec1ab7577260b6fa7863f8d5b5f01f3123344"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "9aaf231c9dd26c5107cdeccdf65293500d1e89ced470442a08904a0084f581c7"
+hash = "6f8063ef991eb6bac1319c2bb07fa56a848985a198b5ff45310342d1e00daeba"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellaris.pw.toml"
-hash = "161018249633dad8101c2a80c9d8309ad4650a8c37d994dc9374f8efa71b4b90"
+hash = "a6f46c7193afdaba48fe8893a2bae5e9f00031fe85b0ab31929eef9ad042bde0"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "c421d71f8274d7a5903c651b7c688b97e9563085cf6f6e8141de257bcb827e15"
+hash = "c3b9479b0c00f9844c33c2ed30879f017bb8acf7f370b3a05dbc99c83ec0a950"
 metafile = true
 
 [[files]]
@@ -607,17 +607,17 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "b2b221c9f7e21165742afee1c3b664f46ab251f2c5114a29e506cf32c50d6d37"
+hash = "2ddfc7112e752276c96cb06aeaab2edd59c9481f9cc6cfdce43423269ff68de7"
 metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "91e16a58cb69da5f01b0d1392465b27da1320e8e40caef34b5b4642e24850871"
+hash = "08f9f657225d7f1f57fb639b2ddb092a08fa5cef46f1a0ca773062710a2a63cd"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "4fd0d40dfda1403970491c7d33a748477f50613fd138b0c5c1fcd87c5ed6f804"
+hash = "d6345112de5ea7610bcd0c308896e8869d50a3917e495cc5b61e20f76d1e3a50"
 metafile = true
 
 [[files]]
