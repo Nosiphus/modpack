@@ -1,13 +1,13 @@
 name = "Fazcraft"
-filename = "fazcraft-4.6.2.2-forge-1.20.1.jar"
+filename = "fazcraft-4.6.2.7-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fLPTiVsP/versions/UDXHPoxX/fazcraft-4.6.2.2-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/fLPTiVsP/versions/mnK5or0L/fazcraft-4.6.2.7-forge-1.20.1.jar"
 hash-format = "sha1"
-hash = "51470ceda4aa69b36bdcdbee99c0c71894571d38"
+hash = "147396959448e307b4de3a113c401ad65c631aa4"
 
 [update]
 [update.modrinth]
 mod-id = "fLPTiVsP"
-version = "UDXHPoxX"
+version = "mnK5or0L"
