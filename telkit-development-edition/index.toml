@@ -526,6 +526,11 @@ hash = "0d7207819f4bd92ef95fcf522ac75945db0c30f2aba370608b7caf4343b59b51"
 metafile = true
 
 [[files]]
+file = "mods/potentials.pw.toml"
+hash = "2cdf26aa6ebeb279fa4366cfe42e708f7578080edaaa26e19e56cb7e386934a4"
+metafile = true
+
+[[files]]
 file = "mods/projecte.pw.toml"
 hash = "d5888ffcf49a86a8796d575aad15e98c148a65bcd71c9e06670b31aa40668e9c"
 metafile = true
