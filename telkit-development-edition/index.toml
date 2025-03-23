@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "53fc0b6808148850d941e3569ba1227248d8c048610a6e1ba2b58bbdc052568a"
+hash = "6de6b15bcbc6201f3b190556f8762ce606349bb91c65453a011e90fd50f49da8"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "a0f783dc6486179aa0eec5325fd00cd63c4ddf0256fc66e31beb9b03a2c313f1"
+hash = "72027e76711b0ae41a3ef9e6ee638ada6c391367b45f75979d67daf6aaafdd07"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "991188ee15aee4a89d903b29e6e10574db5c1d1bc222899d1750151adea4bb70"
+hash = "bc8651bfaa46b6aa3192b2e854103eff54fd1873aa9cc4ce9c38cec4bd4a6aa0"
 metafile = true
 
 [[files]]
@@ -402,22 +402,22 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-additions.pw.toml"
-hash = "884761a14645e8ae1824ce95f6658e2a480d57e299e814348e4074fe81d7c8f1"
+hash = "34b49e574b2a360850c4dcbb98619546bc650bf9d965ae974428cd6a32ed5c51"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-generators.pw.toml"
-hash = "3d8333297cb5374167f61881f1028419605d40335b0678be8799d580e2690add"
+hash = "bb60b741914c42eee1682529fcac077589eeee5be75b0f8acd21db2894c06320"
 metafile = true
 
 [[files]]
 file = "mods/mekanism-tools.pw.toml"
-hash = "0bfe6826dd3d5396bd4926c271d3c77147f99b3ac1515ff16a21805cf965c58f"
+hash = "a51d7c515111be7afa6a168f6e823ab46ddfd5a9adaf4b51429e215a32d2acd4"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "e7ab51a01a1313f007c2a5474f56861f76c6133c298d1a6e5d760f6a4099e2f0"
+hash = "8181b9c5cec6feaa2f289cf13244d9434ed9ec8fbdd3b918b1d6a0b64d66620c"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellaris.pw.toml"
-hash = "d23ec6d97437b562a87a6fdc48d0c97cd97e9c0b30bd9e433f6d27c631240ccd"
+hash = "af80219a5af45d1b32e68e3acdd9bce7dc9c9e649adda51e825cfe6a59ca16db"
 metafile = true
 
 [[files]]
@@ -643,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "719e5341f25f83dfe3c04c1180c4bc9ef12ad0b09ea6f361baa9689a051b214a"
+metafile = true
+
+[[files]]
+file = "mods/yogmod.pw.toml"
+hash = "40ffd6c6047524fa5f846a2fb49b0ccb6cd6e59c69cfd2dfe6e62319ba876bfe"
 metafile = true
 
 [[files]]

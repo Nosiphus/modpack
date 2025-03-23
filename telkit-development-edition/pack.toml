@@ -1,16 +1,16 @@
 name = "Telkit Development Edition"
 author = "Nosiphus"
-version = "2025.03.20"
+version = "2025.03.22"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e493a1f2f9145e8461ae1c8044fc561758753c416f10fa8b8a13235261e5e13f"
+hash = "056149b020d3a1fd51af0246b2b2919763779b43e988d71314ac4c444b37dccd"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.137"
+neoforge = "21.1.138"
 
 [options]
 acceptable-game-versions = ["1.21"]

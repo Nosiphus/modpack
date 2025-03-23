@@ -1,13 +1,13 @@
 name = "Mekanism Generators"
-filename = "MekanismGenerators-1.21.1-10.7.12.77.jar"
+filename = "MekanismGenerators-1.21.1-10.7.13.78.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OFVYKsAk/versions/513IPBnN/MekanismGenerators-1.21.1-10.7.12.77.jar"
+url = "https://cdn.modrinth.com/data/OFVYKsAk/versions/sRun2tP5/MekanismGenerators-1.21.1-10.7.13.78.jar"
 hash-format = "sha1"
-hash = "356b71e660099e79068fa3177be40fdbe3da2d7e"
+hash = "849a259f31a75e65cf0b14b0932629f183c0113f"
 
 [update]
 [update.modrinth]
 mod-id = "OFVYKsAk"
-version = "513IPBnN"
+version = "sRun2tP5"
