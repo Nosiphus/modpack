@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "5457f2b359d61c57cf305f24b9823ba655a6e6ca2075ffc754663e31bcb0907d"
+hash = "fb35c4e3b728389d35f46e37f15ce09cee0d93dba00f7e41d6625e06ae94f65b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1b98b027707bd3aaaec8b9403f58e98613ed3392b4ab0b2e084970a6e8ca15f7"
+hash = "11763169ba915ee3c38f94528f8a00f5655e087662eb1576afc68215a911d612"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/fazcraft.pw.toml"
-hash = "905f8ec38a20cbb8762e3c215d7a50f79c93e55354e10bb79133fed05d606b0c"
+hash = "fd7e45df5d87f48074864396f315aa99824a35223a9e35329ba1281a794c2430"
 metafile = true
 
 [[files]]
@@ -580,7 +580,7 @@ metafile = true
 
 [[files]]
 file = "mods/hammer-lib.pw.toml"
-hash = "4fe68507aa85cd32058c233e1b0b5b8a7b4ab2ad1bd002e9cd77a164cc317d19"
+hash = "1a6b03437d3f80ac96348dc8e5f1077f3271f594a8a560c43375117fd8f176c1"
 metafile = true
 
 [[files]]
@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/mffs.pw.toml"
-hash = "50f3a23a11fe1f161ae990f8a49ba98b11f16ec7ec71df0f6ed0f5e4845365d2"
+hash = "4318903fef45f4437b6a070b31d3b68a5e8dbc433747dc80f5efeb27d9f385ee"
 metafile = true
 
 [[files]]
@@ -765,7 +765,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "80e0a52f08bacf42ace044468ea82a7f911366425d831126d12ea0993ae91ce4"
+hash = "d3ca7a95e3bf8cae446b508ca35aecf7e88f10637ebd37bd9daf8e9aa93af344"
 metafile = true
 
 [[files]]
@@ -885,7 +885,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2a013725891bccd98bb92d5151ec052a95d4a66e3014b049714d81cdc09a0253"
+hash = "c879106e02ed21d21262eccf6d16247179ff46eadffb58e4ea735952b862b89c"
 metafile = true
 
 [[files]]
@@ -1000,12 +1000,12 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
-hash = "bd6a9f079a629cf4b63e18ddec683910aba594f68f7648e37533da9f06e76722"
+hash = "2ad1be62910dfcced3272fe53d9a95d18924f0a19ea36e0a069f108e5167a8ac"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "cbe934294ab92311a1a98cb354b86e4ee66433aa07b1efd11fb6996ffecba18e"
+hash = "ccdb7643a3d836a4cb754c8c1c39e105a305a0a84d4997f49274ca8cf4c94065"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "d7a7fbb76aa9c2c6d730e21969741569675cc8a1f79a63c071c5b79c5835b77b"
+hash = "b1a0ae83cf1a2ba1ba63ffb10c5d1a8765d974d8c4a9e7438fe50585823380ba"
 metafile = true
 
 [[files]]
