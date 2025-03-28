@@ -6,7 +6,7 @@ hash = "9d4e3cc05f59bdd92410062346f2374eb80261253e85c725a35c24f4bea3f87a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "369f1bdac961b4fb67e5e5c3001fcd1718d13e1371f46a1e2e0a6209cb4417ca"
+hash = "d64c5c90830e1ed1fab7051005812c311797390d1402e4827863c018ae35727d"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "264f8d1b9e8a0c881883eb43f0190477073d9e33bb602ff0e6bb36cda9c2c146"
+hash = "6bf2f2f711c25f7a45b18b7a51b2096ee718cbe65a6f571707f41387a450730f"
 metafile = true
 
 [[files]]
@@ -76,22 +76,22 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ca0930e68f8cb44c0007af64f6e35118d7cc696fe7803aeb7a9438fb5906877b"
+hash = "88c2efb24218607b8e8af61e7f9cd497033b52b194e2daed566e476b69285449"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-torches.pw.toml"
-hash = "264fab8e4801052d8e89afe9b130fe47c7c974c8dae812e4ecc4bc3b03593a9e"
+hash = "26e9bc4515bc3f622c1b4ae6c2366f5c4f7b15f4af10f4c29c8f6140b4dfe289"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8c2b6a399172ad70e7008e1f25b5c0c72cb2c567fcb34db7978c4df17d976e3f"
+hash = "2cf0b20f89acbf9aedb77dbda45f56fa463bafda222d2255190739c071ee17e9"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "7517cef289be03050a002bc440ee079d1827686e28a99f73f0d126b8a5e7dd27"
+hash = "482e9dcee9a2c1fea7798a92fda779d6af1bb62769667b6e408de5cc90ab6cd9"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bf00f203f7bb4ecb46a50ee217b3679dc998d7dbe1e7f48f5e373dcf892000ba"
+hash = "ad3fc78de5febb3d599afc5cbe7b5077a6d0a342d6fc2e3e55a36622d5121925"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "e99b11ae50ea61b863157b33fb2ff0304923c425ea322d72eb001969f3070bb8"
+hash = "69b842d0d7c14ee3d86285754fac15c2152cb1216eff2479e962b099e735e600"
 metafile = true
 
 [[files]]
@@ -121,17 +121,22 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ed31c2eff33bbe4d823b9e8050f5b603c91f7033db65c2e62b98fb2b8cefd42c"
+hash = "31e9c4723301f25cec2cd454ee878909d77db7b6d537cdbbb76f655220a405fd"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "0f414c0564a695b20cc5fc685d0e45332423eff1627329d3cca3bfd84da76d01"
+hash = "7dfaca7dc1830a3255b3bca43bfb47d423b9ca44bfe4c31172d8fd0622bad615"
 metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "45417ccc858d1a15abaa9985b40975897e1beb5fa4130552fbc4b5de696a09a8"
+metafile = true
+
+[[files]]
+file = "mods/moderner-beta.pw.toml"
+hash = "deec3a04a1eea0f01c4ea3afe1ef49014f90aa8fe43bbaf205919028a7ae1f83"
 metafile = true
 
 [[files]]
@@ -151,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "3b0a92ae15c2745f9c0712ca31add695c7f1fc1fd2735b0895483c3b9f998537"
+hash = "fee8569a1b539adf2c2d1a9331dba1f9125e78f7c376547630e0e014119f2981"
 metafile = true
 
 [[files]]
@@ -171,22 +176,22 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b781a4f49d06b668caa9baf05da86cd7112a159a5f3ce5320493b38ff75d3148"
+hash = "59e9b68b63b63471471978870ec200f1dd66be3c133897ae543fe2268013d8e5"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "55c43781e356b127d839fa3617109402751e5507bd6aeb57166d4f24c7ac23b3"
+hash = "5f75d6582faad88e7cabfb1a47a4f0524f5716e94cf08d73bf975a5e080809a8"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "e30530f65b58bae4f361763301b237da60acc8e6dd7a8a7fb7fa6bd620599078"
+hash = "b5d61746c55ca87fca65900e1f9a66ac7c0fce41a476b94acb0c0541cb40be4d"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "3851e9a4604815aba857af6eebb2d4de17248f082bc59d9ef9e2bfc46f8c1d68"
+hash = "21c50581803a4282d6eed6b728f097873bf071142180f565edfbf08b44da0317"
 metafile = true
 
 [[files]]
