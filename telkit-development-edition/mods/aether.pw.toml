@@ -1,13 +1,13 @@
 name = "The Aether"
-filename = "aether-1.21.1-1.5.6-neoforge.jar"
+filename = "aether-1.21.1-1.5.7-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/OqzgzB6t/aether-1.21.1-1.5.6-neoforge.jar"
+url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/TR8mPMWa/aether-1.21.1-1.5.7-neoforge.jar"
 hash-format = "sha1"
-hash = "26f3d50f23cdaf68a11c345cb45eac1769779555"
+hash = "b39333154ef926f09363b3baac43d6d458070436"
 
 [update]
 [update.modrinth]
 mod-id = "YhmgMVyu"
-version = "OqzgzB6t"
+version = "TR8mPMWa"

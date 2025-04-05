@@ -1,13 +1,13 @@
 name = "Roughly Enough Items (REI)"
-filename = "RoughlyEnoughItems-18.0.798-neoforge.jar"
+filename = "RoughlyEnoughItems-18.0.800-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nfn13YXA/versions/dAGodfWi/RoughlyEnoughItems-18.0.798-neoforge.jar"
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/H42QXltg/RoughlyEnoughItems-18.0.800-neoforge.jar"
 hash-format = "sha1"
-hash = "4e4f7eec48cac61692ea98a373ed2806f9e36a59"
+hash = "c571c972939d8ae17db10a4a6c6b9feb47453897"
 
 [update]
 [update.modrinth]
 mod-id = "nfn13YXA"
-version = "dAGodfWi"
+version = "H42QXltg"

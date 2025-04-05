@@ -1,13 +1,13 @@
 name = "Sodium"
-filename = "sodium-neoforge-0.6.9+mc1.21.4.jar"
+filename = "sodium-neoforge-0.6.10+mc1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/GUEd3mz0/sodium-neoforge-0.6.9%2Bmc1.21.4.jar"
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/mTW3oi85/sodium-neoforge-0.6.10%2Bmc1.21.4.jar"
 hash-format = "sha1"
-hash = "14ddf351ce0360f5e7acfa59902565c76a4b256f"
+hash = "f2274ef9999262dd6051257477f601c1aa5106a2"
 
 [update]
 [update.modrinth]
 mod-id = "AANobbMI"
-version = "GUEd3mz0"
+version = "mTW3oi85"
