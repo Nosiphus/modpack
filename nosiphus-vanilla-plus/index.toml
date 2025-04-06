@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "6bf2f2f711c25f7a45b18b7a51b2096ee718cbe65a6f571707f41387a450730f"
+hash = "0211e6a3aaf72c52bfdfc6cf8193f6d2e11acdb2b1ac2336948cbb7cda02d9b8"
 metafile = true
 
 [[files]]
@@ -72,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "a178e48c7044cda56ede5e826cfdd33cd1bf7bda308e54b20de9b4c2903e0313"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "db7f204adc328bd630b8663d3089cb00e528b43cdc129804392341a6d2397b9e"
 metafile = true
 
 [[files]]
@@ -111,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "69b842d0d7c14ee3d86285754fac15c2152cb1216eff2479e962b099e735e600"
+hash = "2a5878802acedc5fe87a4e4929caed49ff9edbbc9c76a0cb5ca80d59f9c6a632"
 metafile = true
 
 [[files]]
@@ -126,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "7dfaca7dc1830a3255b3bca43bfb47d423b9ca44bfe4c31172d8fd0622bad615"
+hash = "4481bfc97bf12f967c3e68d54f76c44711e60b09e5bcbe15eafadd7ce2bd8e8e"
 metafile = true
 
 [[files]]
@@ -176,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "59e9b68b63b63471471978870ec200f1dd66be3c133897ae543fe2268013d8e5"
+hash = "e1565d98e1dcab63b66f768c3bbd0155b8879db4649d748d7be3f32f62a877d4"
 metafile = true
 
 [[files]]
@@ -191,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "21c50581803a4282d6eed6b728f097873bf071142180f565edfbf08b44da0317"
+hash = "a9485fe99654493818db64cd79e0aacec2a49182b8f05622e0d2a1604ddb29ab"
 metafile = true
 
 [[files]]
