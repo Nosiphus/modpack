@@ -65,11 +65,6 @@ hash = "5b104526b3ebd4d213690850bfde9069d6fd53c5611e841b8f330eb6a69f0f7a"
 metafile = true
 
 [[files]]
-file = "mods/cull-leaves.pw.toml"
-hash = "f905f7cc54dc51ab76572405639cf5d45e4c75e83286472603e0d7ec66da1d34"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "a178e48c7044cda56ede5e826cfdd33cd1bf7bda308e54b20de9b4c2903e0313"
 metafile = true
