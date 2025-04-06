@@ -97,7 +97,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "9182340e23f1fab74a487754626e4829b6986a52e90c95b18c746290732d552b"
+hash = "689ad679221391bc040df4a428bff5f77dc944038af445b6e5cfd4cd6a5448fb"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "c0e8d09715f8ccc0eb741fbaeef7c4d0cd4bea3a25f4f27205b60a710c918098"
+hash = "71e6278197a12c8956c7d11d7e25a72522be864aa52836905ea45d877aa0fda6"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft.pw.toml"
-hash = "bf615adaabcb307b15814a8b4ac9f2dcbda46dc983f3c8e958432b2ed133b37a"
+hash = "ae1102797c17f21f72397fb6e66145c1d7427fa825e771e9c314ba66b8682f54"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensionaldoors.pw.toml"
-hash = "d3e946387d9d42e0909e87906480ce43fcea865cf6b6210e2ad73cba41aacdca"
+hash = "3f42217219862702749ed20b21ed7fbd3012d2037bd18d5637e58ecbdfa06025"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.pw.toml"
-hash = "43758d9fe2e6cffe6ac8822142086b5cf959825bf97e4ed2c725e2a54f60fb70"
+hash = "390df4cc0c3633bf3e6603de34e53727838eb9e26c22567791fab97ee681ddc5"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "692fcdef240b586599d445c38223901f86185fbaf614516ebaf13c07bd48cbc2"
+hash = "e92248d2a6eb9c1f6c46cf255037d280ac519499b0b97c1c472c2d51141ebd52"
 metafile = true
 
 [[files]]

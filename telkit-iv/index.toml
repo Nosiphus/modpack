@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "53a349ba033e19e2a828192ec12e3bb163f632235d3c35e5648f0233e3a3e679"
+hash = "78df5f36f78dc933c7810ec510fb2ae5f005a6764fa544fb8dfb095249266263"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "f6c3adae9dd91c287548ac56c49bb1f097794a3f179d5614ae0fd0a769b5d523"
+hash = "9ee6f84029b38d7a8efe631c62230ced89114967112baa8d0a9297ca9e5ec158"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "0404df67b1976c2bc5cbbf43af1c1a2e64d729f82213d0452f89baa0157f2d60"
+hash = "f70e52d694644b2d0f3a71023fb7c424251f9ae9b82f1f3464d9d064e09f4901"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "9580fb668ec55110e2e087cc28c5fef1936dfd3fa4fd0331493c213768e47f38"
+hash = "f42a5fa15df605663af87c12bb63b2bdf5f415597f10e7e8490e58cfd42049cb"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "50313bf981290c40b1838a973e2ea1dd7e7b39a6b929cf6cc9a7816af59daf7a"
+hash = "722c7ce6fd8a778cac1f220f2300ce715c7efed09fd7ed734d61a7e1dde6e850"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "3634ff122557beee85ee9fac007c141525f32ff0f072be7a8c393ed77c119c05"
+hash = "b91ed8da22ac12783c3046736f5bed60055afdc86968b83acf241708b352d5e2"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "47e7a8f4d00a95ec0c47f17cc897fd3314b8cabe0c8d1a01ddaef2701da9ae2f"
+hash = "18135f8beaddde4eb6917b4da913a73ddb7ef1b0c8d4daa9f1d2dacb47d8aea8"
 metafile = true
 
 [[files]]
@@ -735,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/moving-elevators.pw.toml"
-hash = "aa03fef187b547e8351af47152631140875de32acabc293fb76428b7d1e41217"
+hash = "b03d1f9ee007dad64f730108ebb1712cd1c2244f18ce0ebe1db515d4965d7a87"
 metafile = true
 
 [[files]]
@@ -815,7 +815,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "eb6b168caf4f8b9f3e501e97caaa61d207ab83d6328ce2f4960c4003eca73e90"
+hash = "44be5b4e3516115e78d80e5ba5d888104bf6a0224df4f2dc186332597a66402a"
 metafile = true
 
 [[files]]
@@ -1070,17 +1070,17 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "c37d28a2d335dcd9751d5645cfdaed8bd2e508f63270103ca4e5326f88d4d2b1"
+hash = "ea5b575fa62d3e86b6c3d1b80afe784c67194114d053d7891236955e4b6a1883"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "36ed03b79c28e886e975617c3ec4e7e62c393ba4ddf101e7ebeebccb4ad83d15"
+hash = "dc0d70ca47ea0da60a460e26279b670559418e1f91e9d29ad8cf76bbb671650a"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "fe9aecc592ddb8394bdf5aaf4e24e98f4c8a6cdc959930ad9108de45e839ba79"
+hash = "51d00ea0853cd6bd342df5b7ea46d9e79ade01680a4cadbe3a8409fe0f96344d"
 metafile = true
 
 [[files]]

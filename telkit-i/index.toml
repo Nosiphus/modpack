@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "bc99b37cf7e26d9393a68e4d072909bbc9b42dee78f5db09156fcc6eff5247c8"
+hash = "d8078c3b0bed271f0d7b036ad79e08e65939869fdca408a6886d7a038de1ba08"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1100,12 +1100,12 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft-compat.toml"
-hash = "24e54da855aa73d374ab4b78c03bdcd37d89bc0f03fb2fe5701c7026a92861ab"
+hash = "b851bd7c47045459512b79ef4d6a7ce64347c9f630dfbd6d5d05304afc7704a0"
 metafile = true
 
 [[files]]
 file = "mods/buildcraft.toml"
-hash = "9177b1779ec85c0844251d374cd48f04b6babd11f770f2d1848dd0634d5a29bc"
+hash = "28825657e6a5260933662ff7e9e6cf81e562dc630a382fea77b23839556897e8"
 metafile = true
 
 [[files]]
