@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "7c70addfb1ae4bf191daada8f9b15edd975d7a5c43a8c834d4eeaa09f7b5d536"
+hash = "2ae966f1f1218d8bb3def9aa86f095515a14c1f7b6b51161ec40835c8e4328fa"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "8838c17fcf3e4fc1c4c1a6713f9e6d3c7267e7ee59dc013e5fe17f6ba86e9b60"
+hash = "44a78972cd1dc69b4eede201655296b342d681b980b5ffcaa73e236be3327be1"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "ab4dd2e8bed75b527cdb28d655132d8445ac8e641cea1d065e9538d15a408ffe"
+hash = "29114e7bd065f057d1569a8ed698601993e47cedb6053382c9cc733371dfd3f3"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "59d6e2fb655a88afccf426559df840d1d9dd61fcf7ea904783dc81d04592cf59"
+hash = "be0907b3eccf81c65f5c5c048d50832eb54b269acbe5294f461bd36000617697"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "160827f221023b2ba1758a2992ff5499962b0b7ec079bab3ad586b9e1fa5d6df"
+hash = "67125d52d54d426405720d1a13a5734e386414804cd038d68edf11048c1e6983"
 metafile = true
 
 [[files]]
@@ -1005,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "ccdb7643a3d836a4cb754c8c1c39e105a305a0a84d4997f49274ca8cf4c94065"
+hash = "891e9f333a6527dc8418c0b5007238c23f74a31e50bc7f1a5e7f7e6e65b328b4"
 metafile = true
 
 [[files]]
