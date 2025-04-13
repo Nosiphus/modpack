@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "88c2efb24218607b8e8af61e7f9cd497033b52b194e2daed566e476b69285449"
+hash = "836e2d9c036cba52025b8ab121858afd7f5fb1c303745488f0992fd40c669892"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "31e9c4723301f25cec2cd454ee878909d77db7b6d537cdbbb76f655220a405fd"
+hash = "ff643172fd1554e26670bdb369467485cbcb52ee6f1b17dd4f502b2afbda2b54"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "fee8569a1b539adf2c2d1a9331dba1f9125e78f7c376547630e0e014119f2981"
+hash = "833c8b2d906ff0698bef72b9d2625c5ef4a229349dd792b66a7895cab9c28f7c"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "5f75d6582faad88e7cabfb1a47a4f0524f5716e94cf08d73bf975a5e080809a8"
+hash = "cdcfffa5657a5108c7bbf5aca808545cbb3a0c360baef55703971fb14be39bdc"
 metafile = true
 
 [[files]]
@@ -196,5 +196,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "987268f18c159fa94b836501f8aafd93765a86c22739ec2e4c8b79af2287edc0"
+hash = "5b649e20f72745bf1d2d204ed4703e673f1f8d92e881e289d541276e6b18ab28"
 metafile = true
