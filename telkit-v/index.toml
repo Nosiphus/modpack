@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "2ae966f1f1218d8bb3def9aa86f095515a14c1f7b6b51161ec40835c8e4328fa"
+hash = "61059f41e03a03897b99453c3c3d4f6addb37354c918f0fbd8c1cbef44b94df7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "29114e7bd065f057d1569a8ed698601993e47cedb6053382c9cc733371dfd3f3"
+hash = "c1fb4b35943ed603eaaa2999ec0faa3d22a5ea2a95f7ef1b0cd0eae83c945bae"
 metafile = true
 
 [[files]]
@@ -1130,12 +1130,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "16c3900c8c0dc3b45b162b7a18921658a723918c9cb277b2b1aecd569e52ceca"
+hash = "8adf517d32940d0963263127fdcd5a66bec0ab5085858793a0f3fe22fceec823"
 metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "c95ec363713a2f43ec92ab2c2482ab9eddf1c3cb3cb50516947e0314e10c61bf"
+hash = "774cf4bd2c668b1ebe70ce891805bf5ea1628b5425907cdb1cba721e4d2e4d79"
 metafile = true
 
 [[files]]
