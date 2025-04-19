@@ -97,7 +97,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "689ad679221391bc040df4a428bff5f77dc944038af445b6e5cfd4cd6a5448fb"
+hash = "db24663c81fcaa169175ddf0eaa63afdf4a3a67e2ff553c7a92b093a007ec2df"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -345,8 +345,8 @@ hash = "763b3aaeb0ae8a85e860fab000fcd8f48f630dc8e8821bb324d7186b72eb1686"
 metafile = true
 
 [[files]]
-file = "mods/forge-essentials-74735.toml"
-hash = "4726bacf483cf10d9c006029e66999af6d2a02f02e0b499c9b3bf34de0f9c7cb"
+file = "mods/forge-essentials.pw.toml"
+hash = "19b571a403464b8fc2ae02acc3a11954731c1164ee5b62de519c2f0164830286"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.pw.toml"
-hash = "390df4cc0c3633bf3e6603de34e53727838eb9e26c22567791fab97ee681ddc5"
+hash = "a0144497d89c3273e5201fe086120a9795941a7efea895f9526c9575a2d4601f"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "15702c9b7edd14bd65b2d3bd7209777cada3b07842663c9b13d2d46e9836afcc"
+hash = "d131eb7d705326e6101e07a3fad60f935eb46931f5eb862650c5e33464f1078b"
 metafile = true
 
 [[files]]

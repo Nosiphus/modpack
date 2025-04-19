@@ -1,8 +1,0 @@
-name = "ForgeEssentials"
-filename = "forgeessentials-1.12.2-12.4.126-server.jar"
-side = "server"
-
-[download]
-url = "https://edge.forgecdn.net/files/4679/622/forgeessentials-1.12.2-12.4.126-server.jar"
-hash-format = "sha1"
-hash = "646d967f0827be17bff96963d49753b71b95b3db"
