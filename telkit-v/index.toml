@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "0368a963b22daf2e71e4f98945498ba8e9f59a2a62208e8ee9b327855ba8b81b"
+hash = "962419bf37a7ca75d7db99d87cc13258378a7804328af17446e71ec1848e4866"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -121,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "bf85fa7d542ddf7b41f05954ed77a9e5f95a7e68304324015c742ddc63c9bd89"
+metafile = true
+
+[[files]]
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "8b1072faccc66c144b10ec92dc81d23042b6fe57250f2ea22fad8af55523ab8e"
 metafile = true
 
 [[files]]
@@ -765,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "d3ca7a95e3bf8cae446b508ca35aecf7e88f10637ebd37bd9daf8e9aa93af344"
+hash = "6d42219d5670fdb8346156aa5fe1ef897589d62bd7944c62c230e6dcbcd560c6"
 metafile = true
 
 [[files]]
@@ -976,6 +981,11 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "0efdfd042ff64bcbd20ea342d47214c362a124f63568ccf3f1516caf134dc596"
 metafile = true
 
 [[files]]
