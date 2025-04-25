@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "962419bf37a7ca75d7db99d87cc13258378a7804328af17446e71ec1848e4866"
+hash = "3ab4c117fa125a2ad196ce553e9b8a2ee5aef9a9b0c78a52f7288a70535204a2"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "44a78972cd1dc69b4eede201655296b342d681b980b5ffcaa73e236be3327be1"
+hash = "105a6914268cc64c353e8c8c5542acce71f5077e89356e177f616dea46e90da1"
 metafile = true
 
 [[files]]
@@ -885,12 +885,12 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "d9356a50cecd50ea65cd9ecff20bd97df2b379776ccc0b78683b1df387418a04"
+hash = "8d3d9fd64c708e36dd1680697399c8ef8dbda11f865f09e9976b145792afb008"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c879106e02ed21d21262eccf6d16247179ff46eadffb58e4ea735952b862b89c"
+hash = "0b8dc088ef1a4bdd5a2de9e05a2a26ace6a23dc732eb5c9386543aa8dd6662a1"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "b1a0ae83cf1a2ba1ba63ffb10c5d1a8765d974d8c4a9e7438fe50585823380ba"
+hash = "15aa2386329f94a71825e196473b18aecf20354555f0931aec314535dbb22803"
 metafile = true
 
 [[files]]
