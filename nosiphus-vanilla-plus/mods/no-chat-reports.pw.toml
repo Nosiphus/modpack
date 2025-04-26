@@ -1,13 +1,13 @@
 name = "No Chat Reports"
-filename = "NoChatReports-NEOFORGE-1.21.4-v2.11.0.jar"
+filename = "NoChatReports-NEOFORGE-1.21.5-v2.12.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/SbnUzNb3/NoChatReports-NEOFORGE-1.21.4-v2.11.0.jar"
+url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/uks6FgIW/NoChatReports-NEOFORGE-1.21.5-v2.12.0.jar"
 hash-format = "sha1"
-hash = "fa38a2085daa9d9dbd190d4fcbd5f824427aafd5"
+hash = "23f1003b9d1ead6c54cee26a75188fea1ca6e92b"
 
 [update]
 [update.modrinth]
 mod-id = "qQyHxfxd"
-version = "SbnUzNb3"
+version = "uks6FgIW"
