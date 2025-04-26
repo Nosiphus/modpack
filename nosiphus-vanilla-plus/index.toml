@@ -100,6 +100,11 @@ hash = "e471f47a48fae4f5aa9b12172c0e55fb7b0dc0065aa0cbd7a5f7949a5c2e8ead"
 metafile = true
 
 [[files]]
+file = "mods/framework.pw.toml"
+hash = "eebbb59aa6dc65eab63b79711ce9c5d673e6e347ff06c1b8c6fa813e8841eb64"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "478fae8412aacf74d30524179a0fbf19efddf84e7e38fc12ec05728e074f81eb"
 metafile = true
@@ -140,6 +145,11 @@ hash = "67589fc386ee74dc66c2f35f72e1487fdb2b4361d0e2623903e3d3837700aaa1"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "59f5298c9e461be85212b8667b0beab1910f3ec5fb4efc60b5e645fea75488ca"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "7de56fe7b6b86093e3979824dc9dfd90a54040668ee15bd3588103b189a20166"
 metafile = true
@@ -152,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c9d26b8a710c0f4b59222216e484a0f31c48d50eed7516c8a57174f87b31030c"
+metafile = true
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "2e2ea81de2c58ed958a951bab5cda92a035c3b9e06235a8798baf7716c08e863"
 metafile = true
 
 [[files]]
@@ -192,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "6948f86a153a68ca4ccdc70da34dc41b962efee22c67cfb17ce81229f05b80e6"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "9bc9430a3ecce14cbf77271b6c2ee1d00828ecdcd4f954d9a5941126dcbbde9f"
 metafile = true
 
 [[files]]
