@@ -94,7 +94,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "8f8cb891145f500f8427c6737e1936cf6a46d70b090bdddd6108f9307b43a043"
+hash = "66a79e4a7dc12e088218265c16aff3138c80a4ead41688fc810d1e6a81524b03"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "3ee0596398bb42103f7395c353f821dc20eb6e83493886724f203f8b34ad492a"
+hash = "f19ecae0a15152954d3bd80d9e08227843a1fe6bb017a5c032a47195e5ca4bae"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "7ba990ce2509a23376debc95dc2ffdbe46cc3975c9d1aa1c6a6b02db66ccea87"
+hash = "0374326510f0a9f95d8b6b3664ea97089d5c00f55628d1888c16c065c3f2a82c"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "e0d13ddaed70ba5ddbb3170a30317e76f61a4415c04b9ca4035cb217c444f9ff"
+hash = "63594b1b41ffcc808dd9caf9d046c1cc9b8707bf93172d60f6f230fd63cfd613"
 metafile = true
 
 [[files]]
@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "a9c249d965b9cf789725c12f3d3f91bda6c81a0034282e045e78d04a962d6ba0"
+hash = "2026f7778057d5ab52c9d41d8a712e60019d8be64a5b25339e9084961447e471"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "54fe3cd4575b7102fd8aee43418a8cb5929bc1e3ffb19e5d09af5918dc845e89"
+hash = "009557f01466201e1dc58ad37625f5fe6550dcb90615624e74b46e66eaa73cfb"
 metafile = true
 
 [[files]]
@@ -726,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/paperdoll.pw.toml"
-hash = "7d7f27ebd96e6afa21e23fa5c767e93b655c0094ecefaf4d415843b34b16b0f0"
+hash = "b43ab421dc9ffa390fb5b903faece081d4976e01c2dab3c78eeab0f58c2bb08e"
 metafile = true
 
 [[files]]

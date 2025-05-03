@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "cd3c21e6e3b24519192280e691c7837f7d5fc9846ef11b18bb330ea5581668a8"
+hash = "b298cdbce353efa3783890331c929e86e2507d9f53598248c78d4e5cf8886e1b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -1075,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "dc0d70ca47ea0da60a460e26279b670559418e1f91e9d29ad8cf76bbb671650a"
+hash = "7109c28cd8cd4e32634ad3c6d167bc7c717b17e2598a078cbab7fa73f7f8caa5"
 metafile = true
 
 [[files]]

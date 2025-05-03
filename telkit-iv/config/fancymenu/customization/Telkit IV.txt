@@ -223,7 +223,7 @@ element {
 
 element {
   interactable = true
-  source = Telkit IV: Saturday, April 19, 2025%n%Newest PureBDcraft Patch Collection: Saturday, May 11, 2024
+  source = Telkit IV: Saturday, May 3, 2025%n%Newest PureBDcraft Patch Collection: Saturday, May 11, 2024
   source_mode = direct
   shadow = true
   scale = 1.0

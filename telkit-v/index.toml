@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "29de7c7c82e8f4c390d3ee0d21350ac085d1974dd5ef247579c2639d038f3daa"
+hash = "d31713d935efaa4c48123e0f002d49f77824770bdac29f8d04322e89a143990f"
 metafile = true
 
 [[files]]
@@ -581,6 +581,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "91e0af4b9989dd9a706d43e32ad498184d9400646f89362877bae96c207b7b70"
+metafile = true
+
+[[files]]
+file = "mods/guideme.pw.toml"
+hash = "708def9b5044248bb9df33c58b849d9dd584bc324c5cc7e211eddb64b0151ad0"
 metafile = true
 
 [[files]]

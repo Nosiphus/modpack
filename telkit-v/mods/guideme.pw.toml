@@ -1,0 +1,13 @@
+name = "GuideME"
+filename = "guideme-20.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ck4E7v7R/versions/UD2nQxJx/guideme-20.1.7.jar"
+hash-format = "sha1"
+hash = "fc039093c479b3632b1ab60ea503e79b76b686f9"
+
+[update]
+[update.modrinth]
+mod-id = "Ck4E7v7R"
+version = "UD2nQxJx"
