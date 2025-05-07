@@ -94,7 +94,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "66a79e4a7dc12e088218265c16aff3138c80a4ead41688fc810d1e6a81524b03"
+hash = "f7453206ae556edf36577ccfdba5ccaf151c9776bf4e5292a49fa19766bb77de"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "f19ecae0a15152954d3bd80d9e08227843a1fe6bb017a5c032a47195e5ca4bae"
+hash = "9b03ac06c46425ce5ca421db6c3f59c0999ec1a47e0b660fce80504dc8210fac"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a3494e75195d5b8805c2f29c8780f9698be521a5546e2b8003698a346b316799"
+hash = "7818ed58aadfada879f1add348ef08d0ce41c16c079f3bde89aeafd9cdc4aea5"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "63594b1b41ffcc808dd9caf9d046c1cc9b8707bf93172d60f6f230fd63cfd613"
+hash = "6936576c74a421a61298195bda1d93e7f8c114372b8103c7f833f6d3163ea5ce"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "e7e4158db79ccf5afe81355b9890ae087bca8c5085b410f1cfe6ef3d5235f532"
+hash = "af5a960a427ec702a7f6349a4b614cf7355ffc8141713c75d6a7dce77888232d"
 metafile = true
 
 [[files]]
@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "588ea6e8273ae73c13c29e392dcb1fadcf93448abd2d345b11bd46dc2299dbc8"
+hash = "41fbf1c9c57ea48dee61cc09b42d9cc94b1741b44d7b2c2cfb2eafdc83e1ebe3"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "009557f01466201e1dc58ad37625f5fe6550dcb90615624e74b46e66eaa73cfb"
+hash = "ea1a14a40a502cd5f4966325c2760531342ad2acdcea76ad9264e9a66e871439"
 metafile = true
 
 [[files]]
