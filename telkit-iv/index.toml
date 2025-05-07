@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "b298cdbce353efa3783890331c929e86e2507d9f53598248c78d4e5cf8886e1b"
+hash = "dd6aff5e3d0d058e11f482583596991e074f710eabc4f3126fadb0a7b3867de0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "0821ae657174e2db633176dd37e6abd87f2504838a8b6117d548abd112b14d35"
+hash = "899fbbd93566c6aaccbb1885e26bb6e3eb77ce2df7ab2b873364a11759f1db6b"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "61af699052cf0f354c0656d4921f4f354fc53eb23465532753afd65ce0b64c61"
+hash = "033b5d9d344aa5b64f2b453c2aafbd2210dc0f23d356cdddb1c8ab6775b845ac"
 metafile = true
 
 [[files]]
