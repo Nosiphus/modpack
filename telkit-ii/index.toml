@@ -97,7 +97,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "26ba9ea348886a0de16d003ad4f280c877715573104c4b802aad5c5b49e37bf1"
+hash = "a89c58d0df05c8529a2389168d2b1a533de15ca306ae6c38a6895943f155ff38"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/icbm-classic.pw.toml"
-hash = "a0144497d89c3273e5201fe086120a9795941a7efea895f9526c9575a2d4601f"
+hash = "c5dbf8f0c37e2a7708d132d67aff5adec81561e26679e69e29925b765c622722"
 metafile = true
 
 [[files]]
