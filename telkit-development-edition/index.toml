@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "ec6b7f649a96b4eda0eaf8652f4c524f58f03ac4b792504049756a0c0f826fbd"
+hash = "c53bfbbcda621f289e3de24fd10aa557267e026dac31b9da79e4778299877a3e"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "90c677d840abbd77773c6bd9638d0e31f89063914636706b2fa65c0baa3e284e"
+hash = "0cb1e1828c0860c15589380f761fce3511bad9b4466ceb263db8780a0c081738"
 metafile = true
 
 [[files]]
@@ -272,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "cf203357238233f00eea0bc914cbab834c07893b893024318eeaee54ac03b1be"
+hash = "81b26d81ba23f966904bc04d886ce0f1dd562f5027a90611b5e39cff5974763e"
 metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "692910cf0d081d20454dffdd5a95a71587992af9a1d11a9116e00dc536318535"
+hash = "a6c7b596c740cc9961f971e2f89b32659af48214f42f8df6f04dfe8d55a3a000"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "91ae157e61ebb995ba1b31c3a2a3611ae45cd023af5b8ec6617114475342cdde"
+hash = "0f2eda8abf86418ee1cd2fcb697c163dea007411db736094214ae1066c9b4d4e"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "edc61dce42828c49183dd982bc34e0b2e452665093c6ebdf0ee06337b8a01a9c"
+hash = "14a018f4f23c9ffb20d150d7978d5ebf256b12905be29be98996c276a7d6a715"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
-hash = "19b4260f5e67bca82134bf9e6878f08086b78a3f83aa1b44dcbe42510d46956d"
+hash = "f1a2777856b95bc2f38e958b3021912c2c634a97c3e1b8bd12587aa20ede65cb"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "44ab7a5c06e37a555df9fb48554bdef2ed5c5dfd6f033cd6cdc613fc21a2383f"
+hash = "72a7143468cf2a546190ea8bf75009e76718990859b6f77612321cb7c88327c9"
 metafile = true
 
 [[files]]
@@ -577,7 +577,7 @@ metafile = true
 
 [[files]]
 file = "mods/solar-flux-reborn.pw.toml"
-hash = "bfbcbc5f5011a28fe40f3fc44d5159b48ede5f301b7b88a2605e700fda1ec6df"
+hash = "4beacc7672afcb61d0d037fb284ce5ae15dc2cd209fadd3972667335181a99da"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/stellaris.pw.toml"
-hash = "384dda8595de455f8de9bb0c850975b8d2ec2ddba8ac79713f0286e39113b481"
+hash = "4136fd1e6e0f6abf840e5b10ed31d504c1338d904feed124c000070bca037a65"
 metafile = true
 
 [[files]]
