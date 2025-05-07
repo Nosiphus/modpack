@@ -1,13 +1,13 @@
 name = "Nosiphus Vanilla+"
 author = "Nosiphus"
-version = "2025.05.03"
+version = "2025.05.07"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f34bf87254dff6a3fd1e8ff9487d62e3179933143ce42409c19c9e8377303571"
+hash = "3b25baafb806338c1418575a6431fc198883fe8ca6d871bc7d93523c72bc7351"
 
 [versions]
 minecraft = "1.21.5"
-neoforge = "21.5.63-beta"
+neoforge = "21.5.65-beta"

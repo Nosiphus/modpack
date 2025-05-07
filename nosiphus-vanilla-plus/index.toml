@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e29f04392f26ce80546a0101a33d06c4175c879ad2d318f7db1e77450c8e779c"
+hash = "208979765c3fa2aeedb58940a6d221c01a5d79b4156ae7ca1519b9245f3190a4"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "32b041c65a2c65ca396083cdc8204691b204a6f4bdd0582b0e6bdaccab0db8b6"
+hash = "750296b25752a849b513f5fb607b3c9cfe5dc4115d468deb79dd721a66782267"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "572fb5c9617d71b984d9b6f37a470579cd58bb89f1fa0ecb2e828f495796d547"
+hash = "76435dcb9953386ae8556cc76158a400b01d3b8f361b69325d83c866f8bdb2d2"
 metafile = true
 
 [[files]]
