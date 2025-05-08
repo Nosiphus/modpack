@@ -1,13 +1,13 @@
 name = "Nosiphus Custom Blocks"
-filename = "nosiphuscustomblocks-2025.02.16a-1.20.1.jar"
+filename = "nosiphuscustomblocks-2025.05.07-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "16b81b3aa94b5df027bdc6a713ecf46deb705c1a"
+hash = "b20d2b3a74bcebf7b971874f4a48baf86ffa2142"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6201983
+file-id = 6507552
 project-id = 1201454

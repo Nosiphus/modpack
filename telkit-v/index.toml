@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "3e9e67db3278bd30501f6bc44ae5a76e3586395bb3cd12b99981e3d7c4e0ec64"
+hash = "875a5510326e72cb827f30c14fbec0fd2299ab4536a51d7bce9a826aad982797"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -825,7 +825,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-custom-blocks.pw.toml"
-hash = "a0036a750bf8d6f003469c9ca9524e2c0aaa05ab3cfb028a8ed0ff1b0d7529d6"
+hash = "70de2d4abe8e9d7cd507310cf386a399e719d227aec9487035a6fd3daa8d5eee"
 metafile = true
 
 [[files]]
@@ -1174,5 +1174,5 @@ hash = "0d486367240c828485b242b6b9e590c815f718370aef7bc835ff01a653b1e725"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.toml"
-hash = "7b36f76e19ab02ffcb2049fc683a5c52075439bb4faa03fb66f40c88f35131b5"
+hash = "f68357917c7722436e8eb89fe3ba1de5b7e0851303204a5dd2943ac053cbfb30"
 metafile = true
