@@ -279,6 +279,11 @@ hash = "3c1d83d9f1455963571e567e5b0712fa08b4d78162e9e3ccee78f3d15b09453a"
 metafile = true
 
 [[files]]
+file = "mods/cfm-refurbished-circuit-breaker.pw.toml"
+hash = "942b641b26df013327383997c32d01e1103f21ec1a52de55b2fe0411d19f486a"
+metafile = true
+
+[[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
 metafile = true
