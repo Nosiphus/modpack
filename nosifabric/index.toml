@@ -94,7 +94,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/NosiFabric.txt"
-hash = "f7453206ae556edf36577ccfdba5ccaf151c9776bf4e5292a49fa19766bb77de"
+hash = "16ee9e9f56329136a99d282d3170c30661a8bc836d227ad5afd127736d408607"
 
 [[files]]
 file = "config/fancymenu/images/nosifabric.png"
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "836a16f531c355e761b744bb0d2a964d6bd6f761696ffe95bd8351c36ba60b6f"
+hash = "7f28f174de447d2efd658c7956d05510c337bd0c4883818afad1e9440ca9bdc0"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "6936576c74a421a61298195bda1d93e7f8c114372b8103c7f833f6d3163ea5ce"
+hash = "d39bbbb6224ddc45bd36b7750d72ee1683cf0120f7e6f08d7e3587050ec305bd"
 metafile = true
 
 [[files]]
@@ -671,7 +671,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ea1a14a40a502cd5f4966325c2760531342ad2acdcea76ad9264e9a66e871439"
+hash = "6f87736c28a1b45e2800f35231ecd39aee46af955138f5aa7ece0dbfb9edba0e"
 metafile = true
 
 [[files]]
@@ -871,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "0fcb0aea2b166825409838e42e22722c027bb5a25cfb776a38aef97cf88351c5"
+hash = "930b1720b7eae742aa8cafe190ae9a6610803ca4d6200143e5bdba1d12269817"
 metafile = true
 
 [[files]]
