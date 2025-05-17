@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "594367d5f6ade2e0fa5e19f0b5a2d9fb2729063e7c8b64f013ec548cdff8b508"
+hash = "965ac7f4cb23f756de6542d735195f961fe648949d04eea356e3ce2d187d4d9c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "2a4f28e582d8bb538efaeb0faa5a8592f44b2e90dd192af58852f45aa7be8be8"
+hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
 
 [[files]]
@@ -665,7 +665,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "eda00658aae72ce58c839caade7a081cb57c7194ffea8d8bc73a57303b2e94ef"
+hash = "bada712182292da181bbfb5e0516210adc4569a309528367c65d197f255195db"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "4969a9660021108abf9fb569d6309217479b9719c1f007309dc7d854c7f6deb2"
+hash = "c2ad8ab1a029887d0574e865ade29a152e5bf5228f9fb5757c3299e37bdc1a58"
 metafile = true
 
 [[files]]
@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "67125d52d54d426405720d1a13a5734e386414804cd038d68edf11048c1e6983"
+hash = "c86448468e5ac209ae7946ed6179447bd34b2a6cf77763004bf9151ad6091456"
 metafile = true
 
 [[files]]
@@ -1160,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "774cf4bd2c668b1ebe70ce891805bf5ea1628b5425907cdb1cba721e4d2e4d79"
+hash = "9aeea9b9af4cc3eb6febe8f4485b0fc9c89769dd0238731b64398b9663798ed8"
 metafile = true
 
 [[files]]
