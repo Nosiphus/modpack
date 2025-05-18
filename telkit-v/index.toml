@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "965ac7f4cb23f756de6542d735195f961fe648949d04eea356e3ce2d187d4d9c"
+hash = "f7baf9263875b9caa0b2f81cb0e0892f72acee2b9957c82b14e4b41b68b7bcfd"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -66,27 +66,27 @@ hash = "eb33c7f2ba927cd0c4d1b1bf959a1f95956800c7f869840b5e80ad4b6d48d4a9"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_0.png"
-hash = "7399cf2fa17544eab561f28a6b73869aed799eac5e739fd45dbb6a2867972265"
+hash = "08ad1949c354b0704bbaa2ed653b59e0e5f4bfe72559f37d7498edec0ea8141b"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_1.png"
-hash = "7a2bd35859b4d181754296a03347df3e00926a384a6daf0d011143706ad88f2b"
+hash = "319f4520e758fd0d417b16e34faf141cacb14c56e4c1490deaa85c0fbeda3c98"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_2.png"
-hash = "c56d414b1bd3274cb427efb67761724879d809aab43fbf07016e54dde0fc4826"
+hash = "88a37286207ba2520e9586501acb5ed357fa17f9d08237f6cb0bc0b3522d5744"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_3.png"
-hash = "0f2ba1a6cffe66c1349dfbfd96e8945951f9587942908a0a902126591ebad0ab"
+hash = "d3653e9990e44a2fdeee6267381d3f0be9a7c82bd4e450926ddd95d215ddd224"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_4.png"
-hash = "f0e9d549eb327421cc90b1a884b1626dcc214d7f4b668a9ec85c398aac85553a"
+hash = "89e6bfeceb206d76682efdf424845c35ed6d78dbbc219bf8b4003d2c5964e8b1"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_5.png"
-hash = "bd760004a576ae93673713ef8249d5b98132baf11b64a3bc81ac8bb20dab7428"
+hash = "7fe35f0b09bdfbdc3703b5976eedade8ff2898fe104e06298c5886559803a7df"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/properties.txt"
