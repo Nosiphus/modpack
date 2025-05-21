@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "8b51cf55d3df543ceaac4009028d8fba54ee7d5dd95ec932d0cbaacf8a972c9b"
+hash = "c592a6bb57b0b1fef397977ca034bcfd9589e1f4017e4a9a31f6b258c1fabe6c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c86448468e5ac209ae7946ed6179447bd34b2a6cf77763004bf9151ad6091456"
+hash = "2523cfa8c9e06272c4ef8e22b591a6ee4a503b3d1563b6cf75886c6cdd01d769"
 metafile = true
 
 [[files]]
@@ -1145,7 +1145,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "21a323bd42a93e085272765de647fbe2bc0ac73373c183e217dbb33856526681"
+hash = "e0337a59cf468ff2b8ebe650d1d1a0fd68df07247ff7edd3ce865b0769dff466"
 metafile = true
 
 [[files]]
