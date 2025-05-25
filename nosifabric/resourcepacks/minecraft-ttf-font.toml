@@ -1,8 +1,0 @@
-name = "Minecraft TTF Font"
-filename = "MinecraftTTFFont.zip"
-side = "client"
-
-[download]
-url = "https://drive.google.com/uc?export=download&id=1Zizg5rBCIjcBxewIDnuK2MUjTuz62WK9"
-hash-format = "sha1"
-hash = "a264e329f0f125cc566395b15561939f05d57b2e"
