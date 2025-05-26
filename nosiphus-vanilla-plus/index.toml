@@ -115,6 +115,11 @@ hash = "5f2c79ef40516d9e2c3eb77a563a1e2db6478bb241b9ef85673f14e80f8da2b1"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "0a430c00df1cae8cdc9701ccf28649ee84a26027e6ec0872b94b04ee538db3d8"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "0bda38f663a4db65282e6894fccb334a03586f3a2bf67be3e8b91a61ee71484d"
 metafile = true
@@ -167,11 +172,6 @@ metafile = true
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "2e2ea81de2c58ed958a951bab5cda92a035c3b9e06235a8798baf7716c08e863"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "fb95e23602fe8add9480d1764fb4cf83f469e524d4f392c1b90ac8275ae90833"
 metafile = true
 
 [[files]]
