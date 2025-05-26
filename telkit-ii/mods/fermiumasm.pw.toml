@@ -1,0 +1,13 @@
+name = "FermiumASM"
+filename = "fermiumasm-5.28.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LnSdxRsG/versions/1j3dT8HI/fermiumasm-5.28.jar"
+hash-format = "sha1"
+hash = "d3b4d15cebe24c822556de2c77e348f20afeb064"
+
+[update]
+[update.modrinth]
+mod-id = "LnSdxRsG"
+version = "1j3dT8HI"

@@ -1,0 +1,13 @@
+name = "mcef-legacy"
+filename = "mcef-legacy-1.12.2-1.43.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af84e2964220b65bc810c91720106bedd981ebe2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6370191
+project-id = 1206525

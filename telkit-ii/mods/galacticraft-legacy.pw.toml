@@ -1,13 +1,13 @@
-name = "Galacticraft-Legacy"
-filename = "Galacticraft-1.12.2-4.0.6.jar"
+name = "Galacticraft Legacy"
+filename = "Galacticraft-1.12.2-4.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZnmdXAk2/versions/GPQtYzIX/Galacticraft-1.12.2-4.0.6.jar"
 hash-format = "sha1"
-hash = "425ef01a8625c68452a9ab29873e9252e1089330"
+hash = "f2d3d57eb41fa5e9026a4a2f917cf207dd0341b2"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "ZnmdXAk2"
-version = "GPQtYzIX"
+[update.curseforge]
+file-id = 6364107
+project-id = 564236

@@ -1,0 +1,13 @@
+name = "MixinBooter"
+filename = "!mixinbooter-10.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G1ckZuWK/versions/jxYM6zXi/%21mixinbooter-10.6.jar"
+hash-format = "sha1"
+hash = "1e66c1799f30239386e5f2ed8b25ab2d9063cdb3"
+
+[update]
+[update.modrinth]
+mod-id = "G1ckZuWK"
+version = "jxYM6zXi"

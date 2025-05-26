@@ -1,0 +1,13 @@
+name = "VintageFix"
+filename = "vintagefix-0.5.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e6vNsbAm/versions/McpyqyLw/vintagefix-0.5.6.jar"
+hash-format = "sha1"
+hash = "66c2cee328218eec7c5fefb99101293065ad534c"
+
+[update]
+[update.modrinth]
+mod-id = "e6vNsbAm"
+version = "McpyqyLw"

@@ -1,13 +1,13 @@
-name = "Buildcraft"
+name = "BuildCraft"
 filename = "buildcraft-all-8.0.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/6X5wjPTJ/versions/6Nm5Msmd/buildcraft-all-8.0.0.jar"
 hash-format = "sha1"
 hash = "dba9b2f4560b6482affc85a535a13406f4a999ab"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 6376391
-project-id = 61811
+[update.modrinth]
+mod-id = "6X5wjPTJ"
+version = "6Nm5Msmd"

@@ -3,11 +3,11 @@ filename = "FpsReducer-mc1.12.2-1.20.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/iZ10HXDj/versions/UX5XQGgU/FpsReducer-mc1.12.2-1.20.jar"
 hash-format = "sha1"
 hash = "50c323de01f2235d351bf5417da6d4ef494b12e6"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3362160
-project-id = 280294
+[update.modrinth]
+mod-id = "iZ10HXDj"
+version = "UX5XQGgU"
