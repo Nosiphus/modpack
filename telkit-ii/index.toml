@@ -148,6 +148,10 @@ file = "config/normalasm.cfg"
 hash = "e4627c8a205e7ecf47a47de070c431fd4ed52737bac1c5eda6b64659bbb6d6be"
 
 [[files]]
+file = "config/quark.cfg"
+hash = "18108fda221d7c75f472c576eafc2d8c8c5d37d4d095ac27fa33c68c1106a95f"
+
+[[files]]
 file = "config/randompatches.cfg"
 hash = "2668133dff0cb3945b7e434ee62221d9b49915689c6619e1c254a8b978d181e1"
 
