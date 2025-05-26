@@ -313,6 +313,7 @@ metafile = true
 [[files]]
 file = "mods/discocraft.toml"
 hash = "19589e921a1e9a5269263956732cedc074eacda3426c4555fac3fe68c3ea6bca"
+metafile = true
 
 [[files]]
 file = "mods/eleccore.pw.toml"
