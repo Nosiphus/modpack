@@ -792,12 +792,12 @@ metafile = true
 
 [[files]]
 file = "mods/voxelmap-fixes.pw.toml"
-hash = "9244eacd7f00e5dd957f03babc4b7274a8af59f40ffffeb27743b06ce35c590c"
+hash = "40ebbeba23111be3455ac86917326c74334817ba9580b6db804f7cbbccef4286"
 metafile = true
 
 [[files]]
 file = "mods/voxelmap.pw.toml"
-hash = "36a79c33d217a0b8e9f0b59924182457a5f814a0586ccf5844b14cfeb00b4dc4"
+hash = "b78f5b2a00281663e4fc5a3c786c4ec2885c60bfb9a31bfb97ffc5be7dc7b0ce"
 metafile = true
 
 [[files]]
