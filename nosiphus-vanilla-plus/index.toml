@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5b5c41d420c01ca092fb669411148b750aa5eb3e19e41157f37a2a03dafc5a2b"
+hash = "ad542abb961eecc20eb3fe13559c6402fe690af54d4d42de6e72f87ff7f33014"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "750296b25752a849b513f5fb607b3c9cfe5dc4115d468deb79dd721a66782267"
+hash = "f7f0e9035cfc5b881eccb8db7e6a5db4a4d8a084546e68d415786e9f38cd0598"
 metafile = true
 
 [[files]]
@@ -101,12 +101,12 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "eebbb59aa6dc65eab63b79711ce9c5d673e6e347ff06c1b8c6fa813e8841eb64"
+hash = "6dba50572149dc9a078a8ce3257df7105614384df259f2dd0d5ba6e194bc6c46"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "478fae8412aacf74d30524179a0fbf19efddf84e7e38fc12ec05728e074f81eb"
+hash = "2773d7b7f18d11c823a93ab7de645f92064e200e1a57bf1ce6588e2335cad41f"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "76435dcb9953386ae8556cc76158a400b01d3b8f361b69325d83c866f8bdb2d2"
+hash = "0bda38f663a4db65282e6894fccb334a03586f3a2bf67be3e8b91a61ee71484d"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "c40e8c6f6d07f08386ca5532c654574f27c4370f7f198d5630b9c1c41155ed27"
+hash = "49834856909fa9e7f382926c0692a289b7b1efbdc863eb3688bbb756a4785916"
 metafile = true
 
 [[files]]
@@ -206,12 +206,12 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "6948f86a153a68ca4ccdc70da34dc41b962efee22c67cfb17ce81229f05b80e6"
+hash = "a845f42409402671b10228cd9218d50a54c4ace6ea5149915ecbd30b9ece9219"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "9bc9430a3ecce14cbf77271b6c2ee1d00828ecdcd4f954d9a5941126dcbbde9f"
+hash = "b3a9af1206d1b6b43d2551f381f3aa6c23252911c0cf605e72b705de7a4302bb"
 metafile = true
 
 [[files]]
