@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "dc247e16ffa751103f3af5504c33c8f68c8f93b93a41b8b68c048be4852d9a43"
+hash = "8bea1b80f8ce2b0edc91bbafde19d6ef29f8680b451198e9a3a6f621d3b70478"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "c7949fb5e4ba49cce30642a0c9d04ec744b2ff7af2f752b41fa55008e74adc27"
+hash = "4822f8bdf45605b60572ba97ae9f9c0b889f7cdf9110932ec34e2d57ca70b368"
 metafile = true
 
 [[files]]
@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "bcc17c6a0e30b52c959c9536b1a6f3d9b963d3a9dead6cd3bcdfc19ba09752bf"
+hash = "c157563d81d1b1a29812ae633a968b1a09287d3ad0ec8dc3d73721b8be830279"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2fb5e221ed42ea62a64e4fc9d77df8c372096d3922a4284003abbf427c22e3d0"
+hash = "cd1e681a0d0060ca027a680815b01b26d086b6608ff9cd2cfb499e7ece5c34bd"
 metafile = true
 
 [[files]]
@@ -835,7 +835,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-custom-blocks.pw.toml"
-hash = "70de2d4abe8e9d7cd507310cf386a399e719d227aec9487035a6fd3daa8d5eee"
+hash = "7fbdc72facc5b340414c44038563aaaf20c67fbe290f5f8c555bfdd95187f5d9"
 metafile = true
 
 [[files]]
