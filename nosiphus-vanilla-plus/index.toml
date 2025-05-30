@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ad542abb961eecc20eb3fe13559c6402fe690af54d4d42de6e72f87ff7f33014"
+hash = "50b266d1b16e1455ac88fbb38b7f7bbbc87669c25c960e39c24c948f6107f803"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
-hash = "f7f0e9035cfc5b881eccb8db7e6a5db4a4d8a084546e68d415786e9f38cd0598"
+hash = "2ebce0b3cb58c06f509aab23d20ca42fa4f831eac8ea8ce2a6d81cc81c2864ab"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2773d7b7f18d11c823a93ab7de645f92064e200e1a57bf1ce6588e2335cad41f"
+hash = "a0e284aecec74aa3b1a86f80a5a40ace7ea96f3515e11e9ac2aec25adfa4b04f"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0a430c00df1cae8cdc9701ccf28649ee84a26027e6ec0872b94b04ee538db3d8"
+hash = "41a5005e940e83e9e3f4e290a04ba7ca3519f8d873cd0b2bbe69afeb5717d1b5"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "a845f42409402671b10228cd9218d50a54c4ace6ea5149915ecbd30b9ece9219"
+hash = "efc92d53cc0c8ca2bf8b3e1aab5434fb2410ab0d3312e90d8edb350510c69c9b"
 metafile = true
 
 [[files]]
