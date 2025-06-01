@@ -1,13 +1,13 @@
 name = "Borderless Window"
-filename = "borderless-neoforge-1.21.4-1.7.2-all.jar"
+filename = "borderless-neoforge-1.21.4-1.7.3-all.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CnalMsa0/versions/CUNOLa1i/borderless-neoforge-1.21.4-1.7.2-all.jar"
+url = "https://cdn.modrinth.com/data/CnalMsa0/versions/dj718VcH/borderless-neoforge-1.21.4-1.7.3-all.jar"
 hash-format = "sha1"
-hash = "16cfa398361c59dbdb1f1a0ab6b22c03d571cea6"
+hash = "1500e10f68e56b54a7787b9cf9d2522a2a4ddeb7"
 
 [update]
 [update.modrinth]
 mod-id = "CnalMsa0"
-version = "CUNOLa1i"
+version = "dj718VcH"

@@ -1,13 +1,13 @@
 name = "Ash API"
-filename = "ash_api-neoforge-21.1.0-beta.jar"
+filename = "ash_api-neoforge-21.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Q8xUICr6/versions/DQE4eZjy/ash_api-neoforge-21.1.0-beta.jar"
+url = "https://cdn.modrinth.com/data/Q8xUICr6/versions/ZuRoptW5/ash_api-neoforge-21.1.0.jar"
 hash-format = "sha1"
-hash = "6ce467295ffb69134d498c965dae52474011d702"
+hash = "9b8dcaa537419680da7673e08e1cd9daa627e793"
 
 [update]
 [update.modrinth]
 mod-id = "Q8xUICr6"
-version = "DQE4eZjy"
+version = "ZuRoptW5"

@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "8bea1b80f8ce2b0edc91bbafde19d6ef29f8680b451198e9a3a6f621d3b70478"
+hash = "32fdc5b5da89e299596dbca8b6efd26626311ea91a9e19263b5d1a5f833e4401"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/elevatormod.pw.toml"
-hash = "09495ae6706b59dab33e6d32c68707cc6ec11e462d9027c1e6e3884e697fe241"
+hash = "54ebcfb2aebf93e227ecfd655a6d307e2112459e92f00551f00964ccf13434c6"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "cd1e681a0d0060ca027a680815b01b26d086b6608ff9cd2cfb499e7ece5c34bd"
+hash = "3869b9346f1377bde03e2276afcb954391c840e6eda7140f4cf07f7c94795b0f"
 metafile = true
 
 [[files]]
