@@ -93,7 +93,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "d2453a133963ade92da5ed1f8c831dfc178fe5a43cb0fa72efe3f2f9102b5d2e"
+hash = "8da9c0678230a774377e736f31120a5777b906878911fb80fa468fa3bdf5bd2f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -562,7 +562,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "d131eb7d705326e6101e07a3fad60f935eb46931f5eb862650c5e33464f1078b"
+hash = "8dea8c278137b0f42a815734c4b3a338ad18ea76e2ca08623ad3c332e5127eb5"
 metafile = true
 
 [[files]]
@@ -792,7 +792,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagefix.pw.toml"
-hash = "9a3687d29a39ccdf90f1ecaeb4ee76d599b6f190a4bf93de17563f94a14b3806"
+hash = "3805beed7c7ccc9c7aeacd2ed102a500bc2720fd656d345a15453990232810ba"
 metafile = true
 
 [[files]]
