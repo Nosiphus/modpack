@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "46e8f87470dcd752af3031ff424674565e13aeaffbf5b7420a24fed9f09c503a"
+hash = "f63df2c8f549d8fc6877be570851b2e8e68198624bcea834d7759556cb4066d6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -481,6 +481,11 @@ file = "config/xercamod-common.toml"
 hash = "8a6febf33c17fdb58aab32120be3d4dceee75b1a67898b622948e720521f4668"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "b413cb593e9af45f2afb5183215c6ba9775adcc8e207b60519bdc1075ee52e4f"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "78a2974be4ca1553dc4d339f6ebe6eee69e3113389b2fea2667a3678cf207c29"
 metafile = true
@@ -602,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "28b0489dd6e5f05c5f8e49d18acbec41ae8d239e617e6a038a3d72666a8e7011"
+hash = "9f7b30ba4cac4e9b668fd1bd54ce57cdf9e3f3aaf81d23195a330b9a4162e15f"
 metafile = true
 
 [[files]]
@@ -776,6 +781,11 @@ hash = "20fec1989cbe1119c0083cae1fedc4719c34e519275520abed1898a88530736a"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "4cbade87fef39ba34f9b459b8d238fa761901c4817db0564ef4dae1a06e4b832"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "5f2f3587ab7a6b97c2a7de730582ebc1cab61769ca8c164c64d41117d92a512a"
 metafile = true
@@ -818,6 +828,11 @@ metafile = true
 [[files]]
 file = "mods/mo-glowstone.pw.toml"
 hash = "52bf9ca787792e0c18f093735551dc9084bd8af829d3d7c2c60f101f66974acd"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "4a24798d6b5b43e1c64d7ed5f907e3ca6c6f63802835991a2310761e9e23e5e2"
 metafile = true
 
 [[files]]
@@ -882,7 +897,7 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.toml"
-hash = "c4448446bb8efbe734ed5aa6fbbf6183cc7b5f7d2014cb09f01b1a94c7342753"
+hash = "1cfab2b7cd6878f1fc703eb7e75589e368eeeb2ce5bc0d35014d6e2d8cff46f0"
 metafile = true
 
 [[files]]
@@ -996,6 +1011,11 @@ hash = "b1271df7c3a0956dbc1e56ded6eba90510bd4ce5b6d2e5ed17982f5b3678f06d"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "d330360e64d17b89882a0374519fb81c42c850a9c7a9b05454a348ceb132890f"
+metafile = true
+
+[[files]]
 file = "mods/security-craft.pw.toml"
 hash = "91d5fa9f48291bcbde522869f518b79b34bc92a4ed7b8b09a56d2d00bf04ceaa"
 metafile = true
@@ -1078,6 +1098,16 @@ metafile = true
 [[files]]
 file = "mods/voxelmap.pw.toml"
 hash = "61af86a2358da31248f8c2dbe80b8a4b4cd0d8f23502e78506942178c06f41fb"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "e503701f7c106df5df316a15b53c126e5cc3e69d7933d35f0ed51d53bf91b389"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "ef9bf04fdab73e8e74773379bdd28013a65d12d74522bae24d0810162a90605b"
 metafile = true
 
 [[files]]

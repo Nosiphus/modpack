@@ -1,0 +1,13 @@
+name = "Waystones"
+filename = "Waystones_1.16.5-7.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/vUV2WTLr/Waystones_1.16.5-7.6.4.jar"
+hash-format = "sha1"
+hash = "986457447ebc040939214d5d59efb5529e3f9648"
+
+[update]
+[update.modrinth]
+mod-id = "LOpKHB2A"
+version = "vUV2WTLr"
