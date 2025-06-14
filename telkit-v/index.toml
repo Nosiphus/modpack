@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "2a64bcdda2a07b7af41a74df48c62de6dbcfca0b6f0b4a2af1c7be40f2f1fe57"
+hash = "c7285131083819107a17d9cc951ddc7110210d4af56871c3ab6ae2af59759f64"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "7ba33c17903efebced84329f2bb02cf5fdd0b9002cec601947eed04bf7121c95"
+hash = "5388a64bb1dce1fc3b8e94668998c4f4ad5b25dab12cdd37040e48aa13a35cd0"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "708def9b5044248bb9df33c58b849d9dd584bc324c5cc7e211eddb64b0151ad0"
+hash = "ed90de794d52b89fb83516d7d81d96f6342e382ad0793182a781da34df45cd2d"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "972cc448da53acb7ada643c8fc45b71db1a92f49446ebd417e59632ef87abaac"
+hash = "ebe7c3b62def051b75517056f0ac7650e7586a5536363015f18c20810c2dff1a"
 metafile = true
 
 [[files]]
@@ -905,7 +905,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "0b8dc088ef1a4bdd5a2de9e05a2a26ace6a23dc732eb5c9386543aa8dd6662a1"
+hash = "4095ce5261bd3751d4864adaf89031eb815540d865ffa86ad428237150f55383"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "83cf750142f7eb360eff9fa7a182f5c5429adc789413e5a7172d82ef48660110"
+hash = "6d7a0b70fc737c8327ff8791a4870179cc4e649ede9271af65f90e169f4c27db"
 metafile = true
 
 [[files]]
