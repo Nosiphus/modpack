@@ -1,13 +1,13 @@
 name = "Nuclear Science"
-filename = "Nuclear Science-1.20.1-0.6.1-0.jar"
+filename = "Nuclear Science-1.20.1-0.6.2-1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aH4Sud5i/versions/IyfdofE6/Nuclear%20Science-1.20.1-0.6.1-0.jar"
+url = "https://cdn.modrinth.com/data/aH4Sud5i/versions/vppCuUVT/Nuclear%20Science-1.20.1-0.6.2-1.jar"
 hash-format = "sha1"
-hash = "4cbb0e9809f78409adbb02655f070ffc48248f18"
+hash = "e0d5fd2c3c3a7363d227265e78dc59f0b6d42266"
 
 [update]
 [update.modrinth]
 mod-id = "aH4Sud5i"
-version = "IyfdofE6"
+version = "vppCuUVT"
