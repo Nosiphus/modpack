@@ -1119,6 +1119,11 @@ hash = "449f36e42abd88435bbb1f59444b1b60330a031e19c901fd26f5b4319555aafd"
 metafile = true
 
 [[files]]
+file = "mods/voltaic.pw.toml"
+hash = "0cc370577b4efcf0a39b71d4ef609b0af309645702b74aced7353ee6ca8bec5e"
+metafile = true
+
+[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "505c52f23324efaf215ca9ee91cf32a30698cf91b9f3988f0844c50e9640c573"
 metafile = true
