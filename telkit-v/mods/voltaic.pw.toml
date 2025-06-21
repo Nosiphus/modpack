@@ -3,11 +3,11 @@ filename = "Voltaic-1.20.1-1.0.0-3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kzF5itx6/versions/RhC55SqB/Voltaic-1.20.1-1.0.0-3.jar"
+url = "https://cdn.modrinth.com/data/kzF5itx6/versions/jZ0g16jp/Voltaic-1.20.1-1.0.0-3.jar"
 hash-format = "sha1"
-hash = "2f21af5408ccb77e9e0044b4f1416bf0a23f018b"
+hash = "de463195b62aab10625d4e3a5dbc61b42197caa2"
 
 [update]
 [update.modrinth]
 mod-id = "kzF5itx6"
-version = "RhC55SqB"
+version = "jZ0g16jp"
