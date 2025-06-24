@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "b13d6d2ac5244d509f49c9aaae30d93326f0181ac6c754d65af19c3855542845"
+hash = "20761efbc5d0d54b24c5a651f6f557cd1ccbe857e943ef9d2173ca0b658c4521"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "bf85fa7d542ddf7b41f05954ed77a9e5f95a7e68304324015c742ddc63c9bd89"
+hash = "145b382d93c2671ba400140a7268d422d081a795c2d15869460edb4dfc452f7d"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "9f1ffc593f5b6369763f380b97efadf53acffdd03adebe49b038fcfa9fb59b3a"
+hash = "4fe7367f9c2966e59db30ae8c1043225302923b1b932c06fba8423e74d754ef9"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "5fa10efa625fa1ca7d8f4e871abc50434db662df64d8b3199db8a4363f8fb8bd"
+hash = "86f9fa64b1f57106fc00a7f25902f09d9989f7046e7639e70714853b5382adad"
 metafile = true
 
 [[files]]
@@ -360,22 +360,22 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "4d5d23c97c87b10111c7070d2886ea46664d3d8476724985bde412e3beda5805"
+hash = "0ecc58b1aaa67a0332f12f7b1eedf229106af505473b4d3091f3478c749b9347"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "e5a6aaa216885d6f60a4184e7052e365cc4482618449ee769b9652429a2de7e3"
+hash = "b111c175cc0127fb75670b67e62b96b1274b363d0960b7be843bdf85998086fb"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "b916a712a0697a6e62b2d2982f9ce1eeee081ab780465653e8c07d274a4b4826"
+hash = "a876aaa9cea285d068b936a8196b231e896ad19b9dde0c1eef03a3e4c7a649c8"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "5be9bf84ab292bbb6c872a3329b5464e3352a21a377c8fe0e4301074d889b3fe"
+hash = "13b1a2b6bb389a37c08cee933ee5357c9c6330f85be92dcd53fd01a3d8b45bf9"
 metafile = true
 
 [[files]]
@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "5d512ed1a8f50d8c40586eda5b20c0bb43b2443974a55c230643613475b6ed67"
+hash = "627ffa96783fce4beeed43f00856c2b6b68b33d10ffb939355adef3cb123af2f"
 metafile = true
 
 [[files]]
@@ -565,7 +565,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "e15d3058bf96412dd2d49065b82950937ac23b42d2861dbcb54180dc3a7bfbb1"
+hash = "05460446771aa53ff43fca4fdc0da36b79304e7d4a992c94b4dd9f63b179310f"
 metafile = true
 
 [[files]]
@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "2d52674dec7c6529ec755bdd2aa3c41ba5c24f2f4dcb5b3aa461cdd0562e0715"
+hash = "51ea98a64aca96ec6b81b84637e999acce498a6d0ddcc7fd0f985dd41705394e"
 metafile = true
 
 [[files]]
@@ -800,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c631523b4590a3b76eb7c1d3f6df7a545c6eea21a16fee0e37d35cf20f004f5b"
+hash = "f1fcc5d3dc2d1d9ae928c8d9441e0c9c358e39c44f407c3fb9518ddb02c788c4"
 metafile = true
 
 [[files]]
@@ -910,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/potacore.pw.toml"
-hash = "c9971fb5d29431ca3c5f37e1ba8654dac2a67bd9994494d012bbd6e1463705a9"
+hash = "ddf08f0af57fcdf7dc6a9c15cc2ede17c87a00cfbe5b4e40aade83267890aaaa"
 metafile = true
 
 [[files]]
@@ -1050,7 +1050,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7b53d89edb7829208916c6a753dde212abb86a5cb0984a8f7835bec5ed18d524"
+hash = "2cfcadecac246ffc14dfcf4cb9290a794443f0cbba9326b630e0def5cf94551c"
 metafile = true
 
 [[files]]
@@ -1135,7 +1135,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "32edab2f879fea83eb75e690cde1610950e47e13be499e80e4e5674710f2c1b8"
+hash = "84a66a91b606bdd54411bc1ddf3cfa6ece7732c4539ca583aff9adf0444007cf"
 metafile = true
 
 [[files]]
