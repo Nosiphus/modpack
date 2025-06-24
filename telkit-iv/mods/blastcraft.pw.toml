@@ -1,13 +1,13 @@
 name = "Blastcraft"
-filename = "Blastcraft-1.19.2-0.3.3-0.jar"
+filename = "Blastcraft-1.19.2-0.3.4-0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qzSqkQKb/versions/vzsN3dkx/Blastcraft-1.19.2-0.3.3-0.jar"
+url = "https://cdn.modrinth.com/data/qzSqkQKb/versions/9q3UeGGQ/Blastcraft-1.19.2-0.3.4-0.jar"
 hash-format = "sha1"
-hash = "97e877a483760a20e8eb9aad5fa7cd8e80a72ae5"
+hash = "6df0ac062bb16a7a1084f3f8d67205611ce77809"
 
 [update]
 [update.modrinth]
 mod-id = "qzSqkQKb"
-version = "vzsN3dkx"
+version = "9q3UeGGQ"

@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d8441f310771ebde8b651d40852f3170292479d121fc2aed25c960b906830632"
+hash = "4c960aa5d6b154bf05851ce417ea26a32da4a0b93595159c4e1c6626236cb3b5"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "9ee6f84029b38d7a8efe631c62230ced89114967112baa8d0a9297ca9e5ec158"
+hash = "15e4632246d0e2ad808b2af69f558f570df7600b284c5875630f04a39a5a9f04"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/assembly-lines.pw.toml"
-hash = "9cef8371172d69e40561ed946777fa993f54b7615b413dff039c9c36941e07f7"
+hash = "3a64a249704e6df657f93a364131453ea76c5dd54371d2ca0a363d703e4ae4e6"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "f42a5fa15df605663af87c12bb63b2bdf5f415597f10e7e8490e58cfd42049cb"
+hash = "47f0f12deb906839970d6f4e8922f0693d4dc8aaffcfcee0f2905e8d88812434"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/blastcraft.pw.toml"
-hash = "8389893bb9e3313c125dfa7b119d15b812cd8cae57023fd7bbbe9ed593de9cd8"
+hash = "f1d994e17bad33d64421dba4de3f63a5e936eb3eab23741718aab2b2ecd29226"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-electricity.pw.toml"
-hash = "ce2a3037e1e93bd9c994d923003d8b3796ab34f1c9c5935bf7b83c91c3200d67"
+hash = "1b2b2f0f2b598d76ff6ae8b8a5493b7b2f93f2501068f547cccaa3c182993cda"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "a519236cd8e9cc8ca931f83d7896b836617b4777563c464719f51e1763f2c936"
+hash = "25b7cd715c09aee8c67b40a053ed7a7c9ce61a223a944462268aa3acd674a502"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "f6b5b99f846573ca0156b27ae320aae717e9887c4d74556b47f4b6f6c6a91ec9"
+hash = "48e8cc728dd00c3f514b6109f5d768e010a748cd3039f76c93b53cafeaece659"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "2fa5caef6058567a75e011e3c312fd475c84c73162c5188e3de8d6362c614c2e"
+hash = "97637c04474ee4467274be1727dcc5aaf867791e71d5175f31491cbb6c5dd9d7"
 metafile = true
 
 [[files]]
@@ -1075,12 +1075,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "7109c28cd8cd4e32634ad3c6d167bc7c717b17e2598a078cbab7fa73f7f8caa5"
+hash = "71c614959650d8c1f72d4e8a0e221c263685da7da47ed7278e3631ed780f6eea"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "51d00ea0853cd6bd342df5b7ea46d9e79ade01680a4cadbe3a8409fe0f96344d"
+hash = "03d53e7107182c5cd157f8b680a19f50b3e3ea7306e75b32fb4c164528eee89a"
 metafile = true
 
 [[files]]
@@ -1100,7 +1100,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "3aebd26dc97ade89c4e95b3e0d42024751517a193ab83605016f4339159dcc7d"
+hash = "2b773156f057ba44aa134233488eefa9b1cc8a0933756e41830d70d1e0145423"
 metafile = true
 
 [[files]]
