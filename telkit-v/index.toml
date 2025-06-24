@@ -379,6 +379,11 @@ hash = "13b1a2b6bb389a37c08cee933ee5357c9c6330f85be92dcd53fd01a3d8b45bf9"
 metafile = true
 
 [[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "aaa702ecd1cfb6be73f641226b81f9d15749f65667a41af0af39b86b285e70d2"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "66f2f3ecdb1304c765a0e01852240dbb8222240c75b14e76384db4f49a880c65"
 metafile = true
@@ -611,11 +616,6 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "bd7af9b5938971ac01a7f655f75ea0b1934fe7b4dd1f5df5f6f51698fd150689"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "f0c4b5a898f3954d3165c8f6f9e3679a3d84ba016785011de528593679993d7a"
 metafile = true
 
 [[files]]
