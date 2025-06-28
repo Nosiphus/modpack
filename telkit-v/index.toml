@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "77c026fc1444a9675bb044bb163588479ec2de13bb8206f65460158a93aa4dc1"
+hash = "b2707cc82e78e236d8a93571bced659753f857e459cfa43c9c8b1c3410f8c79b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "e74f64b7512aaba7f9a246ece632e83b871e4d61da056d88d6b94ec76fdc397e"
+hash = "2c148cde1a7a468fa4fe3128610145549f21e5c9492afcc42f77ee11cffe088f"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "2d7ba7fe972efb1c6559fa795906f3e5a43de635f0e78391976698cd99c06372"
+hash = "6d2c461ea26f329e3e809415bfb72b993fa8ecab4a5a8ea450f61f3cb4bcdb6a"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "627ffa96783fce4beeed43f00856c2b6b68b33d10ffb939355adef3cb123af2f"
+hash = "17ea92e6c86fa659e902aae5addfd431049c5962a3c0bbd1a37fff538162e7e7"
 metafile = true
 
 [[files]]
@@ -800,7 +800,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "f1fcc5d3dc2d1d9ae928c8d9441e0c9c358e39c44f407c3fb9518ddb02c788c4"
+hash = "c03c0c23ee3b427cb7937288913e6655f1c4286a44274f363b2cb6011a9d821c"
 metafile = true
 
 [[files]]
@@ -1120,12 +1120,12 @@ metafile = true
 
 [[files]]
 file = "mods/voltaic.pw.toml"
-hash = "da22321c2298cfc12e1c468adb4abfa23f241d487d8f3a0befff320aec7fee19"
+hash = "55d0c496286b86389d25ecd8b126879762d37b17272ed19aa53cbc4e1cf64ff6"
 metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "505c52f23324efaf215ca9ee91cf32a30698cf91b9f3988f0844c50e9640c573"
+hash = "b53366ac4e074429cd4dbed1acf585457d013cf12d6bbf20233df2c7b7349709"
 metafile = true
 
 [[files]]
