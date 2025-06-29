@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "a1267989bbd19edf3311e2b03be58c7e7b030702fcbfc389d2e50072c4c0d0bc"
+hash = "08b82b8ecc5cf41a24d05971fc75d0b9ee5702b8b01245ebf29c8cd2796bba39"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1581,6 +1581,11 @@ metafile = true
 [[files]]
 file = "mods/wtp-whats-this-pack.toml"
 hash = "92dcd353d4a4897a6a7fbd2301acf8b98aee83e00da1fb35a46969bcdab81ad8"
+metafile = true
+
+[[files]]
+file = "mods/yogmod.pw.toml"
+hash = "037d7670dc81ed6f6abdead78e52265d2ed4a1473955a3d9495dadd38e48984f"
 metafile = true
 
 [[files]]
