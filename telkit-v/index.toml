@@ -989,6 +989,11 @@ hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
 metafile = true
 
 [[files]]
+file = "mods/rpl.pw.toml"
+hash = "e57b6a5323ab8f386d4ddfe8bd6232b5bd08afc95275a65fd30ee5b0cf031045"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "8c6d91d8b28036329810392f55f4b57ec98ed58e72b72f85aa90903d0b6c97b1"
 metafile = true
