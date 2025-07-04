@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "72e1cdb9c08b3bdae0701a79f528ecce046c6259dc1823cb8f16f5b6c2b3cd44"
+hash = "cc36f96aa0ae515dd4ce3a766a01265e5941a3b14623388a116511a831aa31de"
 
 [[files]]
 file = "config/Waila.cfg"
@@ -1585,7 +1585,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "f0e964ba50e60896c67ccdab34189e24f2e45974be2e2c70fc2961f47fb765aa"
+hash = "9a48e7f1004dcf15f8d8ad20e8c7e0af81b755647dc4752e89cbc89d5e4cd23a"
 metafile = true
 
 [[files]]
