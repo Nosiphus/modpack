@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "b1ab368ae0602cb69991efe23b3aa9340143f96f298953723916cd578bdb76bb"
+hash = "afcc2c4541de2fa945b8f73652e9efeaa8ba33bd2ad1729a3be6652fcde32486"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/createbetterfps.pw.toml"
-hash = "aaa702ecd1cfb6be73f641226b81f9d15749f65667a41af0af39b86b285e70d2"
+hash = "9ff6bf3b98b4735304f0a3c550e4786eeec4cd48b55d12db233cd1dd5eaa175e"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "32d550b70f7aac657955309d651a18617b0df99dc5cce8e392969ab41ccf208c"
+hash = "073a2660fbf2021fb6aaaeeb7046da6ff80a47d6a49183548461b255698f28ca"
 metafile = true
 
 [[files]]
@@ -616,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "bd7af9b5938971ac01a7f655f75ea0b1934fe7b4dd1f5df5f6f51698fd150689"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "64d769814285cdb2bf788a5a7d1585e2af580e855900ab1c96e80945710ed484"
 metafile = true
 
 [[files]]
@@ -785,12 +790,12 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "51ea98a64aca96ec6b81b84637e999acce498a6d0ddcc7fd0f985dd41705394e"
+hash = "948dc8ae8d7ecb01980465f16b49b75b6b9511212e7526acfb1d0b74efbeafca"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8567d5caff8e201068a39dc77357ccd7d323b62cdf15acd849058706bb7b1544"
+hash = "d5fac99216430712f1c5f8299aca3f27e4ef7a9d890062f96ef259ea9aac9244"
 metafile = true
 
 [[files]]
@@ -905,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "24fb684fabe202302362bb710877bd14d1e023711b03908c0370c9ed8cf2275d"
+hash = "16e8d300049d936aab4e7321ad9c2e86828b8b839c4b2e7d028292dda144c3c4"
 metafile = true
 
 [[files]]
@@ -1055,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "2cfcadecac246ffc14dfcf4cb9290a794443f0cbba9326b630e0def5cf94551c"
+hash = "e4f83e67a4cb7f0ef97e261aa14b3e0a32138b3693ad0a4e577bc1c7b74867f3"
 metafile = true
 
 [[files]]
