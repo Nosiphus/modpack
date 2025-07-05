@@ -699,7 +699,7 @@ hash = "248bcb5e69fdda610eeca1f3592014f7e3a80c6664822e72412a238e3264b49e"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "cc36f96aa0ae515dd4ce3a766a01265e5941a3b14623388a116511a831aa31de"
+hash = "b79ae58c0e4caa4af2db8aab2cc4a8d152371da64b17775843aae721fcf2254d"
 
 [[files]]
 file = "config/Waila.cfg"
