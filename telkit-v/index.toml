@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "2f5574863d2aaecb889621384a41ab73c0aa9ad1908879be9116820cb4c31b3b"
+hash = "b9b31211aa366b66e261f5a73dbc7707082045fbad154d9a6b9d2919b24c37d5"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -110,7 +110,7 @@ hash = "848b6f23735b9a10abf8525b75a16006daa88fe9baa8f694735d4c7410a228e3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "cf2ab6e763a28a7e301b6351b0266e27292cef51ba63dd68ed953b3d22f34de3"
+hash = "3d2034c5e29fe91aaab710d4b68f451e26513226f5f5cb801bc74432da8fe2b4"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "2c148cde1a7a468fa4fe3128610145549f21e5c9492afcc42f77ee11cffe088f"
+hash = "594eb62a11fc5054e4e6defa443f952fd148ad6d86d37711ce40a8f1acb5721b"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "949f8c6737684f534fc9a8933f77ecf2546d10cf941a3e0a974ee7e5c3367633"
+hash = "92a84fb8f23797d962517aac9f1e70c60a9b84c1d5864ea1d85fd4936b8afdec"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bd7af9b5938971ac01a7f655f75ea0b1934fe7b4dd1f5df5f6f51698fd150689"
+hash = "4505780f34746ca4098712d63bf8c0155e3e57530adea9598b2c19e835e06d9e"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c03c0c23ee3b427cb7937288913e6655f1c4286a44274f363b2cb6011a9d821c"
+hash = "251a9a737e8ca05af12f657d02f4bdd5e6b40f652e5e8989e3e3f1847f09bc2e"
 metafile = true
 
 [[files]]
@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "63f2cad29311107fab8042933705feb69ac63810ca35e32eafcf9fd13288cb76"
+hash = "4b65ec120f1af53952c87da0435106a09caeb1c5d27b655ccb75f4f99170e026"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "7208d9c2aa81d8d456d048afd691d77c1d29f6d96623b0a538f6aa5d2a58130d"
+hash = "f376c00cef2a3f81891b431df8ae4f6535be16331c18fe2da51eb3f1c79c3740"
 metafile = true
 
 [[files]]
@@ -1060,7 +1060,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e4f83e67a4cb7f0ef97e261aa14b3e0a32138b3693ad0a4e577bc1c7b74867f3"
+hash = "e0e6258c7ad4d31ecd187df4f6e1f25578568aec1dd7438226d6509a3f6fcba4"
 metafile = true
 
 [[files]]
@@ -1130,7 +1130,7 @@ metafile = true
 
 [[files]]
 file = "mods/voltaic.pw.toml"
-hash = "55d0c496286b86389d25ecd8b126879762d37b17272ed19aa53cbc4e1cf64ff6"
+hash = "0ef0213767e79fcf63529e74d03514e89926619cd2055ba0a4fb418433d0dbfd"
 metafile = true
 
 [[files]]
@@ -1145,7 +1145,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "84a66a91b606bdd54411bc1ddf3cfa6ece7732c4539ca583aff9adf0444007cf"
+hash = "ec6fd5df04e7df7ef0b2c2d77939c9ecd230407faaa442a4269b88b8d195213e"
 metafile = true
 
 [[files]]
