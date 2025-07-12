@@ -93,7 +93,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "f2ee47c0c37fbcf8706a8f1206045724bf9a9aa8987965d8f5e06f5dc086ebae"
+hash = "1edcd963049b0e5f89db54893605306771c1a22042bc3a7e56f13993d0cd6a31"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "336e887bbd50e48ae925360ce5798d6b944c3705d77db8da8e13ea0f95562ec8"
+hash = "32f35adeab02839e3c42ffb174dfabb24b796cd757af57ee720bfc27bcb2dd60"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfish-furniture-mod-legacy.pw.toml"
-hash = "abca5bbd190cd8e918abf054270f1b54690b33d923397984f162ff8dd25d6cc0"
+hash = "f34ca6b7bb00b4d4c4e5db0efe178356058d0e9aa720fe7791cd6bb86dfb2c9e"
 metafile = true
 
 [[files]]
