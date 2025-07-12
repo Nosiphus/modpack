@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "b9b31211aa366b66e261f5a73dbc7707082045fbad154d9a6b9d2919b24c37d5"
+hash = "f160638ac7b234efe8aabc818d75dfb914a318515b15d7223dd31148bcf2cda6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "f376c00cef2a3f81891b431df8ae4f6535be16331c18fe2da51eb3f1c79c3740"
+hash = "f7f44a63cf440c85c6bd2d372de6268b9a2a7477be8875340563c6b9d953da12"
 metafile = true
 
 [[files]]
