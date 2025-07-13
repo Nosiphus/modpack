@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "f160638ac7b234efe8aabc818d75dfb914a318515b15d7223dd31148bcf2cda6"
+hash = "00c2e512f296de5990dcf101b287c305837dbaa81683ce181ea8fabc2548b409"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "5388a64bb1dce1fc3b8e94668998c4f4ad5b25dab12cdd37040e48aa13a35cd0"
+hash = "3321ba1df3b75d3c2edb915a6ecf3e878bde29f228e0e704fd3b8dbb9e366199"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "c42ac3fa10b91d94c3892de610c5d7a0475d480afe71eda479090f70b4b388d8"
+hash = "a9b13d984ba6aac71d25b24f171671456e75415ce4fe2ff43e7bb404594febd1"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "7c5ae4adfb514315d9abb8c4e3f19601948731622b765cab939d7cf1e5c633f1"
+hash = "3eee5c8dcea092e8c3f3ecb662474dacc08dd8f36810c40d2783f6dd5f560724"
 metafile = true
 
 [[files]]
@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d5fac99216430712f1c5f8299aca3f27e4ef7a9d890062f96ef259ea9aac9244"
+hash = "171ea91e7bf8c82ae765c7b8532d5c6b48b878212dd9fbdf62326d7d201a6e53"
 metafile = true
 
 [[files]]
@@ -910,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "16e8d300049d936aab4e7321ad9c2e86828b8b839c4b2e7d028292dda144c3c4"
+hash = "0bd946e14c27a30e70da6114d5169a6d57d8b2c565c486674ebbd04446bba1c9"
 metafile = true
 
 [[files]]
