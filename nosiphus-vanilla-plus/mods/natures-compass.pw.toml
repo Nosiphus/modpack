@@ -1,13 +1,13 @@
 name = "Nature's Compass"
-filename = "NaturesCompass-1.21.5-3.0.4-neoforge.jar"
+filename = "NaturesCompass-1.21.7-3.0.5-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fPetb5Kh/versions/GdntNEt3/NaturesCompass-1.21.5-3.0.4-neoforge.jar"
+url = "https://cdn.modrinth.com/data/fPetb5Kh/versions/vq4qXHML/NaturesCompass-1.21.7-3.0.5-neoforge.jar"
 hash-format = "sha1"
-hash = "8c1a3c504f1879f937d1b419d1e1f5bb3d4d9818"
+hash = "27b5815631113e421564fd8e7b7dcc9ce5cd5fef"
 
 [update]
 [update.modrinth]
 mod-id = "fPetb5Kh"
-version = "GdntNEt3"
+version = "vq4qXHML"
