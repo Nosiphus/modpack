@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "597fd514316cb8a8febe338c3c45e6a5c2101ceb5dfd6b3999b30d042220c8fa"
+hash = "2f832449be2a9d6ca5e7767bad9e368f49f909500c34a3abd1e5d32dabbf2734"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "15e4632246d0e2ad808b2af69f558f570df7600b284c5875630f04a39a5a9f04"
+hash = "e9de71dbcf4013917208de11feccb41b4701912e711ceebc25bbb676912e3d3b"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "bb11a6a2ff2c30a08b271ddcadc6f2e4c774681d89a74e479042c36383eaf61d"
+hash = "48ff0ff2773ced580314d5ad058088f9c8026dd8daab2c76fe11bd8d2b094977"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "82309118a82e38f57b50234079df9ff66ae52a56b686cdceb1757fbd3f636120"
+hash = "91df4efb5bee2285745b204eaf108778dd1d2cd83387b310b68e99f8579bc195"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "c2c5e44069391e3f036f1e6ad3d8651dd6748c75c085388512e83ddc2fba8c87"
+hash = "364b91e78e872034d240515ca5650ef3a9bad08ae120de070ec7c766131d64fa"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "03d53e7107182c5cd157f8b680a19f50b3e3ea7306e75b32fb4c164528eee89a"
+hash = "301087c6e942f7efab91b6deaf5fc3497ac67e32e3aebbaedbd65aa099fb36f1"
 metafile = true
 
 [[files]]
