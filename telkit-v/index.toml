@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "efa37e7bd1c94e7f0a0caf43f0ac2745782264d02d2271ffee0b27fc7b94d7e4"
+hash = "6e14b1c0bb8d5ecfbce19e12951e28317b61d5de5947326828a932fa16500476"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "7c5ae4adfb514315d9abb8c4e3f19601948731622b765cab939d7cf1e5c633f1"
+hash = "6ecfbc71109df7f66186fa00376ddd4880593706eb7c149d6c1097545378d726"
 metafile = true
 
 [[files]]
@@ -590,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "80cc2b6dce063563ae166409dc44c4a12d2f43e21501dbf1037f0b0d140f642c"
+hash = "d27ed0e6edef597b1736960ba4394223ac476668715f4a76fe54b87c5237c05b"
 metafile = true
 
 [[files]]
