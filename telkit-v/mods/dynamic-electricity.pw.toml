@@ -1,13 +1,13 @@
 name = "Dynamic Electricity"
-filename = "Dynamic Electricity-1.20.1-1.1.1-0.jar"
+filename = "Dynamic Electricity-1.20.1-1.1.1-1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gYqTAyBw/versions/wFYjYhtR/Dynamic%20Electricity-1.20.1-1.1.1-0.jar"
+url = "https://cdn.modrinth.com/data/gYqTAyBw/versions/AwN1hO75/Dynamic%20Electricity-1.20.1-1.1.1-1.jar"
 hash-format = "sha1"
-hash = "7db796125715a413d1b23050b197e3dac1de1909"
+hash = "e8a6a91410f662211dea61d97d936e007b3badf9"
 
 [update]
 [update.modrinth]
 mod-id = "gYqTAyBw"
-version = "wFYjYhtR"
+version = "AwN1hO75"
