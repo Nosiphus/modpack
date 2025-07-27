@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "46880ad9ceeb99175726bc25b78b6e9b37d3b9f8aa05825d138af07c2a948ce4"
+hash = "ffe2d6cbf71c6e869ecd8639943e5a031b9f1f30fd0bc8a25c778de5ddbf92d4"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
-hash = "8b1072faccc66c144b10ec92dc81d23042b6fe57250f2ea22fad8af55523ab8e"
+hash = "b0dbdb5879e36b6fff752904c8ee3d65d8b4b9d3726ff5d0f66fcd5b82092437"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/ceiling-torch.pw.toml"
-hash = "3c1d83d9f1455963571e567e5b0712fa08b4d78162e9e3ccee78f3d15b09453a"
+hash = "9bd9802b2e7d9477a1e7de2511fcfdad195201af09765517ecd948bd346b141b"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "251a9a737e8ca05af12f657d02f4bdd5e6b40f652e5e8989e3e3f1847f09bc2e"
+hash = "e19120573ce7e86671a177d9fb2cd876ad4f983d01a5994e94fd31bcca438142"
 metafile = true
 
 [[files]]
@@ -1140,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "f7a9e7f4a607626f59f81b4ec7c1b5b8f0eafa099034e4d3cadbad5787245b32"
+hash = "d3f8a45fa416ecac31a2c1d593d62ef9b8507ba95ff7ca58287e28ed2ec2a0b3"
 metafile = true
 
 [[files]]
