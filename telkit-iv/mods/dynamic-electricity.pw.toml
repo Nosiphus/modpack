@@ -1,13 +1,13 @@
 name = "Dynamic Electricity"
-filename = "Dynamic Electricity-1.19.2-1.0.2-0.jar"
+filename = "Dynamic Electricity-1.19.2-1.0.2-1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f70787d3d0041d3b315dca24816c0dd4d0ba7013"
+hash = "e4042394c5d791d997e86ce1dcea440716fbec65"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6619614
+file-id = 6791759
 project-id = 535933

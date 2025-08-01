@@ -1,13 +1,13 @@
 name = "Ad Astra: Giselle Addon"
-filename = "Ad-Astra-Giselle-Addon-forge-1.19.2-1.26.jar"
+filename = "Ad-Astra-Giselle-Addon-forge-1.19.2-1.28.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ba062914d0376b697310c934bbd3499d54ee957e"
+hash = "5c8214fbb3020953175059d8a6cef2f343706942"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6119241
+file-id = 6823945
 project-id = 714958

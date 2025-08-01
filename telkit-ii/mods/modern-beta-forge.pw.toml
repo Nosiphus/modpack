@@ -1,13 +1,13 @@
 name = "Modern Beta Forge"
-filename = "modernbetaforge-1.12.2-1.7.2.1.jar"
+filename = "modernbetaforge-1.12.2-1.7.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d4de5504f1132f7a6da1078d2854d02784d5ac8e"
+hash = "f611fbc55eb77d77447665cf1070c39ce46b8163"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6689075
+file-id = 6785220
 project-id = 805719

@@ -1,13 +1,13 @@
 name = "FermiumBooter"
-filename = "`FermiumBooter-1.3.0.jar"
+filename = "`FermiumBooter-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e00stJKZ/versions/LCeV3agQ/%60FermiumBooter-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/e00stJKZ/versions/UnoNVPLp/%60FermiumBooter-1.3.1.jar"
 hash-format = "sha1"
-hash = "c617247ea0b3713220c0ad1da21af1b9e4d2f66d"
+hash = "aab3f43a93139ff724c581443fd2ffdaf98ee634"
 
 [update]
 [update.modrinth]
 mod-id = "e00stJKZ"
-version = "LCeV3agQ"
+version = "UnoNVPLp"

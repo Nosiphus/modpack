@@ -1,13 +1,13 @@
 name = "NetherPortalFix"
-filename = "netherportalfix-neoforge-1.21.7-21.7.1.jar"
+filename = "netherportalfix-neoforge-1.21.8-21.8.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nPZr02ET/versions/bP4Fugia/netherportalfix-neoforge-1.21.7-21.7.1.jar"
+url = "https://cdn.modrinth.com/data/nPZr02ET/versions/y9gw5aqb/netherportalfix-neoforge-1.21.8-21.8.1.jar"
 hash-format = "sha1"
-hash = "23b6cbf486eb7c3730ed129a498e6b2b26943e41"
+hash = "1a25134ff289acd292d8e22a70e2fc21290d2c00"
 
 [update]
 [update.modrinth]
 mod-id = "nPZr02ET"
-version = "bP4Fugia"
+version = "y9gw5aqb"

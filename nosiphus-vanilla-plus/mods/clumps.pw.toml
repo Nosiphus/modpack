@@ -1,13 +1,13 @@
 name = "Clumps"
-filename = "Clumps-neoforge-1.21.7-25.0.0.1.jar"
+filename = "Clumps-neoforge-1.21.8-26.0.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/Zfh2Lgy3/Clumps-neoforge-1.21.7-25.0.0.1.jar"
+url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/CCwMI3eO/Clumps-neoforge-1.21.8-26.0.0.1.jar"
 hash-format = "sha1"
-hash = "4c507e2c5a51c17d67c70c8544fd1431878998d3"
+hash = "e51873e22bfc3f88a46905f933bb9bd501b4c78c"
 
 [update]
 [update.modrinth]
 mod-id = "Wnxd13zP"
-version = "Zfh2Lgy3"
+version = "CCwMI3eO"
