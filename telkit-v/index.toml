@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "ffe2d6cbf71c6e869ecd8639943e5a031b9f1f30fd0bc8a25c778de5ddbf92d4"
+hash = "2144929e7ba9333c0150a33e1a6846c3c17fe82c8eec3a8920c547a40809713a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "c08f966c1e098d7225bea18abe9f4bf376f6266cd1142ec461dc3fa63ce659f1"
+hash = "de690e7dd947809fbf365eaae3facbafc118d5f0c40012a62cd57b2e84a96e21"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "3321ba1df3b75d3c2edb915a6ecf3e878bde29f228e0e704fd3b8dbb9e366199"
+hash = "9fa89cfa27f5c27b6e763daee525ba2459d81af1d4b11f510515e1e7c2b534da"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "4a1d2fbb409401f6e32023e9acc5e0c59877958731a16c224c465b37acbd8900"
+hash = "5d1569c9e86a709a0fbca667ac6358e228d386857bbfe23ed705da80fd274d87"
 metafile = true
 
 [[files]]
@@ -915,7 +915,7 @@ metafile = true
 
 [[files]]
 file = "mods/potacore.pw.toml"
-hash = "9c53d806e7b80978df19c8ca3e73e84d91d65dfa52880ac28814c45075c4d219"
+hash = "4bb4ce1e1568c98e8f2782aa0d267c6e4713a20774108515cfff9eea8600697d"
 metafile = true
 
 [[files]]
