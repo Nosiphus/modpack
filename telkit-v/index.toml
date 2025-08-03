@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "2144929e7ba9333c0150a33e1a6846c3c17fe82c8eec3a8920c547a40809713a"
+hash = "0f39f8ff1b30a3341b7ca1250efc3322f5bc5ad2fbd0254cc96ce192794f5fc3"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
-hash = "b0dbdb5879e36b6fff752904c8ee3d65d8b4b9d3726ff5d0f66fcd5b82092437"
+hash = "36a0b4e6a4dec2471e176b77789c7375b146f54662a9c65082335547436465c2"
 metafile = true
 
 [[files]]
@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "0297aa0465331af76bb52d2425e31f70951aefb8dda84cbc7f45e76fd29276fb"
+hash = "e0154ebd6171237c260bf725d9f1a0c7a32ba4063409048cf9194523c0155627"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "e19120573ce7e86671a177d9fb2cd876ad4f983d01a5994e94fd31bcca438142"
+hash = "d3322bbb079bb68270566dd5ad3e5cf28a1f4a7e6cb0221e0dc7ecbd1cb67d4d"
 metafile = true
 
 [[files]]
@@ -845,7 +845,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "bc440a37b6fd3beeb410ae7ec1d09e12585fd7fa07a15380d0d96726f09c0a93"
+hash = "9c8234100789ad52a77c415bc259d35d5e07321407425d6ffbfba7c460ed89a5"
 metafile = true
 
 [[files]]
