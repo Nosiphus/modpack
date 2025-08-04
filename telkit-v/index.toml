@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "420305cb2c342ff78e5efeb48f4f330e96bd534c58e0dbda6b480df856e78d57"
+hash = "ee249c7e32c17c3dd280a099972022229827b569df93b477122f74416f63beea"
 metafile = true
 
 [[files]]
@@ -805,7 +805,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "e19120573ce7e86671a177d9fb2cd876ad4f983d01a5994e94fd31bcca438142"
+hash = "f96e10f9653897909f41c158ff28af28cab9f91205a26ed727c171f224ac81ef"
 metafile = true
 
 [[files]]
@@ -1140,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "d3f8a45fa416ecac31a2c1d593d62ef9b8507ba95ff7ca58287e28ed2ec2a0b3"
+hash = "5c49acfd2b232344debc40f566e4a030653f5bddbc6aff762083f81a654d61f8"
 metafile = true
 
 [[files]]
