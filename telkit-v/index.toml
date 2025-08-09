@@ -46,7 +46,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "53d3bd8c8eb9dd0ab0fd14e52a0f261e6b8eb86683cd148321ab4f8162c494ba"
+hash = "c73fc62e7561ec97029378406f0abf6a4f9dbf3e08be5a974db5af4cc6585e2a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "aa4a6189d75a07a13461d267eccc54408360ca0cd45a30f83405a106a124868d"
+hash = "eea4d20dc3911a979f4aca10905aba217fa2b90f7df99df07eda18bde6a36925"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "b111c175cc0127fb75670b67e62b96b1274b363d0960b7be843bdf85998086fb"
+hash = "6b48630e3572b1f94f93882e2c26a1f7fb860425f2736bdf0090be4bbf1c997f"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "cb44b7f28394fdb37eacba8caf3cbb3d3bdf0d5957c5584edc1fd9c9459e2563"
+hash = "76d88c777d4ce6f86df56cd5bfd6b64fd67c7939cc14b588325ab2b76c62110d"
 metafile = true
 
 [[files]]
@@ -1150,7 +1150,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "ec6fd5df04e7df7ef0b2c2d77939c9ecd230407faaa442a4269b88b8d195213e"
+hash = "8d00e4b6dcdba832804f8c7f93de6aa01b4f9a7673d8b5887107eab730cb82cd"
 metafile = true
 
 [[files]]
