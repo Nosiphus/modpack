@@ -1,13 +1,13 @@
 name = "CTD Core"
-filename = "ctd-core-neo-1.21-2.6.3.jar"
+filename = "ctd-core-neo-1.21.1-2.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yezTvOQg/versions/MP96qP5v/ctd-core-neo-1.21-2.6.3.jar"
 hash-format = "sha1"
-hash = "e8b524c67932e6fa0f0b5434109a82a94862dd0a"
+hash = "7d307671ae7f50fc8e05c4deb619e6a1cf1f0827"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "yezTvOQg"
-version = "MP96qP5v"
+[update.curseforge]
+file-id = 5666062
+project-id = 258186

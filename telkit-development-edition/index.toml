@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctd-core.pw.toml"
-hash = "773e95d21cb9f6eaedcf1e42ef7364c0abd675d1ee6c45c90fae795ff66d2dbe"
+hash = "b4826cd1016156269afd1ee6b1035c41a73860628eea952750067b12134d173f"
 metafile = true
 
 [[files]]
@@ -442,12 +442,12 @@ metafile = true
 
 [[files]]
 file = "mods/mo-glowstone-lamps.pw.toml"
-hash = "63fd6446c548f81c4de0d467cc820cf24310f3b8830c89f6f233d5a9d01eeb81"
+hash = "793e511badc6c1738c472c6c2130e716de8dcf4f8de2c66b2765900508842042"
 metafile = true
 
 [[files]]
 file = "mods/mo-glowstone.pw.toml"
-hash = "93d370e4fddcc566158b6c35c8080f62f86612ec240b7c2ced0943d0d5e1ee77"
+hash = "15c50e96a087538a8daed4fadb811ef19343ee65a5188e184d07b5e7f438abac"
 metafile = true
 
 [[files]]

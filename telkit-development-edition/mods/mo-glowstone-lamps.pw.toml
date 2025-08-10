@@ -1,13 +1,13 @@
 name = "Mo' Glowstone Lamps"
-filename = "mo-glowstone-lamps-neo-1.21-1.6.1.jar"
+filename = "mo-glowstone-lamps-neo-1.21.1-1.6.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/JctaN1xb/versions/2lIglzlh/mo-glowstone-lamps-neo-1.21-1.6.1.jar"
 hash-format = "sha1"
-hash = "ed97be38fd753e243654c945cb3f2f9ea3e2f28d"
+hash = "fa1b35ab2289b583f7c45185ec1f17aceaf50230"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "JctaN1xb"
-version = "2lIglzlh"
+[update.curseforge]
+file-id = 5698879
+project-id = 418299
