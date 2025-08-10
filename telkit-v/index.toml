@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "9c72d899e9dc9ce6daf96bcfd3b4609e6ffd0a2dd23dc278438fea4790604a2d"
+hash = "ef931cbf290e026ceebf84d64626d97ef1c297230b7f70af1a0493057c5395e8"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "eea4d20dc3911a979f4aca10905aba217fa2b90f7df99df07eda18bde6a36925"
+hash = "215c7eb55e0f1880588f3f4168fc1526a89eef69519ff5f263b1d4c53ec48d50"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "c1600499897b47eeb59d5e2241317c283edeacdbeb0ad14fb07f1ce7cbd19e29"
+hash = "7cedc6c8cc99ed60b0dc2f05af7e4085b689f3ee27dcff1629f772d3fbf53e96"
 metafile = true
 
 [[files]]
