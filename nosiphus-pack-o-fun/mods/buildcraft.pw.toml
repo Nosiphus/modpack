@@ -1,13 +1,13 @@
-name = "Buildcraft"
-filename = "buildcraft-A-1.4.7-3.4.5.jar"
+name = "BuildCraft"
+filename = "buildcraft-A-1.4.7-3.4.6.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/6X5wjPTJ/versions/h90CHvwb/buildcraft-A-1.4.7-3.4.6.jar"
 hash-format = "sha1"
-hash = "2eaf2018b78f40430849e0bbe7a0de540c7f4885"
-mode = "metadata:curseforge"
+hash = "f4437ac8d47f336a5cbb6802c1b152f2ece71934"
 
 [update]
-[update.curseforge]
-file-id = 4393388
-project-id = 61811
+[update.modrinth]
+mod-id = "6X5wjPTJ"
+version = "h90CHvwb"

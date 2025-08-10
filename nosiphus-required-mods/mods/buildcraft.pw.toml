@@ -1,13 +1,13 @@
 name = "BuildCraft"
-filename = "buildcraft-A-1.5.2-3.7.3.jar"
+filename = "buildcraft-A-1.5.2-3.7.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6X5wjPTJ/versions/rLUalQva/buildcraft-A-1.5.2-3.7.3.jar"
+url = "https://cdn.modrinth.com/data/6X5wjPTJ/versions/hYyWfNmt/buildcraft-A-1.5.2-3.7.4.jar"
 hash-format = "sha1"
-hash = "f2abc4a5d54d2c7b2771024da3c44dbb41beda7a"
+hash = "e749a194219b6b437e423dfa0e70174f03b5b6bf"
 
 [update]
 [update.modrinth]
 mod-id = "6X5wjPTJ"
-version = "rLUalQva"
+version = "hYyWfNmt"

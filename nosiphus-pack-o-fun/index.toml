@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft.pw.toml"
-hash = "ad30e43f7a0f83b7034b9c0f0b588e40251f597c78a6e5f358563b194c589115"
+hash = "46d1d4bd8657bd592b92f8ea094286964f05bb4f4bd2764a14189bb9c9d91f80"
 metafile = true
 
 [[files]]
