@@ -1,13 +1,13 @@
 name = "Solar Flux Reborn"
-filename = "SolarFluxReborn-1.21-21.0.7.jar"
+filename = "SolarFluxReborn-1.21.1-21.1.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4QG5lev4/versions/a8HCPTrR/SolarFluxReborn-1.21-21.0.7.jar"
+url = "https://cdn.modrinth.com/data/4QG5lev4/versions/8aToYlt2/SolarFluxReborn-1.21.1-21.1.8.jar"
 hash-format = "sha1"
-hash = "f1a39f9a5bdb57d12715b656cc8846dc72dacdee"
+hash = "0326e609d6e8319ac48165cc9bdc708e6b0fac4c"
 
 [update]
 [update.modrinth]
 mod-id = "4QG5lev4"
-version = "a8HCPTrR"
+version = "8aToYlt2"
