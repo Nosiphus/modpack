@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "5c0c066e1e0dcd60be971867a1b71bcc805525c407315fc55f65a51cfca3aaa5"
+hash = "06b31d44bf33978ff7474f1e55b33213d6bc7c53ccd82886149a071ed2df6a01"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "4e70c968c8745178d7d4d35b4cacd50953cce522d700dc440f1543105da05790"
+hash = "66842f4cbf6f479e011d65197a0aac22e553fadb13d2e5c9e58e4af79cb1289e"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "2b5f650978980388a2289b5a04545344e0ec7fc7b7840a743d9533e2f226445a"
+hash = "2c63ea07ec0660f84654fc9e4c590a7e62b1689dc3feb9c22778915d0124ce3b"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "a758129a734565a69c1f12365865a6bc79e33a1f8ffb30fa0021a84d890f84ff"
+hash = "06b09e9dd17e463f3aa5f57eb5863557d23808821cb6204671e6de6d04712d8f"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "5bafd5b28666e1ea04a81f78cc038da276aecea77910f5a35ffe8346fcbbf878"
+hash = "b2b5bc599041b65635d8452438877637da8349a1fa07ffb41ae8b4f58f336b2c"
 metafile = true
 
 [[files]]
@@ -201,12 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "6e266136a8e7c0e1428b7fdf636a3f8b5a0c5d3523dd2b689168f08902e62f80"
+hash = "70b0f7101e0aa0800d13fc5eaa36e001e63605e86c5efdf0f809b64ed8a51870"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "ba340b1613485bd7dc761049b490d8d5675d4f72a957b744cde15825f1adcf84"
+hash = "bb17f6a1d0a49c820575eb53afde83e44a445256a4ee5ec6c52ddab9f557d3e2"
 metafile = true
 
 [[files]]
