@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "ef931cbf290e026ceebf84d64626d97ef1c297230b7f70af1a0493057c5395e8"
+hash = "afb056495bb029ec3e68fdde48213039f9366fcbdc57455510121fce70df03e7"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -114,7 +114,7 @@ hash = "848b6f23735b9a10abf8525b75a16006daa88fe9baa8f694735d4c7410a228e3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c7a7f93b709629837cdd11eec6e1c375797d61265f543fe83a4707635bca383a"
+hash = "f5146bea7ed4456f06601067aa67d4db0b6a56fa75f30310c0083e1a205f9aec"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "215c7eb55e0f1880588f3f4168fc1526a89eef69519ff5f263b1d4c53ec48d50"
+hash = "64842992b2b806dd5238ba71ca5382de296ae95f6e77807f95b3c4bcaf7cb9b5"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "5d1569c9e86a709a0fbca667ac6358e228d386857bbfe23ed705da80fd274d87"
+hash = "d602cd42e6a61bb5d70ba1888a04543da66d603d39e4995b08eb610f654a9c0b"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "6a69d79b93e0634a65f9f00e30fa55b449a3e463847ab56ddc2847773774a8a8"
+hash = "fc6bed09bfeae0920968c6a6a723791fe8011d794ab91f27c3f4fad6a3f718b7"
 metafile = true
 
 [[files]]
@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c06f7dd568f6881d90e6a73cf6480128d0b85ade8ec00dbbd5cbe4f4959954c5"
+hash = "6d306bc292f14e189ca4b0c2e884d7c56d031160fe6fa31862af702f31ad36ad"
 metafile = true
 
 [[files]]
@@ -914,7 +914,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "5342ddddeed58ac5ce746ea2cc838839731a7a021e4481d2fad6236b3fb64515"
+hash = "3d4bd525c81e2b52d82b960f3e27723687850335430d69d643c5c775615de0e2"
 metafile = true
 
 [[files]]
@@ -1069,7 +1069,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e0e6258c7ad4d31ecd187df4f6e1f25578568aec1dd7438226d6509a3f6fcba4"
+hash = "c2421cabbcb970a98e6a2c12207ada8955a19c03d3f99defdd9cf6523ed3b759"
 metafile = true
 
 [[files]]
@@ -1149,7 +1149,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "5c49acfd2b232344debc40f566e4a030653f5bddbc6aff762083f81a654d61f8"
+hash = "814c093a65e7657b3073a42b25e898652de5edd6b265f525df62b66f6e49cdf4"
 metafile = true
 
 [[files]]
