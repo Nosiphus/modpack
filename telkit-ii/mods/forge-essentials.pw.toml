@@ -1,13 +1,13 @@
 name = "forge-essentials"
-filename = "forgeessentials-1.12.2-12.5.0-server.jar"
+filename = "forgeessentials-1.12.2-12.5.1-server.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/jnuVxwKf/versions/4MXrB09k/forgeessentials-1.12.2-12.5.0-server.jar"
+url = "https://cdn.modrinth.com/data/jnuVxwKf/versions/WJkMFHWI/forgeessentials-1.12.2-12.5.1-server.jar"
 hash-format = "sha1"
-hash = "f0668aff01b1545f8176977cd9d006582704777f"
+hash = "d193cecba4470e02336594156b6419bdb8891589"
 
 [update]
 [update.modrinth]
 mod-id = "jnuVxwKf"
-version = "4MXrB09k"
+version = "WJkMFHWI"
