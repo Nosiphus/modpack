@@ -1,0 +1,13 @@
+name = "BuildCraft"
+filename = "buildcraft-7.1.27.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6X5wjPTJ/versions/piN3RkPa/buildcraft-7.1.27.jar"
+hash-format = "sha1"
+hash = "2519edb9bbee1ea841829057265d683764f13c79"
+
+[update]
+[update.modrinth]
+mod-id = "6X5wjPTJ"
+version = "piN3RkPa"

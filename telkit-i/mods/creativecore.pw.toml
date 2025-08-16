@@ -1,0 +1,13 @@
+name = "CreativeCore"
+filename = "CreativeCore v1.3.24 mc1.7.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5671ec8cc0d164262c34863bfeb2a4de2f60f4bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2462369
+project-id = 257814

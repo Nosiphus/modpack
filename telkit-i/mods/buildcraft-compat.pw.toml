@@ -1,0 +1,13 @@
+name = "BuildCraft Compat"
+filename = "buildcraft-compat-7.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yp1R2apI/versions/7gHdRW4A/buildcraft-compat-7.1.9.jar"
+hash-format = "sha1"
+hash = "82e6016362618a6d3187bb3629860185458e3603"
+
+[update]
+[update.modrinth]
+mod-id = "yp1R2apI"
+version = "7gHdRW4A"

@@ -3,11 +3,6 @@ filename = "NEIIntegration-MC1.7.10-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2282/522/NEIIntegration-MC1.7.10-1.1.2.jar"
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/nei-integration/1.7.10/NEIIntegration-MC1.7.10-1.1.2.jar"
 hash-format = "sha1"
 hash = "faa216961fee0d2edb1fb5ad353dae9122db04b7"
-
-[update]
-[update.curseforge]
-file-id = 2282522
-project-id = 225251

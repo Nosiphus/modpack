@@ -1,0 +1,13 @@
+name = "Mycelium"
+filename = "+Mycelium-2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3EqWeoiF/versions/4FQLH0Ow/%2BMycelium-2.3.jar"
+hash-format = "sha1"
+hash = "7888bdefa731a97580c5a2e59c2de102be2cbff7"
+
+[update]
+[update.modrinth]
+mod-id = "3EqWeoiF"
+version = "4FQLH0Ow"

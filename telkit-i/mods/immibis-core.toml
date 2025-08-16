@@ -1,8 +1,0 @@
-name = "Immibis Core"
-filename = "immibis-core-59.1.4.jar"
-side = "both"
-
-[download]
-url = "http://immibis.com/mcmoddl/files/immibis-core-59.1.4.jar"
-hash-format = "sha1"
-hash = "a911edff7fb5e44a7c4cbff5a6b05ce41ea3e2f9"

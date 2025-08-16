@@ -1,0 +1,13 @@
+name = "WitcheryPatch"
+filename = "WitcheryPatch-1.7.10-1.0.0-mr.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HjPDtAQy/versions/ncuf2wiU/WitcheryPatch-1.7.10-1.0.0-mr.jar"
+hash-format = "sha1"
+hash = "2bbdf44faa9de9862b78481d3e0a78d91db34ca0"
+
+[update]
+[update.modrinth]
+mod-id = "HjPDtAQy"
+version = "ncuf2wiU"

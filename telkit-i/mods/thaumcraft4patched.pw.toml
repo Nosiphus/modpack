@@ -1,0 +1,13 @@
+name = "Thaumcraft 4 : Patched"
+filename = "[1.7.10] Thaumcraft4Patched-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HFDm8NsM/versions/VPt044Kf/%5B1.7.10%5D%20Thaumcraft4Patched-1.3.jar"
+hash-format = "sha1"
+hash = "c3d5a9dce1a7ee619ffe74a2019e381888b16fb6"
+
+[update]
+[update.modrinth]
+mod-id = "HFDm8NsM"
+version = "VPt044Kf"

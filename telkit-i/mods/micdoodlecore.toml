@@ -1,8 +1,0 @@
-name = "MicdoodleCore"
-filename = "MicdoodleCore-1.7-3.0.12.504.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Nosiphus/legacy-mods/raw/main/galacticraft/1.7.10/MicdoodleCore-1.7-3.0.12.504.jar"
-hash-format = "sha1"
-hash = "8c7899ae2b2ef1f5157d0c3b52f1efbb9da2dcc5"

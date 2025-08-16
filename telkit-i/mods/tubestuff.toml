@@ -1,8 +1,0 @@
-name = "Tubestuff"
-filename = "tubestuff-59.0.4.jar"
-side = "both"
-
-[download]
-url = "http://immibis.com/mcmoddl/files/tubestuff-59.0.4.jar"
-hash-format = "sha1"
-hash = "ab47fc5a2922ab29e7548ec52842e28d69409791"

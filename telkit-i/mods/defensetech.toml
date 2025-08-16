@@ -1,8 +1,0 @@
-name = "DefenseTech"
-filename = "DefenseTech-1.7.10-1.0.1.46.jar"
-side = "both"
-
-[download]
-url = "https://s3.amazonaws.com/aidancbrady/defensetech/46/DefenseTech-1.7.10-1.0.1.46.jar"
-hash-format = "sha1"
-hash = "d6065617b6fbe3f8c0286e64052749c4b8535a33"

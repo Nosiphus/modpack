@@ -1,0 +1,13 @@
+name = "Controlling"
+filename = "Controlling-1.7.10-1.0.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/xnHAqJdJ/Controlling-1.7.10-1.0.0.4.jar"
+hash-format = "sha1"
+hash = "3a816187749c6bbbff25259efbc538c8ddc6ecba"
+
+[update]
+[update.modrinth]
+mod-id = "xv94TkTM"
+version = "xnHAqJdJ"

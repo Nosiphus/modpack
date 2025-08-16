@@ -1,0 +1,13 @@
+name = "[DEAD] Voltz Engine"
+filename = "VoltzEngine-1.7.10-1.11.0b491-withCodingLib0.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3b4c62130e296e6a9baa1cefc3a31d519a9fa98"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5624749
+project-id = 227048

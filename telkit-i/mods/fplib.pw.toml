@@ -1,0 +1,13 @@
+name = "FalsePatternLib"
+filename = "falsepatternlib-mc1.7.10-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eGLBEILf/versions/Ztibxuto/falsepatternlib-mc1.7.10-1.7.0.jar"
+hash-format = "sha1"
+hash = "669b4a713c52c5f787aad69a13aaf8afc8234105"
+
+[update]
+[update.modrinth]
+mod-id = "eGLBEILf"
+version = "Ztibxuto"

@@ -1,8 +1,0 @@
-name = "LiteLoader"
-filename = "liteloader-1.7.10.jar"
-side = "client"
-
-[download]
-url = "https://github.com/Nosiphus/legacy-mods/raw/main/liteloader/1.7.10/liteloader-1.7.10.jar"
-hash-format = "sha1"
-hash = "0b75e409003b6b4954afed9ef673dbdc7da6b734"

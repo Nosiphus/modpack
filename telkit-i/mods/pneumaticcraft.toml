@@ -3,11 +3,6 @@ filename = "PneumaticCraft-1.7.10-1.12.7-152-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2513/763/PneumaticCraft-1.7.10-1.12.7-152-universal.jar"
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/pneumaticcraft/1.7.10/PneumaticCraft-1.7.10-1.12.7-152-universal.jar"
 hash-format = "sha1"
 hash = "b606e82ebb9bdab13f0d3e87c9700f4bb3de1eb4"
-
-[update]
-[update.curseforge]
-file-id = 2513763
-project-id = 224125

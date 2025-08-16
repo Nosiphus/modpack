@@ -1,0 +1,13 @@
+name = "FalseTweaks"
+filename = "falsetweaks-mc1.7.10-3.9.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VTGi3upD/versions/lMvAptIz/falsetweaks-mc1.7.10-3.9.7.jar"
+hash-format = "sha1"
+hash = "06266a6b8db29e0e45d65e450c8224fe4f66b232"
+
+[update]
+[update.modrinth]
+mod-id = "VTGi3upD"
+version = "lMvAptIz"

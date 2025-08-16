@@ -1,0 +1,13 @@
+name = "MineAmp"
+filename = "mod_jukebox_1.2.0_for_1.7.10.litemod"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "e6e12c78135d5fc477f185945d703ab263914ec3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2298124
+project-id = 244753

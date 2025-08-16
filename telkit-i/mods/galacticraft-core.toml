@@ -1,8 +1,0 @@
-name = "Galacticraft Core"
-filename = "GalacticraftCore-1.7-3.0.12.504.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Nosiphus/legacy-mods/raw/main/galacticraft/1.7.10/GalacticraftCore-1.7-3.0.12.504.jar"
-hash-format = "sha1"
-hash = "13b022ce349a279a55be940740eedc92a940ab3b"
