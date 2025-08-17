@@ -1,13 +1,14 @@
 name = "NosPack"
 author = "Nosiphus"
-version = "2024.03.17"
+version = "2025.08.17"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6f8076ae1985e7af605cc92d94763df4b7b4582bd837f133bf48f52266033b7d"
+hash = "d049dec21c7667d7c833f6b55b5876d7834878b6250c22173d9716cc985f8f98"
 
 [versions]
 forge = "9.11.1.1345"
+liteloader = "1.6.4_01"
 minecraft = "1.6.4"

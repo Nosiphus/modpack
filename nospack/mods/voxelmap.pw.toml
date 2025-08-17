@@ -1,0 +1,13 @@
+name = "VoxelMap"
+filename = "mod_voxelMap_1.4.9_for_1.6.4.litemod"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "c8c246e86efd7673747b3dab815bc15f15fbe83c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2229560
+project-id = 225179

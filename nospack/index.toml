@@ -315,8 +315,8 @@ hash = "0806c6029a6fac15b0843e0490e752d76c6b02cbb3a4d26c51a82d4132119dd3"
 metafile = true
 
 [[files]]
-file = "mods/industrial-craft.toml"
-hash = "f4305fc448ab353f3e7d32a1ea781940a89f9498e22f63f4544e285c05a076ed"
+file = "mods/industrial-craft.pw.toml"
+hash = "47f543d38f59fbcd64524baac87420502a41a9d49654d56b21d07f6dd236a2cc"
 metafile = true
 
 [[files]]
@@ -470,6 +470,11 @@ hash = "97bc2c936d5bd5729ba98f6710461bd6445f18ad83ef44ff900e41eb2cf04181"
 metafile = true
 
 [[files]]
+file = "mods/voxelmap.pw.toml"
+hash = "c340311e70de0f4e279c40b61e6208463a49162372d8e1bb5f528f00c2b3a1cd"
+metafile = true
+
+[[files]]
 file = "mods/waila.pw.toml"
 hash = "a2b9374c296e95dd2ca4e95b772f7cd0121775da7b673058af3a59967e8fa186"
 metafile = true
@@ -482,11 +487,6 @@ metafile = true
 [[files]]
 file = "mods/wr-cbe-universal.pw.toml"
 hash = "81dc26e53cf448e0597557bd158aba57725e7d4ffac06c8fbb573d612072e7cb"
-metafile = true
-
-[[files]]
-file = "mods/zans-minimap.toml"
-hash = "4c58b098fcb06071ce80edbbcefa2531295c63eed0961e5ed755669d868fa1f0"
 metafile = true
 
 [[files]]
