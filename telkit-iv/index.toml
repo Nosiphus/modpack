@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "3a3db627f7e5c263806f9008022d417859f02ec8d8637ef92ec989a776386a6a"
+hash = "1021f4a778942cd7789bc3a8c4b4c97a211b66ea2f368a7d9592db361f012fdd"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -1066,6 +1066,11 @@ metafile = true
 [[files]]
 file = "mods/transparent.pw.toml"
 hash = "51531d1a9e81b77d5b65976b2d3c5b85b671069873fa92af9b0f998c61ee720b"
+metafile = true
+
+[[files]]
+file = "mods/voltaic.pw.toml"
+hash = "20cac47ac11d8959ea3b516beee3e1fb31d242df99d8046c91d4a67aa03191b7"
 metafile = true
 
 [[files]]
