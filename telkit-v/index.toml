@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "9528a8416b81dcdc9a094f65844a9cb71a2806872ece2f80542ad9a9d7002d1b"
+hash = "8bd79cb120faa5859e1f4483b016599cf6ab3c967119a16a5fbd3c962e0445bf"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "23b3682596c29ded4794ce4ba64f6f33ea1a7eeace0c438be8c45f83e228b855"
+hash = "4dc9dbe725979c9e86508fd55ebdae1b90e38bf5934d8656417ac3f8ce5efb73"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d602cd42e6a61bb5d70ba1888a04543da66d603d39e4995b08eb610f654a9c0b"
+hash = "5f00bdb63b32ae2c1c2ec6cff329d5f581536185348b4d5de0d849fd157aed0a"
 metafile = true
 
 [[files]]
@@ -529,7 +529,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "17a0a362f0eff3f98787df9cdae9b290899381ab911fcb07c01cea1332a7190d"
+hash = "cfb50f8f175a3f35d8f7dcd21d641fe5d59e296e85c81181026793d9c38ff874"
 metafile = true
 
 [[files]]
@@ -544,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "c157563d81d1b1a29812ae633a968b1a09287d3ad0ec8dc3d73721b8be830279"
+hash = "bcdf0eb4ba4f7b5373a1bc736fd3722d95604bef8390492b2ff4f96676980d21"
 metafile = true
 
 [[files]]
