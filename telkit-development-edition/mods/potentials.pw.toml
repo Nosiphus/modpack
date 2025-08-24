@@ -1,13 +1,13 @@
 name = "Potentials"
-filename = "potentials-neoforge-1.21-0.7.0.jar"
+filename = "potentials-neoforge-1.21-0.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/J9pKOkxP/versions/SKrZ8DRi/potentials-neoforge-1.21-0.7.0.jar"
+url = "https://cdn.modrinth.com/data/J9pKOkxP/versions/EEjnSxLK/potentials-neoforge-1.21-0.7.1.jar"
 hash-format = "sha1"
-hash = "dd86bbe13035549bf67628ecdf8c272f0bfd1621"
+hash = "c2525c00049e1773a813ed240ac96914c01e0b3f"
 
 [update]
 [update.modrinth]
 mod-id = "J9pKOkxP"
-version = "SKrZ8DRi"
+version = "EEjnSxLK"
