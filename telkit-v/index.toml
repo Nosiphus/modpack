@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "8bd79cb120faa5859e1f4483b016599cf6ab3c967119a16a5fbd3c962e0445bf"
+hash = "6663a7b05bea25be8d859ec01692c75e98b153e31886020323fe524cdf7781fc"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a4d11e919132d573da75c2e2d06242921541cfdf94ebfafe976fbc5fe7fc2e29"
+hash = "60ca9f391d8cc12c7b208b3f0f532aa23be2c2edf62b987f901cc9fe4015f56c"
 metafile = true
 
 [[files]]
@@ -484,12 +484,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c593551ad29c010a4985f4310c32707bfb8859ebe939d5e17c4cd919862f5555"
+hash = "f6854a37fc52f4bf70401d3092856724f219f85a86b94f71d5b2d955c0c2dbc6"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "5f00bdb63b32ae2c1c2ec6cff329d5f581536185348b4d5de0d849fd157aed0a"
+hash = "e522f411436b30702ca41ba6fec61856f228aa39ac0f7819d6d1a48628c0bcc0"
 metafile = true
 
 [[files]]
@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "d27ed0e6edef597b1736960ba4394223ac476668715f4a76fe54b87c5237c05b"
+hash = "aff7184ef1e53210f96fa31c789d5d01d077f019744c1a4bbeb67fd5584f99d4"
 metafile = true
 
 [[files]]
