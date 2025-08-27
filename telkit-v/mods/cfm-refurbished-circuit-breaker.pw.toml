@@ -1,13 +1,13 @@
-name = "CFM Refurbished: Circuit Breaker"
-filename = "cfm_circuit_breaker-1.0.2.jar"
+name = "CFM Refurbished: Watt About Power?"
+filename = "cfm_wap-1.20.1-forge-1.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9dc91e275c17265268eb41a7adbdfc539c024d36"
+hash = "6f9d3ec6c7408bb2933509078f3965fbca9db8e6"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6064362
+file-id = 6934093
 project-id = 1170251
