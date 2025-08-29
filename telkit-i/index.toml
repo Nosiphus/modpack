@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "0886488ed1e2758dc2dbb1f2b214e9f5a60e825017e4511e33593d78b1c81659"
+hash = "4c400e4b16f353a0b061819ceeffd12c519cb9fb0a613095ab9defd486986501"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "e41a14534e8f49df9ebf43b9eec95597a2459f8b8a1225a339f34161460ce98d"
+hash = "b8181f999da52a72a2ba1e85e62dd98c521d5f3150e40a977fa9e4361a29ef58"
 metafile = true
 
 [[files]]
