@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "5190c53fa3d71238ab17e847297e7d5cb5f06f5bf73723eb840983de58669aa3"
+hash = "f92a2bc97a4da2d5504d8151f435c2df4b7a1d7d5568897de1621111742aea81"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -290,11 +290,6 @@ metafile = true
 [[files]]
 file = "mods/chisels-bits.pw.toml"
 hash = "aca009f78e1223d44ba4b9683537d7acdd899b30834e25ab04a3092156725bcf"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
 metafile = true
 
 [[files]]
@@ -809,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0161df739f9776fa6f7575844fa1ce7b5dcba4633fb45d94ee135f4fd485f7ba"
+hash = "13848d0608ff6a04e9606cca9ca125ab1e88eb1c7fb9715ba09b2991353501f7"
 metafile = true
 
 [[files]]
@@ -849,7 +844,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "ac4412a18835946c4bf463a17266ab102c737b2ccd75576ccecfbdddad575cfb"
+hash = "623a629ed74cfe5e7c34fa4e5286a125888f6a657e118eb5e63778d9de78e253"
 metafile = true
 
 [[files]]
@@ -1134,7 +1129,7 @@ metafile = true
 
 [[files]]
 file = "mods/vinurl.pw.toml"
-hash = "449f36e42abd88435bbb1f59444b1b60330a031e19c901fd26f5b4319555aafd"
+hash = "fb761c727d5468aa8055de11f3781e20ca2a9ce612af5825af85827cbb45a831"
 metafile = true
 
 [[files]]
