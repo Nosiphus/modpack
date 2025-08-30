@@ -608,11 +608,6 @@ hash = "691798dd9acfd386bc9332249cd4c1291c646af4d97999090ec0528d9bb35c88"
 metafile = true
 
 [[files]]
-file = "mods/geckoanimfix.pw.toml"
-hash = "e5d14f6ff5314299881dbb51db12ea3e0613440b734c935335b951e0d6b6564d"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "aff7184ef1e53210f96fa31c789d5d01d077f019744c1a4bbeb67fd5584f99d4"
 metafile = true
@@ -640,6 +635,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4505780f34746ca4098712d63bf8c0155e3e57530adea9598b2c19e835e06d9e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "f4a441da61ceb2233a04bfaf9eb118c3b7fa3ebf134bb41afe2c13c71dd71191"
 metafile = true
 
 [[files]]
