@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "3ea29ccf2d68cd401c54d2e86c51689df4d8170f1dbdcebe6fa6b896a26e9c99"
+hash = "0a76572864e088891f3da524b794ebe7409accde179a72a9c83b118420f573e1"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -173,6 +173,11 @@ hash = "63ac11acbeafd74b8119880d99a464299c0b1a929280c86f0ba55fea1e9935d0"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
 file = "mods/applied-mekanistics.pw.toml"
 hash = "bd9f67f0985aa97b0faabbee9fdfd2e36c93352b0067f26de880dc8c968b70ea"
 metafile = true
@@ -185,6 +190,16 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
+metafile = true
+
+[[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "5b61b1237e9fdb7894b25d6e3054cbcef5dde22d4ce9c35a8c469d33585e8a96"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "274849017dd2d71fdb582ad08cb3fca610ea0ad591e84e0e5b74cf10f3b8509f"
 metafile = true
 
 [[files]]
@@ -358,6 +373,11 @@ hash = "82c296cbfcca7bfb9d8c61406bb65ff4775964d15f23a5790f6eff5c016166bd"
 metafile = true
 
 [[files]]
+file = "mods/create-applied-kinetics.pw.toml"
+hash = "03ef0b897e48e7b08025b3e52c1cd150c7f64fd17720389cd25d3dde9d6236b2"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "eb59a9e9649a3a147cc24820e9f02b7fee47ad650c1647f0adca8c3ed0ae6e46"
 metafile = true
@@ -365,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "6b48630e3572b1f94f93882e2c26a1f7fb860425f2736bdf0090be4bbf1c997f"
+metafile = true
+
+[[files]]
+file = "mods/create-stock-bridge.pw.toml"
+hash = "5b9a36e4448dc4082dcda9eff89a1ec60a99d3812179853e03c3360955d35dd8"
 metafile = true
 
 [[files]]
@@ -950,6 +975,11 @@ metafile = true
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
 hash = "3374b17465daf9ca3eb5c069d1ee6043ba8b3a0dbe3a219212d24d3894ab4764"
+metafile = true
+
+[[files]]
+file = "mods/projecte-integration.pw.toml"
+hash = "3e239e2e50cf9312ea0644db5f833dad87dbcc4d2b71325ab44e5c5e249624d0"
 metafile = true
 
 [[files]]
