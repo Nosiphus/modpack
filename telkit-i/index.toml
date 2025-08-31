@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "4c400e4b16f353a0b061819ceeffd12c519cb9fb0a613095ab9defd486986501"
+hash = "91719b87ac74955d1d8b2c04341fa4ab3f3e6f1c04f0596d7157c0fdb14f3a2a"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -104,10 +104,6 @@ hash = "9f9934508bd962c014b8637b4728c72738fe3c240f360fa0829cf55f9ae28998"
 [[files]]
 file = "config/cofh/core/common.cfg"
 hash = "90035fa577ddd98522e863b277ed855ccd161a6895c4d017592f2ed3511972cd"
-
-[[files]]
-file = "config/falsetweaks.cfg"
-hash = "066545f4cbafb37914acad9f5a5ea520a5627d5cd9005d3de7fc9bed4583ea9f"
 
 [[files]]
 file = "config/forge.cfg"
@@ -316,11 +312,6 @@ hash = "04a091e005b4f9e5adfde27370024bed6067bbd9844e3316f9f1d3021ec98430"
 metafile = true
 
 [[files]]
-file = "mods/falsetweaks.pw.toml"
-hash = "60a7fe0b8b09c0c75adce185a595ff91e98102dd96a87dbf8ad0e81e72c359f8"
-metafile = true
-
-[[files]]
 file = "mods/flans-mod.toml"
 hash = "3ccb69899dcdd682add186f6dee0871b3966a26db10919906f82ca594be55eb9"
 metafile = true
@@ -338,11 +329,6 @@ metafile = true
 [[files]]
 file = "mods/forge-essentials.pw.toml"
 hash = "82d07c91261f03992b30ea50f99c262902d021a0a442bf86bfa79da9c7aa0687"
-metafile = true
-
-[[files]]
-file = "mods/fplib.pw.toml"
-hash = "64336e837f16fd6c67c86c4834d8012ad3629eb1a5c49b7eeda2022fe1ed2bce"
 metafile = true
 
 [[files]]
@@ -502,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "b8181f999da52a72a2ba1e85e62dd98c521d5f3150e40a977fa9e4361a29ef58"
+hash = "a98b8ba734b5449b62166005a5b5199ae4a8c7c6e8db18fa755c2db89c000b47"
 metafile = true
 
 [[files]]
@@ -732,7 +718,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "9a48e7f1004dcf15f8d8ad20e8c7e0af81b755647dc4752e89cbc89d5e4cd23a"
+hash = "7122a808ee5bb067a8bff3c504b57eab09f2b3ed46c601e954954d9c871ec7a1"
 metafile = true
 
 [[files]]
