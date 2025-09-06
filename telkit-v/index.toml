@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "0a76572864e088891f3da524b794ebe7409accde179a72a9c83b118420f573e1"
+hash = "ce9ca4a1e1c19a4cd82b093eda4ba9e1780ea2dcd93c8988b41a467eea693eef"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
-hash = "36a0b4e6a4dec2471e176b77789c7375b146f54662a9c65082335547436465c2"
+hash = "18d9baff863884671a641b0365d7be67968dbaa8d14ee55eaca62a3828cb2049"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "f1bd10b511ef81d7b86007c78e423f0d283f7975071561a5de0dedeec4cea29c"
+hash = "9adcf570ac46114a90aea4d4ddb86f50894d5e7090f1f8be1e8f92652610622e"
 metafile = true
 
 [[files]]
@@ -384,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "6b48630e3572b1f94f93882e2c26a1f7fb860425f2736bdf0090be4bbf1c997f"
+hash = "baa3ad53a339edcd637e9eab27305381690549361d5e4cbec579deefeaaf5cdc"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "36391d6bce5a4cd5f7a1c773f7f27599dbcd3c863fc00769559a8c064455ec9f"
+hash = "228412bcf61ddffabafbcccc864ef3d818cfbfa079853fe5a6f15883c3f386ec"
 metafile = true
 
 [[files]]
@@ -809,7 +809,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "f54718d76496a42e5f2e01299034cfa4f06745e74f29abbfe6b9279c92e7f915"
+hash = "f323e1b6d0f3126f7f8ab962b4ddcd6e155b323eb721498269d3019691908549"
 metafile = true
 
 [[files]]
@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "62dd9b103a519eac94018a2b2d10695597d6fab448315654f635599ab6e07ff5"
+hash = "bd3ca9f3548a1276d14f53271afd2ccb6db8f1e80842119ad0a92ea620889ab4"
 metafile = true
 
 [[files]]
