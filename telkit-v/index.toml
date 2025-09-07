@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "ce9ca4a1e1c19a4cd82b093eda4ba9e1780ea2dcd93c8988b41a467eea693eef"
+hash = "71bca45c20b13208b483e2e3287d1d6d64d2fb827b16820c1b90e793a6c2046c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "5aa9d1eb4d40e853f28d582bad9d22638174f0129cf115cdd2e2dd9bbc6955c3"
+hash = "bd3249e99ec83a49bbbedceb8d177ee59174b4ad51b4f266de8a5be9c923e559"
 metafile = true
 
 [[files]]
@@ -639,7 +639,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "f4a441da61ceb2233a04bfaf9eb118c3b7fa3ebf134bb41afe2c13c71dd71191"
+hash = "f237e37eca85448f9de3369e5bd49d8626f3c2e511a2c3d0644f0635c0db4341"
 metafile = true
 
 [[files]]
