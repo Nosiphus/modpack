@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "71bca45c20b13208b483e2e3287d1d6d64d2fb827b16820c1b90e793a6c2046c"
+hash = "11a5ac4b7020713ffc8ea8aee2b9bd3cde92d222dbe533329365e51cdc099d5f"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ee249c7e32c17c3dd280a099972022229827b569df93b477122f74416f63beea"
+hash = "a6b2068ee4bde543715aa77909bbb541bdd0d4b701d6670e315e6e29b717bcf8"
 metafile = true
 
 [[files]]
@@ -829,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "13848d0608ff6a04e9606cca9ca125ab1e88eb1c7fb9715ba09b2991353501f7"
+hash = "2fe57964a82366b0418f7d076ce6fd4367a061a4ce289c04ad74681ec7ea8bea"
 metafile = true
 
 [[files]]
@@ -934,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "4be1a4acdeaf0989bb91795f047ed627ff1920a47568d6be73f43ed97fa84358"
+hash = "cb856df43582946d0ad3c29d9fa5b22de32f20f4b0c0ee65b6bf562c8bef37d9"
 metafile = true
 
 [[files]]
@@ -1094,7 +1094,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c2421cabbcb970a98e6a2c12207ada8955a19c03d3f99defdd9cf6523ed3b759"
+hash = "d3a3f5055edb648e5d6882fe79cb11ac5eca35909155abb9544af395a5371495"
 metafile = true
 
 [[files]]
