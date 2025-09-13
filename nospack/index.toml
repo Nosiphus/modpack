@@ -275,6 +275,11 @@ hash = "b2606db4efb83ad46b6dc915a7f3aa1d4fca6b8bbe6e727be111f8334ea4e46a"
 metafile = true
 
 [[files]]
+file = "mods/daflight.toml"
+hash = "8c0d0833c765334a4970dcedc7bb78d4f7fbede1f18abe1ba6e84235c8934fc4"
+metafile = true
+
+[[files]]
 file = "mods/galacticraft-planets.toml"
 hash = "a08bf78818fd911428015e9e3f2ed6ff708e6ca1954bee581a64745378d859ae"
 metafile = true
