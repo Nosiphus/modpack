@@ -272,6 +272,11 @@ hash = "889e1a1aaa4dfa31cb27fb2ca9c5cbbe689fe7de6eaca942c52e9663323990f7"
 metafile = true
 
 [[files]]
+file = "mods/daflight.toml"
+hash = "79f42fa3f49e24708c98045a82f2ad6f1ed82b8103dcdf61cda88d6b928ea171"
+metafile = true
+
+[[files]]
 file = "mods/davincis-vessels.pw.toml"
 hash = "51137dc2711471b6e6e06477f4dd2a6ae3f0d8e895389ee51c37d977a830a009"
 metafile = true
