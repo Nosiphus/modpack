@@ -1,0 +1,8 @@
+name = "forge-essentials-client"
+filename = "forgeessentials-1.6.4-1.3.0-client.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/2206/126/forgeessentials-1.6.4-1.3.0-client.jar"
+hash-format = "sha1"
+hash = "1093dc2c4e25c0acf278721b8f9b36c70c091ac5"

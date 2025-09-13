@@ -1,0 +1,8 @@
+name = "forge-essentials"
+filename = "forgeessentials-1.6.4-1.3.0.4-server.zip"
+side = "server"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/2217/815/forgeessentials-1.6.4-1.3.0.4-server.zip"
+hash-format = "sha1"
+hash = "388636c9754447b7ea7d3b65d00b4dc38f243f3b"
