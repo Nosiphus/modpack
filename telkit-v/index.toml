@@ -50,7 +50,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "9f47844d45183950df257f34685e90b0093c5a15c940112e977d8512b4a35eef"
+hash = "830c6f7436b3c7a46d3b15811db539b76d47a6434f3859222350d6480d058265"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "de690e7dd947809fbf365eaae3facbafc118d5f0c40012a62cd57b2e84a96e21"
+hash = "2ee5a9e5a8cc755b428d953cc3f89a68c4f239136c50e9500ed62f13dd92561e"
 metafile = true
 
 [[files]]
