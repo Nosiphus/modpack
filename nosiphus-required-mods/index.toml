@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/AppliedEnergistics.cfg"
+hash = "3c7af15eb0b065917ada48632f437f315418ccfd16b431db48a0c09cb6237010"
+
+[[files]]
 file = "config/ArchimedesShips/ArchimedesShips.mrot"
 hash = "c83ed19fd61ccbffd7f7bae79770d5f86818c916415ee9138ca49a4a3fa8bb09"
 
@@ -41,6 +45,10 @@ file = "config/Galacticraft/moon.conf"
 hash = "ea9a9a35fa8b9eb4ab8f3925b66f054b0669dd81c5c8c8e6e4367d7585b116e2"
 
 [[files]]
+file = "config/IC2.cfg"
+hash = "69881b3cc80254bc6bfb018623a9efd72434b8725f8d47cdf5463faede94bc5a"
+
+[[files]]
 file = "config/ICBM.cfg"
 hash = "395ee63b22e804146e6d3c68d0dad46b5398c7118dd548e123264d97a6a04184"
 
@@ -59,6 +67,10 @@ hash = "10459f63d31173adea709d90d9146949f7660d0bd1c14e75be8e76f22e372879"
 [[files]]
 file = "config/MinecraftWero.cfg"
 hash = "fe976cd27335b98ddc557a91950b42b304f79594b9257f1ffaba8df67960ada9"
+
+[[files]]
+file = "config/Modular Force Field System.cfg"
+hash = "49b8f79da5032e7ec60bc1acf2a43d1abaa65ab4c9fe0c8cf494b395fe5b969e"
 
 [[files]]
 file = "config/NEI.cfg"
@@ -211,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrial-craft.toml"
-hash = "735c59765231701b4d5ceb2a2dd9cbb1a43c898124d0af1d00dce886054d5d66"
+hash = "28ddbae436dffba8d8de6d465de8daf535f3f2bc281a317be0afe8f9237225a6"
 metafile = true
 
 [[files]]

@@ -1,8 +1,8 @@
 name = "Industrial Craft"
-filename = "industrialcraft-2_1.118.401-lf.jar"
+filename = "industrialcraft-2_1.117.921.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Nosiphus/legacy-mods/raw/main/industrial-craft/1.5.2/industrialcraft-2_1.118.401-lf.jar"
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/industrial-craft/1.5.2/industrialcraft-2_1.117.921.jar"
 hash-format = "sha1"
-hash = "f7a35361e66ce7c667ae09cf54f480f3f279db9b"
+hash = "da1800e79fbcc0e2aa2327c55ac81d681a07b931"
