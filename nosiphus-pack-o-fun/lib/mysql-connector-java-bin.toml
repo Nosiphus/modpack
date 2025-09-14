@@ -1,0 +1,8 @@
+name = "MySQL Connector Java Bin (ForgeEssentials)"
+filename = "mysql-connector-java-bin.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/ForgeEssentials/ForgeEssentials/refs/tags/1.2.2_f534_mc147/lib/mysql-connector-java-bin.jar"
+hash-format = "sha1"
+hash = "3ae0cff91d7f40d5b4c7cefbbd1eab34025bdc15"

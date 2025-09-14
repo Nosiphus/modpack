@@ -197,6 +197,26 @@ hash = "86084e569a37d6f90a9b48b39c67cde02c5c4a56ba3bedf7c626d4faa05bc275"
 metafile = true
 
 [[files]]
+file = "lib/H2DB.toml"
+hash = "51c713b6ef070d320d2477db4ab8ad3d6eaf0d5e943cdea98e779cd76276e021"
+metafile = true
+
+[[files]]
+file = "lib/metrics-R6-FEmod.toml"
+hash = "34dfb28dce550dec9db330049645807a152ea789d85f29ffd7fec763e7750f52"
+metafile = true
+
+[[files]]
+file = "lib/mysql-connector-java-bin.toml"
+hash = "1d830ec9fa4039ee125cae7de39ab4c713ff148e117493aaa8bbbbc615ac02a2"
+metafile = true
+
+[[files]]
+file = "lib/worldedit-5.4.6-SNAPSHOT.toml"
+hash = "5290dc226c7fd09669f834d4d137f16397d7ab2b18da0d4743105f2f8ebc94ce"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-1.pw.toml"
 hash = "a00244bab3960bf32c8b8636990df763b9fd0084b121afd22118e96e92d95837"
 metafile = true
@@ -264,6 +284,11 @@ metafile = true
 [[files]]
 file = "mods/fluid-mechanics.toml"
 hash = "a224553365f70e9d7795a2dc25bad78f49aad54d3e91c5665b3b5fac2ce03b9d"
+metafile = true
+
+[[files]]
+file = "mods/forge-essentials-client.toml"
+hash = "f1986515701ed59cbb79322321b39bc91ab546f3876da44899209c87c6b62c99"
 metafile = true
 
 [[files]]
@@ -399,4 +424,9 @@ metafile = true
 [[files]]
 file = "mods/zans-minimap.toml"
 hash = "b2f48b1fb6fb853f3634a67c9e056a07d9660a69ec99b6be464329f1e6c8bd98"
+metafile = true
+
+[[files]]
+file = "server/forge-essentials.toml"
+hash = "4af0d52c2197dd6f298c19e3381b373d1d11b3b7108eb93af4e61be119ff1a7d"
 metafile = true
