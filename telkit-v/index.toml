@@ -34,7 +34,7 @@ hash = "5734a23ee5d721a26145ebe348f4f1651e9d6aac6937493a5121ee0052907afc"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "fd23cb8becf6463b7ae75767584a5a6a61de0b104eba768faa6d4582b1a91f57"
+hash = "bdf32f2784d5f001c29bc673b08cee794bc864dc4c0f1fbbf63128c2365ba11b"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -46,11 +46,15 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
 hash = "830c6f7436b3c7a46d3b15811db539b76d47a6434f3859222350d6480d058265"
+
+[[files]]
+file = "config/fancymenu/customization/chat_screen_layout.txt"
+hash = "aac9ff87c172cffc6f6b47553390a32f2a6287ae7fb80236a9ced741642ff0c1"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -66,7 +70,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "eb33c7f2ba927cd0c4d1b1bf959a1f95956800c7f869840b5e80ad4b6d48d4a9"
+hash = "3e2bf7aa28b4740c5fa611d4f3441508877fae056e35849bad89d5d34a7563dd"
 
 [[files]]
 file = "config/fancymenu/panoramas/primary/panorama/panorama_0.png"
@@ -95,10 +99,6 @@ hash = "7fe35f0b09bdfbdc3703b5976eedade8ff2898fe104e06298c5886559803a7df"
 [[files]]
 file = "config/fancymenu/panoramas/primary/properties.txt"
 hash = "280d8fbf33a3c8adf4e10cbf7e139b6a034b6e0d9fcc00418559c91d21082e02"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/flywheel-client.toml"
