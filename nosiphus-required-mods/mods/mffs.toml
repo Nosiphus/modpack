@@ -1,0 +1,8 @@
+name = "Modular Force Field Systems"
+filename = "MFFS_v3.1.0.175.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/mffs/1.5.2/MFFS_v3.1.0.175.jar"
+hash-format = "sha1"
+hash = "e8c950fc9d017d284c32eb2073625651d06909bd"

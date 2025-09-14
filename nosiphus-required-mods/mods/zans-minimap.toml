@@ -1,0 +1,8 @@
+name = "Zan's Minimap"
+filename = "ZansMinimap1.5.2.zip"
+side = "client"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/zans-minimap/1.5.2/ZansMinimap1.5.2.zip"
+hash-format = "sha1"
+hash = "0f8a6df95b93d1983e4f9e6321236a5099f77ede"

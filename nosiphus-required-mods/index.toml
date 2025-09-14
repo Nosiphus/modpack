@@ -150,6 +150,11 @@ hash = "7bda29d1289180f58dd175d052fa6f39d54795de109b04e72a5cd8be70b7eb7c"
 metafile = true
 
 [[files]]
+file = "mods/ae1.pw.toml"
+hash = "ea8e54f8700b8eeee92ca0de9ce15a0f656e8d9822b0ed874c53c9d41ea7dc29"
+metafile = true
+
+[[files]]
 file = "mods/archimedes-ships.toml"
 hash = "b6c46e297bd8d435ac2229ab53041556c44120637316a0c86805e08ca8fa4b39"
 metafile = true
@@ -205,6 +210,11 @@ hash = "0e61114f2baa7fda0b8269a88570506577d6a8713ea68fffd6eb68cc00e31885"
 metafile = true
 
 [[files]]
+file = "mods/industrial-craft.toml"
+hash = "735c59765231701b4d5ceb2a2dd9cbb1a43c898124d0af1d00dce886054d5d66"
+metafile = true
+
+[[files]]
 file = "mods/jammy-furniture.toml"
 hash = "72e7518be6ab28cbc47ba988a8d524f1d7de8ef37859e3116b39f8bd0fc35a23"
 metafile = true
@@ -225,6 +235,11 @@ hash = "61d010cc93535760bd433d92683b372c756abd1be5242f0f2f9ee9d9438aef2d"
 metafile = true
 
 [[files]]
+file = "mods/mffs.toml"
+hash = "058928cf71bf08f391ed5671b094de2ee6eddca2dd7d8e88ca8d53c177f29fc6"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-mca.pw.toml"
 hash = "11c269f5bbe7c3ee6e80e72aade13473244ae5b9cf4f088650cff331ce404255"
 metafile = true
@@ -232,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/waila.pw.toml"
 hash = "e5ac6e4cad02940a0cad2e4ad5a161f69c28c5f4f7ee3a94ccaa350e19000157"
+metafile = true
+
+[[files]]
+file = "mods/zans-minimap.toml"
+hash = "b368924ae3a9bec3cab8dd7dec5cf168ad6387d33d9aae2fa09778b2c5082dbb"
 metafile = true
 
 [[files]]

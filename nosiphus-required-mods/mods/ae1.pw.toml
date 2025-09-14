@@ -1,0 +1,13 @@
+name = "Applied Energistics"
+filename = "appeng-rv14-dev2-mc15x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AlDk2AVa/versions/swgaH2Ir/appeng-rv14-dev2-mc15x.zip"
+hash-format = "sha1"
+hash = "bd5426613bcf235070c17d2ac30ae8123a0287d2"
+
+[update]
+[update.modrinth]
+mod-id = "AlDk2AVa"
+version = "swgaH2Ir"
