@@ -1,0 +1,13 @@
+name = "NostalgiaGen"
+filename = "nostalgiagen-0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f7950cf2340171aa6db94fbee20f9011dcb156d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2960767
+project-id = 384275

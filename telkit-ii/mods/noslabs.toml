@@ -1,0 +1,8 @@
+name = "NosLabs"
+filename = "NosLabs-3.0.2-6.3.2019"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/noslabs-custom-blocks/1.12.2/NosLabs-3.0.2-6.3.2019.jar"
+hash-format = "sha1"
+hash = "1841548763d940489a3c960b51b925565fa35b48"

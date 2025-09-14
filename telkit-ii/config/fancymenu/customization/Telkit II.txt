@@ -208,7 +208,7 @@ customization {
   y = -21
   scale = 1.0
   alignment = left
-  value = Telkit II: Saturday, September 13, 2025
+  value = Telkit II: Sunday, September 14, 2025
 }
 
 customization {
@@ -220,7 +220,7 @@ customization {
   y = -11
   scale = 1.0
   alignment = left
-  value = Newest PureBDcraft Patch Collection: Monday, May 26, 2025
+  value = Newest PureBDcraft Patch Collection: Sunday, September 14, 2025
 }
 
 customization {

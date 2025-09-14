@@ -93,7 +93,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "6a5427bbc5eaa847a3908006b07819b710a7443bc5460b1983738a20530d0c34"
+hash = "711613597a0e807c58a26af474b061c7af8965a7be0b80d6fe3b6f80cb36ccd4"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -216,6 +216,11 @@ hash = "ae04dccf6b5f4c4ec0f90439331d5f37068caebc9cc4bd22736204d694eec686"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "66e34a1e0bfd3a9ee39b1f58b1af494b843fa22979a28207f397e4710547b9d2"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "21840b880d5275475906f16edc99aea784d214a1ab2584b8b71a5c3b02838f28"
 metafile = true
@@ -223,6 +228,16 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
+metafile = true
+
+[[files]]
+file = "mods/beta-plus.pw.toml"
+hash = "ec9ef0203a8067bfe0fe754f3938c832d7554b1b1c6237f58c12f721e98afb9d"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft.pw.toml"
+hash = "ab4781ab6b6f14b93eff468b16cf68a8dc181d3f088b952888dbace39ec6f9bc"
 metafile = true
 
 [[files]]
@@ -461,6 +476,16 @@ hash = "059eed4d55fa0728def70fc36e958b7d0f66bf6f6a4d856dbe6530cd30cac8ed"
 metafile = true
 
 [[files]]
+file = "mods/malisiscore.pw.toml"
+hash = "30c772d502232b689f11c6cb4740238a4db1e656a21291c307a08f346ca1bd6c"
+metafile = true
+
+[[files]]
+file = "mods/malisisdoors.pw.toml"
+hash = "186416dfcddfb41fe0ecd15bfafc67aec937c36e5dbac496386c9a480d2eb294"
+metafile = true
+
+[[files]]
 file = "mods/mcef-legacy.pw.toml"
 hash = "90338bd4837c4467571b00ca50e8d5e2908cd681ec61373ab33dcca0758720eb"
 metafile = true
@@ -482,12 +507,17 @@ metafile = true
 
 [[files]]
 file = "mods/modern-beta-forge-release-plus.pw.toml"
-hash = "38b3f759d93a19d2b38a4fc03d5d5e725c88b6acd01b654b4a337210c1d391da"
+hash = "084af199a1c4c0920a0202774a4b9d9ab3cdf766b87900df510662bde022f989"
 metafile = true
 
 [[files]]
 file = "mods/modern-beta-forge.pw.toml"
-hash = "b8aea99c6bb741d2459d3b9a2c18251a8cbca84418b74162be61b166363417d9"
+hash = "81e57000ca1113b973e48cc4b5cb4a92a92c4ebec845b2f13abc5ceec035065b"
+metafile = true
+
+[[files]]
+file = "mods/modular-powersuits.pw.toml"
+hash = "eea4c4a4853178a9cba6d3693c55316b91d7f2723c2e88d50128e973b6a81abe"
 metafile = true
 
 [[files]]
@@ -546,8 +576,23 @@ hash = "0737c6888e5f650439205894d0a1b787edf5039302acf612fd597bd10d2b6e9f"
 metafile = true
 
 [[files]]
+file = "mods/noslabs.toml"
+hash = "5abf4c51ce44b94871aad08e69e526ff06b5e8fe4a71b5e0d6af71fb5f34afb8"
+metafile = true
+
+[[files]]
+file = "mods/nostalgiagen.pw.toml"
+hash = "d42e554a449fe8d58c8e06c003c15f33c60db6d3f72a6f463ac9474da00c36a0"
+metafile = true
+
+[[files]]
 file = "mods/nuclear-physics.pw.toml"
 hash = "f529fa912135c4ed4e6f2193151f39f151df8d8b52c013595f40d209b7debf87"
+metafile = true
+
+[[files]]
+file = "mods/numina.pw.toml"
+hash = "be048772c15768cdfad49db77fd785213946a0726dbcd689c57ab4119fc6645c"
 metafile = true
 
 [[files]]
@@ -598,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "e4e11e2b8927141d5a26f2f0f33efe3ca0be85df291379acf6963a0307f952f5"
 metafile = true
 
 [[files]]
@@ -728,6 +778,16 @@ metafile = true
 [[files]]
 file = "mods/surge.pw.toml"
 hash = "76364bbc6e5ab454bdbd76fa3502bdee90c0bb842f6b405ed60f1d33c76053ee"
+metafile = true
+
+[[files]]
+file = "mods/sync.pw.toml"
+hash = "48b5445508e8a7b56f99cb554936b42d7037a884fd6775715e0c405ad3fbf2e2"
+metafile = true
+
+[[files]]
+file = "mods/terrarium.pw.toml"
+hash = "ffec5507703f4541c94fd4c8198d1726491e21b8f0f75d9058a8d51179296219"
 metafile = true
 
 [[files]]
