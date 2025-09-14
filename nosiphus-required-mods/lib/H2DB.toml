@@ -1,0 +1,8 @@
+name = "H2DB (ForgeEssentials)"
+filename = "H2DB.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/ForgeEssentials/ForgeEssentials/refs/tags/1.2.2_f738_mc152/lib/H2DB.jar"
+hash-format = "sha1"
+hash = "32f12e53b4dab80b721525c01d766b95d22129bb"

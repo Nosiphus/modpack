@@ -130,6 +130,26 @@ hash = "38071b216b6d00218b13ce6949bb6bafb7f469d39d55f909f64654767dd4a757"
 metafile = true
 
 [[files]]
+file = "lib/H2DB.toml"
+hash = "1621e0e43c6a58caae5006f38a1441ab8c5eef1e26913aa05a3dc5b76df1dba3"
+metafile = true
+
+[[files]]
+file = "lib/metrics-R7-FEmod.toml"
+hash = "9948a42fa790969abd32f59ee32b28134971cfaa9183706edb23e6aa40175dfb"
+metafile = true
+
+[[files]]
+file = "lib/mysql-connector-java-bin.toml"
+hash = "d843a2202569a03d34e6d5713035dab644fe1e44894396347dd5f32780638023"
+metafile = true
+
+[[files]]
+file = "lib/pircbotx-1.9.toml"
+hash = "7bda29d1289180f58dd175d052fa6f39d54795de109b04e72a5cd8be70b7eb7c"
+metafile = true
+
+[[files]]
 file = "mods/archimedes-ships.toml"
 hash = "b6c46e297bd8d435ac2229ab53041556c44120637316a0c86805e08ca8fa4b39"
 metafile = true
@@ -162,6 +182,11 @@ metafile = true
 [[files]]
 file = "mods/discocraft.toml"
 hash = "a0e68063622792fcf1b6f5ec7e86284f8033397ac48852378aee8f31f4108934"
+metafile = true
+
+[[files]]
+file = "mods/forge-essentials-client.toml"
+hash = "f7d3405888978307d89bd2ff4d497ae088b6b2f2e0d35701b08940f96c7e9198"
 metafile = true
 
 [[files]]
@@ -207,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/waila.pw.toml"
 hash = "e5ac6e4cad02940a0cad2e4ad5a161f69c28c5f4f7ee3a94ccaa350e19000157"
+metafile = true
+
+[[files]]
+file = "server/forge-essentials.toml"
+hash = "cbdcc76f35afc02ab269d5d75343b67b67739ee94c2f3f4896666927ba4af057"
 metafile = true
 
 [[files]]

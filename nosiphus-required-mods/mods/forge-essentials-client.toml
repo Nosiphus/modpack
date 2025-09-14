@@ -1,0 +1,8 @@
+name = "ForgeEssentials Client Addon"
+filename = "ForgeEssentials-client-1.5.2-SNAPSHOT.219.jar"
+side = "client"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/774/507/ForgeEssentials-client-1.5.2-SNAPSHOT.219.jar"
+hash-format = "sha1"
+hash = "0643f1f6bfb4b1cc1f4f309f85d63dc8da0f1055"

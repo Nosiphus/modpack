@@ -1,0 +1,8 @@
+name = "Metrics R7 (ForgeEssentials)"
+filename = "metrics-R7-FEmod.jar"
+side = "server"
+
+[download]
+url = "https://raw.githubusercontent.com/ForgeEssentials/ForgeEssentials/refs/tags/1.2.2_f738_mc152/lib/metrics-R7-FEmod.jar"
+hash-format = "sha1"
+hash = "bfffcaf975982b45d568f95526eba337652eecfb"
