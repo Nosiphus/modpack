@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "830c6f7436b3c7a46d3b15811db539b76d47a6434f3859222350d6480d058265"
+hash = "d125752421693e79cd26217b12ae96d5af1cd99efead44dad3249a3830281161"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -634,7 +634,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4505780f34746ca4098712d63bf8c0155e3e57530adea9598b2c19e835e06d9e"
+hash = "84bd7e01a080d9089b5a99ffc0314f9b5a64f4e4ff38d9904bc65564270d54a2"
 metafile = true
 
 [[files]]
