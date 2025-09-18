@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "d125752421693e79cd26217b12ae96d5af1cd99efead44dad3249a3830281161"
+hash = "3d4b39872f2c8b18e8aec62269f2542537421159c81b9cf3b25b489ae6fbe16e"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -509,7 +509,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "03848da2cf5d8e812f5f296a12f9b4280b06eafb0debe42fe9272cba6006afd0"
+hash = "c5a83728db6e591c548ce9916045ec9a57f0808c158d9b0bc8a34494b03fffae"
 metafile = true
 
 [[files]]
@@ -829,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2fe57964a82366b0418f7d076ce6fd4367a061a4ce289c04ad74681ec7ea8bea"
+hash = "418a7ea2a1322f273662b83c4b4cf543dc6eed9ca0c0328110e8e27c1581b839"
 metafile = true
 
 [[files]]
@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "b53366ac4e074429cd4dbed1acf585457d013cf12d6bbf20233df2c7b7349709"
+hash = "6177a62951cb4408775f94b4ac6b67255fbf395f076f0b9072d8264e57883337"
 metafile = true
 
 [[files]]
