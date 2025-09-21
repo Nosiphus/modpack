@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "5137b3c8071297af5302f95757e09b47abbd1e840d4a49593507648861cec8c1"
+hash = "ec18ee877627d16eac63c03f2fded390f718903fce32c2dfeacdee3bda77b3bf"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -164,11 +164,6 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2.toml"
 hash = "bbde0009cfd7ec2a43a180e947d2b10996c47c82742ae7037fefe15a8d6ecb01"
-metafile = true
-
-[[files]]
-file = "mods/archaicfix.pw.toml"
-hash = "ee48491619ea973bf167c7cdc3b2f5b6f59ab4d0aa50f9cb572886b7aa8f352b"
 metafile = true
 
 [[files]]
@@ -332,16 +327,6 @@ hash = "e2a1810cc0353e445c9e210f82f355e49f9d440aec1165b94e1e0248f3b322da"
 metafile = true
 
 [[files]]
-file = "mods/forge-essentials-client.pw.toml"
-hash = "68df4c7dc993740f35352f433b2acf4cd524509c45a2e4fb900d0d90b86ecd9b"
-metafile = true
-
-[[files]]
-file = "mods/forge-essentials.pw.toml"
-hash = "82d07c91261f03992b30ea50f99c262902d021a0a442bf86bfa79da9c7aa0687"
-metafile = true
-
-[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "5e4119133b96b39d3daa4fb5a5197e27bc5b092ba61824b8fff5761556122c2d"
 metafile = true
@@ -498,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "c09d8acda493a670ce9d562bdc81c0ab63303c14386c296df912f9931b3c3539"
+hash = "1b08c65f5147adfd9143954091a32cc88f9471fc6035d463c5c4de4daa9dbe73"
 metafile = true
 
 [[files]]
