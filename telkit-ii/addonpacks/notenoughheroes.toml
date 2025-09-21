@@ -1,8 +1,0 @@
-name = "Not Enough Heroes"
-filename = "NotEnoughHeroes-1.12.2-1.1.1.zip"
-side = "both"
-
-[download]
-url = "https://media.forgecdn.net/files/2754/747/NotEnoughHeroes-1.12.2-1.1.1.zip"
-hash-format = "sha1"
-hash = "a0571ce812da2a1f12f8e389e8fadc493abbab4c"

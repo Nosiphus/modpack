@@ -1,0 +1,13 @@
+name = "NotEnoughHeroes"
+filename = "NotEnoughHeroes-1.12.2-1.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0571ce812da2a1f12f8e389e8fadc493abbab4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2754747
+project-id = 285848
