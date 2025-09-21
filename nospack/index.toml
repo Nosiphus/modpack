@@ -280,11 +280,6 @@ hash = "8c0d0833c765334a4970dcedc7bb78d4f7fbede1f18abe1ba6e84235c8934fc4"
 metafile = true
 
 [[files]]
-file = "mods/forge-essentials-client.toml"
-hash = "f7ed3c4a054a629865bcae91e750c1710ab5b95293c9b678c6b3b947531f29ff"
-metafile = true
-
-[[files]]
 file = "mods/galacticraft-planets.toml"
 hash = "a08bf78818fd911428015e9e3f2ed6ff708e6ca1954bee581a64745378d859ae"
 metafile = true
@@ -337,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/jammy-furniture.toml"
 hash = "a8af80178279c0abed5dd6d8e08ec9e6b64670033b9cd55f284ada8b67bf1c05"
+metafile = true
+
+[[files]]
+file = "mods/legacy-java-fixer.pw.toml"
+hash = "5620f996af6bd9855b3ec244e463d6425ab8f0d91b7a0076b66dab82107cca05"
 metafile = true
 
 [[files]]
@@ -497,11 +497,6 @@ metafile = true
 [[files]]
 file = "mods/wr-cbe-universal.pw.toml"
 hash = "81dc26e53cf448e0597557bd158aba57725e7d4ffac06c8fbb573d612072e7cb"
-metafile = true
-
-[[files]]
-file = "server/forge-essentials.toml"
-hash = "9477cbd86bf30218b53fdc0643c43aa67e5d1f50952e376c35e20c9ba735e1a8"
 metafile = true
 
 [[files]]
