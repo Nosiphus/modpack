@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "11a8bc620b5fc97d64297913561872947c503eef957400dcd0cb40e6edbdf26f"
+hash = "ae5a8168876bb4922f76ebfb049e857d0ba1f553526981dbfc668775f0c2a658"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -433,6 +433,11 @@ hash = "c1fb4b35943ed603eaaa2999ec0faa3d22a5ea2a95f7ef1b0cd0eae83c945bae"
 metafile = true
 
 [[files]]
+file = "mods/decocraft.pw.toml"
+hash = "3f3ecde993ed90e44f63120914a1e40394f98f9a602fe8a178e5eb5a825d350d"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "740e8bc5f6560bebe40b27bcc9fb6bc1adc2dbd489338cc70b00176427b3b5a3"
 metafile = true
@@ -609,7 +614,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "aff7184ef1e53210f96fa31c789d5d01d077f019744c1a4bbeb67fd5584f99d4"
+hash = "9f1511db3987e2e7778f9e797f9552895b1df3a061cc5e758fad8ea953d209c8"
 metafile = true
 
 [[files]]
@@ -934,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "cb856df43582946d0ad3c29d9fa5b22de32f20f4b0c0ee65b6bf562c8bef37d9"
+hash = "d66bf5eaba583f32ab7c82e292c7e956a84fac5ed1e26ddefeb98b7afa043165"
 metafile = true
 
 [[files]]
@@ -1180,6 +1185,11 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "bd3ca9f3548a1276d14f53271afd2ccb6db8f1e80842119ad0a92ea620889ab4"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "f913b1c0796d1a676354f1212f1d2200629570baaeba695ce3cafc622701aad7"
 metafile = true
 
 [[files]]
