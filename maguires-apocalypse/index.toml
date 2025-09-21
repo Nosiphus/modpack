@@ -67,36 +67,59 @@ metafile = true
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "368389e9c9e795b1403a352b8bc86299c0b07c4e062c0f2db31ddbc3e0961cd2"
+hash = "a8d7330335a8d0f178b209a334729ba998e66294349982cb55cb21302ef6d59b"
 
 [[files]]
-file = "mods/1.7.10/codechickenlib.toml"
-hash = "e5523908b0aab06a733cd32a5d90fa0947eeb36239775d17b3f0c4720bcd24a2"
+file = "config/bspkrsCore.cfg"
+hash = "47fa41c2dcf7ea902213b14cbec86592e9538315836d47eedb7502967048f693"
+
+[[files]]
+file = "config/cfm.cfg"
+hash = "9f9934508bd962c014b8637b4728c72738fe3c240f360fa0829cf55f9ae28998"
+
+[[files]]
+file = "mods/1.7.10/bspkrscore.pw.toml"
+hash = "4f817806167f7b13e933b98928a698b9db0a8337af286d03c98ea13a8662a7b8"
 metafile = true
 
 [[files]]
-file = "mods/ai-improvements.toml"
-hash = "946e3a9326e7d13447ab6605b7147b0f794f3e124608e7c9f56d4d5c0a62f7bd"
+file = "mods/ai-improvements.pw.toml"
+hash = "06250d70894edf1c103aa82fd034fd8718d8f409c1db2b2de1e1c614b266e2eb"
 metafile = true
 
 [[files]]
-file = "mods/balkons-weaponmod.toml"
-hash = "18fdaaa569205e0f9e022093f78721ae1b738a4b566685c185d76e72d0489dde"
+file = "mods/archaicfix.pw.toml"
+hash = "ee48491619ea973bf167c7cdc3b2f5b6f59ab4d0aa50f9cb572886b7aa8f352b"
 metafile = true
 
 [[files]]
-file = "mods/codechickencore.toml"
-hash = "35789dc301b4b18e7b6eea42cb4b753e67be4739cbf1c3492bd110ca597e5647"
+file = "mods/balkons-weaponmod-legacy.pw.toml"
+hash = "95552828bc5cbe8309156bd7a74bab56940c2f171eabad96fa08807dfac77643"
 metafile = true
 
 [[files]]
-file = "mods/endercore.toml"
+file = "mods/codechickencore-unofficial.pw.toml"
+hash = "7a1932795d61efccbe7614555f0e06f89fea3450a871c364ca9bb7ab8d903f70"
+metafile = true
+
+[[files]]
+file = "mods/coretweaks.toml"
+hash = "3be2c24249f487ea304906e0f86f912be4a66b0cbb400709b4a0155284ed21f2"
+metafile = true
+
+[[files]]
+file = "mods/daflight.toml"
+hash = "79f42fa3f49e24708c98045a82f2ad6f1ed82b8103dcdf61cda88d6b928ea171"
+metafile = true
+
+[[files]]
+file = "mods/endercore.pw.toml"
 hash = "caa3d0023b08b8b7152c4bb76614d585651cd05aae263df31e4c672783f59363"
 metafile = true
 
 [[files]]
-file = "mods/fastcraft.toml"
-hash = "00a0cbb9783b08e4a3a464506a49f1a1edc987cd184a6008ebb4c15f9f54b4ed"
+file = "mods/entityculling.pw.toml"
+hash = "47d71b304d5358da4e15bb10ef4ffa0c095280d86e040f93b1b6621ccfa9f4b5"
 metafile = true
 
 [[files]]
@@ -105,28 +128,28 @@ hash = "3ccb69899dcdd682add186f6dee0871b3966a26db10919906f82ca594be55eb9"
 metafile = true
 
 [[files]]
-file = "mods/fullscreen-windowed-borderless-for-minecraft.toml"
-hash = "479d3e7d32c61fbe03176a4c47df6ea31cec01f51fb1bc763771f4bb826b1da3"
+file = "mods/foamfix.pw.toml"
+hash = "9094e82bb9ceb62536b856e42fe2041debfff3ee3ecd591b004e8119f908a7d4"
 metafile = true
 
 [[files]]
-file = "mods/iron-chests.toml"
-hash = "c56f858ba23a7debb5d1735590c899f56a252df39afd8ca216280aaeed3c7733"
+file = "mods/fps-reducer.pw.toml"
+hash = "5e4119133b96b39d3daa4fb5a5197e27bc5b092ba61824b8fff5761556122c2d"
 metafile = true
 
 [[files]]
-file = "mods/liteloader.toml"
-hash = "615797e7b3dc402b7a4947a0c7a95142b9c5ca0ed00706ad0e7c939122d9e8e8"
+file = "mods/fullscreen-windowed-borderless-for-minecraft.pw.toml"
+hash = "2e61fd567c10e346687f6a2a337723bf5d17fb4059fdb82ec50ab6dc7508ab05"
 metafile = true
 
 [[files]]
-file = "mods/lumy-skin-patch.toml"
-hash = "ef42892bb57f0fea2ba8726d454609b8c3cbfcd47bf174a6a226d35f5b86148c"
+file = "mods/iron-chest-unofficial.pw.toml"
+hash = "1a16bc9dc8916aa5e1201507d90780dccc406bf8ba5e481228edfcc5970ad163"
 metafile = true
 
 [[files]]
-file = "mods/more-player-models.toml"
-hash = "93c29b03482b81a2cb570ced345352d84c0e266a48f384f48a86b0417ed17d25"
+file = "mods/lumy-skin-patch.pw.toml"
+hash = "cae456bcee6de42f573895096ada1aa74ebb33930ee67b545b79a128be2cc538"
 metafile = true
 
 [[files]]
@@ -135,18 +158,28 @@ hash = "5dcf5051f83afe7cb33bf2854b37cd9c1d9735959cebe0cfeb697c604d221c5d"
 metafile = true
 
 [[files]]
-file = "mods/nei-addons.toml"
-hash = "6ff83024a079eb7964cc28292ee852dd58248c02b5a3b07fa88c39daf371d297"
+file = "mods/myceliumlib.pw.toml"
+hash = "9a4b0ba9a7457952f44516c07dcdd9a3d280a6734ff651ac36f91de55d15d33c"
+metafile = true
+
+[[files]]
+file = "mods/nd1710.pw.toml"
+hash = "6dd45e8549a288aa42bd00bc9ccb30904d086b25fbb0fddc62a3c0deb268cfba"
+metafile = true
+
+[[files]]
+file = "mods/nei-addons.pw.toml"
+hash = "1f1b9809a0e8a144ea2428a67144256fbc9816f4a29a1878b4720558952ad391"
 metafile = true
 
 [[files]]
 file = "mods/nei-integration.toml"
-hash = "66004a4b5d118535e23a7e9c95d3caee5824127d101de709db2c6eef3610e171"
+hash = "942a755257b33a08734632746be643736e56127f4c77144cd7b39431c0af207b"
 metafile = true
 
 [[files]]
-file = "mods/notenoughitems.toml"
-hash = "76ac8753f080cc6accc263fa6f6f423ba1acd50f3fd50b64dff4e12b4c7cfa47"
+file = "mods/notenoughitems-unofficial.pw.toml"
+hash = "7c60e653251f24879345db7a777fec80435256b0b84c6f0e98b1b0dab1a74ff3"
 metafile = true
 
 [[files]]
@@ -155,51 +188,46 @@ hash = "c8a1be3cb93d2ed168501196a33011893c96b64e0b64baefe24414cfbf444266"
 metafile = true
 
 [[files]]
-file = "mods/player-api.toml"
-hash = "84691281aabe7fa2fb7df688a270257ae2cc5c0f06677411034617295715970e"
-metafile = true
-
-[[files]]
-file = "mods/render-player-api-enhancer.toml"
-hash = "0e9afbb5ce75ba3432259c5c448d26ad0b63ab014161df2ce56443318e4d59cb"
-metafile = true
-
-[[files]]
-file = "mods/render-player-api.toml"
-hash = "623184f1646be45a3046f794bc8b1b395585b2833b31e097f72448fa21e22682"
-metafile = true
-
-[[files]]
 file = "mods/serializationisbad.pw.toml"
 hash = "64fbb565e6f441cacd9007431810a2798061b637741099d01adc92b784dc51ad"
 metafile = true
 
 [[files]]
-file = "mods/voxelmap.toml"
-hash = "37b6b9f95ab18b513e1507dce964c080614fce1ebb0d9f52fd54d7c5a433a37a"
+file = "mods/treecapitator.pw.toml"
+hash = "548becfe83371f2af2a3eb0918ac4f8a19e82a3f16c316ed11382b6caa807440"
 metafile = true
 
 [[files]]
-file = "mods/waila-plugins.toml"
-hash = "730fb65363c0465b49cf463468534564d1214e1d3e7232dc619e13c577df8508"
+file = "mods/unimixins.pw.toml"
+hash = "a2f85c0c0e03b833c22630f1685e26f15065e84ffd536250985db4f24b1c3b1b"
 metafile = true
 
 [[files]]
-file = "mods/waila.toml"
-hash = "70cc8478e060dc7eca302bf62fa26ed240ea1ae5edacaf06c7f388d742ed9bb1"
+file = "mods/voxelmap.pw.toml"
+hash = "a7197567f4eb621b13aef16c47578d6ca34f1b6a4b48d27ca791553c583f49a0"
 metafile = true
 
 [[files]]
-file = "mods/wawla.toml"
-hash = "f919e305e4d735d6c3b95c98075f868fd908297adef3d9c97bcb27173c934e2e"
+file = "mods/waila-plugins.pw.toml"
+hash = "eea4af056e9818a21b94eb400def3c0987396806bffc46e8aaedc610b2b846db"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.toml"
-hash = "d3d419ecc82e7701bf92c304169dd37e1986ce2a98849b60b28d63504c24a1c2"
+file = "mods/waila.pw.toml"
+hash = "1ce389a8d9488dd7d37490c1498d10412b7430b18cc0faa28f47afc9cf896b57"
 metafile = true
 
 [[files]]
-file = "mods/wtp-whats-this-pack.toml"
-hash = "92dcd353d4a4897a6a7fbd2301acf8b98aee83e00da1fb35a46969bcdab81ad8"
+file = "mods/wawla.pw.toml"
+hash = "e25d0fabd7c365e65c74c983621615f959d3ace9b53bdcad2e638b0cc7a6d51a"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "cc939b143f877079631c0101b8395f5e29bf7e2194897a136088fc92bd8fa704"
+metafile = true
+
+[[files]]
+file = "mods/wtp-whats-this-pack.pw.toml"
+hash = "d3ff2ee62711f893e6170d6be80906dc0334f984db3c7409475fe36694a946ae"
 metafile = true

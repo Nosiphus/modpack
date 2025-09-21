@@ -3,9 +3,9 @@ filename = "neiaddons-1.12.15.41-mc1.7.10.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2269/749/neiaddons-1.12.15.41-mc1.7.10.jar"
 hash-format = "sha1"
 hash = "402ceb094400e7c81373db010f6282fe807d847a"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

@@ -1,11 +1,11 @@
 name = "WTP - What's This Pack"
 filename = "WTP-1.7.10-1.0.29.1.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2215/49/WTP-1.7.10-1.0.29.1.jar"
 hash-format = "sha1"
 hash = "1f7c16644e308cdbaf53e5b96deb160c3aecb6a2"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

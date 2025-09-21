@@ -3,9 +3,9 @@ filename = "worldedit-forge-mc1.7.10-6.1.1-dist.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2309/699/worldedit-forge-mc1.7.10-6.1.1-dist.jar"
 hash-format = "sha1"
 hash = "4f4df9706630906b3e2cdd55f1616f0a31f76049"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

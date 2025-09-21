@@ -1,0 +1,13 @@
+name = "Entity Culling"
+filename = "entityculling-1.6.4-mc1.7.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/SLiFyIon/entityculling-1.6.4-mc1.7.10.jar"
+hash-format = "sha1"
+hash = "9a14606b7d305b4bb1db7094b308c2c2db30fdff"
+
+[update]
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "SLiFyIon"

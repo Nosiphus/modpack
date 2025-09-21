@@ -1,0 +1,13 @@
+name = "Iron Chest Unofficial"
+filename = "IronChest-6.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VNJFvdp5/versions/74uqsqeF/IronChest-6.1.6.jar"
+hash-format = "sha1"
+hash = "6dbeaaa441aecce266f0427a5b2e653706440c7e"
+
+[update]
+[update.modrinth]
+mod-id = "VNJFvdp5"
+version = "74uqsqeF"

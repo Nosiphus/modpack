@@ -3,9 +3,9 @@ filename = "AIImprovements-1.7.10-0.0.1b8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2524/666/AIImprovements-1.7.10-0.0.1b8.jar"
 hash-format = "sha1"
 hash = "08175b6a601003ca9968d06ff50db59c13a010c3"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

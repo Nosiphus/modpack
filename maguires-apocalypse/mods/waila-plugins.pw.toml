@@ -3,9 +3,9 @@ filename = "WAILAPlugins-MC1.7.10-0.2.0-25.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2351/717/WAILAPlugins-MC1.7.10-0.2.0-25.jar"
 hash-format = "sha1"
 hash = "41a59ef754f01fdf8259751b63d3658b2c8a7438"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
