@@ -1,8 +1,0 @@
-name = "ForgeEssentials Server Package"
-filename = "ForgeEssentials-ServerComplete-1.4.7-1.2.1.275.zip"
-side = "server"
-
-[download]
-url = "https://mediafilez.forgecdn.net/files/774/500/ForgeEssentials-ServerComplete-1.4.7-1.2.1.275.zip"
-hash-format = "sha1"
-hash = "b77de98e246a4db7169920adcfdf19bd4d44a91d"

@@ -1,8 +1,0 @@
-name = "ForgeEssentials Client Addon"
-filename = "ForgeEssentials-client-1.4.7-1.2.1.275.zip"
-side = "client"
-
-[download]
-url = "https://mediafilez.forgecdn.net/files/774/505/ForgeEssentials-client-1.4.7-1.2.1.275.zip"
-hash-format = "sha1"
-hash = "5d6542c807fca1dbf37385972f7840ec4f101a6e"

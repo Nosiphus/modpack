@@ -1,8 +1,0 @@
-name = "WorldEdit (ForgeEssentials)"
-filename = "worldedit-5.4.6-SNAPSHOT.jar"
-side = "server"
-
-[download]
-url = "https://raw.githubusercontent.com/ForgeEssentials/ForgeEssentials/refs/tags/1.2.2_f534_mc147/lib/worldedit-5.4.6-SNAPSHOT.jar"
-hash-format = "sha1"
-hash = "de96549f9c31aa9268f649fc6757e7b68b180549"
