@@ -1,8 +1,0 @@
-name = "PIRCBotX (ForgeEssentials)"
-filename = "pircbotx-1.9.jar"
-side = "server"
-
-[download]
-url = "https://raw.githubusercontent.com/ForgeEssentials/ForgeEssentials/refs/tags/1.2.2_f738_mc152/lib/pircbotx-1.9.jar"
-hash-format = "sha1"
-hash = "c84e54d65043af5ad7cf45c54820225d14665769"
