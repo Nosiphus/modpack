@@ -148,6 +148,71 @@ hash = "93f6752d04282d3bd16185c5e00172c5416e1bc590fe683ec6d9ea13085b807f"
 metafile = true
 
 [[files]]
+file = "mods/zombe/config.txt"
+hash = "5b00385a54f909d70a65c63c4cb9b4fc9bbcb5fb301dd995c668739b263c2d0f"
+
+[[files]]
+file = "mods/zombe/fuel.txt"
+hash = "6d6a47041eae2f5783c6dbe8adb24019007c3dd361ade5b796eee3f95128aa11"
+
+[[files]]
+file = "mods/zombe/items-noburn.txt"
+hash = "7cc04fed188d20b959ba3617a859b5d29d277a61ea4b336e28e822cb472b551c"
+
+[[files]]
+file = "mods/zombe/items-oreglow.txt"
+hash = "eaf0985ee4a8837701c09809cb6ec02341c46afb084dd3ebde1f1513ead13e3a"
+
+[[files]]
+file = "mods/zombe/items-stacking.txt"
+hash = "cee98d249d33788e0ef396be372f584e5ae8b634512f2455f872132f71657553"
+
+[[files]]
+file = "mods/zombe/items-vanilla.txt"
+hash = "ff4ce2173ad76323568072b5ddc7915e2473559a8412cfe351b91c547c556099"
+
+[[files]]
+file = "mods/zombe/items.txt"
+hash = "919c26d2c5ef2a270fd997498448e040659868d1c33cc79ae3e261ff3967819f"
+
+[[files]]
+file = "mods/zombe/log.txt"
+hash = "21345e9cf4f37e62a0ba6e4f96106f912c0b492257e48290820188c312b2dd01"
+
+[[files]]
+file = "mods/zombe/names.txt"
+hash = "28401dc55004465bf6c081af4270e76bed50007ea1eeeeb7d3c1bc2b4e64b9ba"
+
+[[files]]
+file = "mods/zombe/recipes-clean.txt"
+hash = "1fbe72c2609d2f32f896158c7c3b527f08fee9e080d6317d33bb31f7fa981220"
+
+[[files]]
+file = "mods/zombe/recipes-example.txt"
+hash = "d527ad241717930944454dd4ca2ca7be103090684a08765cb3e98ee785aa5925"
+
+[[files]]
+file = "mods/zombe/recipes-spawner.txt"
+hash = "aa916e323f1579b414e4e2e785cfb0584a426c147fd3ca61de57e1a61427cada"
+
+[[files]]
+file = "mods/zombe/recipes-vanilla.txt"
+hash = "6d97a971175409017bf79ca1fb5586601cdf2b4e92868f009aca55b333ffe22b"
+
+[[files]]
+file = "mods/zombe/recipes.txt"
+hash = "5d6eeee265024dd85d3698c6a9f3e924a214c9e92709aae3c6553d6026fd1dcf"
+
+[[files]]
+file = "mods/zombe/smelting.txt"
+hash = "d4e79e5379218c283656d98b7767c54b5c2bfb660e75a250ae2e7e677caf35f7"
+
+[[files]]
+file = "patch-server-jar-with-this/bukkitmods.toml"
+hash = "aeff18c20315a09521a9a6585a90880647edfd9494fa27d7de0d2f9301427cde"
+metafile = true
+
+[[files]]
 file = "patch-server-jar-with-this/servermods.toml"
 hash = "dd783a9e1e88206c0919bae71acdd8d21592b1b9e92bb81d14692ac24d73c296"
 metafile = true

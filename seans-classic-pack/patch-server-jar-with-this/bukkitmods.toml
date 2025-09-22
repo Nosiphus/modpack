@@ -1,0 +1,8 @@
+name = "ModLoaderMP, Forge, and IndustrialCraft for Bukkit"
+filename = "bukkitmods.zip"
+side = "server"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/seans-classic-pack/b1.7.3/bukkitmods.zip"
+hash-format = "sha1"
+hash = "7a2a148a2357fa39e06d97ebc4cb13055a528626"
