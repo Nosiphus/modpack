@@ -1,13 +1,13 @@
-name = "SecurityCraft"
+name = "Security Craft"
 filename = "[1.16.5] SecurityCraft v1.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/v8jzRtAt/versions/LWY59MzD/%5B1.16.5%5D%20SecurityCraft%20v1.10.jar"
 hash-format = "sha1"
 hash = "7704cb1e80eeb3a22e95cb1dd2657b4da0177805"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "v8jzRtAt"
-version = "LWY59MzD"
+[update.curseforge]
+file-id = 6485051
+project-id = 64760

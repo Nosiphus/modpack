@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "f63df2c8f549d8fc6877be570851b2e8e68198624bcea834d7759556cb4066d6"
+hash = "cb8cfcbada10c887b2c2112c2c1245a73b8c8fca2c943667f047eb2bf1ad77bb"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -967,7 +967,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "f483347ba4c78245e680a20d8d4ca63272dbebc9a8d0d5ac77a7160bce2bbc37"
+hash = "7aaa3e73eade6557f5030f606a089ef8ba89a2ab249ce31b17d017aa727d321d"
 metafile = true
 
 [[files]]
@@ -1017,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "91d5fa9f48291bcbde522869f518b79b34bc92a4ed7b8b09a56d2d00bf04ceaa"
+hash = "89dbf4f131d099e02b6d5849dc2894f6dfa60272c5e91a2899eadd92f9ac7318"
 metafile = true
 
 [[files]]
@@ -1103,11 +1103,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "e503701f7c106df5df316a15b53c126e5cc3e69d7933d35f0ed51d53bf91b389"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "ef9bf04fdab73e8e74773379bdd28013a65d12d74522bae24d0810162a90605b"
 metafile = true
 
 [[files]]
