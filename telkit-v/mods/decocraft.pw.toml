@@ -1,13 +1,13 @@
 name = "Decocraft"
-filename = "decocraft-3.0.0.12-beta-1.20.1-slim.jar"
+filename = "decocraft-3.0.0.13-1.20.1-slim.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IZJSgKZe/versions/Tj80BJc1/decocraft-3.0.0.12-beta-1.20.1-slim.jar"
+url = "https://cdn.modrinth.com/data/IZJSgKZe/versions/d8zAJqy7/decocraft-3.0.0.13-1.20.1-slim.jar"
 hash-format = "sha1"
-hash = "cba29379d03c5823136ff1d046d352c48e7f45b7"
+hash = "e1a67783a15b8e8aa4f6989fbe88f69af99f0034"
 
 [update]
 [update.modrinth]
 mod-id = "IZJSgKZe"
-version = "Tj80BJc1"
+version = "d8zAJqy7"

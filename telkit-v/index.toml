@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "fcad34e85581368bba0a50bb3cdd7aa56e2d0271c26004cc460e75ca8d52f823"
+hash = "16d09661a5b0daab40c7122c5190864454b7339d3a5ec1f83f71af5d7ed6938c"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "4dc9dbe725979c9e86508fd55ebdae1b90e38bf5934d8656417ac3f8ce5efb73"
+hash = "0ca3a8f78a1e479dc5e22943649fcbbba082066b7180188762ab629eb36cc678"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "a6b2068ee4bde543715aa77909bbb541bdd0d4b701d6670e315e6e29b717bcf8"
+hash = "30541721f0ae5ba83034aca0a7f7ee8db150f79e1e24a1a02d10d98b923da966"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/cfm-refurbished-circuit-breaker.pw.toml"
-hash = "434deede84f6a14549f3a2cdb5a88fc374bc4cba269211ee2cc695c2f30075e7"
+hash = "fb7b975da2954d3ee7cadd93618c7b9b66cf721a743adbe552d778128c6f03a9"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/decocraft.pw.toml"
-hash = "3f3ecde993ed90e44f63120914a1e40394f98f9a602fe8a178e5eb5a825d350d"
+hash = "bde57f518787ebc988b0c01835d058acd0bb65f14701362eeb3a3322c48c67ff"
 metafile = true
 
 [[files]]
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "c9b1c50b9f67006d51b2390e6abf0217b251e25076a3cee7b0710f90283ba3a5"
+hash = "9debac15e6440b94971eb98818ad088e597f9212fe2cefb75c885824f4a8ea47"
 metafile = true
 
 [[files]]
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "01bb61e3e4baa9b517abdb086fd484d9f9e8662b97488e18abf50533a31ffcb2"
+hash = "6ad10f3a9a0c55ff1355d3f72d03da86bcb28067dd63082ce96e18e3949a84c3"
 metafile = true
 
 [[files]]
@@ -1219,7 +1219,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "50e00246b3285464c5fcd0c45a56c5e2b908561648bc707262188ed72a99a9a1"
+hash = "14599fed55a2d6b073f033bc572b5e270ca3a613c416104f412440d5d2f0c0a2"
 metafile = true
 
 [[files]]

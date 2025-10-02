@@ -1,13 +1,13 @@
 name = "WTHIT"
-filename = "wthit-forge-8.16.3.jar"
+filename = "wthit-forge-8.16.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/HlmWOhki/wthit-forge-8.16.3.jar"
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/DAZfPL7f/wthit-forge-8.16.4.jar"
 hash-format = "sha1"
-hash = "4f1ee5275a283599a13e9579ae3f71de558a89b9"
+hash = "a2ac527ddb3195cc69dd3cb23d3a8cf126bb6077"
 
 [update]
 [update.modrinth]
 mod-id = "6AQIaxuO"
-version = "HlmWOhki"
+version = "DAZfPL7f"
