@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "16d09661a5b0daab40c7122c5190864454b7339d3a5ec1f83f71af5d7ed6938c"
+hash = "7185b3df503a660cbf9acdcd2cfaaf8bf9919e9005b510f0f3c03d64908ce378"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/decocraft.pw.toml"
-hash = "bde57f518787ebc988b0c01835d058acd0bb65f14701362eeb3a3322c48c67ff"
+hash = "eff91db4e07ff62fe0bb09c480041ac87e285b7a909e7f71a30be1ca51208608"
 metafile = true
 
 [[files]]
