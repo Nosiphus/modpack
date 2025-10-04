@@ -1,13 +1,13 @@
 name = "Default Options"
-filename = "defaultoptions-neoforge-1.21.8-21.8.4.jar"
+filename = "defaultoptions-fabric-1.21.9-21.9.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WEg59z5b/versions/e0J5IrUi/defaultoptions-neoforge-1.21.8-21.8.4.jar"
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/a8RD35pt/defaultoptions-fabric-1.21.9-21.9.1.jar"
 hash-format = "sha1"
-hash = "77df2f2b4ece2096936a944e454cb79913c7b63c"
+hash = "ece332f0c41053d1aab36b4e6aff10f96b0fd387"
 
 [update]
 [update.modrinth]
 mod-id = "WEg59z5b"
-version = "e0J5IrUi"
+version = "a8RD35pt"

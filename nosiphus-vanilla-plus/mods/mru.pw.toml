@@ -1,0 +1,13 @@
+name = "M.R.U"
+filename = "mru-1.0.22+edge+1.21.8+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/jPnaggIS/mru-1.0.22%2Bedge%2B1.21.8%2Bfabric.jar"
+hash-format = "sha1"
+hash = "b1641986134d7a0dce34bdac0c83a3ace24882f8"
+
+[update]
+[update.modrinth]
+mod-id = "SNVQ2c0g"
+version = "jPnaggIS"

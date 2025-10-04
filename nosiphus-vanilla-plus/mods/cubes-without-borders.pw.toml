@@ -1,13 +1,13 @@
 name = "Cubes Without Borders"
-filename = "cwb-neoforge-3.0.0+mc1.21.5.jar"
+filename = "cwb-fabric-3.0.0+mc1.21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/LVyrf63X/cwb-neoforge-3.0.0%2Bmc1.21.5.jar"
+url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/wXhtL4fb/cwb-fabric-3.0.0%2Bmc1.21.5.jar"
 hash-format = "sha1"
-hash = "a76e6ebd18d32a5cc570f3a91a203bc3e92b9dc3"
+hash = "b663eb9a8238be3cd71173e39b6f9d01d0948c1d"
 
 [update]
 [update.modrinth]
 mod-id = "ETlrkaYF"
-version = "LVyrf63X"
+version = "wXhtL4fb"
