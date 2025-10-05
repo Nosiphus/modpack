@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "ec18ee877627d16eac63c03f2fded390f718903fce32c2dfeacdee3bda77b3bf"
+hash = "783ae516f1359719971d0fe625bb811d146cf52d92824c8bcac7a240136f0263"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -407,18 +407,8 @@ hash = "6d781cd762ff20876b2624930258c8a63ec8a9a0826005c973842201729faf25"
 metafile = true
 
 [[files]]
-file = "mods/mekanism-ce-generators.pw.toml"
-hash = "3fcbbc2018f54391012956c9da26bd7c5a86225d01b28430a741e799d6febc34"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-ce-tools.pw.toml"
-hash = "abbe0186fa9ec501924c6f266e79dc370dc50bad43f9cd527e7cabfa24343e9f"
-metafile = true
-
-[[files]]
-file = "mods/mekanism-ce.pw.toml"
-hash = "cf36745c282cde41380a0474da2232d59c8b14f14011e5771b66dcddbe59d1c7"
+file = "mods/mekanism-community-edition.pw.toml"
+hash = "3f4a80cc62a4731b1565fa515df2df25b1dcb915d6918a9f6a9f02c5a66f36ba"
 metafile = true
 
 [[files]]
@@ -483,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "1b08c65f5147adfd9143954091a32cc88f9471fc6035d463c5c4de4daa9dbe73"
+hash = "83a09a4d0000749eeb0f96eee1f05fba935df7e4b6ab3cd566eb85039c792496"
 metafile = true
 
 [[files]]
