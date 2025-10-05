@@ -1,13 +1,13 @@
 name = "Mekanism Community Edition"
-filename = "Mekanism-Community-Edition-1.12.2-9.12.10-ALL.jar"
+filename = "Mekanism-Community-Edition-1.12.2-9.12.12-ALL.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/toGHjw6t/versions/uoizS8sE/Mekanism-Community-Edition-1.12.2-9.12.10-ALL.jar"
+url = "https://cdn.modrinth.com/data/toGHjw6t/versions/AfW7hGju/Mekanism-Community-Edition-1.12.2-9.12.12-ALL.jar"
 hash-format = "sha1"
-hash = "b77b9619b67515a95ad4180f24b9879ee3a6421e"
+hash = "11f9fe8b8fe3edda8bc9ea53c43b1f489a010d1b"
 
 [update]
 [update.modrinth]
 mod-id = "toGHjw6t"
-version = "uoizS8sE"
+version = "AfW7hGju"
