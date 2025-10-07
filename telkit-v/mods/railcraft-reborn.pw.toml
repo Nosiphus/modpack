@@ -1,13 +1,13 @@
 name = "Railcraft Reborn"
-filename = "railcraft-reborn-1.20.1-1.1.9.jar"
+filename = "railcraft-reborn-1.20.1-1.1.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rO6kKst6/versions/Nz98wZod/railcraft-reborn-1.20.1-1.1.9.jar"
+url = "https://cdn.modrinth.com/data/rO6kKst6/versions/BU8Tp0Pn/railcraft-reborn-1.20.1-1.1.10.jar"
 hash-format = "sha1"
-hash = "97a4b29896be74c87f0a6d4fe5306e04b77a251d"
+hash = "4a65ac74a41617d99b16b84a3d841da8fcfe0ab3"
 
 [update]
 [update.modrinth]
 mod-id = "rO6kKst6"
-version = "Nz98wZod"
+version = "BU8Tp0Pn"
