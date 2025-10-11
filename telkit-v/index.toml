@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "d24db3abab22e7088efb20eff78fa94678773ae598b45e0305c5d257ccc32701"
+hash = "7f06f22b0d3a843a20db009ab4342623cf05bbb6b9aaab1ce6b1c9414292c767"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -114,7 +114,7 @@ hash = "848b6f23735b9a10abf8525b75a16006daa88fe9baa8f694735d4c7410a228e3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "f5146bea7ed4456f06601067aa67d4db0b6a56fa75f30310c0083e1a205f9aec"
+hash = "8d95a699162de3f5e63ff5213cd2b9a61e75bf0650253736fca6d3308c78b8b5"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "30541721f0ae5ba83034aca0a7f7ee8db150f79e1e24a1a02d10d98b923da966"
+hash = "845f12eb6c06d5d0af1011324cc0bf5e4ae61b20c6b5ff476702b1b25aadf7ac"
 metafile = true
 
 [[files]]
@@ -434,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/decocraft.pw.toml"
-hash = "eff91db4e07ff62fe0bb09c480041ac87e285b7a909e7f71a30be1ca51208608"
+hash = "25232b720bca9b8a23f33a3113147e57d3b755d37f4aa2c86d240a2247de8623"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d41055ef62deb0e22cd55bacadb551a273b6153cb442b7f01674737dfe78734e"
+hash = "3c2382736a3709c531f0db01b338d25b9b1fc60bf323f9b6908c1c29feb00ed7"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "4b81bc59edbda0ea34141443ca5ec4d1344b646289e581dddbd0cd812f158fa8"
+hash = "14c7982d365a8e8ccdd702f73ea8ddfefa368adf09874e357e9ecd29ce08aabd"
 metafile = true
 
 [[files]]
@@ -819,7 +819,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "9debac15e6440b94971eb98818ad088e597f9212fe2cefb75c885824f4a8ea47"
+hash = "5c8fb49804c702053844a739146e96f535243d3f9a264c95d1d77ac01bcc06d8"
 metafile = true
 
 [[files]]
@@ -1184,7 +1184,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "c5769ed5061e076558938692a7a5ad8ee0f78b1df45c29e89d9dcc4b48f16f2c"
+hash = "5661bf138738f12d31144dd3a6e63cef59d03d60a8ccb7ba0d28e9ccbd1a96d0"
 metafile = true
 
 [[files]]
@@ -1219,7 +1219,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "14599fed55a2d6b073f033bc572b5e270ca3a613c416104f412440d5d2f0c0a2"
+hash = "037d6beece02a001af5bafa22a90091d1e5e0594a1fa58a8609353841b0f9e3a"
 metafile = true
 
 [[files]]
