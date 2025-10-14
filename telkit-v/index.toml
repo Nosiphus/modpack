@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "6bcb925e30f2c2914fac8e6a9144625f7fe7f4a056358a541f880be1ba3bb873"
+hash = "c2b037981b28e8813398064da01806d7c9c4d5981629c7c7dc40311ad73f74c2"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -454,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6ecfbc71109df7f66186fa00376ddd4880593706eb7c149d6c1097545378d726"
+hash = "4ac68e0311e181f63ab9e3dbb333400947bcf73424fb1b05f71efbda12ae71fa"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "14c7982d365a8e8ccdd702f73ea8ddfefa368adf09874e357e9ecd29ce08aabd"
+hash = "776f25efdbd7e0d3a29d88d4f1e2498938a4b99706496cc5718bc5d950d21475"
 metafile = true
 
 [[files]]
@@ -1009,7 +1009,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "d0bf99ee6738fe077f5da39695f8f04aaa5fc25b5aad9387310d9d6134759500"
+hash = "92fa185e41c7ab6b023f3815309b8e433251080ac3350ffe70445de53890edc0"
 metafile = true
 
 [[files]]
