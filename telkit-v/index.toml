@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "fcfdf4e4c0c07894f52cef74d1d9970848a10eb5a686d1b4ad6c565ed5fe0f4f"
+hash = "3a3e8b802c952d93e4c7a6030d161775f2ef8ecc3df8e929674c2eb372c31528"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "95b5e5043a50532a30fff9b8ebd6e8192b3a8468405b90a766030a93439e25ce"
+hash = "5df9e4ef3f66f7e96f7d937c85af486aaf7d6747b407e20162808ec2ccb76f34"
 metafile = true
 
 [[files]]
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "6ad10f3a9a0c55ff1355d3f72d03da86bcb28067dd63082ce96e18e3949a84c3"
+hash = "3d470f9273d7392c4674738ba1d98f212bf7421c3709027bf23f95becf3c8672"
 metafile = true
 
 [[files]]
