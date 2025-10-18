@@ -416,11 +416,6 @@ hash = "b6a4210fd736b2d48a436325842c428cc8aff3c8fc6e0fad5c6a2624514d24e3"
 metafile = true
 
 [[files]]
-file = "mods/geckoanimfix.pw.toml"
-hash = "e5d14f6ff5314299881dbb51db12ea3e0613440b734c935335b951e0d6b6564d"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "7dc5be2afab237e64921c8e585d97393473c45e8e4213a31f5bf2edc03b316d0"
 metafile = true
@@ -867,7 +862,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "c8efc3da25cc607f48871f6d9dec82f0a8555040e01909ff20a5ea7ad59e2ca0"
+hash = "c5769ed5061e076558938692a7a5ad8ee0f78b1df45c29e89d9dcc4b48f16f2c"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "0954dc298c8b3d8c07b9e8d567e3068ab63195e5a7b5b469624dc79d1f10c0a6"
 metafile = true
 
 [[files]]
