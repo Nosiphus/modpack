@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "733851992f42f78c80b778f900f144e95c53752cf7fc1f5d561617971db5b17a"
+hash = "5bd70392c8f9a4104dc5217106d429b929a46bf82fcfa9ff55f2853e522e0e45"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "f8e07411627996e31c7d6de6d779a234b0f22e910d9dca00cb4c806debff8829"
+hash = "68b5bdc002f32d6fb8b21b61b4131ebea7a437d716ecc463662e29edc24d1176"
 metafile = true
 
 [[files]]
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "a876aaa9cea285d068b936a8196b231e896ad19b9dde0c1eef03a3e4c7a649c8"
+hash = "040273a3b69e54930d7dc09421f24e9ee60f29df5e55dca9f788b43675ae9b25"
 metafile = true
 
 [[files]]
@@ -869,7 +869,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-custom-blocks.pw.toml"
-hash = "7fbdc72facc5b340414c44038563aaaf20c67fbe290f5f8c555bfdd95187f5d9"
+hash = "3999dafaf2e1a51c4d184b9a45ffaaf4d2192d60840efcfce3343082ed26574e"
 metafile = true
 
 [[files]]
@@ -1054,7 +1054,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "9c527e7feb96e4167c4d66efacd42d4498fdb166a66a4497506d425d271e0974"
+hash = "aa5e80eb4e5b208e4dac8ed127bad827612294fc4564ed52d898cb8069a0db8b"
 metafile = true
 
 [[files]]
