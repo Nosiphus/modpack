@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "1853fc6ec1616e1df1369d077f7606dd15bda0307bcb6c69bfd3f7172a18c32d"
+hash = "c9318ff8e68b2e26b6fe1e3912628f5f07e6a3d9ecc8cbecbddb906c1c79163c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "7ee767588eb712c691b99c28324c7ee18a819a38544f21c3efd6a3107620c602"
+hash = "735a31d6391c427cdc52f4d1df8227ce266a5b4185b8abb64eaaf14136031372"
 metafile = true
 
 [[files]]
@@ -630,7 +630,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paths-and-pavings.pw.toml"
-hash = "18135f8beaddde4eb6917b4da913a73ddb7ef1b0c8d4daa9f1d2dacb47d8aea8"
+hash = "88eed3a56a5b5e9a2406faa46c1b385370aad40ebe1e0921cf4d0e1263460fc9"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "91df4efb5bee2285745b204eaf108778dd1d2cd83387b310b68e99f8579bc195"
+hash = "4dba0a65a40f95f1cc3732ee6008f3e5879d4098455a5e529adf3882a8b393ad"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "bc80e61799bebf54d2e7c15301b38dfca47bbb4068bc59d109a084045907fa9f"
+hash = "c5769ed5061e076558938692a7a5ad8ee0f78b1df45c29e89d9dcc4b48f16f2c"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "2b773156f057ba44aa134233488eefa9b1cc8a0933756e41830d70d1e0145423"
+hash = "fdfc074df4dbbbf0d17e9cd1fc668ffc49f38b4148b43bd568df7ffee446e14f"
 metafile = true
 
 [[files]]
