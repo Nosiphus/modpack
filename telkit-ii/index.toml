@@ -93,7 +93,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "e57c0ddf020fabe95b8ccf8e1b652573b5f6fc28f506fd00ad04dd8dcd7d1a2c"
+hash = "1657f9fe62545626ef05baacf16da38396964f035155394830942fab7efe836c"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -527,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfish-furniture-mod-legacy.pw.toml"
-hash = "f34ca6b7bb00b4d4c4e5db0efe178356058d0e9aa720fe7791cd6bb86dfb2c9e"
+hash = "f350ac6840cc9086940c479672923a21d68b4b74c793ac40a29f5cf106a8ca4b"
 metafile = true
 
 [[files]]
