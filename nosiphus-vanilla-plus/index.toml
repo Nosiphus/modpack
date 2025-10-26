@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "746831445da8e4928fe8720a082e8bb288bab6afa1efdba425fe628acb7d8051"
+hash = "240ecedc7fb969d0206e9de97a62125e6efb0bc388fab3d83c4d2774f610c353"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "acbe2a9315804d90d0269978d8f664e2bf7a97f6a8796f3286ea7f9667c1ab58"
+hash = "fb19d06661ac56150fc7fb7c83784cc3d9c0d794d6ab10ac0eb9b23ae9b330d8"
 metafile = true
 
 [[files]]
@@ -196,12 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "08631c8fe36286eafe1f1a42539316785a62e2b9b03625c0ccd4abf6342fde6b"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "6b8a387db949984c150934c7127308e87d64fc2a250048c9463f344e027b32c8"
+hash = "3aac9c45822ac00fdb0f2b834e0020af0c78a559681540e25af8c67bbca3cc8d"
 metafile = true
 
 [[files]]
