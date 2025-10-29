@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "5bd70392c8f9a4104dc5217106d429b929a46bf82fcfa9ff55f2853e522e0e45"
+hash = "61289d70bca5e460c5034c15afdf81ffdd886ff6e1c762cfc369c782c7522dd1"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "5df9e4ef3f66f7e96f7d937c85af486aaf7d6747b407e20162808ec2ccb76f34"
+hash = "8e9adc99bcedf164e0c599026583ffb52e3b382922544d556a7ee7e214e9bbc1"
 metafile = true
 
 [[files]]
@@ -1064,7 +1064,7 @@ metafile = true
 
 [[files]]
 file = "mods/sgjourney.pw.toml"
-hash = "1f93084379d0176a72aee1364f6c481e9c926759e32c56d919bdea262330944a"
+hash = "f1b3ee89b3055ecb399b3ea9b02d7ec0011e9d9ec59945315bef0986555e0518"
 metafile = true
 
 [[files]]
