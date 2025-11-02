@@ -93,7 +93,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "1657f9fe62545626ef05baacf16da38396964f035155394830942fab7efe836c"
+hash = "ceb4d820f39c71146cfd207e78f3b07762a9060986404af445c243d85f9a79b6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumbooter.pw.toml"
-hash = "ae8f17ab8b152ced4ac7360ddc095a81f5e8bd1e87a65b6f5d60b7798fb0c2fc"
+hash = "5de887744c72e8b0f5a4c3304c79aee62c954a1a52327c44848d394ebaf59baf"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/ic2-patcher.pw.toml"
-hash = "03632619205ad18debbb4930d97114105d0ed019654ac63aea0b51820e74f623"
+hash = "36e2eacd2924d51031ae69e6015901ac2f1064e23f68de3908e037226d81db66"
 metafile = true
 
 [[files]]
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-beta-forge.pw.toml"
-hash = "d55ab8c978ff4afcd3116638afd0b255e9d25c8ab567eec690afae4da9d02ba1"
+hash = "541176461c4ba855350f361b57e65e6789843d0059efd883d5d575aa05a1f7e0"
 metafile = true
 
 [[files]]
@@ -737,7 +737,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "469f5645c83c4ebe6b6ba3ec40d0271ce39d49b3fbc8370a7abbba9385b8e3ce"
+hash = "630330f5162501a7b52d620ae0ae94a5c7f09eeae6ed4e5a311055c2d118b5bd"
 metafile = true
 
 [[files]]

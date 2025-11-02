@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "71c945c085e8cb7db782df9ddd57f8c4b6685ba096efb7d435edd3d09c0f5f0a"
+hash = "be9a4d504bb334ed0e200b2ec1eab7494b1aefee456c6384a17310afb7e21f80"
 metafile = true
 
 [[files]]
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "3408bd7ac706a4062d25a2643f3631050de87b079811709e5e0881f8beb390f2"
+hash = "a6a49703c0e3bcc643da53ef280642a9b54f24c7cb9b143a86089f5b51e318a4"
 metafile = true
 
 [[files]]
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5fae7bac63ec0c58b1b7746246e34781682f9db22de95e53e02b0581757a1af5"
+hash = "b2103de7f3d13a7b7868890afd358e51f93bea4914e226fc0fbe53bdb84ff7e8"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "503bc6d2a0622fd0bdf9198bc2d7301cae48906170e6bf6ab50d7c70d6da80c1"
+hash = "f6cd74197dcfcc06faf2c75aafabf384296e841e5456de54550264fe86229dc5"
 metafile = true
 
 [[files]]
@@ -96,12 +96,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "7b636a149f6ff5b2858e4b7fcf87289fdbe9c3f2a256b2b5003876990c2f9cd0"
+hash = "7286129334ad60fb0e9d5f99ff38fc4fa3073e03c0f7051f5917adc3abea9efc"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d09dbae85ab6873db34fdce389beeb551704feb8c379bf183a71e6fa423d3198"
+hash = "beeb2760abfb643faf97a18d28ce1adb75174889f8c90804ad32062ac4b9708e"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "f1da925ae791df99a453d1e135cb3c7a390c861a6ae9db299e19ffc83dfed680"
+hash = "4eb0060a2288f8f0f97e87eec65493e3e21f1f81ce6a6343e54ed296aadee957"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "de10453b63bd410851474c64921027a759be6b6d2afc341aa11876b5b91566fa"
+hash = "0d3fc40cfb3115e5f7df097d74f82806800ed051909b808fb74e28b89cb1c235"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "1585f4ee6b3953a7087a15692b32a0583496bb0cfb83f56405bc92d874d7b6dd"
+hash = "5f06eca32dd6b9f2f405ce68d04802f36b3cbb10fd616ad4ec76b2aa0135dc00"
 metafile = true
 
 [[files]]
@@ -246,20 +246,20 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "2704721b25ba7010faee6314b8dc8dfb810240331ba35388b62f545451c9f186"
+hash = "fff472c65a2cdfbc3067c8bb115fa18dcd748719812efcf4e403924dfbe3a422"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "a84086400a19c52cd66805b11929f871369599e72a0c2e32475460353fd3d4d6"
+hash = "4aa631d5ff1d794f92c136b5c54a3333a4b34b912ddc504bd0358e9c9cc64918"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "ba6218db8cedc72c0035b9f683db783b5acffdd787acf08c7f473cf111343654"
+hash = "39b4cccb2535a746e6597c84eaaa3052c0c20f2dd0704dfe853ffa5853dfb3d6"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "c0c736fb22eb54ac13bcf63d71363cd68f0feaf6c801748fab8f2f62c4e6e581"
+hash = "fa3a6df0258589a139cf219729414486eb03fe431b90de3fb7747fcbaedcaa18"
 metafile = true

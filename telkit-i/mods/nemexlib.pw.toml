@@ -1,13 +1,13 @@
 name = "NemexLib"
-filename = "[1.7.10] NemexLib-1.3.jar"
+filename = "[1.7.10] NemexLib-1.3.1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/srokvQiL/versions/6BhTJ9Kf/%5B1.7.10%5D%20NemexLib-1.3.jar"
+url = "https://cdn.modrinth.com/data/srokvQiL/versions/cFu9mPoI/%5B1.7.10%5D%20NemexLib-1.3.1.0.1.jar"
 hash-format = "sha1"
-hash = "ae6b33c1081b54e85a04bbf2b48b3e614d90301e"
+hash = "36fc8ba1fd1f0079cf8176348b787725f7739fbd"
 
 [update]
 [update.modrinth]
 mod-id = "srokvQiL"
-version = "6BhTJ9Kf"
+version = "cFu9mPoI"
