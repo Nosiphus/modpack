@@ -210,11 +210,6 @@ hash = "c50770300b6a02a0dec46e4915cd11167030d5a3c2b41bfe3dff6ceb7c87a14a"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "b69722f368d593b6a458acd226c95229fdbb5ab0f73ddbb023afc1fda8ddc405"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "590bd71a45f826c5e1ecda3adf133b19731ab9dc74d6582d259562aed70f2db2"
 metafile = true
