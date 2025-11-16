@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "e43af5971630d0f2e541f231919c54bfd1c0f35c0e6f4b88b3775cd83b81cf25"
+hash = "1b68c189e5ef2771650de9090ec5eaadd03cf4342b1a9c31bded92efed298e40"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "36135a18f00427769ac4d707b60a2d4da9353cd4843e1fbc242efac2dfbcfb42"
+hash = "356c53504744c021e96f6e168e11a9677733a1251c92c9dc5338304efb97df69"
 metafile = true
 
 [[files]]
@@ -1085,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "461d80c2c7d3839dbe7e66dadb56a4e9710d89d11f3f20ece733f29ee6accd38"
+hash = "34a22f168728181d193da853628a0c7eeec965647b889eea0f8a72e25b26d726"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "22f11b4e52d016f5053e50f0e1bd16608fb5e160c5393badde6eb734cc21b7a7"
+hash = "171d9fb0771646cc5d499bf5209193c1c2be5e2c9cf0296f8258b79bfa4a8fc3"
 metafile = true
 
 [[files]]

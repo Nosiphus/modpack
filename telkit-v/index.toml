@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "2b95cdb8e4d261fc73fc6e6286d7f451c191656eb4cf23005a51cd23aa0e4634"
+hash = "1a0d45c7bff149f6f3de492f51380d8edde709971316bf13f739b1f12ea93a35"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "8e9adc99bcedf164e0c599026583ffb52e3b382922544d556a7ee7e214e9bbc1"
+hash = "565d6eeb0ccd6829f6e2e63719cee04ba8b4aa28883a90ded3b53b21e3d63704"
 metafile = true
 
 [[files]]
@@ -1194,7 +1194,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "f1f863005d8fbcddb373fca8a18c97fd33b694285befce47b855c4d0e20cc627"
+hash = "baf0453bec3b9e276a27511f6d9012cb6e6855d73815ac2442436361ef5ada96"
 metafile = true
 
 [[files]]

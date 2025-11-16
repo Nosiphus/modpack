@@ -1,13 +1,13 @@
 name = "CodeChickenCore Unofficial 1.7.10"
-filename = "CodeChickenCore-1.4.7.jar"
+filename = "CodeChickenCore-1.4.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qMOdaUOs/versions/yJUaA8Wo/CodeChickenCore-1.4.7.jar"
+url = "https://cdn.modrinth.com/data/qMOdaUOs/versions/PHlNkayM/CodeChickenCore-1.4.8.jar"
 hash-format = "sha1"
-hash = "7d741bd0248acecfb634b6e3d587aadaa8ba6a7f"
+hash = "c8a6fcf0fa8d2f2952c082599c999e8cd41fbf6a"
 
 [update]
 [update.modrinth]
 mod-id = "qMOdaUOs"
-version = "yJUaA8Wo"
+version = "PHlNkayM"

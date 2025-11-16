@@ -208,7 +208,7 @@ customization {
   y = -21
   scale = 1.0
   alignment = left
-  value = Telkit II: Sunday, November 2, 2025
+  value = Telkit II: Saturday, November 15, 2025
 }
 
 customization {
