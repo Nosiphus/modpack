@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "95c88337f0f86f7a8f2dcda174ae0e30bf2dd294ffaad86b5375dfcc93c18adc"
+hash = "c1d972f45ebe9ce89100d474773fa78b7a4fa13cca30b19eafafe32966e77135"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "0ca3a8f78a1e479dc5e22943649fcbbba082066b7180188762ab629eb36cc678"
+hash = "ef7874e06179a09e3d0592cbd596435815a4516c51e3d7dee4d29fe91e3e6eae"
 metafile = true
 
 [[files]]
@@ -939,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c44352373ad6397e78741d4fd8905f6975e28ff183238bf9c861aab93ddcf39b"
+hash = "18c01878e1ac376e27549473e6b127f2cc80b27e6a3881d19f2b7372e85efd78"
 metafile = true
 
 [[files]]
