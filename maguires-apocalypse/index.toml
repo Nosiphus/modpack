@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "8b806e38c1fa5d862dae7b801ecd23e6ad7214f6695f9107273952772e45b7ec"
+hash = "989c3b6644612c2ec1bf2417c80bbb936afb0e3aa50a167767001045d7228f4a"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "7a1932795d61efccbe7614555f0e06f89fea3450a871c364ca9bb7ab8d903f70"
+hash = "d42c0ac73cfd1a27c9302925589b1d0161737ea177c883e8cb4eec50a750b706"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "9b7680d02643e6a045f29f618144341497e44866b19b74b6ee4cd8a96669edab"
+hash = "2d29768cade9ba467757d447b254d35941f87c5b9fe3961f443466cbfa5366e9"
 metafile = true
 
 [[files]]
