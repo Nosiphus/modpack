@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "87c79663c4a786558423c6ead59ac23715d4bd63f113d2a269f4a359f11ff342"
+hash = "b5ba7d5e801422512d02b8a98ddfd16eea4df2f1f3c0f689502b40429f2b1975"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "928eb0c02b2cf1f9b00c065882a6a14034c2bb39a4be88e478a256e0b0f28ad0"
+hash = "d5bca4586a875c67e818b85a0b196e65aaa860ad8471c278ad85b792e7a88362"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "ae19a3af199e32ab4cc9cbc12b8e25d22775e04ccd4f9920992ab96ef41c7032"
+hash = "8ced9b74b91b485f78d0b56fa54bc352dd71db8e52a5e234cf6872cdf9e71aad"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "81e530ba7aa2a8a3e017080f93c5780b31c7ee57e98d558af675d370b6919254"
+hash = "5e28a5bc87a799a03a72e641c1118b7d9ba955dceb70e2427fe0c2b15ed5186e"
 metafile = true
 
 [[files]]
@@ -256,5 +256,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "7f7cfbcfffbc3b650880d5cefea86ed175fbf27099c03d1b4157b6394bc3b0ff"
+hash = "0c057b2985906496a3ba624bd4e777469688767d934acbf7f91a7e18addc072c"
 metafile = true
