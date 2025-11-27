@@ -168,8 +168,8 @@ hash = "ef7874e06179a09e3d0592cbd596435815a4516c51e3d7dee4d29fe91e3e6eae"
 metafile = true
 
 [[files]]
-file = "mods/animaticareforged.pw.toml"
-hash = "63ac11acbeafd74b8119880d99a464299c0b1a929280c86f0ba55fea1e9935d0"
+file = "mods/animatica.pw.toml"
+hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
 
 [[files]]
@@ -1169,7 +1169,7 @@ metafile = true
 
 [[files]]
 file = "mods/vinurl.pw.toml"
-hash = "fb761c727d5468aa8055de11f3781e20ca2a9ce612af5825af85827cbb45a831"
+hash = "716b3742378707c795fae0d72983d79a9a74672f080acbe8e02990019e715ad2"
 metafile = true
 
 [[files]]
