@@ -1,13 +1,13 @@
 name = "Cull Leaves"
-filename = "cullleaves-neoforge-4.0.1.jar"
+filename = "cullleaves-neoforge-4.1.0+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/W9HrxM8v/cullleaves-neoforge-4.0.1.jar"
+url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/5mQ5ww6I/cullleaves-neoforge-4.1.0%2B1.21.1.jar"
 hash-format = "sha1"
-hash = "4aba807355641a28963243975c9ee0f471468bb4"
+hash = "62965d0bde56c5b467a00cb658bf6ff0fc1f6b87"
 
 [update]
 [update.modrinth]
 mod-id = "GNxdLCoP"
-version = "W9HrxM8v"
+version = "5mQ5ww6I"

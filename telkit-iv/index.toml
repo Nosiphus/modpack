@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "bcda2068d96041ca768733015529026a5d809990923e094be1a5ab389e507742"
+hash = "0f341e5ecbb9f844f0cb6b14b92852760bea5aba516a56250b2d4f66443ae936"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "ff84d3040814cc876917d68cb6a1af2efe94d6558f447990137db6b6bf2a6bb9"
+hash = "f80d55f3cef6c0c9adf16a50412cda4a6fde03f90613d406645d12185d02f9a5"
 metafile = true
 
 [[files]]
@@ -615,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "356c53504744c021e96f6e168e11a9677733a1251c92c9dc5338304efb97df69"
+hash = "270f9b5d23811d66b2284f13615212f080cdaa9ce07a43f81e0d16438ee6a54d"
 metafile = true
 
 [[files]]
@@ -640,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-trapdoors.pw.toml"
-hash = "dd8eb5ca7b38b7607b1632ee0cfd7e6d9e3d3e6db2c345639e99b431f840cf20"
+hash = "fa7a93a4c1ae987e9e0f23807647bee983cfe20899afb06bab1288038ddce682"
 metafile = true
 
 [[files]]

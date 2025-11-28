@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "02b439090ec2498329b873e0b3a7918b6cc4d91ec22636a9cce5a95811f47ee4"
+hash = "61dd4a657058c888e0a55ae0a2edba25a080ca7e949df50acc12b1c8d4ecba28"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "84b33c8254f5bb38a5da93ce583f7325bf14cf7fa83bd5972121fe04aff65505"
+hash = "992c9af5dac7ffbbd9ca4935740ff6b8640592dabc70d2aa7f43795ec8fee086"
 metafile = true
 
 [[files]]

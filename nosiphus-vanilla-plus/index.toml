@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "be9a4d504bb334ed0e200b2ec1eab7494b1aefee456c6384a17310afb7e21f80"
+hash = "6204ffe9191fe43e90ca749735ff7c3014555045417da1715e559acacb2b4126"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "b367b77f4e5732c0a486c41fe244c8206554947f11ffd5050df373ebdb0f2f03"
+hash = "ac0b84ad1e0633c17eccfc77c6a9b08b3d9efe5dd8e65f0f831df18779640c64"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "b59fa8f7c470666c01c84844a7a1885c87bb2ccc716af0853a163251ec635f42"
+hash = "eeba0a07e0790cf730d473de08d3ee112383e151383cc3186cdd4dd90b5526f5"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "b5ba7d5e801422512d02b8a98ddfd16eea4df2f1f3c0f689502b40429f2b1975"
+hash = "9df913674f1ca1b37098587387f62e69df86f3abe50d9c506cf6cb518a6e1228"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "4aa631d5ff1d794f92c136b5c54a3333a4b34b912ddc504bd0358e9c9cc64918"
+hash = "e379bf24b717a74d0f9aa4dc463991fda89fc9f7316b4bbc5dd75b411676b3c1"
 metafile = true
 
 [[files]]
