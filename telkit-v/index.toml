@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "61dd4a657058c888e0a55ae0a2edba25a080ca7e949df50acc12b1c8d4ecba28"
+hash = "021c4605471b342296f7357c410e6dade7dde90128f014c4fe251c2566945b1b"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -789,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "2d3df175de7cd971b8c1dd7501bb90ac298e7abf28490ad889d4ed0a683d5a2d"
+hash = "517ea2419e7abfd07aa57ed8a4b9967b9d1e9653f4dd9e954b386f969adf5eba"
 metafile = true
 
 [[files]]
@@ -939,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ac03ea4e354f237f96689ec665329409deebc46404f89a6a7f8b385ca6f0dc9a"
+hash = "9e5ddcc4a2920ad84aa5a896052db1ddf0651e4590d417b1adb7b42da4c842bd"
 metafile = true
 
 [[files]]
