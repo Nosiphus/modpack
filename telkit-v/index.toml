@@ -939,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "9e5ddcc4a2920ad84aa5a896052db1ddf0651e4590d417b1adb7b42da4c842bd"
+hash = "5a644bf13104b0446835823050573e84e5dde32afc581a791cf1880c1e8bbeec"
 metafile = true
 
 [[files]]
@@ -1159,7 +1159,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "bc06d3ab68339e6d288a98039f87d426da55f8724fcaf7fd808a6e9b24accecf"
+hash = "2209b839c022badb4245e2f4fcd6a8beb72854ad4c35ade82af1d7e8d4d4a77d"
 metafile = true
 
 [[files]]
