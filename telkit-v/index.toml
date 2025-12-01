@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "021c4605471b342296f7357c410e6dade7dde90128f014c4fe251c2566945b1b"
+hash = "32fe59d1c7294e85cb944b3cf82d727a1cd743dcfad08b305ca8c54bb346eb5e"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -939,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "5a644bf13104b0446835823050573e84e5dde32afc581a791cf1880c1e8bbeec"
+hash = "56a13d925f70c7821e91bf487e91d174423616d70bba2312a55f04e00d40cc92"
 metafile = true
 
 [[files]]
@@ -1179,17 +1179,22 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "6672e54b1d447297ae4f80ec73c2c4d6550085f0ffc58499950e3bc0ed37d980"
+hash = "f23d71ce94d45ce3c219c66196680081cd445ed28048f9a9a8217c52669644b2"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "83de91c9cbe0fb5271acbf336e5cef2d88e5ddaf15d8d4a895803ccd36455a05"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "c5769ed5061e076558938692a7a5ad8ee0f78b1df45c29e89d9dcc4b48f16f2c"
+hash = "0528731743be7df4ba5a8952264861920f90475ed333f914fddea75473cd6012"
 metafile = true
 
 [[files]]
 file = "mods/watervision.pw.toml"
-hash = "5a2ba5cbd6cd83978086fd0adef4aed9f7ea7ff82b5883c2a891592633224312"
+hash = "1e9bcc140af33caf45c8c2e42eb1917e9884b0f26bc99179b6102c5071b1aa87"
 metafile = true
 
 [[files]]
