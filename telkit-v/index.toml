@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "37e8a81f9629db7bd24550304342d743d030f82c98b3e0fc3678cfa20c6c5345"
+hash = "7d5190f12ef330b4be50f602f5222b06a3797847b61d555688c12b86453f8a66"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -719,12 +719,12 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-holidays.pw.toml"
-hash = "fed77c75b2df71aa29309a3436f99468e2b450dc8ab5e625dd62a8146cbea24c"
+hash = "46652c4cd5c75fcbcb1a6e63624725f210d369b7c51b87207e1d19601e39550b"
 metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "644940a080f3fb6d59b7cf16dde96a2e238384dbc582017e73c9f3ef489de0c1"
+hash = "2594d0bc233b07e0bdfeb4e77f7bb457b77f9512f1bce74e438714d0bd238627"
 metafile = true
 
 [[files]]
