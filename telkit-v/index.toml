@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "7d5190f12ef330b4be50f602f5222b06a3797847b61d555688c12b86453f8a66"
+hash = "c9de4ca8bf29f81fdab1ba18e912095b479cb80cdc5fc05d70a245cd350e1c8e"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "eb59a9e9649a3a147cc24820e9f02b7fee47ad650c1647f0adca8c3ed0ae6e46"
+hash = "e7d804c6cb01617e0d24258d1992be2f9fe8aa5c1f7dae77ebdf5e485c2d28f2"
 metafile = true
 
 [[files]]
@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "a76ca53101b912b97de3bad9b93e2f7c69478def70c9ea028432977fa24b3078"
+hash = "bc38cf119514bcc02920d51c3bdc52fbec5bece4d737d6b883e16a26a852ae79"
 metafile = true
 
 [[files]]
@@ -824,7 +824,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ebd6f214d5bac92ff5eb6e448f9c365e0d09f185296c5c42a8cae0dded733eb8"
+hash = "f54c3a76129d13a9c8a0845b1261ee9fdbfd9e98c32814d1f19334cd0174c5f3"
 metafile = true
 
 [[files]]
@@ -1029,7 +1029,7 @@ metafile = true
 
 [[files]]
 file = "mods/rpl.pw.toml"
-hash = "e57b6a5323ab8f386d4ddfe8bd6232b5bd08afc95275a65fd30ee5b0cf031045"
+hash = "535918de6ddc478fff39c43a5c2bb7157bdf2a84ac2f9150098436d7c28ec362"
 metafile = true
 
 [[files]]
