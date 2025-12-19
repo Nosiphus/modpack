@@ -1,13 +1,13 @@
 name = "MidnightLib"
-filename = "midnightlib-forge-1.9.1+1.20.1.jar"
+filename = "midnightlib-forge-1.9.2+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/codAaoxh/versions/fNBU1ZYk/midnightlib-forge-1.9.1%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/EVVb5nP3/midnightlib-forge-1.9.2%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "3cda3669d41388cd5cd84a5f8c5f722b7af462cd"
+hash = "ff01aa718b71249012c41d9926d3fd2982809fdb"
 
 [update]
 [update.modrinth]
 mod-id = "codAaoxh"
-version = "fNBU1ZYk"
+version = "EVVb5nP3"
