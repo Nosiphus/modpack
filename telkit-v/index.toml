@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "fd09635a1bb654f6d6a6aa70288d2f72b992557a910006906e727fb24a1bc3eb"
+hash = "8d7d18376c2f5701d9d9ee762780d716361026f145c1c21fd7997704ca97e91d"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "e7d804c6cb01617e0d24258d1992be2f9fe8aa5c1f7dae77ebdf5e485c2d28f2"
+hash = "5edcc460d2120d5f4271dfe97dc00caea3a4d2d0dad3726395eb486dc9c3a630"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "992c9af5dac7ffbbd9ca4935740ff6b8640592dabc70d2aa7f43795ec8fee086"
+hash = "bf22fd93b1435d766e1e841d96e1cf491a0cb33f47ceb7c3f407efaf5277f38b"
 metafile = true
 
 [[files]]
