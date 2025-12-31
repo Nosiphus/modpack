@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "80120e38a5e5536c8840e3da17f35d1769ab2eb3afc3c5f79346fbafcc5b1679"
+hash = "4e91622aff48ea680b967ca2e7931f091de58dbe77ff07552c57e5a8906b5379"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "82c296cbfcca7bfb9d8c61406bb65ff4775964d15f23a5790f6eff5c016166bd"
+hash = "c7b43ea4c12db3839f655aaa904045e42aad96228bc47e94148b76759860e50c"
 metafile = true
 
 [[files]]
@@ -474,7 +474,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "a86d51e4d88b6e241b65e27e11af99d08ccd0d8758092cf7df551677fdd46f9d"
+hash = "881d496d0f63b04027575ace411d8815062756307a02da963a2272f53dc185bd"
 metafile = true
 
 [[files]]
@@ -499,22 +499,22 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "91e023b19f4c09b207f0e9189214e0baadd7bc43e1fae30ab70ca47364624865"
+hash = "1dfb9237bd866909d682e7491e123b9254ae8bb3d9cd8f4e073ba02fe483b4f7"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d6d2eeaa229a236f4d0bee21df1e2cae5a491b4da712dd8708a1a486fda847d5"
+hash = "0b2a1719c0470efdf7d5674df5b665183f927c90d00b579e3a1eb27024f31570"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "444f8607978d24729a51b06c81cd3741d82e3677ef96f1f8a9d0fe50b1542198"
+hash = "791dc524d26bde1a5217c77ee350094935d734e86d7bde10a090a30a79651c90"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "515e60b5d95ad9149b5c34ff1044b02562551311ee2c1e35df41a33f3b6de976"
+hash = "035e2411b2ca7624308d9ce6cb4bf0da6feac18e9189f89b06b09de7ab8bf424"
 metafile = true
 
 [[files]]
@@ -599,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "05460446771aa53ff43fca4fdc0da36b79304e7d4a992c94b4dd9f63b179310f"
+hash = "b65ff0d215edc166b826a2cd792bdc035517d2870474f4279b7e25b476d0b641"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "bf22fd93b1435d766e1e841d96e1cf491a0cb33f47ceb7c3f407efaf5277f38b"
+hash = "bb3406ba77ed8c31602ecb3eceb10b151eb8c8f905f690012c8db01396c53ac9"
 metafile = true
 
 [[files]]
@@ -834,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ab4c12c766b823fec19341c250ff73ba2500f0ca830f03bcd8e895757159ba38"
+hash = "69c40916af0ded530cadb34885703a8090432b11d314919d750173e2360c9090"
 metafile = true
 
 [[files]]
@@ -879,7 +879,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "80c7b1931972535e748000a09b780e19a532bfcd9a367537f3b3c4ed55e0ba7b"
+hash = "102d72f20197c6ce6ca75b63820d705a95a481c53713b19a08b440e7617c3da3"
 metafile = true
 
 [[files]]
@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/voltaic.pw.toml"
-hash = "6e0c5762ae8bb9dff06cd60be2de81539d5e2fb9bafadbe33b621ad77a1fa403"
+hash = "c8bb251b91a982bd19c1c36752b73ac8248db6c4fe654c365a30d13122ec9312"
 metafile = true
 
 [[files]]
@@ -1199,7 +1199,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "48b69386572f6fded17f62c30538540e60e63102eda52789ffa850070fe82699"
+hash = "0527606db8310069691f49568253c77cfc214b6a9c570c7a35b261871b54142d"
 metafile = true
 
 [[files]]
