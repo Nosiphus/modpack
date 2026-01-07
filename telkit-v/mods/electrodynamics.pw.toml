@@ -1,13 +1,13 @@
 name = "Electrodynamics"
-filename = "Electrodynamics-1.20.1-1.0.0-4.jar"
+filename = "Electrodynamics-1.20.1-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xmhmr70o/versions/ANUEXiLS/Electrodynamics-1.20.1-1.0.0-4.jar"
+url = "https://cdn.modrinth.com/data/xmhmr70o/versions/GezzbQeU/Electrodynamics-1.20.1-1.0.2.jar"
 hash-format = "sha1"
-hash = "892092ebc3bffcd1ad12e98ff8f1d09de343d73a"
+hash = "b989f36f06dd253f92c9a383423c6f090b7cbc41"
 
 [update]
 [update.modrinth]
 mod-id = "xmhmr70o"
-version = "ANUEXiLS"
+version = "GezzbQeU"

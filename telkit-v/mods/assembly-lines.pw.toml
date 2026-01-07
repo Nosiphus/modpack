@@ -1,13 +1,13 @@
 name = "Assembly Line"
-filename = "Assembly Line-1.20.1-0.8.0-1.jar"
+filename = "Assembly Line-1.20.1-0.8.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/SoWP7zzK/versions/TfofBshc/Assembly%20Line-1.20.1-0.8.0-1.jar"
+url = "https://cdn.modrinth.com/data/SoWP7zzK/versions/so9CQIGl/Assembly%20Line-1.20.1-0.8.1.jar"
 hash-format = "sha1"
-hash = "84320be11458fff0c813ade5cb5bdbe1cc25a3d2"
+hash = "e143745c32b9c47249fe087f1d047eb9b8b7c334"
 
 [update]
 [update.modrinth]
 mod-id = "SoWP7zzK"
-version = "TfofBshc"
+version = "so9CQIGl"
