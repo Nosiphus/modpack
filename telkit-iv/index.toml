@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "e71c6f5b39dd4d4666b1b7181292e5d9f0d04634862b9151f83d10fb3be9ecfb"
+hash = "8d39654d9acb25fe85e992660b4ab9a3c0a318e9655acaae64c46463e118aa43"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "735a31d6391c427cdc52f4d1df8227ce266a5b4185b8abb64eaaf14136031372"
+hash = "a9da77a2455d746d6c251dbc834973afe6e10ed6f4153a28c1a89bb7262d04f2"
 metafile = true
 
 [[files]]
@@ -610,7 +610,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-fences-and-walls.pw.toml"
-hash = "b91ed8da22ac12783c3046736f5bed60055afdc86968b83acf241708b352d5e2"
+hash = "b7e6082faa270d5b12ee824497c73df937ce37ef53d1af61ebea318c477dc27d"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "899fbbd93566c6aaccbb1885e26bb6e3eb77ce2df7ab2b873364a11759f1db6b"
+hash = "fe81587fe8e002087193e381b31c5bc86d84492f9ee5f4b28066fbc4a0580648"
 metafile = true
 
 [[files]]
@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-windows.pw.toml"
-hash = "4dba0a65a40f95f1cc3732ee6008f3e5879d4098455a5e529adf3882a8b393ad"
+hash = "7dffda953d2b3cfe80c6d10c07555b31548db55fdbf4cca29ad90594a35e58d8"
 metafile = true
 
 [[files]]
@@ -1000,7 +1000,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "13caa7be3942c91c013e1d83fd0618818f0fce747fad847ff4c7294fe30eced2"
+hash = "fc70ab7d9641dc096fbd880a3d9aae674c86e40017f007bab38ac76369bbe80c"
 metafile = true
 
 [[files]]
@@ -1080,7 +1080,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "65034a7cb6299212ae59329f382481b304b579a15d53accf5ebc17aadce0fc3d"
+hash = "199547b686bef4f6f602c3e605b51d9a15d483e1fee74436909929588ae2d4d0"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "34a22f168728181d193da853628a0c7eeec965647b889eea0f8a72e25b26d726"
+hash = "baa416593800f21b2033126d72547c25c3e35aef5bdf2393b5544917995f15a8"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "171d9fb0771646cc5d499bf5209193c1c2be5e2c9cf0296f8258b79bfa4a8fc3"
+hash = "b1a1778690773cb38629db85136795244c5c2571d2c142e8355e4219607d8bec"
 metafile = true
 
 [[files]]

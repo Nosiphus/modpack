@@ -1,13 +1,13 @@
 name = "Default Options"
-filename = "defaultoptions-fabric-1.21.10-21.10.1.jar"
+filename = "defaultoptions-fabric-1.21.11-21.11.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WEg59z5b/versions/gRtw5ugo/defaultoptions-fabric-1.21.10-21.10.1.jar"
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/Y5oU2dqZ/defaultoptions-fabric-1.21.11-21.11.1.jar"
 hash-format = "sha1"
-hash = "d42dfd18b508085daccd1948c172790baec7da6c"
+hash = "9a29090d11e2a0ac212464a61d63613a1a215939"
 
 [update]
 [update.modrinth]
 mod-id = "WEg59z5b"
-version = "gRtw5ugo"
+version = "Y5oU2dqZ"

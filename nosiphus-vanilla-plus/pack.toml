@@ -1,16 +1,16 @@
 name = "Nosiphus Vanilla+"
 author = "Nosiphus"
-version = "2025.11.28"
+version = "2026.01.10"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "64778058789a2331acaaf8fe98b1198901806ffe5f29a615b976765c7ea268fa"
+hash = "9ed90cc2aa885cb031d0c65229ba38ef6a2607d86d1c360aefa0b3be3cfa3751"
 
 [versions]
-fabric = "0.18.1"
-minecraft = "1.21.10"
+fabric = "0.18.4"
+minecraft = "1.21.11"
 
 [options]
-acceptable-game-versions = ["1.21.5", "1.21.6", "1.21.7", "1.21.8", "1.21.9"]
+acceptable-game-versions = ["1.21.5", "1.21.6", "1.21.7", "1.21.8", "1.21.9", "1.21.10"]
