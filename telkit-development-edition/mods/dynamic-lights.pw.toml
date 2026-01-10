@@ -1,13 +1,13 @@
 name = "Dynamic Lights"
-filename = "dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"
+filename = "dynamiclights-v1.9.1-mc1.17-1.21.11-mod.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7YjclEGc/versions/Yyh6uR59/dynamiclights-v1.9-mc1.17-1.21.9-mod.jar"
+url = "https://cdn.modrinth.com/data/7YjclEGc/versions/necGsua8/dynamiclights-v1.9.1-mc1.17-1.21.11-mod.jar"
 hash-format = "sha1"
-hash = "422cd454bf4bc662c146a4ca598fbc6b3e870ee8"
+hash = "df4303deb02246cde9c3a9b82c165bec3f37dada"
 
 [update]
 [update.modrinth]
 mod-id = "7YjclEGc"
-version = "Yyh6uR59"
+version = "necGsua8"

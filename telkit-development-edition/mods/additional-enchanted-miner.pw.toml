@@ -1,13 +1,13 @@
 name = "Additional Enchanted Miner"
-filename = "AdditionalEnchantedMiner-1.21.1-neoforge-21.1.135.jar"
+filename = "AdditionalEnchantedMiner-1.21.1-neoforge-21.1.141.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jhxX1zVW/versions/ROqtv6pN/AdditionalEnchantedMiner-1.21.1-neoforge-21.1.135.jar"
+url = "https://cdn.modrinth.com/data/jhxX1zVW/versions/tWs6fWVA/AdditionalEnchantedMiner-1.21.1-neoforge-21.1.141.jar"
 hash-format = "sha1"
-hash = "3a2afae77bebe01d1a7d0035eaf46f923a974917"
+hash = "28689548fde5c93cca339e0fbe2cca1cf942cebc"
 
 [update]
 [update.modrinth]
 mod-id = "jhxX1zVW"
-version = "ROqtv6pN"
+version = "tWs6fWVA"
