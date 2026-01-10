@@ -160,11 +160,6 @@ hash = "249d8e7300c832e8ecd0b155ff38194f43463af0de0d05d3398a1a43b76d64c9"
 metafile = true
 
 [[files]]
-file = "mods/modelfix.pw.toml"
-hash = "0a4f308e5c80c7eca2c1ef1117fd23731523b0e4b7c93bf298165af27af93a60"
-metafile = true
-
-[[files]]
 file = "mods/moderner-beta.pw.toml"
 hash = "4c405c14eab3c2223640d60389acedf27cc7fd6266a93a1f85eaba10f924ef65"
 metafile = true
