@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "9718d439d6f2e7332ffa4d7773fb2328738e4269a18edd085e614f05e26aab26"
+hash = "8b87ed0ffc1405b999f80db6c6a904b69052ad300f739ab3db961ed50604d930"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "ec525c809b4db49e1d0da562375df162d468fb2775921be2f23fc34b54e6e097"
+hash = "11a65b6d2e191471ab53c1470648857d7aa1ede2ac7729f37e6a6fb338664110"
 metafile = true
 
 [[files]]
@@ -514,7 +514,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "0a4cff6f7e75b87e1c6bc9d960b913fb8c3a45bbb5e5b5fa3faf6a51f4177e89"
+hash = "05de1e46cc99ea80219b67f6e7ca9386572dd6bd6f49aad347740eca0f30cc55"
 metafile = true
 
 [[files]]
@@ -834,7 +834,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "69c40916af0ded530cadb34885703a8090432b11d314919d750173e2360c9090"
+hash = "02b68c17aab9557907a1cb9e579a9531aedde6e25ccc70b2af1f8006934b4979"
 metafile = true
 
 [[files]]
@@ -1099,7 +1099,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3d470f9273d7392c4674738ba1d98f212bf7421c3709027bf23f95becf3c8672"
+hash = "0329463d2dec464899b1c147542097262180548d72a0829577425af080ca0f1b"
 metafile = true
 
 [[files]]
