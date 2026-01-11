@@ -1,0 +1,13 @@
+name = "VLib"
+filename = "vlib-1.20.1-0.1.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V1UmcEMX/versions/lEFffQqd/vlib-1.20.1-0.1.1%2Bforge.jar"
+hash-format = "sha1"
+hash = "aa63880ecb00681ebb04fad35f2e29c71b5b8088"
+
+[update]
+[update.modrinth]
+mod-id = "V1UmcEMX"
+version = "lEFffQqd"

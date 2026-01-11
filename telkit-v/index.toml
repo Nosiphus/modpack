@@ -50,7 +50,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "f34be66e79fce12ce69fc5e2db57fc5059f9f710427337921853f29e5ab03d43"
+hash = "947c9dab8ac5d5c128977926c17c62bd18d6d37f1476af88c712da5854aab608"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -383,8 +383,13 @@ hash = "5edcc460d2120d5f4271dfe97dc00caea3a4d2d0dad3726395eb486dc9c3a630"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "f305f5aed6e0f4576a99691a581f040a27b70268c9b1da54f5a2b2374795d3d8"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "1596fe91246a0eaa2961f80e64672455e63e5f14ea6c05c784c9a0dcd524129d"
+hash = "3918bcaa383b2041dc98546abe94733a34cfffb225a65892a6c02a2029349cb9"
 metafile = true
 
 [[files]]
@@ -510,6 +515,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "791dc524d26bde1a5217c77ee350094935d734e86d7bde10a090a30a79651c90"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "ea5978195094b811b9d816ecc036e6708da47bb33c4099fbcf6ce54a47d849ed"
 metafile = true
 
 [[files]]
@@ -819,7 +829,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "8c44a59ff083a896881a84a16b99c1c66a52fb31582509210123ee3a0dd36d7d"
+hash = "d77d57860144ce7655671d4f049f5c10588013dde0de64706a274995262249a9"
 metafile = true
 
 [[files]]
@@ -1168,8 +1178,28 @@ hash = "bc249e4bf77eef00e13ba01233796c4e3b453779f255a2d6cfa3f7bd1e1b1f28"
 metafile = true
 
 [[files]]
+file = "mods/valkib.pw.toml"
+hash = "fa2a23968e0637c5a589168829367c93d1e35a275581411c81472383e4d5f3a7"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-sails.pw.toml"
+hash = "088f0b471b0b836ca5e06bfce1905b214d8ac281e107dc544a8e6efb0e987f3c"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "11dc0df9a891de4fe963620f794c8f1b78fd80866db5016899ddc08fc406bdbb"
+metafile = true
+
+[[files]]
 file = "mods/vinurl.pw.toml"
 hash = "716b3742378707c795fae0d72983d79a9a74672f080acbe8e02990019e715ad2"
+metafile = true
+
+[[files]]
+file = "mods/vlib.pw.toml"
+hash = "f8fe88874b5c54bbc42f437d6d4a349be6c388cf97e544fd2279f61d23f724f9"
 metafile = true
 
 [[files]]

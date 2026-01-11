@@ -1,13 +1,13 @@
 name = "Moderner Beta"
-filename = "moderner-beta-forge-4.0.3+1.20.1.jar"
+filename = "moderner-beta-forge-4.0.4+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xkrdwmh2/versions/1sH4rwZH/moderner-beta-forge-4.0.3%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/xkrdwmh2/versions/YALwKzFi/moderner-beta-forge-4.0.4%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "c123f281cfb62ca58fed3cb46fea535b204e2373"
+hash = "616501195bceb707c8678dedc5dc34789249071d"
 
 [update]
 [update.modrinth]
 mod-id = "xkrdwmh2"
-version = "1sH4rwZH"
+version = "YALwKzFi"
