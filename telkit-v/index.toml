@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "947c9dab8ac5d5c128977926c17c62bd18d6d37f1476af88c712da5854aab608"
+hash = "a294b65b6bf4ed6034898403a3d5279788cf5341154a1c9a3b78810878fa1462"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -1187,11 +1187,6 @@ hash = "fa2a23968e0637c5a589168829367c93d1e35a275581411c81472383e4d5f3a7"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-sails.pw.toml"
-hash = "088f0b471b0b836ca5e06bfce1905b214d8ac281e107dc544a8e6efb0e987f3c"
-metafile = true
-
-[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "11dc0df9a891de4fe963620f794c8f1b78fd80866db5016899ddc08fc406bdbb"
 metafile = true
@@ -1199,11 +1194,6 @@ metafile = true
 [[files]]
 file = "mods/vinurl.pw.toml"
 hash = "716b3742378707c795fae0d72983d79a9a74672f080acbe8e02990019e715ad2"
-metafile = true
-
-[[files]]
-file = "mods/vlib.pw.toml"
-hash = "f8fe88874b5c54bbc42f437d6d4a349be6c388cf97e544fd2279f61d23f724f9"
 metafile = true
 
 [[files]]
