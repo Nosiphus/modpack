@@ -586,11 +586,6 @@ hash = "b559e3fb4509de4f07329ee3340e2e9a022bfce1d35c7d69602226d6cd53b9a5"
 metafile = true
 
 [[files]]
-file = "mods/mo-glowstone-lamps.pw.toml"
-hash = "793e511badc6c1738c472c6c2130e716de8dcf4f8de2c66b2765900508842042"
-metafile = true
-
-[[files]]
 file = "mods/mo-glowstone.pw.toml"
 hash = "15c50e96a087538a8daed4fadb811ef19343ee65a5188e184d07b5e7f438abac"
 metafile = true
@@ -607,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "2b9d2c1ae1ddc014cd8486cc3c2b228d4bf682b2dcb8c929e7d0d51d89372dad"
+hash = "988665cd0950cf74b453344f5a10a031e3ee8ae4d997275ec8e5de334e5ade54"
 metafile = true
 
 [[files]]
@@ -867,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "c5769ed5061e076558938692a7a5ad8ee0f78b1df45c29e89d9dcc4b48f16f2c"
+hash = "61e0cf045bf5fdaa54f9e4d2cb5304b239ca1479e3b2f64be3e1f2b453200b56"
 metafile = true
 
 [[files]]
