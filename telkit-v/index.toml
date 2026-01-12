@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "a294b65b6bf4ed6034898403a3d5279788cf5341154a1c9a3b78810878fa1462"
+hash = "dacd205da0cc46dfcc5f3f5604260f3d9d7d66780ee8d4e4c21eb59b67c442de"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -219,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
+metafile = true
+
+[[files]]
+file = "mods/axiom.pw.toml"
+hash = "c7c8d69651be202a21b5ab86c75e8a3e7fe3b9ec5c2e21bd2cd5f76053cde483"
 metafile = true
 
 [[files]]
@@ -388,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-clockwork.pw.toml"
-hash = "f305f5aed6e0f4576a99691a581f040a27b70268c9b1da54f5a2b2374795d3d8"
+hash = "bc435a9b325ee1d1ca6d9b2d437e941d01e46d2c70cb0d9a9535bcaa85b6c2ef"
 metafile = true
 
 [[files]]
@@ -1188,7 +1193,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "11dc0df9a891de4fe963620f794c8f1b78fd80866db5016899ddc08fc406bdbb"
+hash = "5373c7a4e6b43700951fd24cba26d3f92c58266672c9360b9567760a982deddf"
 metafile = true
 
 [[files]]
