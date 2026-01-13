@@ -1,13 +1,13 @@
-name = "Project Red - Transmission"
+name = "Project Red Transmission"
 filename = "ProjectRed-1.21.1-4.22.0-beta+33-transmission.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/dXmH4rEw/versions/yzn5UpJs/ProjectRed-1.21.1-4.22.0-beta%2B33-transmission.jar"
 hash-format = "sha1"
 hash = "eb148aaf5721c8a5463f2d98ad17b3135eb6ad5c"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 7295861
-project-id = 478939
+[update.modrinth]
+mod-id = "dXmH4rEw"
+version = "yzn5UpJs"

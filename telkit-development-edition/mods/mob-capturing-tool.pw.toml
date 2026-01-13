@@ -3,11 +3,11 @@ filename = "MobCapturingTool-neoforge-1.21-4.1.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/cj7aaPDl/versions/Pg5SLyud/MobCapturingTool-neoforge-1.21-4.1.0.jar"
 hash-format = "sha1"
 hash = "cfe0caf67a00ac6e426c3915fa6075d68425f19b"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 6073136
-project-id = 630272
+[update.modrinth]
+mod-id = "cj7aaPDl"
+version = "Pg5SLyud"

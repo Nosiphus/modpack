@@ -3,11 +3,11 @@ filename = "drinkbeer-refill-1.21.1-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RZwVw5iA/versions/rfOGriAb/drinkbeer-refill-1.21.1-1.2.0.jar"
 hash-format = "sha1"
 hash = "8e54fc89091f3cc44507c6103e7e07056a6930c8"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "RZwVw5iA"
-version = "rfOGriAb"
+[update.curseforge]
+file-id = 6428354
+project-id = 729120

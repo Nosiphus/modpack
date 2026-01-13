@@ -1,0 +1,13 @@
+name = "Decocraft"
+filename = "decocraft-3.0.7-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IZJSgKZe/versions/O3EnrZwo/decocraft-3.0.7-1.21.1-neoforge.jar"
+hash-format = "sha1"
+hash = "e4043c643dcaa3fbd468c59ebf149c44be03b140"
+
+[update]
+[update.modrinth]
+mod-id = "IZJSgKZe"
+version = "O3EnrZwo"
