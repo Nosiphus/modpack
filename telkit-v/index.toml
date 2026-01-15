@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "dacd205da0cc46dfcc5f3f5604260f3d9d7d66780ee8d4e4c21eb59b67c442de"
+hash = "aa9b95484a9da50c85788681f76fe1fd361e51babe04a1a2f5f03641115b7af0"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "ef7874e06179a09e3d0592cbd596435815a4516c51e3d7dee4d29fe91e3e6eae"
+hash = "f10a2590d2d62cc58a6869fbfbd22feebef4773f02909e9a038a6eeafc380a21"
 metafile = true
 
 [[files]]
@@ -698,7 +698,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "280b5e57626f91ea56bea9b726ec1bca16edddba7295ff6fc502e595267384e5"
+hash = "e09da66f0f525ff7ad241e837d8bf0a2bcae5e321fdd302c9b92e49d2560ab7f"
 metafile = true
 
 [[files]]
@@ -853,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "02b68c17aab9557907a1cb9e579a9531aedde6e25ccc70b2af1f8006934b4979"
+hash = "1f0ab0403d8e89483bb62f4403425eb0e364759f8d490329025ac5930c85436f"
 metafile = true
 
 [[files]]
@@ -1193,7 +1193,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "5373c7a4e6b43700951fd24cba26d3f92c58266672c9360b9567760a982deddf"
+hash = "ecad6512ac4bcfa6d1aa39c5b21cec53c504935477d63701ada106c9dd44d335"
 metafile = true
 
 [[files]]
@@ -1233,7 +1233,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "17a6660d9831c4d754beed04abdf64380bf475d34dc1501a00dc41a5412f601f"
+hash = "cb53ef0c51fc357ab985ca5087c7278f8b906d428c9a464774e58f3340475b88"
 metafile = true
 
 [[files]]
