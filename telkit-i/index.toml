@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "d577081f57b726e229474401022fef73637e93a2016d16b1ffda1c6c3afba7a3"
+hash = "32a108a45de24116e7ccf7383fec7759008b98a76521799baf3d30e85d444d5e"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "436d2bc3281afd8ad1a79e8f61994c0246f5202c2f02e870d2505763e158d15e"
+hash = "ee6c25da8950e4534771eafafd8e6db9d3c4c502ce35bae53c5b6a1617213c16"
 metafile = true
 
 [[files]]
@@ -643,7 +643,7 @@ metafile = true
 
 [[files]]
 file = "mods/unimixins.pw.toml"
-hash = "a2f85c0c0e03b833c22630f1685e26f15065e84ffd536250985db4f24b1c3b1b"
+hash = "d028269df9550f9157c5196c85e11c3744671c3c7ea4ce5ad501c4618482a3c8"
 metafile = true
 
 [[files]]
