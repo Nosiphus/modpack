@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "3f5e45e3ce12646f5f547646874ddb4a7c8babf80aefd3f948cec7083b80b019"
+hash = "95ac9246d68b9877e89d8fd5c5ca8315a60e24ea5702f78d189c4a373a7324ff"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -843,7 +843,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f54c3a76129d13a9c8a0845b1261ee9fdbfd9e98c32814d1f19334cd0174c5f3"
+hash = "2aaf548ace41b41889cfb7ee5cdc6d1c3934fc4a79050fcd191e14733a4a8a87"
 metafile = true
 
 [[files]]
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "20a623e4f84eda2ae0236fa8da82874368308cdbec4d72598327df46995a7411"
+hash = "e74ab674083ee22b3cf33f27f8d93b966ff4285271ece9ae3d7fa06a8ee918af"
 metafile = true
 
 [[files]]
@@ -1253,7 +1253,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "6cd25fcb8e5a92fbdcd818b19854b04217a295e5ff865b884ca017305dd65b86"
+hash = "81ddfdac04336119c1bdf1b2d7de82f5e054477a34eda459db46df27a38b994e"
 metafile = true
 
 [[files]]
