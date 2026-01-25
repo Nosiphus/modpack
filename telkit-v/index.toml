@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "95ac9246d68b9877e89d8fd5c5ca8315a60e24ea5702f78d189c4a373a7324ff"
+hash = "2591c4c72cfa1e54a42ab43a50a7ce5159f9ccd73631e736aa5b06ab216bd6ad"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -958,7 +958,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e74ab674083ee22b3cf33f27f8d93b966ff4285271ece9ae3d7fa06a8ee918af"
+hash = "76d05987b8f32dad74c2a172dfb572917b721c3134d064801e8e98edc61d40a7"
 metafile = true
 
 [[files]]
@@ -1113,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "0cf32029f4fb64d9aadf65bf229a0ba9dacfd2ecfdfdeda63688dcdef6db11f8"
+hash = "4e4b4bca005e5836f3ca7f2118e2675bd217d9426791e53d321145c9dad9a81d"
 metafile = true
 
 [[files]]
