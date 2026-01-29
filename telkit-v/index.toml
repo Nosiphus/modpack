@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "2591c4c72cfa1e54a42ab43a50a7ce5159f9ccd73631e736aa5b06ab216bd6ad"
+hash = "fe9b11db296c474cbb1811b8116da95413bcde4c29879db6d6feb37e6b8157ec"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "d3a5b9e475e075f1f30005177ee3fe539c69f2eda0eb6233ef91333e6b6670e2"
+hash = "f140873886bf8e44242b63afaadbc8ed451ca83af6b829beab6d55d0eaed3106"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "5edcc460d2120d5f4271dfe97dc00caea3a4d2d0dad3726395eb486dc9c3a630"
+hash = "e867811bed0bc9e22170b7d2684c0d88666289a3abe7c590f7225edf3dd2a962"
 metafile = true
 
 [[files]]
@@ -658,7 +658,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "996469168e48362730b42aad58dc3eaff0e22637e140013b5ef11552c4b4ab8e"
+hash = "a5320178c1cc118331b309b2e5cc902375163992d2427e1563a692930106e3ee"
 metafile = true
 
 [[files]]
@@ -853,7 +853,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8f2e8876a7250cb3fe4966c824c8f879943a2621de4a1e25ff373222905cb0d8"
+hash = "3a3a2b4ab5fb0d2cd963af64b61e0786e0f3c7aad23a2af02ff72b39aa39b405"
 metafile = true
 
 [[files]]
@@ -1213,7 +1213,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "199547b686bef4f6f602c3e605b51d9a15d483e1fee74436909929588ae2d4d0"
+hash = "42d7f384202b7b18d4671a28f8e2a1972cb9487683df1100db5718d84258080b"
 metafile = true
 
 [[files]]
@@ -1243,7 +1243,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "77ae66fbd2924d0ea557efe973a4785dedf2c14f712f1dd4cab9172789b816a2"
+hash = "c87572461eba7ffadc4a5c2f997d2c9ed2d3dc903260748219031757762ef5d5"
 metafile = true
 
 [[files]]
