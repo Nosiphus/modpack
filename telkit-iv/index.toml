@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "5bb306b0c8eb02fab1a99d665a4cd002cab3e54975ea34ba92c90c93754da86a"
+hash = "eb92e90987af9daa02822b648ab83bbd4b31fe8e3d5f102ba72387f07e1310c0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -769,6 +769,11 @@ hash = "9055b4a92e2ea4ad8661c226f549040eb48ae535070942a3a95b019c08ca70f6"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "150910302b054e035533d4d7be8a1914267ceec24a82853b69b2cd3aa5a866c1"
+metafile = true
+
+[[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
 hash = "7e6822d55c6838c23b5ef14c3034b2446695091694c1b4e5446e8a30d4bd2a0f"
 metafile = true
@@ -1000,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "fc70ab7d9641dc096fbd880a3d9aae674c86e40017f007bab38ac76369bbe80c"
+hash = "42017975919febf34162165ad3e93ce6a834615095e4148e38871c14f7514fe1"
 metafile = true
 
 [[files]]
@@ -1080,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "199547b686bef4f6f602c3e605b51d9a15d483e1fee74436909929588ae2d4d0"
+hash = "42d7f384202b7b18d4671a28f8e2a1972cb9487683df1100db5718d84258080b"
 metafile = true
 
 [[files]]

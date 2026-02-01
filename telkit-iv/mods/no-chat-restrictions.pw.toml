@@ -1,0 +1,13 @@
+name = "No Chat Restrictions"
+filename = "NoChatRestrictions-Forge-MC1.19.4-v1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z440MEwJ/versions/1gf2EZ9P/NoChatRestrictions-Forge-MC1.19.4-v1.0.0.jar"
+hash-format = "sha1"
+hash = "c5321355ab354bc6598f748b537de2f2d128ab60"
+
+[update]
+[update.modrinth]
+mod-id = "z440MEwJ"
+version = "1gf2EZ9P"

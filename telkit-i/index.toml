@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "783d2a4d8be8d802fcde2d8c95d1f8ed94a5b2d519b1b47e7004a181c4ac03ee"
+hash = "4dd20cf0f5e3f57663266670921cacbc62fa6a21c746f61a7b38f34f020b7579"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-chest-unofficial.pw.toml"
-hash = "59dbd105efea20d8799c950edeb91e86bc9fb8ffc6c3e48ee78c1f33f1502310"
+hash = "7bb6346b66f0ad4e317e1fe1c87edac6f728ca1d5f6f113ef1cf35e3d5f2a0a6"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "015a17ca2def02c52424ea91eb404f3d382e8d27c1654722fe3f2a64da74b9eb"
+hash = "5a8319444f489545d2d5439c45f4c7c030fdb381c5dc62dfc15e6f260a005eb5"
 metafile = true
 
 [[files]]

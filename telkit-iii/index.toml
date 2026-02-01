@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "cd4a379cd2ba6f017614357729ea766085a6de7ae95bb67eec37fe9aedb2c5b7"
+hash = "395e29514ac331a1ad14c90b33750de716cddf04eb41b2d86fba65f4e0bae439"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -873,6 +873,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "c7c75962254111faa0101af9c96a72fc9807a1082fc7190e0c1df3a5f3573538"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "660c89cb07fddd99626ce69bd53befb3af4b9a1e450615c233c7a3f53ec429a5"
 metafile = true
 
 [[files]]
