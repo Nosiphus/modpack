@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "192a84585612e6c2f5a9b73b6f668fa04966fc5202ed2d40bf4056abe3d1685a"
+hash = "98a77adde7bf682856aaf679e10af5dbc9dfc4e3d758d23aa737948bc43359e8"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "fcfc810b1dff0af9251bd9786dcb87a808a68123f5a272065c718bf7427082a3"
+hash = "dce9178bb83289ca302e99e02c7e1c270dfa4a8c5f91e4a710c3525d2329c91a"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "a8ab2d7be62d6cbe3f7538505ca986aff1c2d7ef9862cec2f83fe83fa463cf40"
+hash = "66cebcf946ddbee0c87ef58f61ab34fba55992e1bdc89c81d71b9b8adb8de3dc"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "996d66fb572b0cb3f26783d5ad352278276ccfde81670c03a91a0545216bd748"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b517a8e65de9fac1ce38bb4cda8a64c1ebeca5cd230842cdf5f6f7e928d3c516"
+hash = "afab812ed885f552c13025f38adb17bfff4978ff636342007e26c05328ca3925"
 metafile = true
 
 [[files]]
@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "51224a73165882fd127d109f3c29d7026927212b419b2bb8c41c42f7d5ebe139"
+hash = "f73c8f6d4ce5b0b57fbfd48a0e05263eb0376e8766cb05677ae30fabbdef14e3"
 metafile = true
 
 [[files]]
@@ -583,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "494dafc6ffc0bfdc194feed3d3a325379569a916ec9a61d16d49529f66cc3a2c"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "0d87241668c334f2796044d1d2ea0ca6136ce05e2da49f94d17178016059dbec"
 metafile = true
 
 [[files]]
@@ -642,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "bf72eb9de87309370e82238ec2fa69f073b77857ce01c0b825196c816b3ccb8b"
+hash = "f083d58fc86f0b489a25dd66355958ab7ee7fa9ed348f712ae1f52f9b8c1b29d"
 metafile = true
 
 [[files]]
@@ -757,12 +762,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "5891bdf71ad9b81a3b9a54dad2a6ef0c43532d48ac5f7acf3b7e572e1da50be0"
+hash = "a520bf907e68ec0c4681a680ce844309ae665d5940ef7c667b27c67f04b56377"
 metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e9690bdf5375851b9ad70d3168588c9414a6576bad1364640b6782289b0424e6"
+hash = "891dc8b25fc259417e964203dc052be0eb10b0e3bae1b7600bb5d62ab10cb98c"
 metafile = true
 
 [[files]]
@@ -812,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "62716a8c78deec5ce950093f19d3128b1ef581d87973ea0e65d296bdb271940a"
+hash = "3a211630c570aacd53f251adb62f8358e5a3606e17dc9b6980c89f8fe9ef07fa"
 metafile = true
 
 [[files]]
@@ -822,7 +827,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "2c675075e2a8627ff3826ee0d67dcb427d893deda8f96581fba728945bc8873a"
+hash = "8bec20d2c08c67243547712b0a671e89bd523115cefc7258f262adfb18154ccf"
 metafile = true
 
 [[files]]
