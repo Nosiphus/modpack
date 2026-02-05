@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "59a32a2dd524aed2d949fb32d0e388c19070f4cfe2c9973fdac91eddecfc1ffe"
+hash = "ee04f193308ff311c1a32d3dabd96e866abd794437ad7b0e4bae10d18f166563"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "c7b43ea4c12db3839f655aaa904045e42aad96228bc47e94148b76759860e50c"
+hash = "35c3cb6b1c1219c6ce21f78b7b8a9209f10242c92aa574f46bbdf209da6e22fa"
 metafile = true
 
 [[files]]
@@ -623,7 +623,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
+hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
 metafile = true
 
 [[files]]
@@ -1198,7 +1198,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "601d8ccf4b22f3c697f0cc4d5f0b5205d615dff888a0d5b1f31e2246a60791d3"
+hash = "be4df4781a5bab8ca7b7df428b3fc0ef7ecc6d6c8862e73c226d0e8335e0b0ce"
 metafile = true
 
 [[files]]
@@ -1213,7 +1213,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "f23d71ce94d45ce3c219c66196680081cd445ed28048f9a9a8217c52669644b2"
+hash = "f8a9b4c6cae4a4280845df9f8d31175562e7e8929bd30208fd0d89c74b417381"
 metafile = true
 
 [[files]]
