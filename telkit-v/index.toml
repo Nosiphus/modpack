@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "781cf634b383b43de088d9a83dc59682a50a330d61d5008d40cf9a9604d385cb"
+hash = "3c9ddcff0b4e2fe7f18b13ff9e4803a5de59baf3ea2f801406906d7eeb15bd0d"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "13e9bb725f829a85f3f7331e5719a5a21c48a6cb9ce660fd57123acd84e7fb84"
+hash = "68582f35ddecdec70db26f9df196d8a84ad5ae4022158c66761346df292476da"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "05de1e46cc99ea80219b67f6e7ca9386572dd6bd6f49aad347740eca0f30cc55"
+hash = "cbffe39a3a25376c3d8fb98f783af92922562369faa787023203f894a3049c0d"
 metafile = true
 
 [[files]]
@@ -1248,7 +1248,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "d2744518047731ebedc2ff585a587bfe2d93b1f1454d8c6e5837dd1629113cae"
+hash = "fb18ca2fcec30b72e4903329bd41878b78df7d6ced31b470218bd9b512e1b702"
 metafile = true
 
 [[files]]
