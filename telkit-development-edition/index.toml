@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "609ba0706fa5661a6d434c8ac7a24a8e3b5e5bb3285d6b64d9cbe7249e1c9864"
+hash = "bd751f1dcb856dcb0bc9e30b44e5a357a86284e5aa28307aa666cd8c0b5d8b8e"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafted-core.pw.toml"
-hash = "68fe49121b1b6e562426db780c9de629a0561f809b0a7802fdd66e8383f5b992"
+hash = "36f82154122d28c32ab5b4790ee922dee54cee6bf21216b05a451efc462e6824"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "98a77adde7bf682856aaf679e10af5dbc9dfc4e3d758d23aa737948bc43359e8"
+hash = "5a81d33a1802760a4529be2f9d474458b1c303d00c98d623cce743fa59f38b77"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "dce9178bb83289ca302e99e02c7e1c270dfa4a8c5f91e4a710c3525d2329c91a"
+hash = "ed914fd75d0d0384eff0294fe4bd7d55c87e281ff986bcc5fe4200ff6aca6f9b"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/fazcraft.pw.toml"
-hash = "5d5387e0f0e5602ebd7c56ee6796e218986ff0465b7711c321474ac625ea64ec"
+hash = "63be55451db52e5fb10c40abe914e233c0ef3635eea4feae8c5900df9a013a67"
 metafile = true
 
 [[files]]
@@ -347,12 +347,12 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "fcddfa08833f4855aa383d53a81dc39604f289ba34cbc1060e0be68376339ef8"
+hash = "0415889440d061478ff7a4e3c8ec538b2337b52fad4ed59163cd7410f4249846"
 metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "2230ee546a5777296e950e79f82302ee20699f045f59334546b1a51bd49024ca"
+hash = "d59138f83cc73bbda720c174ac5c944393044f14c0715c4396ff2103d9c4fa22"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "95032e2d693ae9bc06e0e69c94e22682c8ed3dd2aa3c049d107c7ab9aab4c504"
+hash = "c9c8a8711cebbccf7c77768765bc1d51c533b41dfd55dba9ba463eaee98826d5"
 metafile = true
 
 [[files]]
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9f27309a7de6a69020b6da13ceb5eeb76270e91f2db60c914f1764c4fd28a6da"
+hash = "0b5b0f89c626194cc46848d36b6c9a3013036e539b0b2f36a1603feda02fdf36"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "61e0cf045bf5fdaa54f9e4d2cb5304b239ca1479e3b2f64be3e1f2b453200b56"
+hash = "46d2cbd8bf1c0a9a807b348757888c98ff3bba9ce81829eab62dea3cc3e8508f"
 metafile = true
 
 [[files]]
@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "3a211630c570aacd53f251adb62f8358e5a3606e17dc9b6980c89f8fe9ef07fa"
+hash = "bd27ce5c2e28ba255d504d941d0d8fcf4aaffe30c73ab36111b09fb171f5fd4c"
 metafile = true
 
 [[files]]
