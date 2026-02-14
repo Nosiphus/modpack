@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "3c9ddcff0b4e2fe7f18b13ff9e4803a5de59baf3ea2f801406906d7eeb15bd0d"
+hash = "10e7e62d096d1197170a2e016d7ca5afffc1915cce4fc938e9b58fa2cb09a01d"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
+hash = "4e6571a212cf5c94e016bbd7ea42955f0eb2c06be720714033194ec09be333e0"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
-hash = "40bab89c8030327eba75a6fe4350d6ac883d4b168a8171d4c0ca3a416efbd318"
+hash = "9dd51ab0922a7d30febbfdaaeda8f8c356a76df76549a537c396c6740d117830"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.pw.toml"
-hash = "a974b0d52ac0ee3a33219665b0a01a73b6613869b4129d3a6e6ee34da06e753b"
+hash = "bb8b36ded9744d09db566e56b13368b6f4396180b531b36323982c852bea09d2"
 metafile = true
 
 [[files]]
@@ -438,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+hash = "acf0ea711f50468d068acc359218d54bdf6986779d6268c243e7cbd8f6247023"
 metafile = true
 
 [[files]]
@@ -533,7 +533,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "cbffe39a3a25376c3d8fb98f783af92922562369faa787023203f894a3049c0d"
+hash = "1f70079692686c25a63121336a92cca33fc9b1d54717efd3dbdf74bc7d0be501"
 metafile = true
 
 [[files]]
@@ -588,7 +588,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "bcdf0eb4ba4f7b5373a1bc736fd3722d95604bef8390492b2ff4f96676980d21"
+hash = "03d168d547c158b48c64d7c57d091c24b5763b1b838a612d572a39195f4d8f63"
 metafile = true
 
 [[files]]
@@ -723,7 +723,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "d88e313b0a8fd89d6ae71ea9f0755fc07eb72010ba6188406da87ad77fa68edf"
+hash = "aec012a4be3c67300b258a8304071005889de2f9a85512839a6cbd5d032ca98c"
 metafile = true
 
 [[files]]
