@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "10e7e62d096d1197170a2e016d7ca5afffc1915cce4fc938e9b58fa2cb09a01d"
+hash = "d026d661889f9fb0f2b50c8162383a3d1dc1fc0656fdb3d687d05297880b1020"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -518,7 +518,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "791dc524d26bde1a5217c77ee350094935d734e86d7bde10a090a30a79651c90"
+hash = "7a180c0c68987482b2ba64c277a7735b9bd01adb910a1d91867134be8cbde29c"
 metafile = true
 
 [[files]]
