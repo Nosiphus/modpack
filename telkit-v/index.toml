@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "d026d661889f9fb0f2b50c8162383a3d1dc1fc0656fdb3d687d05297880b1020"
+hash = "c5e9681051fda6606a8735e71a2c362f97cc5fc4164b1e019740fd1a430e06a5"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -118,7 +118,7 @@ hash = "848b6f23735b9a10abf8525b75a16006daa88fe9baa8f694735d4c7410a228e3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "4ff4ec463196933856a05ea4a92b00ddc3ccf33a29fe67731f2be9a12dcdc65a"
+hash = "43d95c08f9ff906ca1e16696cc7216a2ec6ed8c08826b2b1c3a6c6727ab4b415"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "c72e4a565fe869f467a6d7ede10d844bfae9f126919f966ef02123cc902014db"
+hash = "7bebb016d06888c0efafc464ed041dad7fded7c0947457bdfb9eedf00b48f9d2"
 metafile = true
 
 [[files]]
@@ -383,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "e867811bed0bc9e22170b7d2684c0d88666289a3abe7c590f7225edf3dd2a962"
+hash = "528a417d641f9b0bc1d2cb8f200bfd38c2029f99ba57e13625f8e8f044657c30"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "66f2f3ecdb1304c765a0e01852240dbb8222240c75b14e76384db4f49a880c65"
+hash = "c456c308a2d698a8aa9d7318cfb4705a99a773ffcae775af60c659b605b39d87"
 metafile = true
 
 [[files]]
@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a31f4d31a7c29778affe0b3cde510dc47694e5bfa37cba9b7c2fd76a0318d6d5"
+hash = "3f00fbae81c4740cb4966119ca5e6ae63a032518584942ae32ec9c13a3f80dfa"
 metafile = true
 
 [[files]]
@@ -713,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "bada712182292da181bbfb5e0516210adc4569a309528367c65d197f255195db"
+hash = "0261f8fb3b0880b572044ff084edceecd2c91f39ee71c477198313ac2a253f4d"
 metafile = true
 
 [[files]]
@@ -833,7 +833,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "d77d57860144ce7655671d4f049f5c10588013dde0de64706a274995262249a9"
+hash = "fdf92568e3f343acc9e801ee8b5d672838d3fc12def36955aac6130cb9a9c180"
 metafile = true
 
 [[files]]
@@ -848,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3a3a2b4ab5fb0d2cd963af64b61e0786e0f3c7aad23a2af02ff72b39aa39b405"
+hash = "0b71da608af749f52d127e6fc64aee915df87163b9d13f2b86cf7eaa80ab4c8f"
 metafile = true
 
 [[files]]
@@ -1233,7 +1233,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "cb53ef0c51fc357ab985ca5087c7278f8b906d428c9a464774e58f3340475b88"
+hash = "4a9f4cbde77347f7793f4737e1f911972cc55e7460dea730185d12af49a13ac8"
 metafile = true
 
 [[files]]
