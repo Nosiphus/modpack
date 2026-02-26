@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "7063f208c7f5f634e744d50147f39134674c232a203f40702c0918a87ccc952b"
+hash = "7f7a030131c1be607a92da1fb373ba81029e299ec6fe8ac5013213cebfd9bf02"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -594,11 +594,6 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
-metafile = true
-
-[[files]]
-file = "mods/fazcraft.pw.toml"
-hash = "fd7e45df5d87f48074864396f315aa99824a35223a9e35329ba1281a794c2430"
 metafile = true
 
 [[files]]
@@ -1233,7 +1228,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "4a9f4cbde77347f7793f4737e1f911972cc55e7460dea730185d12af49a13ac8"
+hash = "ff646e2f218fe9b5094b835855949b70f3f528f0d12ce2401455f60ee9017dbb"
 metafile = true
 
 [[files]]
