@@ -54,7 +54,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "7f7a030131c1be607a92da1fb373ba81029e299ec6fe8ac5013213cebfd9bf02"
+hash = "ded2a962407a1cdc104ee9b320f7b06494c245c87c839eebe6acbb71485013a2"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "6caa17d31ceaea2ca436369aff6bed2512c0b02e3cbaf1d2c16456ddd3243e53"
+hash = "87c83b84b5c8445432b35e6a9f1b2d1aec13d2a8108596a8ba67ea9cc11bd3bc"
 metafile = true
 
 [[files]]
@@ -332,6 +332,11 @@ hash = "1ba38e1558b064ee70588d7b61f7fe208b233af999b13c0cf03a11b628d05cb0"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "ffaabe4fa9cff6931ec743ae36a053b4619f1ed30d2d80114c2efefd08ab13a4"
+metafile = true
+
+[[files]]
 file = "mods/colytra.pw.toml"
 hash = "27ffee4f26b99d014876940345e495b586730904275b4271dc70baf09815eda5"
 metafile = true
@@ -383,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "528a417d641f9b0bc1d2cb8f200bfd38c2029f99ba57e13625f8e8f044657c30"
+hash = "797319605711426926820c557d45cbff6052f1899cf4b8267c7941a9c11a2b32"
 metafile = true
 
 [[files]]
@@ -522,6 +527,11 @@ hash = "7a180c0c68987482b2ba64c277a7735b9bd01adb910a1d91867134be8cbde29c"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "3389d15bfa8050a4005578cc6ff4b3f00897a190cd7c11fa8a4562280adb6715"
+metafile = true
+
+[[files]]
 file = "mods/eureka.pw.toml"
 hash = "ea5978195094b811b9d816ecc036e6708da47bb33c4099fbcf6ce54a47d849ed"
 metafile = true
@@ -539,6 +549,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "fc21ff9cee2da4efc88692075c1f2ff648822808112dee3ca043f5ea5e9cdcd7"
+metafile = true
+
+[[files]]
+file = "mods/extshape.pw.toml"
+hash = "47313a442504a6dc4f749556b3bafeff9382448bf1fd7c124e200f7e8e89523a"
 metafile = true
 
 [[files]]
@@ -642,11 +657,6 @@ hash = "1a6b03437d3f80ac96348dc8e5f1077f3271f594a8a560c43375117fd8f176c1"
 metafile = true
 
 [[files]]
-file = "mods/hamsters.pw.toml"
-hash = "6aac88169e127b8e0afb26afb89854adbeb6d4cf70b9f11e1f4b5a5248c19ce5"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a5320178c1cc118331b309b2e5cc902375163992d2427e1563a692930106e3ee"
 metafile = true
@@ -654,11 +664,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "f237e37eca85448f9de3369e5bd49d8626f3c2e511a2c3d0644f0635c0db4341"
-metafile = true
-
-[[files]]
-file = "mods/iris-flw-compat.pw.toml"
-hash = "64d769814285cdb2bf788a5a7d1585e2af580e855900ab1c96e80945710ed484"
 metafile = true
 
 [[files]]
@@ -844,11 +849,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3a3a2b4ab5fb0d2cd963af64b61e0786e0f3c7aad23a2af02ff72b39aa39b405"
-metafile = true
-
-[[files]]
-file = "mods/more-slabs-stairs-and-walls.pw.toml"
-hash = "bf0edb50e9205a877f87b696b2656fb2a20c4e864319d9548a6478f0aadee165"
 metafile = true
 
 [[files]]
@@ -1274,6 +1274,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/ComplementaryUnbound.zip.txt"
 hash = "0d486367240c828485b242b6b9e590c815f718370aef7bc835ff01a653b1e725"
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.toml"
