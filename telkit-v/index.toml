@@ -49,6 +49,10 @@ file = "config/essential-mod-partner/config.json"
 hash = "e409f92619cb0e049efdabd1cb32a4104cb267e5b0fe13d052385f6ab453f90b"
 
 [[files]]
+file = "config/euphoria_patcher/settings.toml"
+hash = "6188fe4e4cde9cd962b0edf0a90e0ce574cc0cab2aa600d8a3e35ee57604efd8"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -58,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "ded2a962407a1cdc104ee9b320f7b06494c245c87c839eebe6acbb71485013a2"
+hash = "280ab454a0a4461c6249acc597eb0954c7db77a7f3b0f022463ed7b5501c077a"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -687,7 +691,7 @@ metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "9da3c3ee66453579523127d0cbeffde27dd0eaf1bb9ae3017805d475451c2e53"
+hash = "e1190ccda8fd0a32fb0cb2ea2825b6cacb07b284557e2ec14461ac74a8288218"
 metafile = true
 
 [[files]]
@@ -1242,7 +1246,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "fb18ca2fcec30b72e4903329bd41878b78df7d6ced31b470218bd9b512e1b702"
+hash = "5a8732acc8f7a5a01aa9b99369142b58093db97970b216323dc7d8f13bbc384c"
 metafile = true
 
 [[files]]
@@ -1276,15 +1280,10 @@ hash = "f11066dc72d06a1a77e00625578957ba78b36d13386cc4fa9b3b13b7be926ed6"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound.zip.txt"
-hash = "0d486367240c828485b242b6b9e590c815f718370aef7bc835ff01a653b1e725"
+file = "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6.txt"
+hash = "522c66e8cf690db4d934b5683e0f7420328e3818ed61ebd596259784ebad5743"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
-metafile = true
-
-[[files]]
-file = "shaderpacks/complementary-unbound.toml"
-hash = "1832223aa8f07ec500a4059c24cbb231fcbe5689e35d40c97284e54f88ffdb19"
 metafile = true
