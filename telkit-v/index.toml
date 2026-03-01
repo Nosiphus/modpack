@@ -45,6 +45,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "c6870a11fb308a71941164795e2d49c63a74a1a6de8d57d85d1e283534c1a020"
 
 [[files]]
+file = "config/essential-mod-partner/config.json"
+hash = "e409f92619cb0e049efdabd1cb32a4104cb267e5b0fe13d052385f6ab453f90b"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -552,11 +556,6 @@ hash = "fc21ff9cee2da4efc88692075c1f2ff648822808112dee3ca043f5ea5e9cdcd7"
 metafile = true
 
 [[files]]
-file = "mods/extshape.pw.toml"
-hash = "47313a442504a6dc4f749556b3bafeff9382448bf1fd7c124e200f7e8e89523a"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "ed4487cc1613cc53daa5188730653a4720728971553315dcea7205b28f914f1c"
 metafile = true
@@ -849,6 +848,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "3a3a2b4ab5fb0d2cd963af64b61e0786e0f3c7aad23a2af02ff72b39aa39b405"
+metafile = true
+
+[[files]]
+file = "mods/more-slabs-stairs-and-walls.pw.toml"
+hash = "4638edccb8207ab92a7ebe3124ef54c37538e47c0a3eba48683bdcb97262cacf"
 metafile = true
 
 [[files]]
