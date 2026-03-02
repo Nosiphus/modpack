@@ -1,0 +1,13 @@
+name = "Not Enough Items"
+filename = "NotEnoughItems-1.12.2-2.4.3.245-universal.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TmYVaklx/versions/cgeujovY/NotEnoughItems-1.12.2-2.4.3.245-universal.jar"
+hash-format = "sha512"
+hash = "49de5eee9791777bbedff134bb146a518f2442fa8c67db05ea3bd65f47545c9d248c91d206bfd3b156f615bae8da36747a74c64fa1ec63d899b667fea386b745"
+
+[update]
+[update.modrinth]
+mod-id = "TmYVaklx"
+version = "cgeujovY"

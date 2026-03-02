@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "395e29514ac331a1ad14c90b33750de716cddf04eb41b2d86fba65f4e0bae439"
+hash = "951bdbbf12e2a43fa241adc05b499dea3955c1311b51ac565114096ae967c876"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -1058,11 +1058,6 @@ metafile = true
 [[files]]
 file = "mods/terraforged.pw.toml"
 hash = "7bbf54434862a6dd542312aad3b18ae97a52a6c3aa09abaff23015ccb50674e0"
-metafile = true
-
-[[files]]
-file = "mods/the-five-nights-at-freddys-mod.pw.toml"
-hash = "8ae936774eb6145b0a380a06ee8475561f26d51f211af21ec7e94f70c6889239"
 metafile = true
 
 [[files]]

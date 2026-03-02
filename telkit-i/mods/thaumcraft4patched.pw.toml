@@ -1,13 +1,13 @@
 name = "Thaumcraft 4 : Patched"
-filename = "[1.7.10] Thaumcraft4Patched-1.5.jar"
+filename = "[1.7.10] Thaumcraft4Patched-1.6.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HFDm8NsM/versions/gcAlF8MX/%5B1.7.10%5D%20Thaumcraft4Patched-1.5.jar"
-hash-format = "sha1"
-hash = "4a371e7dc9684f61e08a1ff3c648cfce15527e77"
+url = "https://cdn.modrinth.com/data/HFDm8NsM/versions/yiDfYF9P/%5B1.7.10%5D%20Thaumcraft4Patched-1.6.0.1.jar"
+hash-format = "sha512"
+hash = "7bdfc29c2ead372e1976385d8512034d70293a2903da0918e183e8ecdf637fa671055d3cd71b5bbdc151564e800687b8857874ef30815fced228d5af66bb20ce"
 
 [update]
 [update.modrinth]
 mod-id = "HFDm8NsM"
-version = "gcAlF8MX"
+version = "yiDfYF9P"

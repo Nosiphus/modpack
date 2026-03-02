@@ -1,13 +1,13 @@
 name = "Terrarium"
-filename = "terrarium-1.1.11.jar"
+filename = "terrarium-1.1.12.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9f42e2acd0261ac215b19e6e85eb8e0840c34f79"
+hash = "979fe10e30c86a93ceaf60ccaf8ce34e2ade220c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7624161
+file-id = 7662387
 project-id = 310941

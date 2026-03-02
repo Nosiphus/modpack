@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "860b2779db2f79a564eecd5da18a8a4fb74eebe958fbb43a7734ae0888df5070"
+hash = "03fa01a6890f0cb35b00d15c8c2109d7ec5f2dfdd3912e0ab983861fe74aac40"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "9c62aa1335670bb1e578240be37828d9f29577cc688b3902b5507a79ec36d515"
+hash = "89bfd5b3c728152531d966d5e7c81cd1aed3bd45c9be9b2c769b7f2467c21bd2"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "d5dbbd8a2ab79384c507639b251d3b36a22adb96150bdf589b823a576ce927ba"
+hash = "776194bc53d6b3ed49e48aa5683b4b45923688a2d9cbfa88d1b1bcb178488789"
 metafile = true
 
 [[files]]
@@ -613,7 +613,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraft4patched.pw.toml"
-hash = "e7594f83288a58a626374f991f864f6d0d004c691e038ed2d75b41b7d069c5e8"
+hash = "e25ba97b260828fb00b8f5ab26b9278cb3ec40a4df628fadeeea1aaa8b18098e"
 metafile = true
 
 [[files]]

@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "1e56c0561f05450bcf14c6499690eb9dfcf7b4506b75c6ea5ba04c0a4c17adf5"
+hash = "a3f96f2e69a0bfda78eee19026358e2c66446a8fdd446caaa157ebe815489eae"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -88,13 +88,8 @@ hash = "06250d70894edf1c103aa82fd034fd8718d8f409c1db2b2de1e1c614b266e2eb"
 metafile = true
 
 [[files]]
-file = "mods/archaicfix.pw.toml"
-hash = "ee48491619ea973bf167c7cdc3b2f5b6f59ab4d0aa50f9cb572886b7aa8f352b"
-metafile = true
-
-[[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "9c62aa1335670bb1e578240be37828d9f29577cc688b3902b5507a79ec36d515"
+hash = "89bfd5b3c728152531d966d5e7c81cd1aed3bd45c9be9b2c769b7f2467c21bd2"
 metafile = true
 
 [[files]]
@@ -179,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "26c3501d33f6b4ab03267eb700885d288222791854f51a92c20f8186397fa4a0"
+hash = "81b302c7ee38fee4fa1b930ce89e0a671c925f612c263b8fc3f7a8e3d771b75d"
 metafile = true
 
 [[files]]

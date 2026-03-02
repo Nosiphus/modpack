@@ -6,7 +6,7 @@ hash = "9d4e3cc05f59bdd92410062346f2374eb80261253e85c725a35c24f4bea3f87a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "f7b7309a575abc17fe84cfd9302ba80735e63dbda489deb11484f3e2192ec5ab"
+hash = "d432f80f3f45a8a54ad6379fef75982173578f746eb5f11cb9368a9ff7e4e2ca"
 metafile = true
 
 [[files]]
@@ -100,6 +100,11 @@ hash = "578f4dcea55c71b9565d7d4079d9c02c4bbf860e3c7381d16bdfa793b77c33ba"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "ff52d093b7eb904e076efac1a26971eaa408d6bcbc2f2faefc762e436743f1de"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
 metafile = true
@@ -131,12 +136,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "6488e760f7ba14eaa71991889a0f4228fea5ff51e23265ba64512ca3cbf83a50"
+hash = "38c950bdd47f54d586d1e9ae0c714574885423941ed7799f11b776d2b05ed02f"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f6865e54db1f0079a8a934c26232ffde8671e052479fdb9749380e1923569c3c"
+hash = "6985631ba1da9c4078b7d5002fbea446df99e85985621222bdccea2800ca1ef8"
 metafile = true
 
 [[files]]
@@ -161,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "f64f30dfcd7fbd8e0f3fddd7b82f09aa0ce458d2c5de6d97c3f674295e810c0f"
+hash = "f112d461fdbcdd1c69be89f7e0f0bd3658778fcd48135f045aeae16812efac2f"
 metafile = true
 
 [[files]]
@@ -231,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "5c5b130d63f54d978324013f22dc1f91265808ae4176c2e009eea82efd69500e"
+hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
 metafile = true
 
 [[files]]
@@ -246,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "bd23e870f41ca2ecb25550c4ce4ec118b0bbd2f3bde2fedb0b14ebb544a6846c"
+hash = "00b7463db07fe5fc2230f019c5f42eed469bfb70ebaf05c38665f9e6c8f94cf2"
 metafile = true
 
 [[files]]
@@ -257,4 +262,9 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "e82c6b10063edcb2d01e342695c10d503ab9a382d2d04cbffdbcc07104f2b070"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
 metafile = true
