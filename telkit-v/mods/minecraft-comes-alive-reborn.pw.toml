@@ -1,13 +1,13 @@
 name = "MCA Reborn"
-filename = "minecraft-comes-alive-7.6.13+1.20.1-universal.jar"
+filename = "minecraft-comes-alive-7.6.14+1.20.1-universal.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1W98a849/versions/MGB59w5R/minecraft-comes-alive-7.6.13%2B1.20.1-universal.jar"
-hash-format = "sha1"
-hash = "0850768274cea00ec8b67233eb2ada0e309492b9"
+url = "https://cdn.modrinth.com/data/1W98a849/versions/lBdlOdKl/minecraft-comes-alive-7.6.14%2B1.20.1-universal.jar"
+hash-format = "sha512"
+hash = "ea33b9d68d05ef679aaf4bd15f4cb7817a01421c58f3f5ae8a00d3a68ac552f70727cd6a4d2690b9301acb1a405ee9c17d3452af6ae673c8cec15b94cc3115d5"
 
 [update]
 [update.modrinth]
 mod-id = "1W98a849"
-version = "MGB59w5R"
+version = "lBdlOdKl"

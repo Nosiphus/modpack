@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "280ab454a0a4461c6249acc597eb0954c7db77a7f3b0f022463ed7b5501c077a"
+hash = "cebbfdf607954183f9de7f0f3ce72bc10792a44c57b143b148f5b1016f5d4318"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "3918bcaa383b2041dc98546abe94733a34cfffb225a65892a6c02a2029349cb9"
+hash = "0e356f563d73ebdf7d8b8af0762ba3ea02dbd53f575d073d8a75f35dc91bf723"
 metafile = true
 
 [[files]]
@@ -806,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "517ea2419e7abfd07aa57ed8a4b9967b9d1e9653f4dd9e954b386f969adf5eba"
+hash = "1a87033a10977a65f89efcea987bf0304e15155b281c8f2b54afab948cafeae6"
 metafile = true
 
 [[files]]
