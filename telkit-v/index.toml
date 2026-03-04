@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "9664a42b35f581f0984406688d35315d4a1236865e18eabc1d946425228c2423"
+hash = "2b9ca1c5e80a937d40098ecdfce4912476d814ede1c9b98bfc1d8ace5a69e210"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -712,11 +712,6 @@ metafile = true
 [[files]]
 file = "mods/krypton-reforged.pw.toml"
 hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
-metafile = true
-
-[[files]]
-file = "mods/littletiles.pw.toml"
-hash = "4636619eb9cd279957e6f4e840c0e660bf3850a877dc34ba26eb3582f12183c4"
 metafile = true
 
 [[files]]
