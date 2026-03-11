@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "bf708fe0e110074778cb7cab30b96dff47508597f0e5c48caa5d4318b04d03a5"
+hash = "acf0ea711f50468d068acc359218d54bdf6986779d6268c243e7cbd8f6247023"
 metafile = true
 
 [[files]]
