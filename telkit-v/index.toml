@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "2b9ca1c5e80a937d40098ecdfce4912476d814ede1c9b98bfc1d8ace5a69e210"
+hash = "dacc2714f1862793c44d241ac75f2ea18b1f8f56e0d7ccadb6e29e071c92f622"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "acf0ea711f50468d068acc359218d54bdf6986779d6268c243e7cbd8f6247023"
+hash = "bf708fe0e110074778cb7cab30b96dff47508597f0e5c48caa5d4318b04d03a5"
 metafile = true
 
 [[files]]
@@ -866,7 +866,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "34619b04852dec7d7b7e0517b0c7a9725de792271d9b40e0badcce7377636c73"
+hash = "4e8e4d50fc34be1af8d5123069d0d47bd5db3eccb556c08d6c195fd8b1cf2269"
 metafile = true
 
 [[files]]
@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "39f4971b06139614f03993ffc73e3a1d39e061813690eb1edffe2215c148ffa7"
+hash = "2242b76f7c4ee6d7f396a2d1380bee615d78408d00bff5cca38e4df777b18dc5"
 metafile = true
 
 [[files]]
@@ -1246,7 +1246,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "5a8732acc8f7a5a01aa9b99369142b58093db97970b216323dc7d8f13bbc384c"
+hash = "ec507663dea478d1b4e37add8edeb224cebf296ed1457e5d30b5b7be2def52c1"
 metafile = true
 
 [[files]]
