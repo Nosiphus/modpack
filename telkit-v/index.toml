@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "dacc2714f1862793c44d241ac75f2ea18b1f8f56e0d7ccadb6e29e071c92f622"
+hash = "8f13f0d6ef9959151344efbb4382e75942fd8d0521a11e9a9292f9911931c76b"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "acf0ea711f50468d068acc359218d54bdf6986779d6268c243e7cbd8f6247023"
+hash = "ac25520dc59f04bd89987c94245e17af494e2cbd5119f13e668ef479d2c532d7"
 metafile = true
 
 [[files]]
@@ -1181,7 +1181,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "a5ba61323d9ad6f6b53724586b00f3ee4911531915bc37a751693437c3df7f86"
+hash = "891ec8405ce974de61df5442e5cac4a83e13f422e2b08dd42f405568492d9006"
 metafile = true
 
 [[files]]
