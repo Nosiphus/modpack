@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "8f13f0d6ef9959151344efbb4382e75942fd8d0521a11e9a9292f9911931c76b"
+hash = "323b8b13d1b8151605b29b069b11292c39383ba611d872ff242762a73df7098c"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -610,6 +610,11 @@ hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
 metafile = true
 
 [[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "75dc68e45d7c68af849412a7813d2c87da6b35c5f6205da71fafb6bb249c9f3e"
+metafile = true
+
+[[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
 metafile = true
@@ -1087,6 +1092,11 @@ metafile = true
 [[files]]
 file = "mods/sgjourney.pw.toml"
 hash = "28bcf894ec14257b0df7277e0febf926fc4df444d94d2c36587c4b485d4b38c6"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
 metafile = true
 
 [[files]]
