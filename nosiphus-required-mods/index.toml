@@ -232,6 +232,11 @@ hash = "11c269f5bbe7c3ee6e80e72aade13473244ae5b9cf4f088650cff331ce404255"
 metafile = true
 
 [[files]]
+file = "mods/project-red.toml"
+hash = "308930159120377ce0dc6c8b7871527e46aa20f1c2d8e957dd30de351e587fe3"
+metafile = true
+
+[[files]]
 file = "mods/waila.pw.toml"
 hash = "e5ac6e4cad02940a0cad2e4ad5a161f69c28c5f4f7ee3a94ccaa350e19000157"
 metafile = true
