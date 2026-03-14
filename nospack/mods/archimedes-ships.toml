@@ -1,0 +1,8 @@
+name = "Archimedes' Ships"
+filename = "ArchimedesShips-1.4.5-1.6.4.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/archimedes-ships/1.6.4/ArchimedesShips-1.4.5-1.6.4.zip"
+hash-format = "sha1"
+hash = "2b92d3dd14a9a741748afb3ec5a98a22a0e8cc42"

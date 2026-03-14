@@ -5,6 +5,10 @@ file = "config/AppliedEnergistics.cfg"
 hash = "adf254668c5a922b1aea4def0bd97d4d19ad19dc97c21b5a8a466a7e1c6d2abd"
 
 [[files]]
+file = "config/ArchimedesShipsMod.cfg"
+hash = "74e5a41612cd94c3a47c525d92981d7850656dabf0c741320afba049fc0da546"
+
+[[files]]
 file = "config/BiblioCraft.cfg"
 hash = "5a9c46e2558929b2aa0689df39c94ea9a3d7bdc55ce3647b9ff6cd7e75a690a7"
 
@@ -23,6 +27,14 @@ hash = "3f2327a8ee838795d4269d2f84ac344b21bcbefa26ee829de34bb1edcdbc70dc"
 [[files]]
 file = "config/ComputerCraft.cfg"
 hash = "86c09fe0648e5ed0c7705189800143c3926d20dd2bb4832c6bc1efd9990efffb"
+
+[[files]]
+file = "config/EnderStorage.cfg"
+hash = "a06096d62d084621c62e5101ef0dc234bacf1121d75e29d7651c2207d7fa95d5"
+
+[[files]]
+file = "config/EntityCulling.cfg"
+hash = "5772fe0175329aec2e3915d60c6d7a37ecce19a3e96609eca40dd82695c81a43"
 
 [[files]]
 file = "config/Galacticraft/chunkloading.conf"
@@ -240,6 +252,11 @@ hash = "73be5e85c829f668b52d36a39b35b759296eb9afa73d7ede44d00f0ae9f2ec52"
 metafile = true
 
 [[files]]
+file = "mods/archimedes-ships.toml"
+hash = "12e77b7feff047603083216847b79d40ee9d772172e5b22ac79d0862365560df"
+metafile = true
+
+[[files]]
 file = "mods/bibliocraft.pw.toml"
 hash = "79804cc59dd13f3a6a3f99c66d3113d577d944940a0c4736f432226945fbec3f"
 metafile = true
@@ -275,8 +292,13 @@ hash = "b2606db4efb83ad46b6dc915a7f3aa1d4fca6b8bbe6e727be111f8334ea4e46a"
 metafile = true
 
 [[files]]
-file = "mods/daflight.toml"
-hash = "8c0d0833c765334a4970dcedc7bb78d4f7fbede1f18abe1ba6e84235c8934fc4"
+file = "mods/ender-storage.pw.toml"
+hash = "0f4a5c5ee3ac6560847fcdbcf1db940536e0492e762f24203515811d5d8210bb"
+metafile = true
+
+[[files]]
+file = "mods/entity-culling-backport.pw.toml"
+hash = "83f9a067fbed01bda5efc95571a00b34293a88e796bcf8674399861cb4fd7363"
 metafile = true
 
 [[files]]
