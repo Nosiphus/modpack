@@ -1,12 +1,12 @@
 name = "Nosiphus Vanilla+"
 author = "Nosiphus"
-version = "2026.03.01"
+version = "2026.03.14"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "136a02a2fc6eee4491fd4c6c1c970091dd22b4352e2186b12a360f427dba10b2"
+hash = "1ad3ca11ef6980e452d9efd293069b1f24899f66931899dbafade01e96931228"
 
 [versions]
 fabric = "0.18.4"

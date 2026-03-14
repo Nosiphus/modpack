@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "dad1171c186d9ca0cdf6807066bd9097b892e7176794802a25c7acfe590ab7f7"
+hash = "a5f2425faf40b4a588130aa16045efc41afc81fa9cba91f368f2f66877a2bbfa"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
+hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "18d4af5a27d8bbcb2f938120c48d7f02d18cd67f7cfd517276ed23098e67da87"
+hash = "9ac53faa5691ee16d32803b184e3aa01821c3c5a35bb8012cf6697662a1e0d52"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "07e21938740b4d8e8efaa8d3bc16f7655e437534651ed48582fbb9e0dcab9540"
+hash = "d7f32cb2cdc345359db18c50734d6026809b32a8c14b4c0ab8cc58024798c3b7"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "00b7463db07fe5fc2230f019c5f42eed469bfb70ebaf05c38665f9e6c8f94cf2"
+hash = "88b2211504efdc62eb41ad69abde250bc85da0c66fb6a7ddde874df42afe8fc6"
 metafile = true
 
 [[files]]
