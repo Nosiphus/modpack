@@ -1,8 +1,0 @@
-name = "Project: Red"
-filename = "ProjectRed-1.5.2-3.2.0.33.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Nosiphus/legacy-mods/raw/main/project-red/1.5.2/ProjectRed-1.5.2-3.2.0.33.jar"
-hash-format = "sha1"
-hash = "5155402b6552a50132e852cad641efe40cc712ab"

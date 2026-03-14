@@ -1,0 +1,13 @@
+name = "RedLogic"
+filename = "redlogic-55.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dYL6N6xo/versions/nRnjXZNs/redlogic-55.4.1.jar"
+hash-format = "sha512"
+hash = "8e8e53a81f034cd8ea268743d67c69382bd0607946e9a9cd144e1ff6782ae5baa07b8ea40752a4518cf40102212efd9345a54ae8ef68cbb115b1faf24eab541f"
+
+[update]
+[update.modrinth]
+mod-id = "dYL6N6xo"
+version = "nRnjXZNs"

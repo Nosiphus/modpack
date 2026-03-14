@@ -1,0 +1,13 @@
+name = "Immibis Core"
+filename = "immibis-core-55.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iwfxqPXL/versions/QYc29phj/immibis-core-55.1.6.jar"
+hash-format = "sha512"
+hash = "aa86868fa7e35ad09c892319aead1603b6927ba09bbe84b187cb0ceece73470a34e2a517602f2d6b4a972c8e18685f17569cfae9d7411a424ac6aa3a8f1eb604"
+
+[update]
+[update.modrinth]
+mod-id = "iwfxqPXL"
+version = "QYc29phj"

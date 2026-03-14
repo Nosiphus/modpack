@@ -1,0 +1,13 @@
+name = "Immibis's Microblocks"
+filename = "immibis-microblocks-55.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ud7IJtQf/versions/3gleMdts/immibis-microblocks-55.0.7.jar"
+hash-format = "sha512"
+hash = "716d3b2202a6e8ccce2ad9947a6e52da88c26c316c517ba014d160316a554d0be4e5d5f41f44be0bf8d0d9c26eb2fb1bb6777d49762a87ccad889a5858077c30"
+
+[update]
+[update.modrinth]
+mod-id = "Ud7IJtQf"
+version = "3gleMdts"
