@@ -1,6 +1,6 @@
 name = "Not Enough Items"
 filename = "NotEnoughItems-1.12.2-2.4.3.245-universal.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TmYVaklx/versions/cgeujovY/NotEnoughItems-1.12.2-2.4.3.245-universal.jar"

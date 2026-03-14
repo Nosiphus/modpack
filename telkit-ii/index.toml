@@ -201,8 +201,8 @@ hash = "b21ce4112e1f9581a2545c85d0d96fef04751906d8fa98dbb04035d777ba4516"
 metafile = true
 
 [[files]]
-file = "mods/ae2-uel-extended.pw.toml"
-hash = "4d1e2f0bf5f1a4b1b747840be57ff3fb32eda7c09c2fe304b98f23fd3f0d401c"
+file = "mods/ae2-extended-life.pw.toml"
+hash = "21d6ef9d52551f2adb9aad7752b551312fe417a693a992aee1dd0fbd83cce3d0"
 metafile = true
 
 [[files]]
@@ -308,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/craftingtable-iv.pw.toml"
 hash = "01f5087ab12be7d90133476cad5b08b1ff9bff1069a93764a6e94a4d01a386c9"
+metafile = true
+
+[[files]]
+file = "mods/crazyae.pw.toml"
+hash = "236f43cb16da84a9a0471a13160b68455d6f23cb7ce10ee8be6cc6f552337921"
 metafile = true
 
 [[files]]
@@ -567,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/nei.pw.toml"
-hash = "d672cef3aafcf766ae571de181302e353059a6302afd66dd3beb0e3d692fa8cb"
+hash = "a90c7bdf1687e5b6e3a4ba933f73422ba0ccb1d72b1bca9bec85317ad3fc84b4"
 metafile = true
 
 [[files]]
