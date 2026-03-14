@@ -93,7 +93,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "38a4a0740d54fc4fc2e6399235c97b47978942ee0bf98a6c149bdad774661c99"
+hash = "7f53c85fb413765ece6fd9a933b07296039a6330f692ca5bbf5e72e9281860e6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/fermiumasm.pw.toml"
-hash = "66e97667b1bac7bf18b0741d32119098d88a00d16517298ac58d2ebbc5ca9df2"
+hash = "dc32b2c0fa87f2c8c98b799e4029da1c42e05f98fbe8740a08e82ae99a280b2e"
 metafile = true
 
 [[files]]
@@ -398,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/galacticraft-legacy.pw.toml"
 hash = "ddc450a86b6a13ca49febb4248037e05f90281e04ced1b83ffef3630fc01a976"
+metafile = true
+
+[[files]]
+file = "mods/had-enough-items.pw.toml"
+hash = "2cb2a1e98184dfba90d43984be6900ec4920e779c93e28d03844c453e7d8cd90"
 metafile = true
 
 [[files]]
@@ -443,11 +448,6 @@ metafile = true
 [[files]]
 file = "mods/iron-chests.pw.toml"
 hash = "f5e51601becf4c9f8878530d40cd2ecf232e89e5d9fae6218959a15eee12417d"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "b548c4c19200a725c00d89d152438d12027e00a6639bb975c7491cf0504bae79"
 metafile = true
 
 [[files]]
@@ -561,6 +561,11 @@ hash = "59c691bccb11a19c67a0272aae379c20d157d5240e7001b2d92d80bf555b88d0"
 metafile = true
 
 [[files]]
+file = "mods/naughthirium.pw.toml"
+hash = "5c7f0086c0b91787ba1ee366d4d719df54f32990a6d8364a1b830173cf4d0b29"
+metafile = true
+
+[[files]]
 file = "mods/nei.pw.toml"
 hash = "d672cef3aafcf766ae571de181302e353059a6302afd66dd3beb0e3d692fa8cb"
 metafile = true
@@ -578,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/nostalgiagen.pw.toml"
 hash = "d42e554a449fe8d58c8e06c003c15f33c60db6d3f72a6f463ac9474da00c36a0"
+metafile = true
+
+[[files]]
+file = "mods/nothirium.pw.toml"
+hash = "81ca6579425dda762a9ae2530e605b6e5d6b2d2a44d5508e1f781fab4660f2b3"
 metafile = true
 
 [[files]]
@@ -738,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/reid.pw.toml"
 hash = "830e907eda25bbb6b07e9de1d86c77de768ce49dee1118361b504224d1e43846"
+metafile = true
+
+[[files]]
+file = "mods/renderlib.pw.toml"
+hash = "278e533a3e62a5d021540add8d01cc11814ba42fd17bbc33a3b97ee2d5b84683"
 metafile = true
 
 [[files]]
