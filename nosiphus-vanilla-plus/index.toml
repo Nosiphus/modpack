@@ -125,11 +125,6 @@ hash = "4385a242de62d01f91894aa2b011bb53cfdcfbdd4d950def81ec78aba7be66a3"
 metafile = true
 
 [[files]]
-file = "mods/framework.pw.toml"
-hash = "ca16eaf9e6d3694b518371d1b4f2ba2140b056d228a1b497b0c0401f88555526"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "c89ff9e2017907eee684602c90257b0a69b65c605e45e819bf1ebd1764a919e4"
 metafile = true
@@ -157,6 +152,56 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "27ecd48f672ca02e9f786e3156b707f582d4c5955ea28c075ca19a3f4c16cc31"
+metafile = true
+
+[[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "d6700c397aab53174348acbb4aa124b09d58fd9c1e19efa4d469e3e4a410cb40"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.pw.toml"
+hash = "4aff3ab0a86bdf1e4a34d03123588d96bcf7cd1c0c6cedb8c1b9dbb33803d92d"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "016fe26d672a378fe41284aed6c2b466d8c9b07bc24903f3873059427f04e430"
+metafile = true
+
+[[files]]
+file = "mods/macaws-lights-and-lamps.pw.toml"
+hash = "e3559a26146b8657e721e38c9f2b22b1338f22913c0ed4e0fc118ade9f0d6e5c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paths-and-pavings.pw.toml"
+hash = "5445fb832957ce57cb17f13fd576e1521dd39d6beccb00c3beda0ee626b210f9"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs.pw.toml"
+hash = "ca138c6a52393d5a97746ceab75c61a5087d4f5e49a4620fe2bdb0987df8c13e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "a71b7c50170be035f2b9f3db5ba788ef1c1ba99fe257814bb6b34660a9ab62d7"
+metafile = true
+
+[[files]]
+file = "mods/macaws-trapdoors.pw.toml"
+hash = "98b968964dd0049133de982c5cb381e7efe5c95c270b4bde48eb699a52bf235e"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "9962970cabdedf4b667cb0e774e2bcb3f178c338fcd5dc5b2061937725f43cf7"
 metafile = true
 
 [[files]]
@@ -210,13 +255,13 @@ hash = "41e05abbe91773742271315482ec9dfcb319531d8ac7fe0ae47117b6e0c9ed60"
 metafile = true
 
 [[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "56db21d0a141971f477b02fee672db2e02f3176c92fd314198a2938092b6fdc6"
+file = "mods/searchables.pw.toml"
+hash = "a17a9c598d984e4ff28d0945dd0e8bf94b3125b1d669226b4ad736543dacef3f"
 metafile = true
 
 [[files]]
-file = "mods/searchables.pw.toml"
-hash = "d7f32cb2cdc345359db18c50734d6026809b32a8c14b4c0ab8cc58024798c3b7"
+file = "mods/skyboxify.pw.toml"
+hash = "7c93161436c57ab14685d1a5d70bfd58c63c7e69106e9363043aae4afd5d59dd"
 metafile = true
 
 [[files]]
@@ -265,6 +310,15 @@ hash = "e82c6b10063edcb2d01e342695c10d503ab9a382d2d04cbffdbcc07104f2b070"
 metafile = true
 
 [[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6.txt"
+hash = "05742447a5d0307958b2ef61b76f62361f5a97bca258afdd05f6ad28262bba63"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
 metafile = true
