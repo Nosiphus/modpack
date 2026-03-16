@@ -1256,7 +1256,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "4c9de797460b97b5cfef2703455564ea1b92e443fa1cbdcfaa4df9843653de81"
+hash = "ec507663dea478d1b4e37add8edeb224cebf296ed1457e5d30b5b7be2def52c1"
 metafile = true
 
 [[files]]
