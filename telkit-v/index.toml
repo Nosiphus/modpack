@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "323b8b13d1b8151605b29b069b11292c39383ba611d872ff242762a73df7098c"
+hash = "7b21d2fbc76ef556142d2cabbc7cc1066ec28ae3c981707d0ddaeb8a7b4c54b2"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "ffaabe4fa9cff6931ec743ae36a053b4619f1ed30d2d80114c2efefd08ab13a4"
+hash = "e4e65110b89d5f0437764523e6a904b8c2e7b93d2c55f52881b81450736c1f04"
 metafile = true
 
 [[files]]
@@ -401,12 +401,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-clockwork.pw.toml"
-hash = "2a1430d7d300cb90701bfc2d1000d94ac95d09030d3cfc804a7290d5752085c5"
+hash = "2caf7d087354fec0eaf700628fda4eab8d6089c734bb9f1c8c5c352d0d08b56f"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "0e356f563d73ebdf7d8b8af0762ba3ea02dbd53f575d073d8a75f35dc91bf723"
+hash = "4c091982c192238cc7b2cefbb3a6e634edc6d7a780e547d693df7f4e3e1b04be"
 metafile = true
 
 [[files]]
@@ -1256,7 +1256,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "ec507663dea478d1b4e37add8edeb224cebf296ed1457e5d30b5b7be2def52c1"
+hash = "4c9de797460b97b5cfef2703455564ea1b92e443fa1cbdcfaa4df9843653de81"
 metafile = true
 
 [[files]]
