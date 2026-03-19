@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/equivalent-exchange.toml"
-hash = "e4d89478e64df98a90ac9fc4f7628d3a3150cb3e19336ecf60727d63e1a3d295"
+hash = "7cba4839a6cebdc7add0c2d7209c373e3bac05746c25d92e560deae056bc1c20"
 metafile = true
 
 [[files]]
