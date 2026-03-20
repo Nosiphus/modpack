@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "37447eababd290c9360684632913d4fff6a5ca2a073cd1ef954b4816e82ebd3d"
+hash = "a106dbb73e01c79bc3ec1b5462571f6abb182c903ee9334b7c5148c387025403"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-clockwork.pw.toml"
-hash = "2caf7d087354fec0eaf700628fda4eab8d6089c734bb9f1c8c5c352d0d08b56f"
+hash = "21b5ef873d094c25240b029e20b18fdfb1fa5fcf290decba4a76c3cc76b5ef51"
 metafile = true
 
 [[files]]
