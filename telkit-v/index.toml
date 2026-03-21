@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "a106dbb73e01c79bc3ec1b5462571f6abb182c903ee9334b7c5148c387025403"
+hash = "cf68fd5982592848131a562d46e21c2edb61e3dc04829fd0c81c8b2bf332d9ec"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -1126,7 +1126,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "4e4b4bca005e5836f3ca7f2118e2675bd217d9426791e53d321145c9dad9a81d"
+hash = "fca95445829b86500535b2dfa956893f6d8fefa806b55c8147f33d108f81fb55"
 metafile = true
 
 [[files]]
