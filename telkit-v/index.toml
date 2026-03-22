@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "cf68fd5982592848131a562d46e21c2edb61e3dc04829fd0c81c8b2bf332d9ec"
+hash = "74350ff2637ecdefe3483eaac6d62ad1829a14f1bd5e325dd0b51c90fcfa6be4"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3a3a2b4ab5fb0d2cd963af64b61e0786e0f3c7aad23a2af02ff72b39aa39b405"
+hash = "0b71da608af749f52d127e6fc64aee915df87163b9d13f2b86cf7eaa80ab4c8f"
 metafile = true
 
 [[files]]
@@ -1221,22 +1221,22 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "8c82d080cc6a90b60dcee01656c2e468fff9874be8037cf5b03bf748a3a991fc"
+hash = "e56493279c8433b5601b7f4fc5bd2314224b6528f46cbc7d4e33c9f226ba9ccd"
 metafile = true
 
 [[files]]
-file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "42d7f384202b7b18d4671a28f8e2a1972cb9487683df1100db5718d84258080b"
+file = "mods/watermedia-binaries.pw.toml"
+hash = "03c2bc9e406cebc8c70dbdb7cb7e1592e9c41c2d8c2c57ff65f9b1e1501cf4f2"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "61e0cf045bf5fdaa54f9e4d2cb5304b239ca1479e3b2f64be3e1f2b453200b56"
+hash = "64b32c550d9bfa81314951cafe8008e66ab1f5d4da301294226489cc9000baaf"
 metafile = true
 
 [[files]]
 file = "mods/watervision.pw.toml"
-hash = "1e9bcc140af33caf45c8c2e42eb1917e9884b0f26bc99179b6102c5071b1aa87"
+hash = "3e94877a9b48b2156de7f348232beb84729d3e230c7cf267f6e381ef9f8bf8df"
 metafile = true
 
 [[files]]
