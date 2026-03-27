@@ -1,13 +1,13 @@
 name = "[EMF] Entity Model Features"
-filename = "entity_model_features_1.20.1-forge-3.0.12.jar"
+filename = "entity_model_features_1.20.1-forge-3.0.15.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/Q2IpTAPW/entity_model_features_1.20.1-forge-3.0.12.jar"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/IkCzFQPH/entity_model_features_1.20.1-forge-3.0.15.jar"
 hash-format = "sha512"
-hash = "f37797d5d1ddf281848eaa31dd01bbd6847ae7fb9c7369b23eb2c26ef71c7979f3fcc49fd4f5861a9df3dd83e12bbd3d49ee13c85afc75cbd54756bf6972e55b"
+hash = "3ccf36dcf2c1a9c32fd015699cf80ed67f11a539f7521881fd835fff9abf2f87f89770e6e2739decd002ac95e963f89de62225371e8c552b054fb26078d88e2c"
 
 [update]
 [update.modrinth]
 mod-id = "4I1XuqiY"
-version = "Q2IpTAPW"
+version = "IkCzFQPH"
