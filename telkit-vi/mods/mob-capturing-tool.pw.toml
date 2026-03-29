@@ -1,0 +1,13 @@
+name = "Mob Capturing Tool"
+filename = "MobCapturingTool-neoforge-1.21-4.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cj7aaPDl/versions/Pg5SLyud/MobCapturingTool-neoforge-1.21-4.1.0.jar"
+hash-format = "sha512"
+hash = "78416460d1886ec78bcbb669e5d31f24beef55b5f90c6c699b4763b22fe394c22f332687c30f92a10b6a3db16d3a4a9e07bf5bb748ab5b7ba1d6bf7d0b716b1d"
+
+[update]
+[update.modrinth]
+mod-id = "cj7aaPDl"
+version = "Pg5SLyud"
