@@ -382,11 +382,6 @@ hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
 metafile = true
 
 [[files]]
-file = "mods/devices-mod.pw.toml"
-hash = "124f51643a5842b7635d731c9160950f5692293d6255c35765711d555340a56c"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
@@ -1064,11 +1059,6 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "05e353d7f33a21a9cda43b2985ecfa595dd533a63eafc0530534ebee0c0c4bc8"
-metafile = true
-
-[[files]]
-file = "mods/xinexlib.pw.toml"
-hash = "428892132a9c7c97ddb6059fc835f4fb41d14b7ec1ffdd3729c86ec55ad95c12"
 metafile = true
 
 [[files]]
