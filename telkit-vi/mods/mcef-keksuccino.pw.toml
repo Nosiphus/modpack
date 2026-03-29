@@ -1,0 +1,13 @@
+name = "MCEF [Keksuccino's Fork]"
+filename = "mcef_neoforge_2.2.0_MC_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bQhBuv7x/versions/DLlc5rLN/mcef_neoforge_2.2.0_MC_1.21.1.jar"
+hash-format = "sha512"
+hash = "186d9244b7b685811cb8ff6ea01d451cfc5450ea12ecb2bb9295083f2730f425d143f7e89796968555500bdd67407292711aec19e625a5a0e931c947eb20163a"
+
+[update]
+[update.modrinth]
+mod-id = "bQhBuv7x"
+version = "DLlc5rLN"

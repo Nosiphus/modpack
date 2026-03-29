@@ -652,8 +652,8 @@ hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
 metafile = true
 
 [[files]]
-file = "mods/mcef.pw.toml"
-hash = "92b4b8c5d262a7a56d88fe054872ea250dc55680a6bf040c3f97c6e597fbfae1"
+file = "mods/mcef-keksuccino.pw.toml"
+hash = "fdacc34c5fac597b909ffbf56e2638be6d4c5a82ac184907e86f9aed70a6c992"
 metafile = true
 
 [[files]]
