@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "5ae40ff18ee342ea740b75c4afb948c0b521694a72c3f1041ce55673a4c09a22"
+hash = "161c4c26af87ae0bda2861de5a8f53c2ce22bd4c5b58436ca29b71bd81340f1e"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -126,7 +126,7 @@ hash = "848b6f23735b9a10abf8525b75a16006daa88fe9baa8f694735d4c7410a228e3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "43d95c08f9ff906ca1e16696cc7216a2ec6ed8c08826b2b1c3a6c6727ab4b415"
+hash = "d3bf7ece2417a62d421c471b32a52d0b08c4509b6d7d34589264cbc06998edc3"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/cb-multipart.pw.toml"
-hash = "1738b50832f89b56e1097391c82f0ffcf60f2f102c60b3fc252e4eb82b8fb3cb"
+hash = "367e5f74d3d249e01e899f9d6b9892a285d3c6ddf18d6876982b5a9694816983"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "e4e65110b89d5f0437764523e6a904b8c2e7b93d2c55f52881b81450736c1f04"
+hash = "ba427b584e4889af9c3de10ac52031cd79cea952f94b6a291f467c644c677365"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b9c6280a68926277615eb5ddec06e1255db237e20864fc6756c362b0145385e3"
+hash = "a53515dc59b550cc1d721b8f00207246535cb1c1291f3277395d97b5cd54e1b1"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "0527606db8310069691f49568253c77cfc214b6a9c570c7a35b261871b54142d"
+hash = "0354c6043ed22304fc41395a069a291e9ce51109492082159169527698f5665a"
 metafile = true
 
 [[files]]
