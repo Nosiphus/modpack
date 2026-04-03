@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "6d285722800026a8c6151a24114aa2cd9ae5e5e2ba553f2a47ee82076220b284"
+hash = "8b94e7cb2799ff1ae945205c8d4a10d8a3d93dfcce15dffc7e79b31a8e16f670"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -182,6 +182,11 @@ hash = "9369292bea18bb65ba56285a1da5929527b76deb11347ad062b9d82ac1a3b7e0"
 metafile = true
 
 [[files]]
+file = "mods/assembly-lines.pw.toml"
+hash = "e86ac5c7dbe147e0f86fc32fdaa2a7329c1cfd54cfc843c8488a547582249aeb"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
 metafile = true
@@ -224,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/bl4cks-sit.pw.toml"
 hash = "2cfa9768cc635d7ec8cbc0172e62db5ad0fc79117b927344d7f2484b78ebd7b7"
+metafile = true
+
+[[files]]
+file = "mods/blastcraft.pw.toml"
+hash = "3c3e9e2d0ef308d0cfe93fea0a18f6ddca6af7ade0df3296becc52899b590fc8"
 metafile = true
 
 [[files]]
@@ -392,8 +402,18 @@ hash = "fe97e20f4ad93e53968cf4f186cfd8d3827bd8d3b064b53f3ce910d0d780b3f4"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-electricity.pw.toml"
+hash = "2dd0dbe4b0e915990502f03ed870e484636e2425ec96a24066b339d634fc620f"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
+file = "mods/electrodynamics.pw.toml"
+hash = "895f27d476279bb170ffcb5a4c07d238afbb9e6b014912b34c9f95cf6923acb7"
 metafile = true
 
 [[files]]
@@ -728,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "38eea2ca7a239251665b153faaa13fc6adff8abb4efa1f4c8ebdc43502023330"
+hash = "91cfdcee62cc8ef6f6269562b3da00f06a9789a5169765b5175c4d34c17d16dc"
 metafile = true
 
 [[files]]
@@ -773,12 +793,17 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "9379ff4da58adbf16e36518a0f3b933f289cf8d221122739523f722cf7c6dabd"
+hash = "a899eb44a32d94e2d10f5d7735f4d6fcafad36f5fe29a8c08d5352cf6c5e8958"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "95df77dc1c58207b317c8933867660abdaef61df64678eaaadac3fdf17cc3d6a"
+metafile = true
+
+[[files]]
+file = "mods/nuclear-science.pw.toml"
+hash = "cc36a1dfb56b2175c9ce681b5fb7036dcc1236ed13e89100a598fa5341ba4796"
 metafile = true
 
 [[files]]
@@ -1063,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "40150c00e2ae4ac292ec5cd9be9859d2ed6c082e41129977b80198afec07e9f3"
+hash = "42931d3d16cfb45f2ccc03b1bd068b01f4c9605947f392c4c474edeb808de145"
 metafile = true
 
 [[files]]

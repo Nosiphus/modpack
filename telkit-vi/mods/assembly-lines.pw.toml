@@ -1,0 +1,13 @@
+name = "Assembly Line"
+filename = "assemblyline-1.21.1-0.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SoWP7zzK/versions/4rROhot9/assemblyline-1.21.1-0.8.1.jar"
+hash-format = "sha512"
+hash = "966ec65b5c1022a7bf66b5fcaf5f2297420950d96dd14df1a9116ecfd8ca26682ba36bef78f92acfcf22cd1bafe1adeaee1bf753f3602f4eab57db796dd5238f"
+
+[update]
+[update.modrinth]
+mod-id = "SoWP7zzK"
+version = "4rROhot9"
