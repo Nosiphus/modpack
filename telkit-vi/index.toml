@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "8b94e7cb2799ff1ae945205c8d4a10d8a3d93dfcce15dffc7e79b31a8e16f670"
+hash = "3224c5110f68e79be44a88e4662fdeb7968a9d557e2add2f0a8b18beaafc44e2"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -182,8 +182,8 @@ hash = "9369292bea18bb65ba56285a1da5929527b76deb11347ad062b9d82ac1a3b7e0"
 metafile = true
 
 [[files]]
-file = "mods/assembly-lines.pw.toml"
-hash = "e86ac5c7dbe147e0f86fc32fdaa2a7329c1cfd54cfc843c8488a547582249aeb"
+file = "mods/assembly-lines.toml"
+hash = "880451dcfdadbd0d03387963a0168fa103b02c3ec1dc222ce59a50317b927f33"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/backpacked.pw.toml"
-hash = "f6ecd015d69886fff80bd67a88d0a5ded19acf6307ab8014fc13112a804a8a1a"
+hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
 metafile = true
 
 [[files]]
@@ -212,8 +212,8 @@ hash = "f56e057edc7f9bdf108c054630603297c9b7ba414e498c5a76049ebaac5c6f10"
 metafile = true
 
 [[files]]
-file = "mods/ballistix.pw.toml"
-hash = "e2165003d35d7e58508a1dee9284858ce382a62c37d75bc369aa4234faccfb98"
+file = "mods/ballistix.toml"
+hash = "49f08a13ee3d8e50e47bf9d76a949c86ddfba8f4015164c67208267117416d1a"
 metafile = true
 
 [[files]]
@@ -232,8 +232,8 @@ hash = "2cfa9768cc635d7ec8cbc0172e62db5ad0fc79117b927344d7f2484b78ebd7b7"
 metafile = true
 
 [[files]]
-file = "mods/blastcraft.pw.toml"
-hash = "3c3e9e2d0ef308d0cfe93fea0a18f6ddca6af7ade0df3296becc52899b590fc8"
+file = "mods/blastcraft.toml"
+hash = "2f8f5f4af3cf8598decb4598c6193443d9540e90f7edc693d21d30c53121afb2"
 metafile = true
 
 [[files]]
@@ -412,8 +412,8 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
-file = "mods/electrodynamics.pw.toml"
-hash = "895f27d476279bb170ffcb5a4c07d238afbb9e6b014912b34c9f95cf6923acb7"
+file = "mods/electrodynamics.toml"
+hash = "0369a4b94672745ab89adea80abbf4438320f1196cc1a0ff38f30033c897e2aa"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "a2af0caf7d6e18869354984c7acdb24c3922613a0346dbb602227878c814e92f"
+hash = "d1b7cd4a0396962f290677b5d63b02d8f20e79ef9fce5b1234644c9b2f1031ef"
 metafile = true
 
 [[files]]
@@ -748,7 +748,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "91cfdcee62cc8ef6f6269562b3da00f06a9789a5169765b5175c4d34c17d16dc"
+hash = "98cd5355bc3c08cf1ad815be2c47c13ac66ea617a330f6de12783b200570e605"
 metafile = true
 
 [[files]]
@@ -802,8 +802,8 @@ hash = "95df77dc1c58207b317c8933867660abdaef61df64678eaaadac3fdf17cc3d6a"
 metafile = true
 
 [[files]]
-file = "mods/nuclear-science.pw.toml"
-hash = "cc36a1dfb56b2175c9ce681b5fb7036dcc1236ed13e89100a598fa5341ba4796"
+file = "mods/nuclear-science.toml"
+hash = "a563c76e0699d6031aeeb71ca8c6c6f3ab34213740bab569c1866a7ae71908a7"
 metafile = true
 
 [[files]]
@@ -868,37 +868,37 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "d3836bd594db86f5a522c055bdbb6aedf1a8a3069db10f1598f5adb392406514"
+hash = "674141c7d0a61a829c319f955dad049d5578bd7cac9d2bf4ff1043185b7cc06a"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "2223b05b70adafe1be91d9d11b912ebf16b2e41eabd7808881493cfee4d87738"
+hash = "a72d5306b5cebb0a005fed3d964300661e79b3499f37b50af0421630771f695d"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "537a23f5b486f4559f5a0ec7e7cfe04fd28c2bf045f514050aafac5adc17166a"
+hash = "aef5fdf17316c2f496b8ff4bcdc14f95813d62f234eebb11e18f824ff9903f2e"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "ef979216bee4aeeb70697fb8b5579612a364b2a5e7228ad585587e43decf85ca"
+hash = "86bbd5f64f0c91a2e113a85e1d32dbf91dfec0483e7504ad1dc633da08ea6e62"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "8b29d11f0b3127a7e041bb69cce957f37222e2cecc3bc1df71537427ea420e42"
+hash = "4c9f646e7383cca1ebf7400516edaa734eff1d98efcac4eba549a46894190e99"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "678f7f1d36e292292b159541491e99794fcae6850b85839ff278b32c841c277b"
+hash = "0906fd0920b78c41ebfd9c5c1ab30b268006d2a1a9e9d53ac458871d707e61ad"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "a467b0a5f06dd077684f03dfd8bc5750f9296194c045152fc6a8614377f684cc"
+hash = "dd601e1f95b3094bcf9d3dea5cfdd801bdad8ad921fb1d78912f126621be4372"
 metafile = true
 
 [[files]]
@@ -1008,7 +1008,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4e45380047390a7981bad480189ac806694d244bb10138ede288fd2e4539dc1f"
+hash = "2fa02aea4170fa3e351e21b40ed823f4df37c7149dcd7a51ca450558c8021a4e"
 metafile = true
 
 [[files]]
@@ -1037,8 +1037,8 @@ hash = "2071d300ab28356edf9ffec6e09c5e0bd049f6f6b55cc54f4dc497322a635b95"
 metafile = true
 
 [[files]]
-file = "mods/voltaic.pw.toml"
-hash = "27d3d2c210a0dac3707f6d20ec9d32db31a021fc1659a972e48af67dd9a929e7"
+file = "mods/voltaic.toml"
+hash = "c01a54b747198fd94bbcf5294d2a589bcbc6edd3d9bf49df6a866c615507afa7"
 metafile = true
 
 [[files]]
@@ -1088,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "42931d3d16cfb45f2ccc03b1bd068b01f4c9605947f392c4c474edeb808de145"
+hash = "b6965fc7e2551a4c73026781be4e592af11c23b776eec9b6dc3ee928ff2be3e7"
 metafile = true
 
 [[files]]

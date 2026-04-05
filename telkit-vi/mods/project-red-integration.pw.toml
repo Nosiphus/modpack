@@ -1,13 +1,13 @@
 name = "Project Red Integration"
-filename = "ProjectRed-1.21.1-4.22.0-beta+37-integration.jar"
+filename = "ProjectRed-1.21.1-4.22.0-beta+39-integration.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3JruZJb0/versions/eMXL8xqs/ProjectRed-1.21.1-4.22.0-beta%2B37-integration.jar"
+url = "https://cdn.modrinth.com/data/3JruZJb0/versions/Ra9lhXjf/ProjectRed-1.21.1-4.22.0-beta%2B39-integration.jar"
 hash-format = "sha512"
-hash = "892880a5dfebee527acf1d92e31a7a456417baed55e5fda4c5c0831c778f82e379e88574923f2b036c82eb953eb84e53d9e3ff0e770b95902d24e312d2dcdb02"
+hash = "bebc7a1757346ebbc81f4c98deaf2fa2baa99ae22d770bec367c50a46af38a30142f372a8ebaf611b0569a669e77a9290b5ba1278b8788a7f76a44f72c0d4eba"
 
 [update]
 [update.modrinth]
 mod-id = "3JruZJb0"
-version = "eMXL8xqs"
+version = "Ra9lhXjf"

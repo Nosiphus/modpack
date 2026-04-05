@@ -1,13 +1,13 @@
 name = "Project Red Expansion"
-filename = "ProjectRed-1.21.1-4.22.0-beta+37-expansion.jar"
+filename = "ProjectRed-1.21.1-4.22.0-beta+39-expansion.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fn5zBLFv/versions/vQLtax4j/ProjectRed-1.21.1-4.22.0-beta%2B37-expansion.jar"
+url = "https://cdn.modrinth.com/data/fn5zBLFv/versions/OGmwn4qp/ProjectRed-1.21.1-4.22.0-beta%2B39-expansion.jar"
 hash-format = "sha512"
-hash = "969d619707904f2560ff9c4701db7200ff870172eb4c13b08775cba64c124fa2034df7c9ebfd9a5375e8a34bce80baaa8e769a4d24443a6130cbe672b6b11c7e"
+hash = "146d6c2a73bef55450d87f9aa00dd0c1683058d77e8b59047babaeda630b0a80f2c528fba006fabe74173c8217b253bc07406a57a508d70314e4d4bd05596593"
 
 [update]
 [update.modrinth]
 mod-id = "fn5zBLFv"
-version = "vQLtax4j"
+version = "OGmwn4qp"

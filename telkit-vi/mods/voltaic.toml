@@ -1,0 +1,8 @@
+name = "Voltaic"
+filename = "voltaic-1.21.1-1.0.2-bugfix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/temporary-fixes/1.21.1/voltaic-1.21.1-1.0.2-bugfix.jar"
+hash-format = "sha1"
+hash = "ef4b075698016cebdc7a478e77674b19d7f49803"

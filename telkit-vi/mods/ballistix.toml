@@ -1,0 +1,8 @@
+name = "Ballistix"
+filename = "ballistix-1.21.1-1.0.1-bugfix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/temporary-fixes/1.21.1/ballistix-1.21.1-1.0.1-bugfix.jar"
+hash-format = "sha1"
+hash = "cb0283a058116ae67e7795357ecaa6fcee4bf545"

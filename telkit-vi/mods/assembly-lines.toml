@@ -1,0 +1,8 @@
+name = "Assembly Line"
+filename = "assemblyline-1.21.1-0.8.1-bugfix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/temporary-fixes/1.21.1/assemblyline-1.21.1-0.8.1-bugfix.jar"
+hash-format = "sha1"
+hash = "29d874fea263e5a431c368cd3021f1e3ef13e6d5"
