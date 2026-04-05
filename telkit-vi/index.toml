@@ -93,6 +93,10 @@ file = "config/fancymenu/panoramas/primary/properties.txt"
 hash = "4271cf8c8856b435072372a9878608380b3f0da75b91c9f0272351596cb2133a"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "6b403ed8d357fc6b422f4e8e25241722c3161788a440643136f2316679cfcc7d"
+
+[[files]]
 file = "config/mca.json"
 hash = "00b84b847ea3eb02332396511aa373ab743d14e2dd62b9c87099e1f1c1e87f6c"
 
