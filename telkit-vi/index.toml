@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "3224c5110f68e79be44a88e4662fdeb7968a9d557e2add2f0a8b18beaafc44e2"
+hash = "0be5bd0acafec16867b2f2f7b70a573a37954e8e950b0f59b4c812fa11a46d9c"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "91cfdcee62cc8ef6f6269562b3da00f06a9789a5169765b5175c4d34c17d16dc"
+hash = "579103387e2bad8c05c78bff288bf8555349033856ae10c069296b04b06e5956"
 metafile = true
 
 [[files]]
@@ -1012,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "4e45380047390a7981bad480189ac806694d244bb10138ede288fd2e4539dc1f"
+hash = "f7803f5b0dbb8edca20f60be7a4f50c58be9c4c93fa05a790e2702adcef6fb88"
 metafile = true
 
 [[files]]
