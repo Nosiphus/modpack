@@ -1,13 +1,13 @@
 name = "Project Red Illumination"
-filename = "ProjectRed-1.21.1-4.22.0-beta+39-illumination.jar"
+filename = "ProjectRed-1.21.1-4.22.0-illumination.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9a4Zqq1k/versions/iwihWNe8/ProjectRed-1.21.1-4.22.0-beta%2B39-illumination.jar"
+url = "https://cdn.modrinth.com/data/9a4Zqq1k/versions/uADvDgII/ProjectRed-1.21.1-4.22.0-illumination.jar"
 hash-format = "sha512"
-hash = "e6f05d3b93d25e38d7c07c764f4e76100cf3ff3655ad30b264b5eb91a03d5f2014e0e74ce1dfd5923475d612394b6b7e741705d22fca4ec1b4d3646c7cbe9f0d"
+hash = "e06a21bd6954efe689e89d9ed5dc4ebc3d5c9eab5e4da979f6a60144e2d72ed1e8d6c879defcbd290ae2433a32844bff9d498d8ea5a968369822dd942e28762d"
 
 [update]
 [update.modrinth]
 mod-id = "9a4Zqq1k"
-version = "iwihWNe8"
+version = "uADvDgII"

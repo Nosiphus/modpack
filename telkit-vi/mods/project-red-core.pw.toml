@@ -1,13 +1,13 @@
 name = "Project Red Core"
-filename = "ProjectRed-1.21.1-4.22.0-beta+39-core.jar"
+filename = "ProjectRed-1.21.1-4.22.0-core.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zIlxygxr/versions/CF0uUqI9/ProjectRed-1.21.1-4.22.0-beta%2B39-core.jar"
+url = "https://cdn.modrinth.com/data/zIlxygxr/versions/va48Klx8/ProjectRed-1.21.1-4.22.0-core.jar"
 hash-format = "sha512"
-hash = "1e01b84bd8983928f7496fb2842b24349bedf9bad081af9c73568cbe519e8a32eddc83fe715dcf618c953720c134424c3a80b18fa9e4c83f1377bc21dc240609"
+hash = "bb24e2ef88bd3a6b1d0dc77351c9d6a0afb576944837a9241b2e4bb540b320f84550ca524a435988ce4cb1f2a14f6dfe8c6c9350032479c4c0048c9055da3741"
 
 [update]
 [update.modrinth]
 mod-id = "zIlxygxr"
-version = "CF0uUqI9"
+version = "va48Klx8"

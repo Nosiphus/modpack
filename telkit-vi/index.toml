@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "0be5bd0acafec16867b2f2f7b70a573a37954e8e950b0f59b4c812fa11a46d9c"
+hash = "b4d6924c5d21229044b0751ef3382b227eb9989e0a83d7e7d891e11c70c9c75a"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -872,37 +872,37 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "674141c7d0a61a829c319f955dad049d5578bd7cac9d2bf4ff1043185b7cc06a"
+hash = "f1e3ffb76a0bc1b78848c1dca7e6bad3d54d38c3c5445c0690dc1c9ba5582896"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "a72d5306b5cebb0a005fed3d964300661e79b3499f37b50af0421630771f695d"
+hash = "a5fbf6645505b6553e5a2f8d5a591555c868572a1672db1212e3aa1c2c68168d"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "aef5fdf17316c2f496b8ff4bcdc14f95813d62f234eebb11e18f824ff9903f2e"
+hash = "95e23a42ae61a072d766978cf6254199f540723d401947f62daaeab1e8d18eb5"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "86bbd5f64f0c91a2e113a85e1d32dbf91dfec0483e7504ad1dc633da08ea6e62"
+hash = "38fa3099a3e9e78fe154147fdd8bebc9bdbca58851c0c3bb024ed84792935752"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "4c9f646e7383cca1ebf7400516edaa734eff1d98efcac4eba549a46894190e99"
+hash = "477285502899b4193764effbbe3118a8e7d3731619a559adc184a4aa2d208f96"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "0906fd0920b78c41ebfd9c5c1ab30b268006d2a1a9e9d53ac458871d707e61ad"
+hash = "0aa619b42ae48cb97f55d1485781f5220585818b9b67f90718e50c6aa00d84af"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "dd601e1f95b3094bcf9d3dea5cfdd801bdad8ad921fb1d78912f126621be4372"
+hash = "e97960a5909e986c8f967fcaf155d961359cff8d25292025b326d792b2496371"
 metafile = true
 
 [[files]]

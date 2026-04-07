@@ -1,13 +1,13 @@
 name = "Project Red Fabrication"
-filename = "ProjectRed-1.21.1-4.22.0-beta+39-fabrication.jar"
+filename = "ProjectRed-1.21.1-4.22.0-fabrication.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5H1VMCiY/versions/LxjkInKO/ProjectRed-1.21.1-4.22.0-beta%2B39-fabrication.jar"
+url = "https://cdn.modrinth.com/data/5H1VMCiY/versions/YBqHA1Sj/ProjectRed-1.21.1-4.22.0-fabrication.jar"
 hash-format = "sha512"
-hash = "3ff732e2cbb36b7183e15f7e2f05e36b492adfecdb63df9b16861746eb42eb0ce09a206f316b666dbc8e09fb809c882dc054034c077bb97e96c03fad92c3dec1"
+hash = "aca9a3c259c4d0ff1e661a9c52dd490bd9711e52f6f10472e78d6017a5d01af7f3b6342678d6b669ccc10bbded54b40abd8986401d49f2599b7738b99ec25af0"
 
 [update]
 [update.modrinth]
 mod-id = "5H1VMCiY"
-version = "LxjkInKO"
+version = "YBqHA1Sj"
