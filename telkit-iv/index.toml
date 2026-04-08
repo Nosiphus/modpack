@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "d0f6a463b1baede40e6b2dc886dace2a29378378d7e5ee47b96c3b90a74a42b3"
+hash = "cf00603df35db9c4d6db5850696a3183ad1eec9c7c4514eeca808552b6db11e0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "5cb206104743115cdc16fbc17e469afdddcb4dedc99c1edd95becdecd0f4415f"
+hash = "0543d4466b6558950d65d588bebb7fe0838b05c128339321686029e95f2d56ab"
 metafile = true
 
 [[files]]
@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
-hash = "02fa65ec589a8708c8ece47393c4411c188bf7b03b9dca7c2e092661ec3efa0a"
+hash = "5942d7abe0e8b6ca2267f7442afdcf9c7971ccdad7092e900c787e5a6b9ca02e"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "48e8cc728dd00c3f514b6109f5d768e010a748cd3039f76c93b53cafeaece659"
+hash = "12e715800b1cb88e58c9d387f9bd16df6993b2c89aaafd77a9b17e1d0c177a62"
 metafile = true
 
 [[files]]
@@ -1005,7 +1005,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "42017975919febf34162165ad3e93ce6a834615095e4148e38871c14f7514fe1"
+hash = "c814b9b22c742ccec85b500611a7937d3a4363ee23de906d581f2d3c9ce1cb44"
 metafile = true
 
 [[files]]
@@ -1095,7 +1095,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "baa416593800f21b2033126d72547c25c3e35aef5bdf2393b5544917995f15a8"
+hash = "6337487c6c609e1f177452b29a9dc0fdac6f310c5664b3c614d2d819c3bc9272"
 metafile = true
 
 [[files]]
@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "4f3c3117e716adf7fb95354daf9e34a830a5e8b0386ba1d983e522e1fc4a3381"
+hash = "1bc0876139588ab6e6138be6c2e89ef77fff79d9578e8dec2f4cd4eb4f4f3de4"
 metafile = true
 
 [[files]]

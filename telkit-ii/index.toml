@@ -93,7 +93,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "7f53c85fb413765ece6fd9a933b07296039a6330f692ca5bbf5e72e9281860e6"
+hash = "d874a33814571257e279a70c3dd79bf50630f95b0b5b80dfbc320d49e9fb09b0"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "2cb2a1e98184dfba90d43984be6900ec4920e779c93e28d03844c453e7d8cd90"
+hash = "1f43e8fa7c768990f4f38a1713ce3bda4dce8bab863d15e33d2831ccc2c83d42"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-beta-forge.pw.toml"
-hash = "a4edebb1467c015847c8402adee103bba6f2b650c2287544e2376831dc5c25d5"
+hash = "f3ccf76a757190932e4ddc149ae073cadda1c0a909bf88f5f25692e6f2fa6fab"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/reid.pw.toml"
-hash = "830e907eda25bbb6b07e9de1d86c77de768ce49dee1118361b504224d1e43846"
+hash = "57894f082c1337ee1d2f3fc2d70431da213f84d8712b3053f42e0930ef8c7285"
 metafile = true
 
 [[files]]

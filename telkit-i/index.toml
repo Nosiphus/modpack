@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "03fa01a6890f0cb35b00d15c8c2109d7ec5f2dfdd3912e0ab983861fe74aac40"
+hash = "246d2ecb799b96d73e11b0ca7d6679f334c94faf8be6dfce26f0098bc8afda1d"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "35f9d9e6bf00ade5e2e39a47d8a3cc9e47087a184c016fcac9c973f106839b4c"
+hash = "15dbe65585174b35575d2ac33ed642e8a2bb1676550bedb3e29374a1a1c1d8c1"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-chest-unofficial.pw.toml"
-hash = "7bb6346b66f0ad4e317e1fe1c87edac6f728ca1d5f6f113ef1cf35e3d5f2a0a6"
+hash = "3ea330eb5bc8e351d71b6adeee9fc56eac4b086e1b895a972146621ce77e746f"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/nemexlib.pw.toml"
-hash = "16cf5b6c9eb01af82cb52c6089e622cd9ec1c884a5d5d81b57fbd203889b9da7"
+hash = "9ad34da144338a2c42f12920f47d0bfc266efafeb7928707d0312a42dc13237c"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "776194bc53d6b3ed49e48aa5683b4b45923688a2d9cbfa88d1b1bcb178488789"
+hash = "84c48c5ae689e17b8f1ade654f4ea513a46979a45e8a70446e4589fb914740ed"
 metafile = true
 
 [[files]]

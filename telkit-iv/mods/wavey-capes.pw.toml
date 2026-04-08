@@ -1,13 +1,13 @@
 name = "Wavey Capes"
-filename = "waveycapes-forge-1.8.2-mc1.19.2.jar"
+filename = "waveycapes-forge-1.9.0-mc1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/RiJ5SUnc/waveycapes-forge-1.8.2-mc1.19.2.jar"
-hash-format = "sha1"
-hash = "037486ef77d6318ef69071628b382f9e84c54061"
+url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/WsoDwo3k/waveycapes-forge-1.9.0-mc1.19.2.jar"
+hash-format = "sha512"
+hash = "949b5760a600521e63a0a6f1f54b151883a60abcb41d40d307885828eb34bdc0fe7833b7ab2f6ef7f242b48d7d17630d71d076ad81a5d4d89d7b098237170e51"
 
 [update]
 [update.modrinth]
 mod-id = "kYuIpRLv"
-version = "RiJ5SUnc"
+version = "WsoDwo3k"
