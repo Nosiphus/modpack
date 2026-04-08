@@ -1,0 +1,13 @@
+name = "Fazcraft [Minecraft X FNAF]"
+filename = "fazcraft-5.3.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fLPTiVsP/versions/jpMlG0Zn/fazcraft-5.3.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "2375df9c769580ddfdb6186448380b57b3b98f03c433e5caca8c313cab14863a197b4db4a62387a9651ee333d17886e83fface2e35fc3777f752f50f61d2346d"
+
+[update]
+[update.modrinth]
+mod-id = "fLPTiVsP"
+version = "jpMlG0Zn"

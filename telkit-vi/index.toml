@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "b4d6924c5d21229044b0751ef3382b227eb9989e0a83d7e7d891e11c70c9c75a"
+hash = "64e40efe47e4b19036148e3b33aae9ccce51dcf0c4f31cec1e7422275f1147c6"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -503,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "0d13e70b59a7f4623237f6b03e22368235d123030f36f18312fd20a8f7d2e459"
+metafile = true
+
+[[files]]
+file = "mods/fazcraft.pw.toml"
+hash = "8199e15191973d8cd84d23a59a40bd73cd0f632680e95118a832c181b1c6ab13"
 metafile = true
 
 [[files]]
