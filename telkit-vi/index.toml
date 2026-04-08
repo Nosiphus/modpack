@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/blastcraft.toml"
-hash = "2f8f5f4af3cf8598decb4598c6193443d9540e90f7edc693d21d30c53121afb2"
+hash = "607433518879f8d494ddcdbc8c683a4ef139a491cc4823a041ef771a20b883fe"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
 metafile = true
 
 [[files]]
@@ -1012,7 +1012,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f7803f5b0dbb8edca20f60be7a4f50c58be9c4c93fa05a790e2702adcef6fb88"
+hash = "fa0e1562f9dc89d6428546c7388dcfce8706843333d58f16cadce42b56b81085"
 metafile = true
 
 [[files]]

@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/Nosiphus/legacy-mods/raw/main/temporary-fixes/1.21.1/blastcraft-1.21.1-0.6.1-bugfix.jar"
 hash-format = "sha1"
-hash = "a22b065275905341ba90f6cd5707e5401d43f19c"
+hash = "bb13b7e82590c5cc03feb222f842f22f6684787e"
