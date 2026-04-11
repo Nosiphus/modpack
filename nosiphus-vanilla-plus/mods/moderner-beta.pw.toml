@@ -1,13 +1,13 @@
 name = "Moderner Beta"
-filename = "moderner-beta-fabric-4.1.0+1.21.11.jar"
+filename = "moderner-beta-fabric-4.1.2+26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xkrdwmh2/versions/uexl5ix9/moderner-beta-fabric-4.1.0%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/xkrdwmh2/versions/Eti6GsSk/moderner-beta-fabric-4.1.2%2B26.1.jar"
 hash-format = "sha512"
-hash = "23afcee4a007476562c5cd91b7bbc1e9bc85f934937f0b70f13b7006eb992b56a0af3164fa6766859f8806296e8d5f61ed9d7a9de2f4b38430e85b547999a497"
+hash = "6a76eef6f23025afffe0b2879e8bb7251786730857a34df32db0a32254d70e14b5d441181669ab98856ba34ac1c230b767d708016a2fbe0fc1998e18412de858"
 
 [update]
 [update.modrinth]
 mod-id = "xkrdwmh2"
-version = "uexl5ix9"
+version = "Eti6GsSk"
