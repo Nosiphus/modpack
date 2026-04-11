@@ -1,13 +1,13 @@
 name = "Wavey Capes"
-filename = "waveycapes-neoforge-1.9.0-mc1.21.1.jar"
+filename = "waveycapes-neoforge-1.9.1-mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/JqeI7moJ/waveycapes-neoforge-1.9.0-mc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/2r45Qj2g/waveycapes-neoforge-1.9.1-mc1.21.1.jar"
 hash-format = "sha512"
-hash = "61459a02a88c7d5a5032ded3b98eee13b41f9c78c0d2237f786f2fa24d5583dbc91d3f62410f9c8271ac1ce68b557497e32df8795e012d7a70756379138d673a"
+hash = "a6ce8a8d4af9d48e5f30de88412f5766da8483e4c5b8bc8c50734975574a0334be54f4ce316f76b3578b56a47215b56cd0e5aad1a3339aae65524e38284665c2"
 
 [update]
 [update.modrinth]
 mod-id = "kYuIpRLv"
-version = "JqeI7moJ"
+version = "2r45Qj2g"

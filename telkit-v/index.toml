@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "bf77c6442130b4c906f9a12b41f642700969a31de2d0e88a6391d95a0e8dd25e"
+hash = "3c8ee0506d0f3439b1acb99cb7cadceea0fb8731320cb7c6d6e0b505135546b1"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "ac25520dc59f04bd89987c94245e17af494e2cbd5119f13e668ef479d2c532d7"
+hash = "7e58c4b66225f8719153ab8dbafd5973a04a0ec5bb400027cb1d6c482010d08a"
 metafile = true
 
 [[files]]
@@ -526,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "36a828ae63ac3773de72f0a3a5d334585638c9db2cd43706b7304f094b05e0f3"
+hash = "1dfac146a84e16f89ae17bcc8e9ee745040f8310dfc9c9b896c7ad372cdd82ca"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka.pw.toml"
-hash = "ea5978195094b811b9d816ecc036e6708da47bb33c4099fbcf6ce54a47d849ed"
+hash = "030fd4b2669a0910c2f00197df7d3cfdea50092d8ead3530bb9c5e29c186cf13"
 metafile = true
 
 [[files]]
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2aaf548ace41b41889cfb7ee5cdc6d1c3934fc4a79050fcd191e14733a4a8a87"
+hash = "95e7b6ea7bde11f57b27ef872bf20ac0ddb9c5f3ab3cf337c2e45239b7f25be4"
 metafile = true
 
 [[files]]
@@ -1206,7 +1206,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "be4df4781a5bab8ca7b7df428b3fc0ef7ecc6d6c8862e73c226d0e8335e0b0ce"
+hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "0354c6043ed22304fc41395a069a291e9ce51109492082159169527698f5665a"
+hash = "966261d1478e516dcdf5e58a81e3d4a866847ca530628e00de6f0e54af9e992f"
 metafile = true
 
 [[files]]
