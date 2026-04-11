@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "033a30ce1d0715f0a3082f6d06a1daf6e6cbf063b07131df245aadf50f95aa9d"
+hash = "130b5e7596104cf20b1aa21130cdd66b60c1f4f462606713a393d864c00f3863"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -273,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "bf0c5cf4279509496b9763b7f04449862fbc7277da2c7d368c8caa439c7c3e65"
+metafile = true
+
+[[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "87cef7e82da6ef089a8807c73e8fbfd90ec33dbd5b73845da3f3258012a1d1ff"
 metafile = true
 
 [[files]]
@@ -592,12 +597,17 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7343aac2ed76435e51087b333b81f3c2b6e90975960f9f43e8f9e2f79571f88e"
+hash = "1ef97ce01670bb73af698f21321630789d95aa8ab622d5380daa28844b3b16d4"
 metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "0b8f9597082c8ed5efab588d7c41669746aea9bc10b1f26f5ab2bb4cff446b4d"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "6bd99925d8c80d2032caae90b8a17552b14d9217e9cf9d522e54b303c061b3e2"
 metafile = true
 
 [[files]]
@@ -1093,6 +1103,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "05e353d7f33a21a9cda43b2985ecfa595dd533a63eafc0530534ebee0c0c4bc8"
+metafile = true
+
+[[files]]
+file = "mods/xks-decoration.pw.toml"
+hash = "ec29d46ec4ad18fc0d48f53a9fa2a7a2240fa707071a4bc860c11f10e0a45d55"
 metafile = true
 
 [[files]]

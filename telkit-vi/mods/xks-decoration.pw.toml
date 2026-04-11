@@ -1,0 +1,13 @@
+name = "XK's Decoration"
+filename = "XeKr's Decoration-1.21.1-NeoForge-1.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XlwMlNhH/versions/iNbWfskD/XeKr%27s%20Decoration-1.21.1-NeoForge-1.1.9.jar"
+hash-format = "sha512"
+hash = "6f2e137f5f9d5161183dcd043bb24cbd77af68b8a3359980972cb9ec881468e1a64eed6d9bf6602193f764207327e6a9a4972b36140f1d32b558394761ec8019"
+
+[update]
+[update.modrinth]
+mod-id = "XlwMlNhH"
+version = "iNbWfskD"
