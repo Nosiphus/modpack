@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "94e45b32e216ff297f1abb00019b6bb8ee6a7787e682996e32307fb2e18a37ea"
+hash = "5b76acfd3274e8b3ac95ba027725303763cc27e60c352ab4f7b58563d0f0f6a7"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "6ff3c80beeca1b2ae78bde5948fdbf432413ebeed98e325368bc5cd098e1b4eb"
+hash = "738cacea0362f1180c9d38510ef12f12d746aeb33a81bd5554119e6209065cb0"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "d88699860b00bb7b28b96fffcfd3384be27ba4f559eabc3845b2220dba72688e"
+hash = "aa89b8c9615dc350653c3af352ce882fb2172a70c089cdf373c9c5b4275071ad"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "d16f2d49c73cfbf63d9951c05b6453632d4f31ed3bd95024d1a3646ec3c983f2"
+hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/searchables.pw.toml"
-hash = "abc0b0e0bb7584463e011100c8702a83645a8f392a077288cff7c26ade727775"
+hash = "a606f6f9cebde93fb1e93548291dd40ab19786064fd61afb5d41195741b152eb"
 metafile = true
 
 [[files]]
