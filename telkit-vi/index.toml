@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "130b5e7596104cf20b1aa21130cdd66b60c1f4f462606713a393d864c00f3863"
+hash = "eb03f719f9a6b0ce3647c26129183923868c3a3c86cc71b74916c137f3f936a3"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/fazcraft.pw.toml"
-hash = "8199e15191973d8cd84d23a59a40bd73cd0f632680e95118a832c181b1c6ab13"
+hash = "59ff06bd7067c0798121adbbaf8107ff51da20164834c7314367b6364cf01381"
 metafile = true
 
 [[files]]
@@ -757,12 +757,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ec1814f6be658acf1cf56bc89588e9689fc69629712d28fd19936a61dd5f1fbc"
+hash = "bac10dc72e41ee6df7a09ebd7e16e905897d54a2d9cb9f0c3fa14f569bd6d992"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "579103387e2bad8c05c78bff288bf8555349033856ae10c069296b04b06e5956"
+hash = "330c22ba1a3c74c3767649c7d8ae892634214916123c7d868825be2816e14f80"
 metafile = true
 
 [[files]]
