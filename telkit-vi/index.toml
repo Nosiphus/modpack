@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "792da91c013324fd932a362dbd6e2ef399b57b9c7dacc9b5783b8fa644b46143"
+hash = "69254427602e6ee78be5d0c24ccdbb7fea87f272764853c88e5bb09dc68d81c3"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -807,7 +807,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "a899eb44a32d94e2d10f5d7735f4d6fcafad36f5fe29a8c08d5352cf6c5e8958"
+hash = "62a5945465b5d09fff4f59f7468577e589a946874bafaa8f18175d8e7bcaa458"
 metafile = true
 
 [[files]]
