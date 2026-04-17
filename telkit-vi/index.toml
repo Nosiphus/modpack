@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "c3680c7693e33d61fd71540576185bf028e57ba1d9c46e29ac136c4b3bc76e6f"
+hash = "792da91c013324fd932a362dbd6e2ef399b57b9c7dacc9b5783b8fa644b46143"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -437,7 +437,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "beef54d1aaca0017d151c54bef18db45d3911de0c1fdb089dda15cb50e45da30"
+hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d1b7cd4a0396962f290677b5d63b02d8f20e79ef9fce5b1234644c9b2f1031ef"
+hash = "0bbd127263305d274c354e2cab30175875f5e5f43ee88258fb146942051c5f8b"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/fazcraft.pw.toml"
-hash = "59ff06bd7067c0798121adbbaf8107ff51da20164834c7314367b6364cf01381"
+hash = "c41941fe4d87f67aca6c1692b09d13e4d4a307ab0550cd1b3a03fe1eaadf3035"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "e1427eb05d0ad74fa78eb306260923d402df0b98defee1e85c18a386fdc0fc02"
+hash = "914d3e19606ecc7b0ae2a410fc196832d7b10f77875a6f83a3b05e3edafbe695"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "330c22ba1a3c74c3767649c7d8ae892634214916123c7d868825be2816e14f80"
+hash = "46aa0b35b218799fc47a3ef48fe9df8aebe2369db030f0538545ba84d082bcf3"
 metafile = true
 
 [[files]]
