@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "69254427602e6ee78be5d0c24ccdbb7fea87f272764853c88e5bb09dc68d81c3"
+hash = "2664433be382bcd32de770ce10fbab85129d4d0e52292429ee6ef2a770d9bf1d"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -336,8 +336,18 @@ hash = "e050794e933174b7ecbad14a1459c54d77f80f7c19dbfe3e11a59e68d6d30ac1"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "d2754c84f0e4770a5852543af08dd02029056d46b7eb751586f77f93af5a1811"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
-hash = "b6a96c5ca32349b73df3dc7f91083d2b365c0065f8022fee7020f3ae39900888"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "104581a7f2a0b1c164399d278675f68701a2147db5a895188298e049d14dcea9"
 metafile = true
 
 [[files]]
@@ -762,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "46aa0b35b218799fc47a3ef48fe9df8aebe2369db030f0538545ba84d082bcf3"
+hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
 metafile = true
 
 [[files]]
@@ -953,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/remorphed.pw.toml"
 hash = "8d6f626caebf4182d570638efae6ffbc46c94fb327c834e2800b7ba50d233dee"
+metafile = true
+
+[[files]]
+file = "mods/sable.pw.toml"
+hash = "a9b043b218bd43286ec498ad891715e3871aa2a4a6f1ba4838b4eb5d0dbf66a1"
 metafile = true
 
 [[files]]
