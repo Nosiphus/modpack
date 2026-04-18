@@ -336,11 +336,6 @@ hash = "e050794e933174b7ecbad14a1459c54d77f80f7c19dbfe3e11a59e68d6d30ac1"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics.pw.toml"
-hash = "d2754c84f0e4770a5852543af08dd02029056d46b7eb751586f77f93af5a1811"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
@@ -963,11 +958,6 @@ metafile = true
 [[files]]
 file = "mods/remorphed.pw.toml"
 hash = "8d6f626caebf4182d570638efae6ffbc46c94fb327c834e2800b7ba50d233dee"
-metafile = true
-
-[[files]]
-file = "mods/sable.pw.toml"
-hash = "a9b043b218bd43286ec498ad891715e3871aa2a4a6f1ba4838b4eb5d0dbf66a1"
 metafile = true
 
 [[files]]
