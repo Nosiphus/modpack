@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "3c8ee0506d0f3439b1acb99cb7cadceea0fb8731320cb7c6d6e0b505135546b1"
+hash = "6e8a1f6346a833a5dd60532583b9582e4f9800c3348176f6930d30a079edc638"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a53515dc59b550cc1d721b8f00207246535cb1c1291f3277395d97b5cd54e1b1"
+hash = "d1fd6352951c3a340d371da85289376266e8b95fd3e3ae44d4fa2288f3f8b0d6"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c80830833e1b784e68b9a34539297081bac42e22264300d1b1555b2031d7ad83"
+hash = "aa2a1abbccb92ccc4ba3a5a70d24edcd1e39a035f15fb9ba49c27f270a5e74e3"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "24247bcb4679389aaaf88888722bd45e053968a8d87cf5831c5e9291b0c344b9"
+hash = "93f3fb61110dd75509775a371145237b1c4d114c25db7a86ee59f75fb0b7e621"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "bb3406ba77ed8c31602ecb3eceb10b151eb8c8f905f690012c8db01396c53ac9"
+hash = "40c962afb8807883a124da0e0e405c3c09fc21bacdfedeb191f4d8450dd5bef6"
 metafile = true
 
 [[files]]
@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "d15308e0421beb2c863eeead790ceab806d7b0ae8dc0a3e02426777d55332efc"
+hash = "6b9bd756f183edb640e62d0a0d276c3f93ba7bc97e626bd6478731237229ad3f"
 metafile = true
 
 [[files]]
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "95e7b6ea7bde11f57b27ef872bf20ac0ddb9c5f3ab3cf337c2e45239b7f25be4"
+hash = "8166a38e2d8165d4f6e7d7c5275d3f8dea5ad2d4e1e5506339aa928062933f71"
 metafile = true
 
 [[files]]
@@ -966,7 +966,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "76d05987b8f32dad74c2a172dfb572917b721c3134d064801e8e98edc61d40a7"
+hash = "ccc0d7550840ba3a931300f3abb01b1e82086d0fd1f5d74a974aef32a35d307d"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "966261d1478e516dcdf5e58a81e3d4a866847ca530628e00de6f0e54af9e992f"
+hash = "8141f26dae6963973578d4cbb926618c875b83499513ef09badbfd89b51e0e73"
 metafile = true
 
 [[files]]
