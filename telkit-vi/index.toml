@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "2ee3474928d5d4a25138675297e03033a14fd44f6609fab9bcc3e1a13e3ecc73"
+hash = "aef191ae01e05573ffb4e2d4d264a63df46620aed4bc3b256d7ca96253737139"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "547660bb17452fae6e46504c87eea9e75eeb50de440495cadcee9ad49c6d131d"
+hash = "9121b274bd87552ae976983d9bdd56061274c126a4a1b7b2e13605b1a1ec0599"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "d683d988aa244a7b2677b35c7ca900fc7da7bd8f3cbbbb72fa36a33ea77a54d1"
+hash = "be5d32cc3a6d73a16915e37c022c7a8e7e804baa89a92bb611d778f4a848e91e"
 metafile = true
 
 [[files]]
@@ -336,6 +336,11 @@ hash = "e050794e933174b7ecbad14a1459c54d77f80f7c19dbfe3e11a59e68d6d30ac1"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics.pw.toml"
+hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
@@ -352,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9da22561c3a5e45beb91121518a49f2e8a62bedb332574ce43a9d9b287ebc705"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -362,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/createbetterfps.pw.toml"
-hash = "06b41e69cbfb645d4f8a7cd8f981c3ba388b5c109558a65fe43e19ccbbfd08bc"
+hash = "28e720db43464fe32b9ce591fb02b824ebf691c578fb694f87a98421d3207022"
 metafile = true
 
 [[files]]
@@ -397,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "bd005d9f92131c7c4a88a081aa5368c482eec2cb410d14ab245a2f081e9e1ffb"
+hash = "ef7868aa3a029cdb7a9a46fc3f55ae12c4bc86cb5d92ae889ed554acfa229c45"
 metafile = true
 
 [[files]]
@@ -497,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "a265ccd927708aed6943024431ed28612aaf16bedf279768486193d8a956e962"
+hash = "69495e979400e63b317b80a71bdd9276929d503b12fa0e73bc668c474d5dbc4c"
 metafile = true
 
 [[files]]
@@ -522,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/flerovium.pw.toml"
-hash = "63edd38d9bb8987b5b276f337aa915c07100bdcbf1c2c41ddc510fac3ad82cf2"
+hash = "ba78231dfcbe61e2df15ff861fad0bc6c6594ba1425280ae0de86a044407d07e"
 metafile = true
 
 [[files]]
@@ -612,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "3d55cb25f6917508bc8e95276a337c1785b09759e8b2fa53083c6c7a1cccb1bf"
+hash = "fb8b608ce6e5a9c37520fe042ca37c03782f8a46e1d70d54e805c544f84fafd1"
 metafile = true
 
 [[files]]
@@ -627,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "502d4ba2ca8c7f6f52830cfc43fc12b567023266f2b557ee2b8eea737b58f8ea"
+hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
 metafile = true
 
 [[files]]
@@ -762,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "bac10dc72e41ee6df7a09ebd7e16e905897d54a2d9cb9f0c3fa14f569bd6d992"
+hash = "e152bb9ae171e9f34c406bbc29dc36c8d8def9d8f913e1a1bbf82bd63d4e8da9"
 metafile = true
 
 [[files]]
@@ -961,6 +966,11 @@ hash = "8d6f626caebf4182d570638efae6ffbc46c94fb327c834e2800b7ba50d233dee"
 metafile = true
 
 [[files]]
+file = "mods/sable.pw.toml"
+hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
 metafile = true
@@ -1082,7 +1092,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "398300198f9c631bc6f300cb8cf8aa6a5a18c8f287ee5d7b5e8f85226d4c10b6"
+hash = "e2978597c04f24e2e0536a6aa666ef5cc0b1d515c09af1f763c65587faa73333"
 metafile = true
 
 [[files]]
