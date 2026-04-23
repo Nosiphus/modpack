@@ -276,11 +276,6 @@ hash = "bf0c5cf4279509496b9763b7f04449862fbc7277da2c7d368c8caa439c7c3e65"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "6131963e3ef7760cf0f98d01d11bdf58781b4bc47e0a6d3349cca2e7cbedb30b"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -777,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "ae1db16c78063c935e6e2f6cb6b0bab95d97bb8955c0e26f36abfbdf98a52e20"
+hash = "367268c4d185d0d24227250c9a4cf7225dd619148c08c9fd34aa1c352232c866"
 metafile = true
 
 [[files]]
