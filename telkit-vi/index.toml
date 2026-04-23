@@ -276,6 +276,11 @@ hash = "bf0c5cf4279509496b9763b7f04449862fbc7277da2c7d368c8caa439c7c3e65"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "6131963e3ef7760cf0f98d01d11bdf58781b4bc47e0a6d3349cca2e7cbedb30b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -638,16 +643,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
-metafile = true
-
-[[files]]
-file = "mods/littleframes.pw.toml"
-hash = "323abc0bb7a8dfec793b98916768a159934cf39d9883982c86210bcb7772d55e"
-metafile = true
-
-[[files]]
-file = "mods/littletiles.pw.toml"
-hash = "ece414a8748c1e25cadacd88fc1f6f301cc87f1c414de62b362608babc2fe883"
 metafile = true
 
 [[files]]
@@ -1068,6 +1063,11 @@ metafile = true
 [[files]]
 file = "mods/voltaic.toml"
 hash = "c01a54b747198fd94bbcf5294d2a589bcbc6edd3d9bf49df6a866c615507afa7"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "a255c29cb611f60aaad313b223bc424721be5998673002da6b589b2862912621"
 metafile = true
 
 [[files]]
