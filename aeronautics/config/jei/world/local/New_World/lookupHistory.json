@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create:white_sail"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:white_symmetric_sail"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:sail_frame"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"aeronautics:music_disc_cloud_skipper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:black_table_cloth"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
