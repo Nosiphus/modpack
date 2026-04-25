@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "6e8a1f6346a833a5dd60532583b9582e4f9800c3348176f6930d30a079edc638"
+hash = "e06c3ac268d461713d2112e3051d50feb07b99b7b3fe5740dcb0cf8653e482dd"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "47e7c1e4fc0f650818544e6c13ff02f148880610207f513b2a176315fb9693ba"
+hash = "3f99e6e5ed46d923a8e96b091f9a65fb69c8747d5713f0aaed155b1739f49ada"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "ba427b584e4889af9c3de10ac52031cd79cea952f94b6a291f467c644c677365"
+hash = "3851e99d3e3eeeef8f0f7f7a55fe9772453f6c761eef13c52c9090b667ac21a4"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/controllable.pw.toml"
-hash = "9666e834b0d13cd6769de01f176c1afa1db3fe2ecc7136c39c59c04d42b89088"
+hash = "c9331a4134e668e02d39fa0f3937319465b6a58714ab83634fc5dd823776bac2"
 metafile = true
 
 [[files]]
@@ -426,12 +426,12 @@ metafile = true
 
 [[files]]
 file = "mods/createbetterfps.pw.toml"
-hash = "9ff6bf3b98b4735304f0a3c550e4786eeec4cd48b55d12db233cd1dd5eaa175e"
+hash = "f54ff443e8b460c15c32ec45b84d49a62a33a4f652f2eaa613d3bc9c2a67f469"
 metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "c456c308a2d698a8aa9d7318cfb4705a99a773ffcae775af60c659b605b39d87"
+hash = "6d64af0a128433e09ca9655426c5263831df55c24739c73c803b7e6b83ab0c7f"
 metafile = true
 
 [[files]]
@@ -476,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "57179007fd789ed675a9caa2d66b0eaa7b0fe26bec4762460115c22e31946dea"
+hash = "566eb78790c89cf531bfb7002e411faa94ee10b7ad877e0ef1c624cd21c6262a"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka.pw.toml"
-hash = "030fd4b2669a0910c2f00197df7d3cfdea50092d8ead3530bb9c5e29c186cf13"
+hash = "5d93867ed1644c938145786a38b328786bb323cbcaff06bbe9f759c5157c91bf"
 metafile = true
 
 [[files]]
@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "a02b72ee2511b1b0c34df97c841b4fe1e1c7033d0b411328371a426c97fe5d42"
+hash = "415c23be2083c35d6e867c82d37030e076d7617deeb5cd2e21aadead49e35767"
 metafile = true
 
 [[files]]
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8166a38e2d8165d4f6e7d7c5275d3f8dea5ad2d4e1e5506339aa928062933f71"
+hash = "b3e04d44f912f43588a592e499c75aac8652a4e461ad37aea67e2383cb5da9fb"
 metafile = true
 
 [[files]]
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3a3a2b4ab5fb0d2cd963af64b61e0786e0f3c7aad23a2af02ff72b39aa39b405"
+hash = "e62ad317cabfbe4a6e62a77f391ae95c6e955df496cef5278fb4ed7760908ab3"
 metafile = true
 
 [[files]]
@@ -966,7 +966,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ccc0d7550840ba3a931300f3abb01b1e82086d0fd1f5d74a974aef32a35d307d"
+hash = "865a179ced64ffe2530724930d5f1a1b56a86a5840b1f12697d5196439b6368a"
 metafile = true
 
 [[files]]
@@ -1131,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "0329463d2dec464899b1c147542097262180548d72a0829577425af080ca0f1b"
+hash = "168b3ee3fa2fe18f712c593d9d90e8b3a8a6a10564376af98bcc6f9719506641"
 metafile = true
 
 [[files]]
