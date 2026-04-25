@@ -261,6 +261,14 @@ file = "config/curios-server.toml"
 hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "e117f9f3928aacafdc7e3094a4aa9c91f6832dd8bac03e1f3c2c2183ea97673e"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "a446da1b03c20aa8f86a12ea39a404fa29b2c97e0ba8dee93bd37cb7191098bf"
+
+[[files]]
 file = "config/emi.css"
 hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
 
@@ -287,6 +295,10 @@ hash = "9b9525f6baadc8312819ae21ad8688b20fb887e0e2bec4bceece4cbb296196b8"
 [[files]]
 file = "config/fml.toml"
 hash = "d5f98507a05cfeb4b5b9927034cbe901ec9b2ded23348f1fdcd6130800c0ba2c"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "6b403ed8d357fc6b422f4e8e25241722c3161788a440643136f2316679cfcc7d"
 
 [[files]]
 file = "config/inventoryessentials-common.toml"
@@ -851,6 +863,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "ef7868aa3a029cdb7a9a46fc3f55ae12c4bc86cb5d92ae889ed554acfa229c45"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
 metafile = true
@@ -921,6 +938,11 @@ hash = "d8f856eb2c5f3ca239896452c4bae65f17d3dd042b3fca15b6ba65fe47cfe555"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
+metafile = true
+
+[[files]]
 file = "mods/inventory-essentials.pw.toml"
 hash = "c9c6a9d2c8b2d215536bd251088c94eae09c8928b4d8e4779720f07ad6564a3f"
 metafile = true
@@ -988,6 +1010,11 @@ metafile = true
 [[files]]
 file = "mods/miku-plushies.pw.toml"
 hash = "17f414e91b6144e755671297997bcdcfafde5ccb63bd399c61ebf88e74682aa4"
+metafile = true
+
+[[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "1b8e7dc5dca00aea85c9f1b42119d9a6e09ec69c62651035149fcfd26f0422e5"
 metafile = true
 
 [[files]]
