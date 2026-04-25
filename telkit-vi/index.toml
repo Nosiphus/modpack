@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "20156ba8b8f00a65fae50c1d5e60b01c08a66e1429212cc0227ff27440b99ec3"
+hash = "c84beff36191b984ec60bf674d66dde7128beee8da82a803eb41b1cfe5e71d35"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "45319301cd9d195e7b6d9e5cb295a88bede26266133a4dd8e51611353cacb1e8"
+hash = "c12875918a95f25b548666e43e6b98b33087db787beabfd8de2a56d0e1eda4e8"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "f461c3b78da21a76153c35af9e349fd7df8fd1659fb2da32c412ce7b02e63dbf"
+hash = "aa533af8ff364e64bae516edf4e80c18294f47280e9641bd0520debaba111c7b"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a989a69146d64786ed1a8234e6333e19c96636a905e4867a3566138e976d40dc"
+hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "66956cb43b39c1ebfffd1666ebc99a8fcbf3ef1c79b7be901583febfd35e57e3"
+hash = "5231a5de143fef09fb80a9f2330587e287acf2626fe7f6df39772a2c778b754c"
 metafile = true
 
 [[files]]
@@ -927,7 +927,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "ccd84a4f0b79b1027b163ab442ff1d71fb071492db5b62055a1e7669e727c41a"
+hash = "7a8880ea7dc331692ce1210d300bd156427d4b88f11a49766120992f8edf5f75"
 metafile = true
 
 [[files]]
@@ -1127,7 +1127,7 @@ metafile = true
 
 [[files]]
 file = "mods/zeta.pw.toml"
-hash = "0a27bc0ea8ab5798acbbd595f33f2d07b8d8392bbfd17065e834e89969af7c8d"
+hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
 
 [[files]]
