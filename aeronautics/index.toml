@@ -803,6 +803,11 @@ hash = "fc49d6cf786feaabbb26ae0109498f5dab7c20fc939bdd650a38d46a31803e7c"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
+metafile = true
+
+[[files]]
 file = "mods/create-sky-village.pw.toml"
 hash = "0828559c7bd99952b04a88f51726f2bcc846d7f480f71e55890f37650277a829"
 metafile = true
