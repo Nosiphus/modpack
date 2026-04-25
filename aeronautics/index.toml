@@ -297,10 +297,6 @@ file = "config/fml.toml"
 hash = "d5f98507a05cfeb4b5b9927034cbe901ec9b2ded23348f1fdcd6130800c0ba2c"
 
 [[files]]
-file = "config/immediatelyfast.json"
-hash = "6b403ed8d357fc6b422f4e8e25241722c3161788a440643136f2316679cfcc7d"
-
-[[files]]
 file = "config/inventoryessentials-common.toml"
 hash = "33d1702a2b346c8d20a77542b2cf1336636dee74c7f73cdb3c64cac80dbaf0d9"
 
@@ -635,11 +631,6 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
 hash = "c92e6ba1ea4354c0ad5f56f647957f7819db0c99691c06007490b01c142ab459"
-metafile = true
-
-[[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "c12875918a95f25b548666e43e6b98b33087db787beabfd8de2a56d0e1eda4e8"
 metafile = true
 
 [[files]]
@@ -1018,11 +1009,6 @@ hash = "17f414e91b6144e755671297997bcdcfafde5ccb63bd399c61ebf88e74682aa4"
 metafile = true
 
 [[files]]
-file = "mods/modern-ui.pw.toml"
-hash = "1b8e7dc5dca00aea85c9f1b42119d9a6e09ec69c62651035149fcfd26f0422e5"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e152bb9ae171e9f34c406bbc29dc36c8d8def9d8f913e1a1bbf82bd63d4e8da9"
 metafile = true
@@ -1154,7 +1140,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "371bef3bfa155e22f6d963764f33f62eab8fee6b7fd8d8c3dea81d3c0a6ce7ea"
+hash = "23c31613960c38bc67da32c6dcd7e611d6a61bff225739ae87ccdaa7ef6fa1c1"
 metafile = true
 
 [[files]]
@@ -1203,13 +1189,8 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/minecraft-ttf-font.toml"
-hash = "8d9082f6733b405c553611213f6210f4306bed4fcfdb5f2de177eb6818f93f8d"
-metafile = true
-
-[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
-hash = "5e42cc3132d0b6df46d849e79ae953893c466f7d5edfd582a7011f7b399bf1ac"
+hash = "7e4c4acefeb5b8514af0753c5ac7737f0d6fb1bb485a525720fbd3c145bc17ff"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
