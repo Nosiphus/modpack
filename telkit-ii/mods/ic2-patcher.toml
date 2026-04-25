@@ -3,11 +3,6 @@ filename = "IC2-Patcher-2.0.13.jar"
 side = "both"
 
 [download]
+url = "https://mediafilez.forgecdn.net/files/7695/929/IC2-Patcher-2.0.13.jar"
 hash-format = "sha1"
 hash = "30aad4e7bf077af2aa8d9d636044e63a9d84136b"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7695929
-project-id = 456402

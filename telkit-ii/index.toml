@@ -93,7 +93,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "d874a33814571257e279a70c3dd79bf50630f95b0b5b80dfbc320d49e9fb09b0"
+hash = "8de92a10ca78a1e5ef050d8d711a0f235d1978b8f78d4870fc483040e6a62bd6"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "1f43e8fa7c768990f4f38a1713ce3bda4dce8bab863d15e33d2831ccc2c83d42"
+hash = "05eeacfa553aae0d56364dde9af42253b92905ea0e2bcfaa3ac9110adfa3c019"
 metafile = true
 
 [[files]]
@@ -431,8 +431,8 @@ hash = "b15f02099402261c19fb5419ce908d195987cae2163e9b0b6bc9dfbdc9c40bbe"
 metafile = true
 
 [[files]]
-file = "mods/ic2-patcher.pw.toml"
-hash = "42ea4bc6ef34b1f6dd7c93711e21aeb3507761d23a2e92ca79f1239aa4851065"
+file = "mods/ic2-patcher.toml"
+hash = "5ae2642360451be16b4c69dc80e80717d3777a46d64fa5d7e3949ad62f702ce2"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-beta-forge.pw.toml"
-hash = "f3ccf76a757190932e4ddc149ae073cadda1c0a909bf88f5f25692e6f2fa6fab"
+hash = "f86fa0277e3e2f975c3e2caa801b4a676f1c822dc1e804755a2bd3f21e7144b6"
 metafile = true
 
 [[files]]
@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/vintagefix.pw.toml"
-hash = "3805beed7c7ccc9c7aeacd2ed102a500bc2720fd656d345a15453990232810ba"
+hash = "18f08d42b72a7d9ab8f0ceed7453f147b0f5001c2b3a4fea5b9065278fe406d2"
 metafile = true
 
 [[files]]
