@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "e06c3ac268d461713d2112e3051d50feb07b99b7b3fe5740dcb0cf8653e482dd"
+hash = "6d717bdfd27f87cf05b1db45ca76064b86d8fdfad0c1635b1381217be2824ea0"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "3f99e6e5ed46d923a8e96b091f9a65fb69c8747d5713f0aaed155b1739f49ada"
+hash = "dbc566b4ae7ea0bc4b947bea4e8dd437f0520edb4065326c3f66e68b45e204f1"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "7bebb016d06888c0efafc464ed041dad7fded7c0947457bdfb9eedf00b48f9d2"
+hash = "bb3bdc2afe161b29a6f3a207872fea7ee6e7cc21c03590a9477441239236080f"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "797319605711426926820c557d45cbff6052f1899cf4b8267c7941a9c11a2b32"
+hash = "831e0e95457b65ef0e30b27be389d1170258f3d9d72a17aaa49baf56f83be0fc"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "6d64af0a128433e09ca9655426c5263831df55c24739c73c803b7e6b83ab0c7f"
+hash = "96dd8c00ed4bc2a921cad2897280a6a60fa7e58f0884229a5cc89fcb386836fe"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "d1fd6352951c3a340d371da85289376266e8b95fd3e3ae44d4fa2288f3f8b0d6"
+hash = "4196b19361650ece7914e573719a94e5e81b42b96877c1e00441f3a1ce20f4ab"
 metafile = true
 
 [[files]]
@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "415c23be2083c35d6e867c82d37030e076d7617deeb5cd2e21aadead49e35767"
+hash = "d0073f09430bce838a76b61349eef53640fe8f8f2ce89cacd4e5cf55b96caf6c"
 metafile = true
 
 [[files]]
@@ -841,12 +841,12 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "60de65a58673c646eeb8ec2219c47d582788b94639d4ccb4774a5ac76bd45d15"
+hash = "df81a4d2076f11adc40067276d2db63b786ba113e49cfc9fd2eb1975bf42ff09"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b3e04d44f912f43588a592e499c75aac8652a4e461ad37aea67e2383cb5da9fb"
+hash = "716125d65ca673d776e0c792d96ccfa3172066716e8b92b930bf5b56705e0ab6"
 metafile = true
 
 [[files]]
