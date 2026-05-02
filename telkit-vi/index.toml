@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "2e52e299ad88bf134d6e99bc0e238cbf9e27dc26589e585af9d63c83e03ccd9c"
+hash = "8ba58aae8d3c0efc5cb1fd989636071d4a589302f7eb0b46208cce82ad4ff23a"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "a1952fa2c662b370db6a9c3824190855251c5de0c596438b63163732a2a20708"
+hash = "e756b52951b3d81c99bfebb6bcf7db8e385bb250cbdf4e8d68cc79d1c727e049"
 metafile = true
 
 [[files]]
@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/fazcraft.pw.toml"
-hash = "c41941fe4d87f67aca6c1692b09d13e4d4a307ab0550cd1b3a03fe1eaadf3035"
+hash = "cae425b293ac5cd8835560002922ec19cca8dc9ba04abc95b471496a24d170fb"
 metafile = true
 
 [[files]]
@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "fa0e1562f9dc89d6428546c7388dcfce8706843333d58f16cadce42b56b81085"
+hash = "24b70724aa94bba51a410eb4812a2729638cc761a1954af0a394752c2cd75432"
 metafile = true
 
 [[files]]

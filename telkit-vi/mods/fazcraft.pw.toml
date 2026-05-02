@@ -1,13 +1,13 @@
 name = "Fazcraft [Minecraft X FNAF]"
-filename = "fazcraft-5.4.2-neoforge-1.21.1.jar"
+filename = "fazcraft-5.4.3-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fLPTiVsP/versions/G4yLheNY/fazcraft-5.4.2-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/fLPTiVsP/versions/tQFPLUFJ/fazcraft-5.4.3-neoforge-1.21.1.jar"
 hash-format = "sha512"
-hash = "b154feffe63675261e2739896bb109ed3475eb051191d4e49c70c04e7cfe6de6647df0cc73497b2022680131f0946c604802b7240af100df6b42458675123124"
+hash = "b8ef56a77ddd4e972cb26a633d8dd7936ea65b71bdf2b758270f2103c9bde0eb2e61eec1971143fc0d857bbb8bbf9b6ca69f2b852d5ecb976fce745804124e9c"
 
 [update]
 [update.modrinth]
 mod-id = "fLPTiVsP"
-version = "G4yLheNY"
+version = "tQFPLUFJ"
