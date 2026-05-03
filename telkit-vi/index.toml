@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "8ba58aae8d3c0efc5cb1fd989636071d4a589302f7eb0b46208cce82ad4ff23a"
+hash = "c4bdeb091b033e12726ecf7601987c34ff6575652947627249b947610dfdab7a"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "2d7e927b0efdc5e79a50505151975605b355d14d7da2a475aa8a767697911651"
+hash = "f61b542fc05e575f6fa973f447257593cb8a2e08bc032b3c22c036e170886b00"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
+hash = "4f4f7e84f1efb76998b0f41bf01799ae9182e180a1343a20f8c2c2325672c9ed"
 metafile = true
 
 [[files]]
@@ -932,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "7a8880ea7dc331692ce1210d300bd156427d4b88f11a49766120992f8edf5f75"
+hash = "8d5ce8563d3ec96355ae4a3b1b5e6c9df02db833b12bdf7da5ba6322eaac20a4"
 metafile = true
 
 [[files]]
@@ -1032,7 +1032,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e9820c7bba6413afa3846443824a317c9f7249aee322e52f9592932f1e86f7db"
+hash = "583bdc838c2757d101b40b44a9bcc7ffe7d409fa3683691b431e3812dab3e5ad"
 metafile = true
 
 [[files]]
