@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "218521b01ba9c9794b2e7cf424328b7d1f5856579f8822bcc7665600f18ff37f"
+hash = "452a84f62638ee740391430ca1a56cebbcb8010b8f5515d70918087cc4b3314d"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "3851e99d3e3eeeef8f0f7f7a55fe9772453f6c761eef13c52c9090b667ac21a4"
+hash = "505532b5fe3bfbde1e2cb631f9038d24315a8c33515cb4d98a0f4cbdb4816346"
 metafile = true
 
 [[files]]
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4196b19361650ece7914e573719a94e5e81b42b96877c1e00441f3a1ce20f4ab"
+hash = "b6bad0dc31bec26203bced18c111495357a1708404d21c4ce71ead00142aa5ad"
 metafile = true
 
 [[files]]
@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "d0073f09430bce838a76b61349eef53640fe8f8f2ce89cacd4e5cf55b96caf6c"
+hash = "d478b8c5149f9c37bc0072d0608e2fbc6ff38cd3d15420f99c8a7ed2a55c8f0e"
 metafile = true
 
 [[files]]
@@ -841,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "44337bcbd6821000b798046a7bfad7051c84359eb59f58c654e59e872116d6eb"
+hash = "cae79bcfdbd0a85f57c7a292a9f215e31054b2c05f490ca1927fc2ab665ca680"
 metafile = true
 
 [[files]]
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "69e705c40401aeeda2983a47be0b08ab8fbbe559ec03c17d7a565bae8ac526bb"
+hash = "a55da407afd55d84a18db1ed031ac1242b3becc74cea2c379e0d91e0cfd55052"
 metafile = true
 
 [[files]]
