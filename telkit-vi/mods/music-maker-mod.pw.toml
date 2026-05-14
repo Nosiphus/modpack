@@ -1,13 +1,13 @@
 name = "Music Maker Mod"
-filename = "xercamusic-1.21.1-1.1.0.jar"
+filename = "xercamusic-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qQpWCN75/versions/dtF8EFCa/xercamusic-1.21.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/qQpWCN75/versions/uodDddoE/xercamusic-1.21.1-1.1.1.jar"
 hash-format = "sha512"
-hash = "e1780ddd09067df18cd33e2f8103b832390eb70d3b7108accf0b02e587958d1876ae75696508b4575de212856464f5e4958633f96a9772124b3cb2cc0801df8e"
+hash = "975b9d19ac5eb68325a1c4bdb956e4996fe532d9a26d1276d3cf840e009c18473c2aa5f52a790019e3112a1e8211a48ecb0ec7f4555b3f73d4df1dc759168da1"
 
 [update]
 [update.modrinth]
 mod-id = "qQpWCN75"
-version = "dtF8EFCa"
+version = "uodDddoE"

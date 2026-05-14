@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "25a2ce4738f438c59cb4d31ef82b009ed6dfe173f8301b5b2a9cc850fe53ca52"
+hash = "90635541b5eee4714f1714fe97331771b1a362859f2f34369b6856d0f0db9586"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "7c69e32aa8ca71e20cf0dcf8261f2624f0760e97c417204b0ac2731f34946d89"
+hash = "3ac93fcf9be618db321efebbbd55045878dec6119fa05b3188cbda746c978748"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "be5d32cc3a6d73a16915e37c022c7a8e7e804baa89a92bb611d778f4a848e91e"
+hash = "aad649656cd71a0ec12425cdaea7f96855ea62f256237fc84c9ef65da7ae9d90"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+hash = "5b529724427fd8b04538c2f49cc8f9b38de49fe46218eb9e07f955f5725d727a"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
@@ -607,12 +607,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "6776fa5392b56c501aa837af9e40ac90d98962b8bc9d0f1f675317325f1e57ac"
+hash = "8e07f6dab42514976b97a4ada7bcb42728d0ebb4a971b468dc0ab482b3411d44"
 metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "0b8f9597082c8ed5efab588d7c41669746aea9bc10b1f26f5ab2bb4cff446b4d"
+hash = "ab1fea261d5c14aade38b0e596cb99d66c4beb2bc1f4d53fb3106df5dee98008"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2f14e94f4642986d2a5ac68cd623737e4b62b53517c9c1b164ce7b516ac3c671"
+hash = "bbac8cbc56c4a1a14d30f0671a81252978b229066896cba45384c593f67fff7d"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "367268c4d185d0d24227250c9a4cf7225dd619148c08c9fd34aa1c352232c866"
+hash = "0b08d39b8cfc0d0dd961b8793a57abd052e0610ee9800b3840ceacf847aafe2b"
 metafile = true
 
 [[files]]
@@ -1007,7 +1007,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "d2a615d48539929c212fda6a9e44a2737d226aad0b791d61bd31a52b68e12f72"
 metafile = true
 
 [[files]]
