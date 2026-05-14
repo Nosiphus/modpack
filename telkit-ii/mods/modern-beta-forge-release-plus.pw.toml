@@ -1,13 +1,13 @@
 name = "Modern Beta Forge Release Plus"
-filename = "modernbetareleaseplus-1.12.2-1.5.0.0.jar"
+filename = "modernbetareleaseplus-1.12.2-1.5.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0004df7d3380cdcb68fd40c19c4ad71c8a71de3f"
+hash = "c98a7bdf1eebedafed7725727a9e66961ba01fc3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7256419
+file-id = 8024504
 project-id = 1173564

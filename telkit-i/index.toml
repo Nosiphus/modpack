@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "d7de921e15ea6f7f4e7bbba102e67e3228f791c9553ff930e0889554e433e037"
+hash = "c113fd5d985325003f81b58e01aeb76142e018eeb0b941657964fb879843a630"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-chest-unofficial.pw.toml"
-hash = "3ea330eb5bc8e351d71b6adeee9fc56eac4b086e1b895a972146621ce77e746f"
+hash = "55964719107f4b13ece63a405bfbb20167972a7664d46d3c965c543f163f7482"
 metafile = true
 
 [[files]]
@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-community-edition.pw.toml"
-hash = "3f4a80cc62a4731b1565fa515df2df25b1dcb915d6918a9f6a9f02c5a66f36ba"
+hash = "3a68ec8e39363c833750711c3a1967bdf5a2943463bad34f7d272230f009ee26"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "da6daa2546b05d8ac16bc80c6db6d0e7dd1c4409d0824ac11f7ce964f65fc9ff"
+hash = "94af71d0b97aa9b098eedd2e6313136acec2e3064f42a84e263ca7d377218078"
 metafile = true
 
 [[files]]
