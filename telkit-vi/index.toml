@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "60dce7babfd72cea5cbe174e918d1919bd271af21c6f49f8c8c4663744a194f2"
+hash = "45770f3b607f562a50a1a383d605ac980ec2667a3692c9b7ad53b70b29f798f2"
 metafile = true
 
 [[files]]
@@ -1141,10 +1141,10 @@ hash = "8d9082f6733b405c553611213f6210f4306bed4fcfdb5f2de177eb6818f93f8d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.8 + EuphoriaPatches_1.9.0.txt"
-hash = "83e37c74abd779a36bc672ab5910644a4c633212095c39d08120225d76641577"
+file = "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6.txt"
+hash = "d2a098f49c2479e57e76442ed562fe33863cf708df688e17c14f3aca84ba1753"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "4186d52e3f4eadf4ba35098431dd9d209d3f2637b1c7abb5668894594cc88246"
+hash = "a51099eb196bafc2e20e0009a64ba5595af2aebec950e446e29e914f1665bd8c"
 metafile = true
