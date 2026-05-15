@@ -1142,7 +1142,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.8 + EuphoriaPatches_1.9.0.txt"
-hash = "477c68a5c33f3f0f7c166dee4d4f289c86357a3c07326a4560fe8aba29c1b558"
+hash = "83e37c74abd779a36bc672ab5910644a4c633212095c39d08120225d76641577"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
