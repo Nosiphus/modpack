@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "6ca701b06cdd1377f2d829879ec50a7a63e0c0fe4044a8368f1878ec123c7902"
+hash = "d98b994af77bbdad353726f4d0a3114a70a7aa921c1075fe0598928b6d96f2f3"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "4b060001a83142b94d6b60cf32bc015b0deb6090d5d962dac4650b3caed14f89"
+hash = "3bd93a96d168035a570a97dddc1db9f7fc9f73b992d1e3d7227bc2080d1c6f68"
 metafile = true
 
 [[files]]
@@ -261,8 +261,13 @@ hash = "c09e2c7df60d3d247a443a8b788d1fc55278246e3e1e151b5a27e31b01ee0dbc"
 metafile = true
 
 [[files]]
+file = "mods/cc-sable.pw.toml"
+hash = "253a414e73f57c890ae5e03f49517191267b1bef0a89252ae1221748cd0de4f9"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "d18f00631377bb11109c6cf3c67261aeedec73e79727e50019e91a913ec88183"
+hash = "209446eb003bb59111833db0e0328657a9ffe7d85d6016ddf3ecfd5a2f7e13c5"
 metafile = true
 
 [[files]]
@@ -341,6 +346,11 @@ hash = "e050794e933174b7ecbad14a1459c54d77f80f7c19dbfe3e11a59e68d6d30ac1"
 metafile = true
 
 [[files]]
+file = "mods/create-additions-sable-compat.pw.toml"
+hash = "28f7402a4698ef19d2066aa1bd0ab971777d6a4db0f6bbfe99e17c87d8627aaf"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
@@ -352,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
-hash = "104581a7f2a0b1c164399d278675f68701a2147db5a895188298e049d14dcea9"
+hash = "7c9a7c6b0ba555d29cdff0c2874dfee7d1cd7807f084fcf08b3820b382dc3cb8"
 metafile = true
 
 [[files]]
@@ -607,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "8e07f6dab42514976b97a4ada7bcb42728d0ebb4a971b468dc0ab482b3411d44"
+hash = "d883daca5b51602262e972c066ac1edfe35e6f01ab23564b203e2bf60b165507"
 metafile = true
 
 [[files]]
@@ -762,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "7862ee4443273e49cd365331f05e0514d3f798a9ced3e5d8b6dd103dd7e92e1a"
+hash = "1b0bcb6b0739ac51a706398c6f3765e1875e95490a9284603ee5628c259a4f63"
 metafile = true
 
 [[files]]
@@ -966,6 +976,11 @@ hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
+file = "mods/sableedit.pw.toml"
+hash = "beaf0e4a0bd85a55b7ee50c5c2ce91d61112f29fce3bbc8c1d9544a774388744"
+metafile = true
+
+[[files]]
 file = "mods/saturn.pw.toml"
 hash = "d36d8736123e9d6dd79466ab908e83fc35529d25001b1a6770f22681c1316277"
 metafile = true
@@ -1021,6 +1036,11 @@ hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
 
 [[files]]
+file = "mods/ssrd.pw.toml"
+hash = "5a97a663998b0a337febeae27a894142bce799e0a3323e217bed695dacbc6e9c"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -1066,6 +1086,11 @@ hash = "c01a54b747198fd94bbcf5294d2a589bcbc6edd3d9bf49df6a866c615507afa7"
 metafile = true
 
 [[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "0beacfea53e3c4ceb9403be8ab7f993201263c2d9de6d4c340a48b930bc69d01"
+metafile = true
+
+[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
 metafile = true
@@ -1091,8 +1116,13 @@ hash = "f84ae2e01bc4c7c5531ca9ab045be132ff32df0a572b408efc14f89ef636be01"
 metafile = true
 
 [[files]]
+file = "mods/waystones-sable.pw.toml"
+hash = "e1c4d32608e9da4e92c6151c445196b75eb6b41893cb1a64f4c5f0ba205ae97a"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
-hash = "65242951f26a65cce20bcc2c796805b655046970ee8fe13990976e649fa6ba04"
+hash = "8e8279c29671803cae3f9ab39c87956e4a4300fe8f9da9a9222850ca3253fb45"
 metafile = true
 
 [[files]]
