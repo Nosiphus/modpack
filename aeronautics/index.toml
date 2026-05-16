@@ -1025,7 +1025,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "4eaef45625336f16e9461e00e9e4f4ed789bcd25b4ca8e011d68564ddb7c8c3a"
+hash = "4c4e9c816f6d7b533559560e0b5e4e7d7cd7aa1e74995118eb175122b2b3e3cd"
 metafile = true
 
 [[files]]
@@ -1151,6 +1151,11 @@ metafile = true
 [[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "8c71edbbb86e5d3e1c14ea6629382539d44e75b1061725df9c3abceb889a8591"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
+hash = "5a97a663998b0a337febeae27a894142bce799e0a3323e217bed695dacbc6e9c"
 metafile = true
 
 [[files]]
