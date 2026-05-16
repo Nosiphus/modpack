@@ -1154,11 +1154,6 @@ hash = "8c71edbbb86e5d3e1c14ea6629382539d44e75b1061725df9c3abceb889a8591"
 metafile = true
 
 [[files]]
-file = "mods/ssrd.pw.toml"
-hash = "5a97a663998b0a337febeae27a894142bce799e0a3323e217bed695dacbc6e9c"
-metafile = true
-
-[[files]]
 file = "mods/structurify.pw.toml"
 hash = "cdd765d05c0d2c8981776a6d87ac0c0bf2603c2ee6cb9ccf4e46a0a8a8494bb7"
 metafile = true
