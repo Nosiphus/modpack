@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "c8aee71685e4025b16705c3f8dd53fa0951394fd196f4261d6921e11bdc8aa08"
+hash = "e2beab4e4b804fcef427a64594e7bd2c113d7cc6b94b150e9a4979365cc0db4c"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "3bd93a96d168035a570a97dddc1db9f7fc9f73b992d1e3d7227bc2080d1c6f68"
+hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "577ad4473d0a330b375d5fbad7836f80c5e42483ea2c243daea353380b8b39d3"
+hash = "cf96528ec5aa32b22b850ec4ebc7a5276145a6f429dd17d4b0e3ce820187ea8f"
 metafile = true
 
 [[files]]
@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "45770f3b607f562a50a1a383d605ac980ec2667a3692c9b7ad53b70b29f798f2"
+hash = "e5b525ee4389aa8405c31d6e66f8b70d29505a8f1a40109cd9ba9b4838d967ea"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "d883daca5b51602262e972c066ac1edfe35e6f01ab23564b203e2bf60b165507"
+hash = "1312599df5e9b131671fd61fc9e2699e1a30b573f975d7dc5e1dc1abb79aa11f"
 metafile = true
 
 [[files]]
@@ -772,7 +772,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d10128214f360c5ce6f6de632a1be907677edeb912412cc0fb5c086aeadee92d"
+hash = "5cd638e2360db48e395e5227e8f11a9d0aecd4b0f40c4f98ea722636c901e86f"
 metafile = true
 
 [[files]]
@@ -1047,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e9820c7bba6413afa3846443824a317c9f7249aee322e52f9592932f1e86f7db"
+hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
 metafile = true
 
 [[files]]
@@ -1166,10 +1166,10 @@ hash = "8d9082f6733b405c553611213f6210f4306bed4fcfdb5f2de177eb6818f93f8d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6.txt"
-hash = "d2a098f49c2479e57e76442ed562fe33863cf708df688e17c14f3aca84ba1753"
+file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.1.txt"
+hash = "e4a38ab75f7bf5ad686b77aedcd590af948f10b64891efc7ebbc89e666d6e2d4"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "a51099eb196bafc2e20e0009a64ba5595af2aebec950e446e29e914f1665bd8c"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
 metafile = true
