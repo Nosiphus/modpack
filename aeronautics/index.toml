@@ -685,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "3bd93a96d168035a570a97dddc1db9f7fc9f73b992d1e3d7227bc2080d1c6f68"
+hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
 metafile = true
 
 [[files]]
@@ -700,7 +700,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "577ad4473d0a330b375d5fbad7836f80c5e42483ea2c243daea353380b8b39d3"
+hash = "cf96528ec5aa32b22b850ec4ebc7a5276145a6f429dd17d4b0e3ce820187ea8f"
 metafile = true
 
 [[files]]
@@ -770,7 +770,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "d31fbf89364ee8130adca0dfba3d6aa774d1771632aa60f3f13e1b4ed9e073e5"
+hash = "9e6e9e3d5f93e77d45b57e6219998b3604b58a628c76d4762ed06deaf9e98e71"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "d10c6f194a20ef07b764bce9ef35bec526c5c5ff9acf84c53f9e172963869e56"
+hash = "b7ea2f732a14403b7978b855e5d700652e740f5e5985b24804879868aedc46f7"
 metafile = true
 
 [[files]]
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "45770f3b607f562a50a1a383d605ac980ec2667a3692c9b7ad53b70b29f798f2"
+hash = "e5b525ee4389aa8405c31d6e66f8b70d29505a8f1a40109cd9ba9b4838d967ea"
 metafile = true
 
 [[files]]
@@ -1020,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d10128214f360c5ce6f6de632a1be907677edeb912412cc0fb5c086aeadee92d"
+hash = "5cd638e2360db48e395e5227e8f11a9d0aecd4b0f40c4f98ea722636c901e86f"
 metafile = true
 
 [[files]]
@@ -1135,12 +1135,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "50e47fd9fadb581368eba709a8777b34b73938a0911cd436783979c032a0145f"
+hash = "555d70f828733775c55cf43ea6f408bae3b83b4988525a34a0584b6a00fb2cbf"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "3642ae8539b2af68e1169284a294aecc5fff94281e339dff0cdf767cd94de2f9"
+hash = "1595ce59e71031514c3b2301215892acdb0848c244ef92c66df53a65840c18e4"
 metafile = true
 
 [[files]]
@@ -1165,7 +1165,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "9bf9ab019562d204c452dd282b9a835632ffe88fdad6f20a88326da546614aaf"
+hash = "435621c35108161f04c17a6ec205a81842cc90e5965679921ba08c8cb3f36fd2"
 metafile = true
 
 [[files]]
@@ -1199,10 +1199,10 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6.txt"
-hash = "7e4c4acefeb5b8514af0753c5ac7737f0d6fb1bb485a525720fbd3c145bc17ff"
+file = "shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.1.txt"
+hash = "1787c6f3a2ee0f1022ce48c44678eca31063880008660e64820134625977104d"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
