@@ -1,0 +1,13 @@
+name = "No Chat Delay"
+filename = "no-chat-delay-1.1.2+fabric_26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6tt8ZcjC/versions/K3R4Z7Lm/no-chat-delay-1.1.2%2Bfabric_26.1.2.jar"
+hash-format = "sha512"
+hash = "d9c070946f7a411f2734d3f1723778e2184d0e4fa3a4d145732f11a8ff899d749e05e4d751984aa8e7058ead63360f3c4aaed60e51c5b0c948de9de76b216de0"
+
+[update]
+[update.modrinth]
+mod-id = "6tt8ZcjC"
+version = "K3R4Z7Lm"

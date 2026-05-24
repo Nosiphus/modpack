@@ -1,0 +1,13 @@
+name = "Shogi"
+filename = "shogi-fabric-26.1.2-26.1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bi4iCmsw/versions/2Xg13Gfy/shogi-fabric-26.1.2-26.1.2.4.jar"
+hash-format = "sha512"
+hash = "3c9f8712007380958f82dc471e2bcb8f6442f2e9c0b1f39d3ad93596abf6eb77c4e2d1c81b8ff327073109b43f148ef2ba4b9ff9b1d138701e9e25b6c3a2c610"
+
+[update]
+[update.modrinth]
+mod-id = "bi4iCmsw"
+version = "2Xg13Gfy"
