@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "452a84f62638ee740391430ca1a56cebbcb8010b8f5515d70918087cc4b3314d"
+hash = "e31a7c8c6f52c6f4649527e7b4b5c4fbafb97fc4d20615e829c1a9015c8c1d01"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "2ee5a9e5a8cc755b428d953cc3f89a68c4f239136c50e9500ed62f13dd92561e"
+hash = "97448335cd7254ac59e890c2d7c475105d6c8f4fd457a84e241031adae0b752f"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "bb3bdc2afe161b29a6f3a207872fea7ee6e7cc21c03590a9477441239236080f"
+hash = "b404683b35d437b78af928df1ee02ffccb05c2f1f60c8f2701e7f69ae6b42d35"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "505532b5fe3bfbde1e2cb631f9038d24315a8c33515cb4d98a0f4cbdb4816346"
+hash = "ea0ec2ce220575d15d43692ac690f2bfa3bc52846c37c2cc1b11dbf48613c611"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "96dd8c00ed4bc2a921cad2897280a6a60fa7e58f0884229a5cc89fcb386836fe"
+hash = "431ba898a794fc3598cab2dd2ae37cb639a012dfd579f0d5ff4e1d6cc7f33b07"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "3389d15bfa8050a4005578cc6ff4b3f00897a190cd7c11fa8a4562280adb6715"
+hash = "5f9085cde46d8de8def71c927119577254e2ab1a91ac626a6b0a6f55bda6f8f8"
 metafile = true
 
 [[files]]
@@ -586,7 +586,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "52a51095b3f81276c8a6228a4ca4984521eaf8fba9643364f91681155b7b8902"
+hash = "394eafc9aeec49e1d1c96716f772cdfc0ea3269fcc898df3a03cb44e6a0e58ea"
 metafile = true
 
 [[files]]
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b6cf6bf24a92f982f57b2c436d6b0297f590e237916b7675ec76238754a4e578"
+hash = "5e343efc67f083f8f5c9c4c0c6b48d63c1a351c45e0c9f2be74af4410c9079cc"
 metafile = true
 
 [[files]]
@@ -1290,10 +1290,10 @@ hash = "f11066dc72d06a1a77e00625578957ba78b36d13386cc4fa9b3b13b7be926ed6"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6.txt"
-hash = "522c66e8cf690db4d934b5683e0f7420328e3818ed61ebd596259784ebad5743"
+file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.2.txt"
+hash = "e4a38ab75f7bf5ad686b77aedcd590af948f10b64891efc7ebbc89e666d6e2d4"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "5caf93fa1624aeb26d11cdbadcb0c03b2a92815c798a930014774c7d525baf28"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
 metafile = true
