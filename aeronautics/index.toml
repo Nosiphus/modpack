@@ -835,17 +835,17 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d6e8a17cd30032fb2eaeb910f65ffca9cd41a6530b607d58dfa18ac619b6d9f1"
+hash = "054c5a15bdaf0647066beddfb4a6b49e3222ab37c09b4d213af221b5cf3d5c39"
 metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "b7ea2f732a14403b7978b855e5d700652e740f5e5985b24804879868aedc46f7"
+hash = "a279bece467eb371308e24e363e1297c288a4099c37e3d3cb5ade3f1c82ab9fe"
 metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "654bbb4dfe9d87548babc27258c7e79d92ffbb36a7a4039708d79267256b11a9"
+hash = "7dc4daef7f7fbd4f89aa502f54ec24049a60c016e47d2b37776f3905623e3578"
 metafile = true
 
 [[files]]
@@ -890,7 +890,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "e5b525ee4389aa8405c31d6e66f8b70d29505a8f1a40109cd9ba9b4838d967ea"
+hash = "c046d8e23699865ec8bf7d9b24a3981b3a7eacb2f3184c976362f818333110f5"
 metafile = true
 
 [[files]]
@@ -1010,7 +1010,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1b0bcb6b0739ac51a706398c6f3765e1875e95490a9284603ee5628c259a4f63"
+hash = "275d6b36432fdde0c95c5fb6175fe2abe63f584b66a763644e31a360ecf9b9b9"
 metafile = true
 
 [[files]]
@@ -1020,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5cd638e2360db48e395e5227e8f11a9d0aecd4b0f40c4f98ea722636c901e86f"
+hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "1e1e0b32100101f4e0a2feee50baae184a9af8868c8e86410403ec3aed07ad8a"
+hash = "32c4811fee2ac7211203518e1d059f4d95d4eff01691c9db5d9d471073126c9e"
 metafile = true
 
 [[files]]
@@ -1135,7 +1135,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "555d70f828733775c55cf43ea6f408bae3b83b4988525a34a0584b6a00fb2cbf"
+hash = "1c6da96964d794261e7ecdefdee58178b6498ff9b65491f40a88f2f5f3051429"
 metafile = true
 
 [[files]]
@@ -1165,7 +1165,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "78b6b3ad252d3e5f807c22451325bf9b2ef39d156a2abcb4574bb4d026735dab"
+hash = "5518dd2f6a5d88e4affb9df628604737893025206d7149579e4c24f909b130a3"
 metafile = true
 
 [[files]]
@@ -1199,7 +1199,7 @@ hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.1.txt"
+file = "shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.2.txt"
 hash = "1787c6f3a2ee0f1022ce48c44678eca31063880008660e64820134625977104d"
 
 [[files]]
