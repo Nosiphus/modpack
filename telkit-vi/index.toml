@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "d23986fcf5ebced04c339b1084cc7ad922f755536172be47414bddedb11b2840"
+hash = "89375635796e5f37d88f260d70de5ba74f4ca3733a86cb6a95ddef0a00dbaeab"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "3ac93fcf9be618db321efebbbd55045878dec6119fa05b3188cbda746c978748"
+hash = "ce802e7b916b5a196a6943d78159bd0eb371cc1589f647627728c01acf7e24f8"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "cf96528ec5aa32b22b850ec4ebc7a5276145a6f429dd17d4b0e3ce820187ea8f"
+hash = "21399291eab26dc16a3d3455b4388df2bc42512570729dbcdd60697c1a84fd77"
 metafile = true
 
 [[files]]
@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "f9b1fbbb47ce9eb83e43037c6bce1a49167743094feeef1e4c941e9252a1131d"
+hash = "7f81ca0ff304d78545a5961599574b0260b498b90a69e13b7770550e693eb905"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "87309254dc50bcedf00b64fee21a17b19eb4c9307b37ce468c49f57e03ee9079"
+hash = "37e8e5cc70d6c27591f8b258a7e6c3642160b56b3c0ab93ce4d4107d366c30a6"
 metafile = true
 
 [[files]]
@@ -612,7 +612,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "1312599df5e9b131671fd61fc9e2699e1a30b573f975d7dc5e1dc1abb79aa11f"
+hash = "010534a12d0ac10352774579b9de8eb31d62e76ecdd772d34d6b6950e4f304f1"
 metafile = true
 
 [[files]]
@@ -767,7 +767,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "275d6b36432fdde0c95c5fb6175fe2abe63f584b66a763644e31a360ecf9b9b9"
+hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
 
 [[files]]
@@ -937,7 +937,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "d891b5301e4fe59ad978edd97c1477c50f928c4a2cfb31d8cdcc7f4965323267"
+hash = "79ac35ba2d4a1ae04f92db5c3b10821970dde8153d7877566eef2ed7e650146b"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
 metafile = true
 
 [[files]]
@@ -1001,6 +1001,11 @@ hash = "d7a1b92ee60f56522dd394d61122ffd7c196fb131f64dda1720f873d7efa7c16"
 metafile = true
 
 [[files]]
+file = "mods/shards-compat-voltaic-sable-compat.pw.toml"
+hash = "2c29ee98f3393d019df6ed7f275ab190c8b0434285f5c07a2db0660a39bf9bca"
+metafile = true
+
+[[files]]
 file = "mods/skinshifter.pw.toml"
 hash = "db1b51fe3e8023d7395b936ad8a1c643942a7800fdca02e18f8ffa99245e8664"
 metafile = true
@@ -1017,7 +1022,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "c5687771065e4a43266b38018cbdf142b216916dd73aa6532b8282e3d0f06b9c"
+hash = "861b9d288dce47a03dc777b6ee2b5ced4c89b9625a3ae80c09a1541402a7ea92"
 metafile = true
 
 [[files]]
@@ -1037,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "5a97a663998b0a337febeae27a894142bce799e0a3323e217bed695dacbc6e9c"
+hash = "d0854c170e1c60a2d6958654ce4017e5ccf1d60e3f9211e995e376cf8e17419d"
 metafile = true
 
 [[files]]
@@ -1052,7 +1057,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "e9820c7bba6413afa3846443824a317c9f7249aee322e52f9592932f1e86f7db"
+hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
 metafile = true
 
 [[files]]
