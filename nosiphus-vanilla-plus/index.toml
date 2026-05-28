@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "8e56109449c9815e985a86e689afd841c2f73bc6002b5cac039b84b022f9e8b0"
+hash = "047f529b7339b37e9fa57559876f27023b77d4a5dc9c0c2c525e5681f147b423"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "0b4721522ae8497677ff44178646d768863825d92e925ac93ab97c02f165c08c"
+hash = "42f5637a87150687969d64b172ce8ef91bc3a92ee2eb68a2a17153350ff92b4b"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2a77dc7aade5de6d21315582c4b70db40ff2bdf746b61c10d7ad3c5be8422f75"
+hash = "8623809fe6a60aa6b9ae6358bf2796742847e8641e1cc27bc3886484125ed6be"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "50f066c6f62c4e0d1eaecefc8f21dd7708fe3b7236b816e7a699de6cc78f77b1"
+hash = "e8ffed57d13aa65a9e8e3add8496b218fd366c7cb0b6f93d263eb701bdb606de"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ceed226223967ea3e7017aad327a069250c289c834766e1a3cd27c8d0ad52de1"
+hash = "c4f5f4038e66b1ce6a57898de54878490d1240712c6a0db4371db3914760e6de"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "487ea34fad76adadb5432eee791b995d7e4a2f9ecf02e44f57a74d44ac236532"
+hash = "ebcafffe4e43598c2699d87ef8c72e95c8460478bd286a341030d733769182a1"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/shogi.pw.toml"
-hash = "0d564e2898096f0399a0b0c10d1baf63c6e8a2885ad32b09550631113962f69d"
+hash = "901b8f3bbdf84845f5aab2578cbe74189fd73a665cc310c66912720877e10ece"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b3bf6eb1cf803d702af91d3ca5f39e7528e1d55afdae03833f6e31698803caa9"
+hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy.pw.toml"
-hash = "07401c57caa88b40745f1016c950cb950ad9deff3060a0bf06c2fff8b25c7c7c"
+hash = "265c2a4cb987474f6c893adc5bf5b14ba6756bbed5fc56dfb5e29649062a84a1"
 metafile = true
 
 [[files]]
