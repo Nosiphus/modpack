@@ -93,7 +93,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "13f2c00e84750c6f8b06d3da22dcc04f613fa5e1b727b2ee158368f2fa7ac161"
+hash = "dfb9fb9f768cb306de9947c5da6d03c124eb634a0c828e3c36ce5ef30f31f4ad"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-beta-forge.pw.toml"
-hash = "44a8eef97bff95507f3b26d62ef8843f189afe7eacacb7cef0d6c2efb1e7c163"
+hash = "e75805d6f6c02999624fa8581d1872f60de48745fd83e71ad11bea446473375a"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/mrcrayfish-furniture-mod-legacy.pw.toml"
-hash = "afe488bbceaaa3773cace5dd8d78b69605a3959c0e00fcf7c492ca7ea2a26fdf"
+hash = "2656ad569f2a14bfc3e23c19ab4b904aab60d02f7abd5606e23aaa02587869ad"
 metafile = true
 
 [[files]]

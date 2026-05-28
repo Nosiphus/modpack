@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "e31a7c8c6f52c6f4649527e7b4b5c4fbafb97fc4d20615e829c1a9015c8c1d01"
+hash = "1363c4ea7cf7dc7b411caed124f31481802ff73602ae57451f6611b57b270341"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5e343efc67f083f8f5c9c4c0c6b48d63c1a351c45e0c9f2be74af4410c9079cc"
+hash = "fc70f2509f3a5d82504637fe781c30d10de0dec31e73a2a0245cf90532879969"
 metafile = true
 
 [[files]]
@@ -1191,7 +1191,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "5b266bb51d759c819309c0608a0817e80e34c3712f6146e12b53374955e8ef9d"
+hash = "c1e1644e1af423c59740258a3a23212af5dce7a4199bf1f4f260191cf985467b"
 metafile = true
 
 [[files]]

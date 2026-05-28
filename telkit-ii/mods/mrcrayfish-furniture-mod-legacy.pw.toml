@@ -1,13 +1,13 @@
 name = "MrCrayfish's Furniture Mod Rebuilt"
-filename = "cfm-rebuilt-1.12.2-6.9.0.jar"
+filename = "cfm-rebuilt-1.12.2-6.10.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a65ee087ff7d0e5f10a801f51a7f0c163d744acf"
+hash = "d6e4dd727dc69aadc72f643fa6081620f776cf9f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7358435
+file-id = 8097145
 project-id = 997328
