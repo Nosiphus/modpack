@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "054c5a15bdaf0647066beddfb4a6b49e3222ab37c09b4d213af221b5cf3d5c39"
+hash = "05871de0994068a9b36fb9baecaed301c5534f82d0e85da1b5a83ea6918309a9"
 metafile = true
 
 [[files]]
@@ -1160,7 +1160,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "d0854c170e1c60a2d6958654ce4017e5ccf1d60e3f9211e995e376cf8e17419d"
+hash = "8f612f53fb6bf69e22dbb3cc846d2b8a8d9955272b72a210942dd022bf276824"
 metafile = true
 
 [[files]]
@@ -1185,7 +1185,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "8e8279c29671803cae3f9ab39c87956e4a4300fe8f9da9a9222850ca3253fb45"
+hash = "6469e09b6d02aa3f1aeb653c9e33ec948e2bd9d09cabc60a834552783120c018"
 metafile = true
 
 [[files]]
