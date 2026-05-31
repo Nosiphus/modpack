@@ -484,6 +484,11 @@ hash = "a3cd9d0edfe96d2ce39f4e12f03652740b941b5cda9e415f7c8c419e5c4a0019"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "5f9085cde46d8de8def71c927119577254e2ab1a91ac626a6b0a6f55bda6f8f8"
+metafile = true
+
+[[files]]
 file = "mods/exlines-furniture.pw.toml"
 hash = "f91c5ef3294e4bbc3747f3717bd5ea6fb98f4451bb4460c1e6c99dcd74e4f483"
 metafile = true
@@ -1144,10 +1149,10 @@ hash = "011207ebcc93651ca50c4844336d078d9466b99f6ca39b7a130b47aad66b3a7a"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders.zip.txt"
-hash = "bbf011350cfb41ffdddbf773dcfc333b7e792efd16c1bcde567ab46973c3a250"
+file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.2.txt"
+hash = "2aeb215c4f0eb8e2a0afd0e6674db56a79d5c25eea7bcb49f0e53f3c8a7c5e75"
 
 [[files]]
-file = "shaderpacks/complementary-shaders.toml"
-hash = "c16aad0ebfc3f26d893baed415cde449e66d349d923f88f2eda8c3d984087c9a"
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
 metafile = true
