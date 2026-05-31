@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "b4a2c7f26e11972e11a37277cbe7c40dcb30a0f4a5d73b7d4212697fb5998cb4"
+hash = "8f304150ff68a44165b02b355760b9dcbb1ca9fba94bdc189470deee80a11616"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -99,6 +99,10 @@ hash = "6b403ed8d357fc6b422f4e8e25241722c3161788a440643136f2316679cfcc7d"
 [[files]]
 file = "config/mca.json"
 hash = "00b84b847ea3eb02332396511aa373ab743d14e2dd62b9c87099e1f1c1e87f6c"
+
+[[files]]
+file = "config/xkdeco-common.yaml"
+hash = "8e4db7eb58acef82dad415a8940ddfcd0266e7dffeb624f0fadf4758adeb969c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -481,11 +485,6 @@ hash = "a3d47e3c301ed2359820c2083dcddec8240a5d692a016c42a74eecc1193772e1"
 metafile = true
 
 [[files]]
-file = "mods/extshape.pw.toml"
-hash = "e63876bb2f8b5955e69002cad71d7ffd5357188d6eb353d40b1748f10a7facdb"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "556fddf5f52f49d9acf41e4db737e5431c1b45e60f5e0c04ca1de70b01dd1d15"
 metafile = true
@@ -781,6 +780,11 @@ hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
 
 [[files]]
+file = "mods/more-slabs-stairs-and-walls.pw.toml"
+hash = "29c2abdbb1235d25e3752a4fcc034f64d6aa7c8c92f805044b0a46120a5880bf"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "4c4e9c816f6d7b533559560e0b5e4e7d7cd7aa1e74995118eb175122b2b3e3cd"
 metafile = true
@@ -933,6 +937,11 @@ metafile = true
 [[files]]
 file = "mods/projecte.pw.toml"
 hash = "bdca798ffe4124bf43ea13f1fa5f0593a7539762240edb56c47b1976b413ebc4"
+metafile = true
+
+[[files]]
+file = "mods/put-a-plug-in-it!.pw.toml"
+hash = "5d194b9b0dfbc14b9a6fd3eee981d0d6bb3db1e93c7fb465e8e31c0cb94c7853"
 metafile = true
 
 [[files]]
