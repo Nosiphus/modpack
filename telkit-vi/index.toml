@@ -115,11 +115,6 @@ hash = "4d0d5a5aa69c67df250420be45e4bd4c1afe1b89a9175a0e8678512da05011d9"
 metafile = true
 
 [[files]]
-file = "mods/adorn.pw.toml"
-hash = "868e1127366fd416cc1d98785dc163930bf1c1e53a06b692ee2258ff80db28ce"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -232,6 +227,21 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
+metafile = true
+
+[[files]]
+file = "mods/bibliobiomes-legacy.pw.toml"
+hash = "00784c80056f34d03d983fa8849de236b4faf359ec807f80a23c1adc347d2d68"
+metafile = true
+
+[[files]]
+file = "mods/bibliocraft-legacy.pw.toml"
+hash = "c9189a87ad80f0cfc2e5d0169b0723c4b25bbbd5dae7c84e472cfc2367c2f2a2"
+metafile = true
+
+[[files]]
+file = "mods/bibliowoods-legacy.pw.toml"
+hash = "a79e962044d3372c0b34674c5371f6eb25edcd1ba30b796de6098ec63aae9ddb"
 metafile = true
 
 [[files]]
@@ -826,7 +836,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "62a5945465b5d09fff4f59f7468577e589a946874bafaa8f18175d8e7bcaa458"
+hash = "1c3a30a15873e0a00be22bcc26fdf92a0c442bcc4c05fed9e0b5ba0ea84a1838"
 metafile = true
 
 [[files]]
@@ -1071,7 +1081,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
+hash = "f610afa1753e465ef4fbd55ef0282e66b7a0f6e10b79b9bb0166b013fdcc4081"
 metafile = true
 
 [[files]]
