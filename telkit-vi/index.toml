@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "8f304150ff68a44165b02b355760b9dcbb1ca9fba94bdc189470deee80a11616"
+hash = "c6b4845cf21abf8a1bb395eabec1fab55be38bba0c3f99b5ae13413b875ff354"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "0684ac9f4016797caad3b6c5b8471d842cbe78be5ebb9e1719c9607a70830003"
+hash = "db74912984133347c769c825c55585e8522478e34da41900d3f25b5c630fea2e"
 metafile = true
 
 [[files]]
