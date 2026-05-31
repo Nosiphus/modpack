@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "1363c4ea7cf7dc7b411caed124f31481802ff73602ae57451f6611b57b270341"
+hash = "71378374b9a02f9d049f9db851d9dff5464ac5a66aeeb7acc7e5b953f8f370f7"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -701,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "e09da66f0f525ff7ad241e837d8bf0a2bcae5e321fdd302c9b92e49d2560ab7f"
+hash = "5f1195cdbdc820a5e98e5d845d8879194334fcaddeaa04d60e1f610687f681a3"
 metafile = true
 
 [[files]]
