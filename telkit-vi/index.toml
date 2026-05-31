@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "752a861ab1300221440b938efdbe17133b3963317d3661ee23ae4362a8b08b61"
+hash = "b4a2c7f26e11972e11a37277cbe7c40dcb30a0f4a5d73b7d4212697fb5998cb4"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "b0666ac2531837c0ac53374a6b9e72ea4b981b721fc7a94701e0f82bb806fca6"
+hash = "3966f08ef3db053c3024e44975ed41f29a074a7d639e0b02f514fc91ac58b655"
 metafile = true
 
 [[files]]
@@ -617,7 +617,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "010534a12d0ac10352774579b9de8eb31d62e76ecdd772d34d6b6950e4f304f1"
+hash = "8424e771a012965197aebfd8827ad5978a5f66979f96dc043ec2e23dfcc0532f"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "fb8b608ce6e5a9c37520fe042ca37c03782f8a46e1d70d54e805c544f84fafd1"
+hash = "239ce94d468f02f6ace4c69e171a5668138a143936e313992635cb3d2a2a5a8c"
 metafile = true
 
 [[files]]
@@ -1047,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "d0854c170e1c60a2d6958654ce4017e5ccf1d60e3f9211e995e376cf8e17419d"
+hash = "8f612f53fb6bf69e22dbb3cc846d2b8a8d9955272b72a210942dd022bf276824"
 metafile = true
 
 [[files]]
@@ -1132,12 +1132,12 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "8e8279c29671803cae3f9ab39c87956e4a4300fe8f9da9a9222850ca3253fb45"
+hash = "6469e09b6d02aa3f1aeb653c9e33ec948e2bd9d09cabc60a834552783120c018"
 metafile = true
 
 [[files]]
 file = "mods/webdisplays-1-21-1-fork.pw.toml"
-hash = "c277067c09beabed2634db17169f5f5d85f13eed89501ebbbca0d57ef3e31723"
+hash = "a6c59f48deba55d3f8e1e5dce941590152ddc4b3f8c1f77d9fafd09cedc74c3b"
 metafile = true
 
 [[files]]
