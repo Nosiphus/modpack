@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "cc1566620d9b30afaa0b439cb38b8d0150b8aa281c73d9eaa6921eb2f03a6025"
+hash = "e1c3f0c70d62184865bd0dd5d659b2c693a7d54d0ca4b04bfdffe6907319aa4e"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -524,6 +524,11 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
+file = "mods/forgeskyboxes.pw.toml"
+hash = "c6e5e72dad300a45cf27442ad4e1fb30ecf42f814f52d22bd84a53b790fb9658"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "966364d0645672cd48a2025362c6d1412c4b9186a42210135aa2d37c31db307c"
 metafile = true
@@ -821,6 +826,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "44be5b4e3516115e78d80e5ba5d888104bf6a0224df4f2dc186332597a66402a"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "e415e827001053843a327373aa593ca444082b0bc0ff8c73bc182c02922d7b02"
 metafile = true
 
 [[files]]

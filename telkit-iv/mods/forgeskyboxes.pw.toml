@@ -1,0 +1,13 @@
+name = "ForgeSkyboxes"
+filename = "forgeskyboxes-0.0.2-1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QEF20av3/versions/GNDCfPGU/forgeskyboxes-0.0.2-1.19.2.jar"
+hash-format = "sha512"
+hash = "b08d960f86e161fdb371d1a88e95beb76cbff04243cd47fcd64ae9e949a1605c164304b76727545a27fec47f4cbb4a39445b64d080ceb069bcf662957d1e2e8a"
+
+[update]
+[update.modrinth]
+mod-id = "QEF20av3"
+version = "GNDCfPGU"
