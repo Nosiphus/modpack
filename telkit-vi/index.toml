@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "c6b4845cf21abf8a1bb395eabec1fab55be38bba0c3f99b5ae13413b875ff354"
+hash = "74581e71029d9ce022ea53483f021eb926915c414a8eaefab1f22a77a7278c55"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "ce802e7b916b5a196a6943d78159bd0eb371cc1589f647627728c01acf7e24f8"
+hash = "ec93a09720535c2f2fbccd3ec510c5e3eb18a9fa99ffe338e266c4cb6361d835"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "f56e057edc7f9bdf108c054630603297c9b7ba414e498c5a76049ebaac5c6f10"
+hash = "3a986bd4867af1cea1c171363b1f555252ae9c2740df8b55d10541accd970fda"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "21399291eab26dc16a3d3455b4388df2bc42512570729dbcdd60697c1a84fd77"
+hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "5b529724427fd8b04538c2f49cc8f9b38de49fe46218eb9e07f955f5725d727a"
+hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
 metafile = true
 
 [[files]]
@@ -401,7 +401,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "3966f08ef3db053c3024e44975ed41f29a074a7d639e0b02f514fc91ac58b655"
+hash = "51851da1eec44c74801f9b00525c119aa136be6b4c4ba2b5bd8b6d0dcf4791df"
 metafile = true
 
 [[files]]
@@ -481,12 +481,12 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "c046d8e23699865ec8bf7d9b24a3981b3a7eacb2f3184c976362f818333110f5"
+hash = "c5bb130a9bc6f565c90f5ceeec03bee73a4eaae801a7e44364941dff8b8502d4"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "e756b52951b3d81c99bfebb6bcf7db8e385bb250cbdf4e8d68cc79d1c727e049"
+hash = "736613662e361dcba8de82f71f1503341ff5b9d42d6c67735b0465b197433504"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "8424e771a012965197aebfd8827ad5978a5f66979f96dc043ec2e23dfcc0532f"
+hash = "d445356a994628ec609e0543b6e51ccda114fbb5f7deed7c59a1acc7f743763c"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "914d3e19606ecc7b0ae2a410fc196832d7b10f77875a6f83a3b05e3edafbe695"
+hash = "335c92c5a55fb5af9458c18e4f47789e2ea34e51871c598b83f2cdb15a287c8e"
 metafile = true
 
 [[files]]
@@ -771,12 +771,12 @@ metafile = true
 
 [[files]]
 file = "mods/modern-ui.pw.toml"
-hash = "1b8e7dc5dca00aea85c9f1b42119d9a6e09ec69c62651035149fcfd26f0422e5"
+hash = "1a4bbd8ae2d938b514eee771d68e531a9b1acd6f65bf759fd18e7977aff23baa"
 metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "db74912984133347c769c825c55585e8522478e34da41900d3f25b5c630fea2e"
+hash = "021e317565a61ea208c5ab16377280cfbafebb9e386d68fad720ee531ea68bc9"
 metafile = true
 
 [[files]]
@@ -901,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "636f08c84e9a1e1793850aa4f2390e5ece8fc25abee1d5d83679f3813e113802"
+hash = "3649884607b2d18dc33cae6736f2bb8a7e962ed4ab3e4b4d226cd6d7267a2d0f"
 metafile = true
 
 [[files]]
@@ -1041,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+hash = "1aad262000bea80b345a973a19a626bfbcb65b2ba78843843649e740168d04fd"
 metafile = true
 
 [[files]]
@@ -1066,7 +1066,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "8f612f53fb6bf69e22dbb3cc846d2b8a8d9955272b72a210942dd022bf276824"
+hash = "8da1be0f235401e8a90a7459665d79b59fdce440a085a7ac796dda43c8ee10a0"
 metafile = true
 
 [[files]]
@@ -1081,7 +1081,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f610afa1753e465ef4fbd55ef0282e66b7a0f6e10b79b9bb0166b013fdcc4081"
+hash = "148c5d14dfeca914d20ceea4defa9660fe588e6fc22cea23cab745504d4b2453"
 metafile = true
 
 [[files]]
@@ -1200,7 +1200,7 @@ hash = "8d9082f6733b405c553611213f6210f4306bed4fcfdb5f2de177eb6818f93f8d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.2.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3.txt"
 hash = "e4a38ab75f7bf5ad686b77aedcd590af948f10b64891efc7ebbc89e666d6e2d4"
 
 [[files]]
