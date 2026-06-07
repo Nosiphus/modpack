@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "71378374b9a02f9d049f9db851d9dff5464ac5a66aeeb7acc7e5b953f8f370f7"
+hash = "f78630819e50da6b0b9e2d70a1db0c2c3ea8443ce10cfd2a1ac2273f75fd51ad"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "87c83b84b5c8445432b35e6a9f1b2d1aec13d2a8108596a8ba67ea9cc11bd3bc"
+hash = "cf3bcaae42f413e88aec6f5f3263f541f241918fc55c1fa1c5a73b8a9497749d"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "ea0ec2ce220575d15d43692ac690f2bfa3bc52846c37c2cc1b11dbf48613c611"
+hash = "55f8316d2d00790e3e9bd1285a328706ef35e8fd2070e0248496bf9720f3f328"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "831e0e95457b65ef0e30b27be389d1170258f3d9d72a17aaa49baf56f83be0fc"
+hash = "c64e1f8850019986e1974adc68edfe7bbcedd3bd7ac2008df07ca32a41f4a574"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "5f9085cde46d8de8def71c927119577254e2ab1a91ac626a6b0a6f55bda6f8f8"
+hash = "5bc50b4a82fe28c69c18f191102e1cb2e4ff7193ec082280a41d582ddcbac2f2"
 metafile = true
 
 [[files]]
@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "93f3fb61110dd75509775a371145237b1c4d114c25db7a86ee59f75fb0b7e621"
+hash = "0cfaafc78d92ce2779cecc51c19f6dba31fd82463446036e4e30ae082828dc6d"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "80bf4c39aea089a1ef4284fdd160a4283949ed921b4428551405c68c6a063974"
+hash = "7cbc557e23729a2ab1a0dfa8832359edb640a9c4b2f1919e7c43cd5c7ccfdf3c"
 metafile = true
 
 [[files]]
@@ -841,12 +841,12 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "cae79bcfdbd0a85f57c7a292a9f215e31054b2c05f490ca1927fc2ab665ca680"
+hash = "92a46edf33abe7798f9b818c39b8199c0fd61e3d84de4b2561a992aca497522a"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fc70f2509f3a5d82504637fe781c30d10de0dec31e73a2a0245cf90532879969"
+hash = "c72806f0200c41aafe669d633799e1038371d35519415387c08346b6a93026ea"
 metafile = true
 
 [[files]]
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "a55da407afd55d84a18db1ed031ac1242b3becc74cea2c379e0d91e0cfd55052"
+hash = "63b07760201dacd65fd97204d71fcf1ed62e2992d0036e5d0ce379c6071d16e6"
 metafile = true
 
 [[files]]
@@ -1290,7 +1290,7 @@ hash = "f11066dc72d06a1a77e00625578957ba78b36d13386cc4fa9b3b13b7be926ed6"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.2.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3.txt"
 hash = "e4a38ab75f7bf5ad686b77aedcd590af948f10b64891efc7ebbc89e666d6e2d4"
 
 [[files]]
