@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "ffa4f638710d3f4ce20a002c7cc780d3a6a5f3599286e45668faf79bd3995a32"
+hash = "74581e71029d9ce022ea53483f021eb926915c414a8eaefab1f22a77a7278c55"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -190,8 +190,8 @@ hash = "9369292bea18bb65ba56285a1da5929527b76deb11347ad062b9d82ac1a3b7e0"
 metafile = true
 
 [[files]]
-file = "mods/assembly-lines.pw.toml"
-hash = "731dee4b78e505302907d16299bfb4380b92d7a38df60647059c288cdc901d87"
+file = "mods/assembly-lines.toml"
+hash = "880451dcfdadbd0d03387963a0168fa103b02c3ec1dc222ce59a50317b927f33"
 metafile = true
 
 [[files]]
@@ -220,8 +220,8 @@ hash = "3a986bd4867af1cea1c171363b1f555252ae9c2740df8b55d10541accd970fda"
 metafile = true
 
 [[files]]
-file = "mods/ballistix.pw.toml"
-hash = "7cab2e22a5d2935b5f8e52f31388b94a49508b58c2e13200e11dfc06ef42df1d"
+file = "mods/ballistix.toml"
+hash = "49f08a13ee3d8e50e47bf9d76a949c86ddfba8f4015164c67208267117416d1a"
 metafile = true
 
 [[files]]
@@ -255,8 +255,8 @@ hash = "2cfa9768cc635d7ec8cbc0172e62db5ad0fc79117b927344d7f2484b78ebd7b7"
 metafile = true
 
 [[files]]
-file = "mods/blastcraft.pw.toml"
-hash = "6eae226f1195184eceed02158dced8226d9a92f14e65d18d2438bae67c33b2fe"
+file = "mods/blastcraft.toml"
+hash = "607433518879f8d494ddcdbc8c683a4ef139a491cc4823a041ef771a20b883fe"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "4d93d75137d2bb19a1a1f68e494a401dd7e24edff1e5a06f2c17330d8e3431af"
+hash = "a079bf8579ded1a9eeba488f91bdf632a41ac2c35a0cccd8c3aa3cc9ddb7250d"
 metafile = true
 
 [[files]]
@@ -455,8 +455,8 @@ hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
 metafile = true
 
 [[files]]
-file = "mods/electrodynamics.pw.toml"
-hash = "26717fd9a84fd2581eb6cdc6d3fed02f0e7964f4a6f902850eb75c9f25018f2f"
+file = "mods/electrodynamics.toml"
+hash = "0369a4b94672745ab89adea80abbf4438320f1196cc1a0ff38f30033c897e2aa"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "688cbfbaac97d3c9089bf2afa43bfd920ae8f4d210ad892b8ea52177bed67949"
+hash = "736613662e361dcba8de82f71f1503341ff5b9d42d6c67735b0465b197433504"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-entity-renderer.pw.toml"
-hash = "0a04e6550eb448ad6ffeca8c2da7e66586b33c0cdb6259baa0711162339c7c2a"
+hash = "f0d011745e2cad9df538f406b0d5ee0e64f618cb7246b562913823773ced0d2b"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "5fb287ddb204cc2460dc51984099b0010462f781d00b2d6ed2a37046accf2560"
+hash = "291ab7e398118ff6a89b43eae60c3b219e1d96caaf048de00ad0747048e3ab48"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "43dbf7caa8c5318a848f29dd18b52d71455362d91c2f9967e12a0a78d56612c0"
+hash = "d445356a994628ec609e0543b6e51ccda114fbb5f7deed7c59a1acc7f743763c"
 metafile = true
 
 [[files]]
@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "d15338a9267af7741255c1dbde5a4602038b000b6671fec8453f53add1032357"
+hash = "335c92c5a55fb5af9458c18e4f47789e2ea34e51871c598b83f2cdb15a287c8e"
 metafile = true
 
 [[files]]
@@ -781,12 +781,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c8ac0bf19049381f3f05aa46bfea8f2a742d340a3285ecfb7118eab6327cff99"
+hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "23ae6070690635c357040e1361922474ca25a1b0cc621bd9204070ec6c74acaf"
+hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
 
 [[files]]
@@ -796,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "4eaef45625336f16e9461e00e9e4f4ed789bcd25b4ca8e011d68564ddb7c8c3a"
+hash = "4c4e9c816f6d7b533559560e0b5e4e7d7cd7aa1e74995118eb175122b2b3e3cd"
 metafile = true
 
 [[files]]
@@ -845,8 +845,8 @@ hash = "03bfdca138de9c56b29b120a3a1693269951d261916a8bc16e48d0c3576e72fe"
 metafile = true
 
 [[files]]
-file = "mods/nuclear-science.pw.toml"
-hash = "d37624661ac566911960d1ef8562527273655645aef209f1a412ab0d7dcf4f3d"
+file = "mods/nuclear-science.toml"
+hash = "a563c76e0699d6031aeeb71ca8c6c6f3ab34213740bab569c1866a7ae71908a7"
 metafile = true
 
 [[files]]
@@ -976,7 +976,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
+hash = "ff58035ffb7b219ded57cbd97f3b2f4f0b3f63c480cf427850f838a4f10cd3f3"
 metafile = true
 
 [[files]]
@@ -991,7 +991,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "14dd933b66ac458d9fcf4cdee8752231537307dd8de568107aea4dbb0a5fdf24"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
@@ -1041,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "1aad262000bea80b345a973a19a626bfbcb65b2ba78843843649e740168d04fd"
+hash = "3d4e503d18dd6ceae6671d812f03d612e4c6906a432a455ab21ab7059809328f"
 metafile = true
 
 [[files]]
@@ -1051,7 +1051,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
+hash = "0c2729966906b36b1b67524abe7f74ccd011d08e7899cc886adb7d7f7e4bd088"
 metafile = true
 
 [[files]]
@@ -1066,7 +1066,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "1a8c3d6ea5da99e223a66c521362cc4c5d39c6f3987981fc3b47c50b39631015"
+hash = "8da1be0f235401e8a90a7459665d79b59fdce440a085a7ac796dda43c8ee10a0"
 metafile = true
 
 [[files]]
@@ -1110,8 +1110,8 @@ hash = "1905601083809ad13f41c01aa7a967a6c17b0ac53a725d9664c9c9fbd3361429"
 metafile = true
 
 [[files]]
-file = "mods/voltaic.pw.toml"
-hash = "5ae49c5f3d651ad45a5d975033d6957410e07dd8ea53480ae7bc759857655f00"
+file = "mods/voltaic.toml"
+hash = "c01a54b747198fd94bbcf5294d2a589bcbc6edd3d9bf49df6a866c615507afa7"
 metafile = true
 
 [[files]]

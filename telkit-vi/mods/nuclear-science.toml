@@ -1,0 +1,8 @@
+name = "Nuclear Science"
+filename = "nuclearscience-1.21.1-0.8.1-bugfix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/temporary-fixes/1.21.1/nuclearscience-1.21.1-0.8.1-bugfix.jar"
+hash-format = "sha1"
+hash = "f93d3e84376d5b95c835d9d2ebe54139f361aa87"

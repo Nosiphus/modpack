@@ -1,0 +1,8 @@
+name = "Electrodynamics"
+filename = "electrodynamics-1.21.1-1.0.2-bugfix.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/temporary-fixes/1.21.1/electrodynamics-1.21.1-1.0.2-bugfix.jar"
+hash-format = "sha1"
+hash = "246ebfca3247d7a9552610201f8b110430497a34"
