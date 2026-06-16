@@ -1,0 +1,13 @@
+name = "Electrodynamics"
+filename = "electrodynamics-1.21.1-1.0.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xmhmr70o/versions/NivkhTcD/electrodynamics-1.21.1-1.0.9.jar"
+hash-format = "sha512"
+hash = "bd5dc08c4b1879e54abf818a5f5d40807a280b57b6e9714a70c81a6140b0903eed9a120657affe0d96dff17a07c6c0129b6f9ce108b54895fcc2bc733a16c075"
+
+[update]
+[update.modrinth]
+mod-id = "xmhmr70o"
+version = "NivkhTcD"

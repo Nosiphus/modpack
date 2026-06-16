@@ -1,13 +1,13 @@
 name = "Fancy Entity Renderer"
-filename = "fancy-entity-renderer-neoforge-1.21-0.4.4.jar"
+filename = "fancy-entity-renderer-neoforge-1.21-0.4.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RQ6INv2n/versions/3AxUyQUo/fancy-entity-renderer-neoforge-1.21-0.4.4.jar"
+url = "https://cdn.modrinth.com/data/RQ6INv2n/versions/qq5kPB5Z/fancy-entity-renderer-neoforge-1.21-0.4.8.jar"
 hash-format = "sha512"
-hash = "fc9861000d5efa4a634dd107659508910a1c1e9a1de7af0d1558f38658a6a31bc2b4225af3947127bd922251c53196346e7c00b6979645ded0c0009c95954b59"
+hash = "872603443cbed00a07b168649cd4f15a0472add796aff99655ec254a7e70addf766f9bbbd97ff16d31c59a8c684db3e3fa29639e348189982a7de28bc924f77e"
 
 [update]
 [update.modrinth]
 mod-id = "RQ6INv2n"
-version = "3AxUyQUo"
+version = "qq5kPB5Z"
