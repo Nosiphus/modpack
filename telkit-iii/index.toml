@@ -230,7 +230,7 @@ hash = "8044e27adf2cb1396551b10f008c7b04d3dab4e4dabeffa43515f07b28ada583"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit III.txt"
-hash = "951bdbbf12e2a43fa241adc05b499dea3955c1311b51ac565114096ae967c876"
+hash = "c21ed1693a757a2354701bfb870732892945d6111a79d64521dbd18d198dee9b"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "d0a16178788e4654888451ccd63ab9162f615415878c4252016f47194fc03ce5"
+hash = "03ea8069ad748b6092141ab471cdc767cd0092b30a078f023b1ea39d78d0be83"
 metafile = true
 
 [[files]]
