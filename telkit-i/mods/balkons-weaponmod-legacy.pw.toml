@@ -1,13 +1,13 @@
 name = "Balkon's WeaponMod: Legacy"
-filename = "weaponmod-forge-1.7.10-1.24.4.jar"
+filename = "weaponmod-forge-1.7.10-1.24.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MCF15nCy/versions/745u0UPn/weaponmod-forge-1.7.10-1.24.4.jar"
+url = "https://cdn.modrinth.com/data/MCF15nCy/versions/acUmMsUx/weaponmod-forge-1.7.10-1.24.6.jar"
 hash-format = "sha512"
-hash = "8a6a8ecef35b1348c5559c5bb1bb4faded919556ef02f7bee16449e2514953c0d1ea6f52100192d67b9222d862e30c0a2acb88db8922c3f2fd2b4f1f765a8c22"
+hash = "98a6f8d5c73e8d17420cdde9219c193b45c2622cac4b3c1e1681d3cf73fedcdc230c6071c30aa5e7caa1ef1a8d825cfce214ce49d20b9dc4ccd6a72bd9c51067"
 
 [update]
 [update.modrinth]
 mod-id = "MCF15nCy"
-version = "745u0UPn"
+version = "acUmMsUx"
