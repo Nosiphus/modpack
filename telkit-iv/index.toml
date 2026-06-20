@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "0543d4466b6558950d65d588bebb7fe0838b05c128339321686029e95f2d56ab"
+hash = "dc2591fe8f830edd2f2fc226fb6c256037ab14e59e9c16a41ab917b1f7425a16"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "5f9085cde46d8de8def71c927119577254e2ab1a91ac626a6b0a6f55bda6f8f8"
+hash = "5bc50b4a82fe28c69c18f191102e1cb2e4ff7193ec082280a41d582ddcbac2f2"
 metafile = true
 
 [[files]]
@@ -550,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-library-forge.pw.toml"
-hash = "879813604dd833f793d6d362c6b8a13ce35bf41da13d921b1e4e6c67813ceace"
+hash = "0a44a0ad8c4de01ce840f0c36a8eb2edb86fe6b7a61e1c7f87ac58cd5a65c0d3"
 metafile = true
 
 [[files]]
@@ -1149,7 +1149,7 @@ hash = "011207ebcc93651ca50c4844336d078d9466b99f6ca39b7a130b47aad66b3a7a"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.2.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3.txt"
 hash = "2aeb215c4f0eb8e2a0afd0e6674db56a79d5c25eea7bcb49f0e53f3c8a7c5e75"
 
 [[files]]
