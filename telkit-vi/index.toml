@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "1138fb0b064f55e2f5865ecebae7bc86d4b98899610dcbc28a52c282d4028a14"
+hash = "2e936a06ea18caf244c8ce4ca9210ca8502c5b3dcebb82d4b0adb21b91b12001"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/bibliowoods-legacy.pw.toml"
-hash = "a79e962044d3372c0b34674c5371f6eb25edcd1ba30b796de6098ec63aae9ddb"
+hash = "85a339ba6cfa5997dc940ed472da4e4c50e11d04113d03ee8247537cb305da8b"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+hash = "e7b3c08c8b168d15e3997d41d0480d1d35cba0bdda94094f123d1eef65d0b0c4"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "ced62035562e01829cd252beb16b6ca888fb2ad32c246116cd42f18735d19eb1"
+hash = "ce9c8ec62e48cf4907c0b17f9f4477ced09f9ff1513bdefe2fb78dfb1af8deeb"
 metafile = true
 
 [[files]]
@@ -1086,7 +1086,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1698806f61f20be2a046d1b10dae35a6e045ae32d82b04e988283ecf62099320"
+hash = "d2102e2791e5dec11e8a7145a712c2e32bc1799308763de2f81caa4a532941af"
 metafile = true
 
 [[files]]
