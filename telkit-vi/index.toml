@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "2e936a06ea18caf244c8ce4ca9210ca8502c5b3dcebb82d4b0adb21b91b12001"
+hash = "fcf47528d19f4ec606778340fe8da5837fb35ab88c7b6880e8d89e8cafe1e37b"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "ca7ccbfc12a2103e8a155731eb03f94b243cc07fe9fae2f22c9ab04656109544"
+hash = "e0869c143ab321381491c224ca6f3c1f16523badc7973eccaff2fed785d50c9e"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "17cf45aaab6d4964d4d851cfcbe4b5e6db539a2329216392bec4aea1c90b83a7"
+hash = "37784a1f9ab276e618f3d29bf0ea641811f7f6d3a740179e0332e7794b91679e"
 metafile = true
 
 [[files]]
@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+hash = "076b61776e2df489b323758c97d85c5370554c044845ee2e90476a3c138779e8"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "ce9c8ec62e48cf4907c0b17f9f4477ced09f9ff1513bdefe2fb78dfb1af8deeb"
+hash = "10f6162d8bf52b7e9980acffe2351b18aa34f157adb57f41a5a20840e651db5c"
 metafile = true
 
 [[files]]
@@ -791,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "ebca20d77b200ff48f7e431ccffac2c2db6844ef4f9304452a0201f5c0307008"
+hash = "bf3757240109ab1b642e90a8905454aa1ee715d76c55e979f51e96af6f4d07c9"
 metafile = true
 
 [[files]]
@@ -831,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/northstar-redux.pw.toml"
-hash = "4d7e9989b35a90db762ee26254bd0b52bb28f0d959bd557ae4dc7a4dc1caa362"
+hash = "f3c1cf6d48fadd4679010ab3ce9c480533e9df5dc33de2617dec87508f7fb1e4"
 metafile = true
 
 [[files]]
@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3649884607b2d18dc33cae6736f2bb8a7e962ed4ab3e4b4d226cd6d7267a2d0f"
+hash = "502260d6c6888738e9e395b66b964fa338d2caa6e390eeaab714a54e55982b3f"
 metafile = true
 
 [[files]]
@@ -1056,7 +1056,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "25324a8a9cdc663d3d1952191e873f87531011715de49673cbf7c1b0da0504d6"
+hash = "b09f7819bbd22c2cc6a70601295721cb3bee6d830ca2f51fdacb50de519596e8"
 metafile = true
 
 [[files]]
@@ -1086,7 +1086,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "d2102e2791e5dec11e8a7145a712c2e32bc1799308763de2f81caa4a532941af"
+hash = "039a71011f455c24c9ccc7b38ef6f01561992a77a5d0c21f75dc01f70b42b1e2"
 metafile = true
 
 [[files]]
@@ -1146,7 +1146,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "f84ae2e01bc4c7c5531ca9ab045be132ff32df0a572b408efc14f89ef636be01"
+hash = "d1c97a86c2767df49d9c7668c3379c6cce4d61fdb9308e46f968863669f43ff8"
 metafile = true
 
 [[files]]
