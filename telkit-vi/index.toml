@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "fcf47528d19f4ec606778340fe8da5837fb35ab88c7b6880e8d89e8cafe1e37b"
+hash = "82c21017ea301925f8727a32db08680d99b142f2ea0e55563e7a90bf104d5d0b"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "e0869c143ab321381491c224ca6f3c1f16523badc7973eccaff2fed785d50c9e"
+hash = "5c3b2fcb9762b53e2e18fe090180a2062bb5cbf65fa8a774d44b55af60705ebe"
 metafile = true
 
 [[files]]
@@ -486,7 +486,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "14294d70698ca8153d87de2f8ec2bb46675ebdf6c576d6745470900e35d08de4"
+hash = "d7995c6f45528e8769205ce7cd66156fab94e3f41d0a3aa699cdacbba94c3c93"
 metafile = true
 
 [[files]]
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "a8b3fa16f87e0dd02b5c5b978a6ad81fa7d3b1a9ae129063a6ee69b4993d4a59"
+hash = "db4c055299a474362c9e6359c7567e4b53a3288060560c20730949da667092bc"
 metafile = true
 
 [[files]]
@@ -741,7 +741,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-x-create-northstar.pw.toml"
-hash = "b1aa929c69d6b95d67522719efe8c053ca87fb37f928c9658a35ee6573a5713c"
+hash = "82e7491fae259db7f3f0d484d320de368f6a6a90f100bfc271ea38a4b196b624"
 metafile = true
 
 [[files]]
@@ -761,7 +761,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "10f6162d8bf52b7e9980acffe2351b18aa34f157adb57f41a5a20840e651db5c"
+hash = "6aef4ac52660a4b7da77aec42339339f498be6b78a6ca9591e47a90ffc677c20"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
+hash = "723e363273ff9fea18f1d2cf0b2d469901f9c4a1f1ffdd8093fa435451deef95"
 metafile = true
 
 [[files]]
@@ -1021,7 +1021,7 @@ metafile = true
 
 [[files]]
 file = "mods/security-craft.pw.toml"
-hash = "143324f103b28e6f799e808ce1ff20eab1aea7485be406c3ff95d7f007920e84"
+hash = "a8e533b5135ea83b581f6c3359eb60d05aa36fe1e22802cf2bc7992905d7381e"
 metafile = true
 
 [[files]]
