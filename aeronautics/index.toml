@@ -1010,12 +1010,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
+hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "e2a4209ef47d6a109d75669cc048e7a73a2e7d36195898c490e26cf76e32c396"
+hash = "b26f156be8a05063a0b08cb1afe7c76d392db90a9544f0500bd5c8821196bbe8"
 metafile = true
 
 [[files]]
@@ -1035,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bf3757240109ab1b642e90a8905454aa1ee715d76c55e979f51e96af6f4d07c9"
+hash = "9d84be24f2e6adbf75dec35a2bc9b147c840eefe2a7f4138c40cb7ca315f2678"
 metafile = true
 
 [[files]]
@@ -1095,7 +1095,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "61d572ec6e241a8374db15e453074a7ae70485a0caf9082b9b39c608410f643a"
+hash = "723e363273ff9fea18f1d2cf0b2d469901f9c4a1f1ffdd8093fa435451deef95"
 metafile = true
 
 [[files]]
@@ -1150,12 +1150,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ffb55dc7c35521b4e3fe36716321b9cf3ca11673bb6e511c63de8e5ec7d29541"
+hash = "2950556c3171e961c78ac6dfb82a006b2b9ad78eebda1930c7f1f436cf6db64b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "82e9a1a3374847c0cda6bd0cef3718df19983226742f988f80a04cee0e94a45f"
+hash = "e2bc8421e37aa8cfab1f4d6f218653032b6b2f4b89dda0db759be9e089ffc741"
 metafile = true
 
 [[files]]
