@@ -1,13 +1,13 @@
 name = "Bibliobiomes Legacy"
-filename = "bibliobiomes-1.21.1-1.6.2.jar"
+filename = "bibliobiomes-1.21.1-1.6.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DSrUt8Cp/versions/5d0bLSbW/bibliobiomes-1.21.1-1.6.2.jar"
+url = "https://cdn.modrinth.com/data/DSrUt8Cp/versions/eHoIL0hb/bibliobiomes-1.21.1-1.6.3.jar"
 hash-format = "sha512"
-hash = "a4680f837118b004633ff20ccf600630bc1159176ca37c92dec0585bfd507545b6cc79457a74b30d6b8fdeb204ead708a2ce2bbcbdfaeaaf29796d8fb20e1cdc"
+hash = "0334bbfc909529356165dcae3127d1f5c6ab4c890b70f8faf29a1e79f511faaf44d13f3999558861bb76180781dc339d39eae027d3650a0190a6e2905fc5035b"
 
 [update]
 [update.modrinth]
 mod-id = "DSrUt8Cp"
-version = "5d0bLSbW"
+version = "eHoIL0hb"
