@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "8205e6572ea054c77279d908ca6cfe161144b7e7a30c91bf66edbd7c74d347f0"
+hash = "74014f71b790394e892018ebdabf95466ad2dd5f17c0f8b3a12e6f15868863b1"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -467,6 +467,16 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
+metafile = true
+
+[[files]]
+file = "mods/enderchests.pw.toml"
+hash = "858a02970321e1c69944d06e8b02ea13e30d2800cde3d7cd974f8f9646db0e7e"
+metafile = true
+
+[[files]]
+file = "mods/endertanks.pw.toml"
+hash = "05a8671f7dbfe5c902c2c89cb249aeeb8d89beaec8e210db4a497eca5b628184"
 metafile = true
 
 [[files]]
@@ -1032,6 +1042,11 @@ metafile = true
 [[files]]
 file = "mods/shards-compat-voltaic-sable-compat.pw.toml"
 hash = "2c29ee98f3393d019df6ed7f275ab190c8b0434285f5c07a2db0660a39bf9bca"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "89fb937441c927ec06fa50bdfead0ecc31e947ebd932d47d46110576b77487b1"
 metafile = true
 
 [[files]]
