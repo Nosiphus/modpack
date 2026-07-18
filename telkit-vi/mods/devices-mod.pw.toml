@@ -1,0 +1,13 @@
+name = "Omnixerio Devices"
+filename = "omnixerio-devices-neoforge-0.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c14cec4158bbb45fb524a9698c9a217e4dc21a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8405796
+project-id = 659048
