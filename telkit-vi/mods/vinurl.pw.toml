@@ -1,13 +1,13 @@
 name = "VinURL"
-filename = "vinurl-2.5.0+mc1.21.1.jar"
+filename = "vinurl-2.6.0+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5PsMUIsq/versions/ACAibUG6/vinurl-2.5.0%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/5PsMUIsq/versions/VPrh5CCo/vinurl-2.6.0%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "98f4b1239ead0fe28dbf07ee4ce46958429cb3d89a94d939ad7cd5438c4fb82f971de830458db0012b37857bde94a29d47b7b4d59a0093aca24db5ba9dd25ec4"
+hash = "c9b5ea885b51887cd41e261b41399a823c212c7e172c0250c2832da079ef72066bf7e531c616cc4cb2966d3d8b271a381f43d2b9746031cf391f6772a2916020"
 
 [update]
 [update.modrinth]
 mod-id = "5PsMUIsq"
-version = "ACAibUG6"
+version = "VPrh5CCo"

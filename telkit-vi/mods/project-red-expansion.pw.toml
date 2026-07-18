@@ -1,13 +1,13 @@
 name = "Project Red Expansion"
-filename = "ProjectRed-1.21.1-4.22.0-expansion.jar"
+filename = "ProjectRed-1.21.1-4.23.0-beta+8-expansion.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fn5zBLFv/versions/uYUDJk0q/ProjectRed-1.21.1-4.22.0-expansion.jar"
+url = "https://cdn.modrinth.com/data/fn5zBLFv/versions/bcrkS5fe/ProjectRed-1.21.1-4.23.0-beta%2B8-expansion.jar"
 hash-format = "sha512"
-hash = "75b41748a42f34f6c937386df6a904347034614e1a9d16e79f790995a5c8ae0d2f31a8926f74687418d4b75271873590eb55d35636ead691b65ff530ef70b76a"
+hash = "e697d5e938affede860046c9cb1e3873b18874f9900a916bac45f9847d53a7135502faff66f2451dbb685d46e0b8a46eeb9c850124f60e3c9735490049c78f2f"
 
 [update]
 [update.modrinth]
 mod-id = "fn5zBLFv"
-version = "uYUDJk0q"
+version = "bcrkS5fe"
