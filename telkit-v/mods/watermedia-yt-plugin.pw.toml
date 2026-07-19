@@ -1,13 +1,13 @@
-name = "WATERMeDIA: Youtube Extension"
-filename = "watermedia_platform_extension-3.0.0-beta.7.jar"
+name = "WATERMeDIA: Youtube Plugin"
+filename = "watermedia_youtube_plugin-2.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/P0w3IrnX/versions/Vg5ofKQp/watermedia_platform_extension-3.0.0-beta.7.jar"
-hash-format = "sha512"
-hash = "68de69e2b6e627db46b8040f892e6e37f23effc9f20bf24272e75fd224785d8b54448362a15e7b98efaebcfc12058d49d8984ad00f83a8f90f3e22512265d46a"
+hash-format = "sha1"
+hash = "1f4d208ed9292189dd99147a9dae7c1d4bc95ad5"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "P0w3IrnX"
-version = "Vg5ofKQp"
+[update.curseforge]
+file-id = 7543999
+project-id = 1395870
