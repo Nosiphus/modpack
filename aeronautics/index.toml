@@ -630,7 +630,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "mods/aces-spell-utils.pw.toml"
-hash = "44c474b17bdd2dc94b418591ac2f66fd27f228241882b67c21342cc053b19845"
+hash = "3b03175ed1dc7f0810f7f7b10c463aec657c6243153efae59fe77b744f6cd830"
 metafile = true
 
 [[files]]
@@ -1030,7 +1030,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "ed497626a4cf33c449c7611624e5f9797247cd9cc15dc00aaa11240335197923"
+hash = "ba94dfeb21c6ae878a568062cd03154163e9b8bb31018bd16441129c75b16e8b"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c54d8e0f882ebcd3bffab840b1ecd4dbd59ca566f8b0cd93dca50c5183fbb18a"
+hash = "59278a379f3ee485b86d4cfd42ab85876c4dc679d641a8ce9a6108f10ba9ba60"
 metafile = true
 
 [[files]]
@@ -1125,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "369617869e9c8224e9c5e875d70677c491bc4282919b32705d096d253e2ffecd"
+hash = "cca4b10598ae8cedcc2a6531a422453d624ceb4d1de1163ce46255415ccda045"
 metafile = true
 
 [[files]]
