@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "dcd36998fb131db5684923e121aeeddfb0b028d1d5beb4af7744a0d466764ad6"
+hash = "6c09364bd4852225e07fcccd05bdca72e526cb98fdb83863a03f52149299b6d2"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "1a611a71baaf48d69f2a0fd226bc302b766ba0f54feabea802e28d51a40879ef"
+hash = "3a9295215e3a815a0dd459a04ca8e9ac39eefed7e6fa7c08eb53165f5f3b165b"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechicken-lib.pw.toml"
-hash = "7dfcb98086a3504e8ed24f9f64528a2435fdc19f8fb232d99aa46b7dc2c3aacb"
+hash = "1e1678b169096708fcb92496f251260471221554f70ca0dab1b99f2a6b72ea7b"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
+hash = "c7c920fbdf1415fff28d6b7aa0a2585be1df114ce03edff75ad2b78d359823ad"
 metafile = true
 
 [[files]]
@@ -431,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "16aa04ea994ad4259363094b8aabbe069435ae4ab666c27e1b11a0f20dd90c9c"
+hash = "a6967d761dde867ccc1af53dc9f4e530eb9917a9cb21d0fc15708e8cd2c0f2ba"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "d7995c6f45528e8769205ce7cd66156fab94e3f41d0a3aa699cdacbba94c3c93"
+hash = "f91c58dd28057838313e9bc2a23a8abab71fb9db7b9fdb63742267ae7fc51ed1"
 metafile = true
 
 [[files]]
@@ -636,7 +636,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "636d90c851ff6f3d8668140cec978a05b9078d1b8a0b85f300bb795ed0a55572"
+hash = "06a7dd41efafdd02cd3d4b3eab59a1b8261d25c1ddd1d3d0af77418a5614b971"
 metafile = true
 
 [[files]]
@@ -771,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "5378f3771a1572a8b75289bba69251a3f0bd75df628bb1bf4f991fa897c4f598"
+hash = "4c68968eb0ce234d8aae59fc34aec45a132b7eb26a28a482c4d019714611b49b"
 metafile = true
 
 [[files]]
@@ -801,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b6d7448e14c747318b083d7903baa4801ad524853f34205aa19f0cfa18ec0a92"
+hash = "688a2fcd58d20df93c57e571b054b3c582932a795a255dc13c65b055dc1880b1"
 metafile = true
 
 [[files]]
@@ -841,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/northstar-redux.pw.toml"
-hash = "14f7d55594269565bde84e899b5375a02b1afe13a33e543d4e152a40743c0291"
+hash = "f93ae0a855e9f4cc59a522b22756a67c5381fa2a461b75c53795fb81929a95ff"
 metafile = true
 
 [[files]]
@@ -916,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "59278a379f3ee485b86d4cfd42ab85876c4dc679d641a8ce9a6108f10ba9ba60"
+hash = "b650bb37e3553979e2332b510c4c91cfa1df8b66eb33877ce1ed6199811c92d1"
 metafile = true
 
 [[files]]
@@ -926,37 +926,37 @@ metafile = true
 
 [[files]]
 file = "mods/project-red-core.pw.toml"
-hash = "7413ba2cd0705518c6e9ed1cf872447d950dfcbc37c03f0d6354b0b303b0ecdc"
+hash = "1d7223f9d3839654c309a2b8aa5061917dbbff27ea87af961820393a1d68dd14"
 metafile = true
 
 [[files]]
 file = "mods/project-red-expansion.pw.toml"
-hash = "7d171e6c8e7f86ea78aee12c6b04f66b7106fb67f3124be8d0033d5b84f2ea08"
+hash = "652ed6985b977dd128d0f9f0a727ddb02dcee5e17d9b8bed794c9c143abc30d6"
 metafile = true
 
 [[files]]
 file = "mods/project-red-exploration.pw.toml"
-hash = "9e332d27d6a3cd80c4e98d928bea1e87e5f1e298caab0097b3da5910c80ed4fc"
+hash = "450e13d6a8a3ab4419db7341f948940fba9e4f4d10c3886e84c85242250bcefa"
 metafile = true
 
 [[files]]
 file = "mods/project-red-fabrication.pw.toml"
-hash = "f7d066f709514265e709f7232375d7f3c597c96043ce4741fc8d0621ec8e721f"
+hash = "a8e26fa8630e66f0efaf61adc38ce77f5006638ecec49ac6047ca79e86abe100"
 metafile = true
 
 [[files]]
 file = "mods/project-red-illumination.pw.toml"
-hash = "a2075a0aa1f3a3ebc3eb52f607a3ca726b04ae098b10d68426d628c705e9ca79"
+hash = "d255c5d6bd9f0f2694b205234e47066d25c78cf1b6685bc1ea120e90649d278f"
 metafile = true
 
 [[files]]
 file = "mods/project-red-integration.pw.toml"
-hash = "ff49eec7924aaf7eb1902165b18e00d55e5e629e31f175152d81816f11f544e3"
+hash = "76fc72a4c4587a4de3333054ad562717d67aace52fbc05391b76f295b2235578"
 metafile = true
 
 [[files]]
 file = "mods/project-red-transmission.pw.toml"
-hash = "1d6842d86f03730781617e8ad7434c8f3de6ec9e86a08b27434da248301ba993"
+hash = "9da154905408379e803be7895169e8f5813c4e7bec3a00fe3849d9c833b6899a"
 metafile = true
 
 [[files]]
@@ -1086,7 +1086,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "37d2c0cdeba3e4d81f1d4e9f205015d59427b7abd9d22862ee3625e00ae561f9"
+hash = "8618456848113ee95a9996a7bd56495db4407c7b43bbcf88946a6920813c7b3f"
 metafile = true
 
 [[files]]
@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "de2fbb0fdbc03fa1cba3ab1b6464f711abd5993c63d5322f562812540247e2b7"
+hash = "805c7b44181e5826bdbf4fcc21b14d93cd8ff656747356d325a5cb81a8fa3de5"
 metafile = true
 
 [[files]]
@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "45410ca31e2d040ce31412b9bd699feb0866e0a782e73ac6ab985eddcf92ec81"
+hash = "b7549da2e8e2a3e91b49a7154f7d248c5fd46fed051dbdc5561439fe83eb3e97"
 metafile = true
 
 [[files]]
