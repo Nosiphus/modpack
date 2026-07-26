@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "d3c9147ebae8e8fb55da2fec53675cbe28c520385335091093e50f8528be65c6"
+hash = "6e38d5d174ee9f263841e583695db32b253d97825ae5f680190487f2f9447291"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechicken-lib.pw.toml"
-hash = "74a525a623611769f07d844ea6d6817979ff88c92327785f34ebb3847f22cc39"
+hash = "5d5049e9d4a886b2fa84215fc2bd8a38a8e0c0395c2e753d92907e4a30888d2a"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "6311134242af3f639923e825caea40821c7e7ee7caadf4105234f5d7fa44ec8b"
+hash = "90970b96076bd7455bd6455804224e6078ec6ae4920c5c345097cef920a404ff"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9d0f61b99f837bdef39229f063f4ffa12b86f3b0e3dd5b50f8f3d42243690831"
+hash = "a04d05b381d2f4c732e65dcd3325a3308821435dc10e89ef588684322da5571f"
 metafile = true
 
 [[files]]
@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "7228334a4f187e35e88997b39d8f724621108b8d1efaff6149de063cbaafc2f0"
+hash = "0da2d06e6fa0e2b6355ff2a95230203ad280e6a36ced40184ef9689772ea897d"
 metafile = true
 
 [[files]]
@@ -971,7 +971,7 @@ metafile = true
 
 [[files]]
 file = "mods/potacore.pw.toml"
-hash = "4bb4ce1e1568c98e8f2782aa0d267c6e4713a20774108515cfff9eea8600697d"
+hash = "0784b7ba7561937d32017dd8afb3e26839e3b29a09b567ebdd8f91c4513a1636"
 metafile = true
 
 [[files]]
