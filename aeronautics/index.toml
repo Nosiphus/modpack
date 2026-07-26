@@ -645,7 +645,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -695,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "1a611a71baaf48d69f2a0fd226bc302b766ba0f54feabea802e28d51a40879ef"
+hash = "3a9295215e3a815a0dd459a04ca8e9ac39eefed7e6fa7c08eb53165f5f3b165b"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
+hash = "c7c920fbdf1415fff28d6b7aa0a2585be1df114ce03edff75ad2b78d359823ad"
 metafile = true
 
 [[files]]
@@ -875,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "16aa04ea994ad4259363094b8aabbe069435ae4ab666c27e1b11a0f20dd90c9c"
+hash = "a6967d761dde867ccc1af53dc9f4e530eb9917a9cb21d0fc15708e8cd2c0f2ba"
 metafile = true
 
 [[files]]
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "636d90c851ff6f3d8668140cec978a05b9078d1b8a0b85f300bb795ed0a55572"
+hash = "06a7dd41efafdd02cd3d4b3eab59a1b8261d25c1ddd1d3d0af77418a5614b971"
 metafile = true
 
 [[files]]
@@ -1035,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b6d7448e14c747318b083d7903baa4801ad524853f34205aa19f0cfa18ec0a92"
+hash = "688a2fcd58d20df93c57e571b054b3c582932a795a255dc13c65b055dc1880b1"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "59278a379f3ee485b86d4cfd42ab85876c4dc679d641a8ce9a6108f10ba9ba60"
+hash = "b650bb37e3553979e2332b510c4c91cfa1df8b66eb33877ce1ed6199811c92d1"
 metafile = true
 
 [[files]]
@@ -1150,12 +1150,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "5a5f28fbfd2574cf35d06c8be9d81ff02596fd19c39f2844ddc99b76812b3e40"
+hash = "16d83873bed6c9301df009a4f21ba45f920d3fca7536e4cd8b719c73393209e8"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "5fb29c39aba318df851e6f9feb3127e7e96f6f960d3fe04018f8124209c26e41"
+hash = "f1ac2f9ecce242d0f193db475dba673da2bd5ee04b59d3e750699e7b7c4d1f39"
 metafile = true
 
 [[files]]
@@ -1170,7 +1170,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "37d2c0cdeba3e4d81f1d4e9f205015d59427b7abd9d22862ee3625e00ae561f9"
+hash = "8618456848113ee95a9996a7bd56495db4407c7b43bbcf88946a6920813c7b3f"
 metafile = true
 
 [[files]]
@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "45410ca31e2d040ce31412b9bd699feb0866e0a782e73ac6ab985eddcf92ec81"
+hash = "b7549da2e8e2a3e91b49a7154f7d248c5fd46fed051dbdc5561439fe83eb3e97"
 metafile = true
 
 [[files]]
