@@ -816,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "bbaa78d943be3a24075efaf0409b2f6925b330da8f5ce9a8545a909c1dc58d11"
+hash = "16bbc43bb28d5ba5f52e4ef46e23596d90c8821ba512cafddcd87c8a273eb306"
 metafile = true
 
 [[files]]
