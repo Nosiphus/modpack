@@ -1,13 +1,13 @@
 name = "Default Options"
-filename = "defaultoptions-fabric-26.1.2-26.1.2.1.jar"
+filename = "defaultoptions-fabric-26.2-26.2.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/WEg59z5b/versions/MT52suO9/defaultoptions-fabric-26.1.2-26.1.2.1.jar"
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/hS9ZtUOA/defaultoptions-fabric-26.2-26.2.0.3.jar"
 hash-format = "sha512"
-hash = "5b1e32ede6be610f251026c00c70858db74119701b6c8dacc37b4f36b104074b81afee9b05c4b86be0de1b238c05746947c412559d9cea175ec0948f775db868"
+hash = "e605c02dd4899c582678472a1f4651d34a229d671f7a60dd06587eb1c4ed2e73fcbd109746aa449a32616014c478583fb28dd855f3c6d8805fb8a0bc1c9562b0"
 
 [update]
 [update.modrinth]
 mod-id = "WEg59z5b"
-version = "MT52suO9"
+version = "hS9ZtUOA"
