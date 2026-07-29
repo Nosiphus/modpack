@@ -1,13 +1,13 @@
 name = "Ballistix"
-filename = "Ballistix-1.19.2-0.6.8-2.jar"
+filename = "Ballistix-1.19.2-1.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XeEYk41R/versions/sDDD34uG/Ballistix-1.19.2-0.6.8-2.jar"
-hash-format = "sha1"
-hash = "5cb4598227fc9245e1252410ef71cbacb99be151"
+url = "https://cdn.modrinth.com/data/XeEYk41R/versions/MGEOtgrp/Ballistix-1.19.2-1.0.11.jar"
+hash-format = "sha512"
+hash = "3535a9a8aa1c060ac93cb36367ce34888b5098ef4c1772d19b8cc20c418891d6aad8cafa9077775b5453a208e43bba478cea0b07c799c3f03e3d264265ab0000"
 
 [update]
 [update.modrinth]
 mod-id = "XeEYk41R"
-version = "sDDD34uG"
+version = "MGEOtgrp"

@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "e1c3f0c70d62184865bd0dd5d659b2c693a7d54d0ca4b04bfdffe6907319aa4e"
+hash = "5940e108c606a9f9613e102b545044f3b309cf405648a95ac540095c45e932cf"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/assembly-lines.pw.toml"
-hash = "5333e264fa393c3140582dc5ac618ac128753a925f47f137a5a7cc4025d8d060"
+hash = "7d4449db6dc91f36a6d98547d2e63a68aab88688a0812adbcbf78591f4e594d6"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "033f6a980263c02ffeaf9b9dadd33597645954b9bb13f1f4b2dba9fa0964704d"
+hash = "3a727c96a2bb0d5c2fb1e3d2beef49ad462f41968874c7a72fe36b6bf606e52a"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/blastcraft.pw.toml"
-hash = "f1d994e17bad33d64421dba4de3f63a5e936eb3eab23741718aab2b2ecd29226"
+hash = "c4d32fe38a991758c2569ea9bbcf355c286f7692d473e8f9e49d0e6d147dc20e"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "aa76227ba79e34d165d56ae5c893ca60d0e00ef658b59f18260d5bc352faf51f"
+hash = "3e3d31d34c5ab6b2e845d5d6aab4e7b1c3d146f54b57bec21eac6cc11c6a1848"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7befc4718b205d760fedcef1aa160b3f7ebde248774f4a1eb79e0e2d352afe89"
+hash = "ff9f504e5279a2c08d28c046bf068ae58ba1283ddb4ef887abb16d2186dcc92d"
 metafile = true
 
 [[files]]
@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "575d34f468185b441c035c89346c0434e2ee5e52656245b7f7ae00c73db91888"
+hash = "5200c8a3bf47528afc2b4a7d2c72f0021a30363457f913b574f8f03d864f7c87"
 metafile = true
 
 [[files]]
@@ -1020,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "c814b9b22c742ccec85b500611a7937d3a4363ee23de906d581f2d3c9ce1cb44"
+hash = "62dd6bc5f3bb1c5853fdba87ad87db37466961800af89cad5d73d051faae0633"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/voltaic.pw.toml"
-hash = "20cac47ac11d8959ea3b516beee3e1fb31d242df99d8046c91d4a67aa03191b7"
+hash = "6a4cd2c3a2ec0476d07502e180012842ec8716b86effd766601e99fbbb25e624"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "c27c0001a2200db788d07719fdd9a9c4fc3b99c75a0d8dfafe33cb29462eac34"
+hash = "cc05558abc2b32d4bd6b29faf026b4afbc30de9d350861365d61146fb20368c3"
 metafile = true
 
 [[files]]
