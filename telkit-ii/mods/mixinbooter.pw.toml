@@ -1,13 +1,13 @@
 name = "MixinBooter"
-filename = "!mixinbooter-10.7.jar"
+filename = "!mixinbooter-11.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/G1ckZuWK/versions/PZYBy1vc/%21mixinbooter-10.7.jar"
-hash-format = "sha1"
-hash = "3fdfffe4fd446461ea9c3cb044484588997b9dbc"
+url = "https://cdn.modrinth.com/data/G1ckZuWK/versions/oAYIrizx/%21mixinbooter-11.12.jar"
+hash-format = "sha512"
+hash = "019a86a24be6e5a34e6f931ae536d68994c7247ae7c56d7e91e0f2bd44782e44f579efc8d259a3c76f2af3d85e37a386dc97e6d11519758cc0025ab73a0cdc9b"
 
 [update]
 [update.modrinth]
 mod-id = "G1ckZuWK"
-version = "PZYBy1vc"
+version = "oAYIrizx"
