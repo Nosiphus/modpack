@@ -1,13 +1,13 @@
 name = "Music Maker Mod"
-filename = "xercamusic-1.21.1-1.2.1.jar"
+filename = "xercamusic-neoforge-1.21.1-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qQpWCN75/versions/AcXWlnZS/xercamusic-1.21.1-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/qQpWCN75/versions/SuWiRk2o/xercamusic-neoforge-1.21.1-1.2.1.jar"
 hash-format = "sha512"
-hash = "8b0476bfb5679fddf2a5dff707dd080583079715c9b4236bfad56de796bc43ea04a51e6b1c365d2c26584c00b6cb864264daf47d6a1f812edb6cdd4f2792274c"
+hash = "197bb1afdc684ab949ff00ee012783f6fd7a20a5fbebdd37c84ae4884afa4a7392e6e132ebebbd02c6f25f335032b0c8dacf53e377e839acd54b6d92eb10f8df"
 
 [update]
 [update.modrinth]
 mod-id = "qQpWCN75"
-version = "AcXWlnZS"
+version = "SuWiRk2o"
