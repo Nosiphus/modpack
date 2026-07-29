@@ -1,12 +1,12 @@
 name = "Maguire's Apocalypse"
 author = "Nosiphus"
-version = "2026.05.28"
+version = "2026.07.29"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "39a0b72212c25e057e708607f8d0f9db54c90e0dd05472ff5ec5e775b1de880b"
+hash = "ab37752ee994f5426c5363e62c6c5242074c9d9e87d7a80fb3de92734be592c4"
 
 [versions]
 forge = "10.13.4.1614"
