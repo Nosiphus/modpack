@@ -1,13 +1,13 @@
 name = "Modular Force Field System"
-filename = "mffs-5.1.19-all.jar"
+filename = "mffs-5.1.28-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ir9eTVLd/versions/tVACNfFe/mffs-5.1.19-all.jar"
-hash-format = "sha1"
-hash = "4e97181b161feae5e397595fd783d355ee12dd24"
+url = "https://cdn.modrinth.com/data/Ir9eTVLd/versions/awhVb0nj/mffs-5.1.28-all.jar"
+hash-format = "sha512"
+hash = "32d4d0bc46d984c6e186d7e10565c9a1bc68c35d891e65bc9a3106199237b47912b195ebfadb2ecf833ba74182ba54b2881e60101171aa73f80f938575a046f3"
 
 [update]
 [update.modrinth]
 mod-id = "Ir9eTVLd"
-version = "tVACNfFe"
+version = "awhVb0nj"

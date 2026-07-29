@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "6e38d5d174ee9f263841e583695db32b253d97825ae5f680190487f2f9447291"
+hash = "6a1e82f4d262bb6bf9a10800fe3b3c019b077245c8d4f782f630c21dcd0968aa"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -236,12 +236,12 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "2ee74517d2893a1d3f8bd6db6208f2c99060d9de57aa21f893eca3fc0f349bb3"
+hash = "0eaf1130e998c3c7f00e08c9d61392322d2fd20d1253ed0c6ca67d93f6ec07f2"
 metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "b4c80cb690debf7d28d7a953ffd77b2dcb2f8c020e5e456576a2598e23666725"
+hash = "5872400f6661e00dd992e275831b121e6445309d4f8d67788db0884fe04f65ff"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "90970b96076bd7455bd6455804224e6078ec6ae4920c5c345097cef920a404ff"
+hash = "6311134242af3f639923e825caea40821c7e7ee7caadf4105234f5d7fa44ec8b"
 metafile = true
 
 [[files]]
@@ -686,17 +686,17 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "a04d05b381d2f4c732e65dcd3325a3308821435dc10e89ef588684322da5571f"
+hash = "1256dea0db9bba852aae263c0e7cb17d15216c995bcd75c9fc2a1750509225ec"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "1ff2d8ad68c4c66a92454a917ab0e383ac67872e56832bf80559a724c8845041"
+hash = "5db2016d736a9135a03f63190d643a61a0285d96e6105ae8e72a6d94baee90d6"
 metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "e1190ccda8fd0a32fb0cb2ea2825b6cacb07b284557e2ec14461ac74a8288218"
+hash = "73a93b4330ade2e4507fb5673f1a794c74c1a1bb4abf1c53212af95480a264fe"
 metafile = true
 
 [[files]]
@@ -801,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/mffs.pw.toml"
-hash = "4318903fef45f4437b6a070b31d3b68a5e8dbc433747dc80f5efeb27d9f385ee"
+hash = "c314be3b4c778f7d8f0aa21085c1780f70e5d14fdf0908d98790c6bfb63f4452"
 metafile = true
 
 [[files]]
@@ -871,7 +871,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-maker-mod.pw.toml"
-hash = "4e8e4d50fc34be1af8d5123069d0d47bd5db3eccb556c08d6c195fd8b1cf2269"
+hash = "e6e914c91352647fb7814042fc66b708437e8417912678c3b544506cec5747a7"
 metafile = true
 
 [[files]]
@@ -1126,7 +1126,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "fca95445829b86500535b2dfa956893f6d8fefa806b55c8147f33d108f81fb55"
+hash = "8e5221ecb90a4da27ac1b0c76a0706bdaa6556e01e2ef54f73aeebb9830db568"
 metafile = true
 
 [[files]]
