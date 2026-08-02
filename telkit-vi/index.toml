@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "46533edc104f817160c35b4ae3073cde6f8c5aeb4c1924b5ffbe6b61dac6562d"
+hash = "f6c0350286234e4eb621fb16158bb5187d01b8aeaad91648e2b797915b9169b9"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
-hash = "1f4068cf8e2bec81cb6e3e036ebf98b614bc62578b6684e6a6db561583849b60"
+hash = "8bafc5468bec8981b56f381e9eef66e067aad74c89cd409366f5edfa79c1e588"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-coasters-simulated.pw.toml"
-hash = "de3d0b757448bb1f92ed2f945f91d24550385e1160b909ed69f6ed5948d11c97"
+hash = "8d3d93487823b5c630123d9796f670114f9ffefc5361fc133a6a30be2f6369ed"
 metafile = true
 
 [[files]]
