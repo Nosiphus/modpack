@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "7555fabf82a6ece57c4357ae9847495ee80986870007ecbf1b69032b4834183c"
+hash = "ab11c9f112ed9fca379d957b6e47311ca1ef2082e4ebac4678c9e42d446dd4a5"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "51851da1eec44c74801f9b00525c119aa136be6b4c4ba2b5bd8b6d0dcf4791df"
+hash = "6290345da4e95c76da5b050e17c337503bcd0a6b8f38cbd819595da48d11dfb4"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/drink-beer-refill.pw.toml"
-hash = "9469c496c6455300035b651d30b71e5b326ddbc8a01ce440100425a9940a6868"
+hash = "dbb3da7ba3f0efdba207160b15159044264bad7b192253fed438f8626a5a0877"
 metafile = true
 
 [[files]]
@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "3a5e76640f10c039316fc5f0be6aeff3099de092b951ab3d442529238e32fa1c"
+hash = "e1d8912d2f67969f6d164f2a1ec45b4f4af1a0b0949939ae3563695dc6ec4795"
 metafile = true
 
 [[files]]
@@ -796,7 +796,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "e854d5b51082e7b06200ccfa813901229f74ae685a42dd9c1695bb3188e83c58"
+hash = "bf3ac6aeabaac0626c5e0b12592153ae5167834340f3d4f23f9703ed07a1984a"
 metafile = true
 
 [[files]]
@@ -851,12 +851,12 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-custom-blocks.pw.toml"
-hash = "a010f286fc14d204e0184544a78e4036c4d308e1162e09f277211abc59bcd3c0"
+hash = "76a072acd14cb7a0cd3a655bc014483aac23e7a1feefe661a76426ffe69cc417"
 metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "1c3a30a15873e0a00be22bcc26fdf92a0c442bcc4c05fed9e0b5ba0ea84a1838"
+hash = "bdb775bfb6689ab9fda7d9729d5ab040e9b8c07d6d18e73c83392e25a100c873"
 metafile = true
 
 [[files]]
@@ -1101,7 +1101,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "926387faecac7270469466b6e2a930241c5612cda27abbc41a5ecaea212475a1"
+hash = "e90073eaecc109a51ef6119f357785783721e544e50fb0833c581282f2d62016"
 metafile = true
 
 [[files]]
@@ -1206,7 +1206,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "e8b337576682c92478af8a662ff9cbad6aeceaa4d6bd636474f04f30de4888e1"
+hash = "711a415404c0c5fb1b04ca94b26c85cb202df51229d9a80611fc76396f13cd9b"
 metafile = true
 
 [[files]]
