@@ -1,16 +1,16 @@
 name = "Aeronautics Server Pack"
 author = "Nosiphus"
-version = "2026.07.29"
+version = "2026.08.09"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ee64532a54ce22e9626631ad60251c9a4f694117ffb421da9527f75de818ad58"
+hash = "105f03c74fce34656bd05eaaa648d6fa44ef0c3465996d0a215df241ebc60c8a"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.244"
+neoforge = "21.1.248"
 
 [options]
 acceptable-game-versions = ["1.21"]
