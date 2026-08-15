@@ -1,0 +1,13 @@
+name = "YogMod"
+filename = "yogmod-neoforge-2026.08.09-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f638b81c8d4c886d98cc65aceebcd1c6d1bbfc9e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8613131
+project-id = 372408
