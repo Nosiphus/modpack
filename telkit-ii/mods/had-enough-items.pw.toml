@@ -1,13 +1,13 @@
 name = "Had Enough Items"
-filename = "HadEnoughItems_1.12.2-4.32.0.jar"
+filename = "HadEnoughItems_1.12.2-4.34.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2iXFLwYO/versions/QnA1JVsz/HadEnoughItems_1.12.2-4.32.0.jar"
+url = "https://cdn.modrinth.com/data/2iXFLwYO/versions/KH9dY324/HadEnoughItems_1.12.2-4.34.3.jar"
 hash-format = "sha512"
-hash = "ca78464e049b5e7482ebb4b5e3df2a42ed6d60a06fa36c19ecf064cd142bc68544d00ede7c4902be625bcd6e44f4471e6574826a23bb3bf208f606ec518dfdee"
+hash = "363f3ac1ecfdd6d11ab407a2ca4db20f9938ac49c59dbcebbfce821e5f7b005c2ee2bc8744481e28a91b33c800d1f865985d356a2029d85e7a06b04fb51812b5"
 
 [update]
 [update.modrinth]
 mod-id = "2iXFLwYO"
-version = "QnA1JVsz"
+version = "KH9dY324"

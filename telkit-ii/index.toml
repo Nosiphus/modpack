@@ -93,7 +93,7 @@ hash = "6dfe1a1fa3c8bea225b68ea388db57cbce7f373766479e195b8b89104432c6d7"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit II.txt"
-hash = "ad72b57e113c94e63233ff972b3afa78f1cfaede633f25863cbcabcea70b45c2"
+hash = "07b877a96733bee9fc3b982ea945545e61b39c24d2487c9d3ba4d79e84af7079"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/had-enough-items.pw.toml"
-hash = "c84ec97f5d52cd8654fdef2f3436ca8d959e62c20df5833f09845679fe94db5c"
+hash = "d4a6bc1b1249ad9050880685e7fb3db6426cccbcbcd755f54d00f39b982360fb"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixinbooter.pw.toml"
-hash = "28f0deb8646fba0288b7c75cf518d86a5df3aa9d69e497ac7610fb615a60aa7a"
+hash = "a02bed1bce815f5b2f80db018435017cc7b0f1f311decce62d7da19bfa37f17f"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-beta-forge.pw.toml"
-hash = "7a18cac3141916eaf44d71f1f303637d6993351876a572ddb348a2e425d50786"
+hash = "233e2ac7db78c43f6eb7c646bacddfd597577d560d0d2361606241296eca36d1"
 metafile = true
 
 [[files]]
@@ -622,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/opencomputers.pw.toml"
-hash = "8dea8c278137b0f42a815734c4b3a338ad18ea76e2ca08623ad3c332e5127eb5"
+hash = "31b0eeaa505a78ffa12ba1c18a1e745e79c5b341815601823ee997e49b3cade0"
 metafile = true
 
 [[files]]
