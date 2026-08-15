@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "6a1e82f4d262bb6bf9a10800fe3b3c019b077245c8d4f782f630c21dcd0968aa"
+hash = "04d499a3ab1b9696934eb5dc46d020431724ffffa1ac45616f52066b68b350e7"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -241,12 +241,12 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "5872400f6661e00dd992e275831b121e6445309d4f8d67788db0884fe04f65ff"
+hash = "8044045c695f89f30a643312b66553f7880a44144588b4dfbde24d877fb560ef"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ed4ccdb13c738b7f70df056df84a1b977fb256a53c2921610c565069c15912c7"
+hash = "12c4913f51659fc1c0978004f411d9d9b878f589367e4fbe17ca5da60acbbce8"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "ca55f3ceb2ccbf454645c4eb691109220ad14205ca2592caf46223d81f73ced3"
+hash = "b45509d9a6942e123bcadeb4ff2fae1f2acb8d8a84fc772ee518a837751fcf40"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "1d52e8d82a704af9a18b9dc649d8c93433e9ce2e223b20a5d4e885e83bba51b6"
+hash = "b6753307b3f6a24d0545c4a3383de9be1da85bde4ee749f645c3bd6bb6188f31"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "fc6bed09bfeae0920968c6a6a723791fe8011d794ab91f27c3f4fad6a3f718b7"
+hash = "834dfc3eac7e8cbfe203578f1120ba298711f0426133950ce8972f5afc025a4d"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1256dea0db9bba852aae263c0e7cb17d15216c995bcd75c9fc2a1750509225ec"
+hash = "48915b5a29737b24454b69b8c587513c8dcfa2149b0a0c15243c31d5a9cb8945"
 metafile = true
 
 [[files]]
@@ -801,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "mods/mffs.pw.toml"
-hash = "c314be3b4c778f7d8f0aa21085c1780f70e5d14fdf0908d98790c6bfb63f4452"
+hash = "77af3aeebd614c6efef5397c98826dbfaa2f7e2dfad53cc37ded5f22dd9f75e8"
 metafile = true
 
 [[files]]
@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "0da2d06e6fa0e2b6355ff2a95230203ad280e6a36ced40184ef9689772ea897d"
+hash = "b21450b468b22e8284ff88d96a8c34aba0c779aa9520dd86d451f402817d2344"
 metafile = true
 
 [[files]]
@@ -841,12 +841,12 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "b5a53d5930de34792f813504adbcdcb226002049c8ea7f38182e38d4c0bef754"
+hash = "badbf8fe96de6f3d5c3de9c78e2d7d6fa663cf51f7ac36b5be57f8a5ad824d15"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "912dc66ae13a57f9f6559eb0c7c2b42f973f5768b46192528bec1d37df8398ef"
+hash = "15d78c9077742dce0b1363b03fe9a9d173da5c5632df3ec771597d51e0760eff"
 metafile = true
 
 [[files]]
@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "fb36015087ac4aa83060bf177da4a50a3f59ccafea94840ed034147161d80b82"
+hash = "b6db3892c9079fcdfa009fa557164c7ccedf3b4a8a01aa115713916be46531d6"
 metafile = true
 
 [[files]]
@@ -1091,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/sgjourney.pw.toml"
-hash = "28bcf894ec14257b0df7277e0febf926fc4df444d94d2c36587c4b485d4b38c6"
+hash = "29c2be4ccbb1bbdc9f82004314b46f5b8d04d2e9f8d71dd6cf03c15537182a14"
 metafile = true
 
 [[files]]
@@ -1126,7 +1126,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "8e5221ecb90a4da27ac1b0c76a0706bdaa6556e01e2ef54f73aeebb9830db568"
+hash = "6d129b9fe30d1eb644f5d895b5c3912672fb34370a96c24c5fd1def68d532086"
 metafile = true
 
 [[files]]
@@ -1136,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc-wireless-redstone.pw.toml"
-hash = "c6b5d215af665f8c506d78650964cc559593674bf77a46b04fa406d4f4d8b0bb"
+hash = "6e62f68ffc28a471870bec05e64f5ec8023f713ad4fc628bbe8247950e33a416"
 metafile = true
 
 [[files]]
@@ -1256,7 +1256,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "5e3c34cda99bf74edddecc32902dc8942e99392633dc9cc8fbfc5d43f051fbe5"
+hash = "b841ac6da3c28f9985f6f2ec19d9584f6f86f07d11efb07f6be4190b3414320b"
 metafile = true
 
 [[files]]

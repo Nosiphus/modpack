@@ -1,13 +1,13 @@
 name = "woodwalkers"
-filename = "walkers-5.8.11.jar"
+filename = "walkers-5.8.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Sr1HeD8z/versions/gb26udsS/walkers-5.8.11.jar"
+url = "https://cdn.modrinth.com/data/Sr1HeD8z/versions/5zoTu95C/walkers-5.8.12.jar"
 hash-format = "sha512"
-hash = "d7cf8e513bb27f9a122b0862811d7d44635c8a1190f5f4a6d1f62b1a5010b9e41fdf6427bcf3ff05a72df0f650cd0e48b6406e997929a03119f5c12b1b69957c"
+hash = "b28766b51c3d7193343147b2d160ce34d88ba95c753639efae0cee4bea96ef3a744566ed37500436c40e283e1caf83dc7a50fb33f159da08747d2e5ceba107be"
 
 [update]
 [update.modrinth]
 mod-id = "Sr1HeD8z"
-version = "gb26udsS"
+version = "5zoTu95C"
