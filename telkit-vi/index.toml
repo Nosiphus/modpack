@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "daead8a95d802b447f8f8d94c5301e638917ca17aafb14a33d1a01a0bc6aa8a1"
+hash = "73d90770fec52004bf84b55550eab68419e6d5516435ee7029f075e0e918b74d"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "c19c2e5a0b485648c801c4663ece3596d7e3bd1164f9065f27242346655066bf"
+hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-coasters-simulated.pw.toml"
-hash = "0e590f9694cb6d9d1353dea5602cb911a6628cfb0aa36b408bc2c30fc3e88c96"
+hash = "d5aad6415413aa777ed89ae55912f33c86757321c7c16c8392ce2e1429b920d5"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/drink-beer-refill.pw.toml"
-hash = "dbb3da7ba3f0efdba207160b15159044264bad7b192253fed438f8626a5a0877"
+hash = "00756980939196ef7e2efcaa2fa84cd5965fb7175610fb29da61c0fe4a900872"
 metafile = true
 
 [[files]]
@@ -571,7 +571,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "4c9802167fa2e34721e597c3171c0cab8d3916f002562d14688c7cc0dd68b631"
+hash = "704888446d5c1e5a5320ae191ab26346f9b41f3564f601d251ac1a294fa3581e"
 metafile = true
 
 [[files]]
