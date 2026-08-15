@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ac362fd04bd34760783c127e89478b56dbe30b6e7792f084f515f6046e7b5d31"
+hash = "43da9987e5d5b835f7f7df9f1678ef4e30f13bf4c0d19ff894e81f1a8ae8cd41"
 metafile = true
 
 [[files]]
@@ -51,12 +51,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c40e0e9470504b51e2f638b86b4a3ca5c41c8f89efd0dbbe104f1816e911401f"
+hash = "5c76a1e72c12255967cdc39636698133af73c2ac87378934a8efb42a15aaa195"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6e746361934be98d7b3856f85d4984a611611dbacbecbcefc14fe12b97c81339"
+hash = "e9654c5d253e4fdc00ac2f0ffa32a38ed9c93e9d052e8095deaf054e1efb8bd1"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "848db8de89cc26314f20f6cf86e6c2cfc6e2cdd1a30a7d494575a4e24a8ef9f6"
+hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
 metafile = true
 
 [[files]]
@@ -156,12 +156,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0f9bd9a3719f4b674d13172cb77a389e7d11bb6ac87977939351d3a5f898362d"
+hash = "7356e7248fd08cfd4112936ae7b5e2f83516b60795d5309fd46e313c792f49f3"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "0eff85ae59b83ac08ad68d72db86cdb7cd36bae8530a3ea95ded4065a3a05b29"
+hash = "28e3a9629d074eb1ca1d2c332724693e800e4d62a6af5d84789e02817a4b7690"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a6d53d9a312a3cb6554453eb73ecd152278f7be8d12e9a8db6126b0cef1d2b68"
+hash = "96631af5a225e73c2d2608cc0d1ce9667a9d60643b590fc67f6157ca9588109d"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/moderner-beta.pw.toml"
-hash = "db3f53b6250e463d68b4dec7fc4b498b685839c13c086adc4c221d9cfc27a3db"
+hash = "827b5c622532fc76fc6d3a1f7bf4bb1f3da9a66c064e2a816effe4405d651432"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "1049850c9b377660d7f4be73ea81d04cd5a4db536b296835c30257fa73a233e4"
+hash = "a7038f7260b128480f8a62b12e5583240c2a94bd782c1b60e2356ec7a3843e4c"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/shogi.pw.toml"
-hash = "838dc0acc3c1519c5dbfd102b4984cfd3926b6a3b04f4bb8f1d4e3c3a4191416"
+hash = "061cfd989b02ee4b11a8f2c482a8ad1db8e2bc827b06db597c4a45b3a23dd07a"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
+hash = "b0d722aa3b463fddb3a425affdc9e6c898a657040321e8c6501b089d8f7caee2"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-worldgen.pw.toml"
-hash = "0b074f4a1aa91c221b47d9709dadd47288023c1595fa30a8cd9e1c1fcb27a269"
+hash = "f89410d8372438d00a05b5f6dcfa4d73de70b444172ead4768b93e40b183caa7"
 metafile = true
 
 [[files]]
@@ -311,12 +311,12 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "625a2062e2d1ac67077b2ee600e0ebef6450d6d38dab9b061469bef133647c84"
+hash = "f7cf357cff86d0b65510af4f889447f42dcd27cdc51dbc2c2f7e28316c425d69"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "3754793742766dd72246e1a57abfa5c2d57e8a9d7dfecd1e9adc26251fac0b36"
+hash = "94836799b27c943c1e86c623d4123efe23ba2da2399421a8d5fad33215dccaae"
 metafile = true
 
 [[files]]
