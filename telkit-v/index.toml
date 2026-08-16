@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "04d499a3ab1b9696934eb5dc46d020431724ffffa1ac45616f52066b68b350e7"
+hash = "6a33445cff7f8a7e1903eb0f1a3c26ad271eba3fa796df21b1bc2e4121d0dc14"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "f140873886bf8e44242b63afaadbc8ed451ca83af6b829beab6d55d0eaed3106"
+hash = "5922845f6c9bb57548eca500857ebd2268bffe3799373b7306c2bdfb706d5f95"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "8044045c695f89f30a643312b66553f7880a44144588b4dfbde24d877fb560ef"
+hash = "b986a8105423443cd0f0d55662109c6d4edc4ffc7eca0a2ba28204b098acf5b4"
 metafile = true
 
 [[files]]
@@ -811,7 +811,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "b21450b468b22e8284ff88d96a8c34aba0c779aa9520dd86d451f402817d2344"
+hash = "d6e082cc751edb793ac6ff0600e39a3b93c55bc0de11209569490d823f1bb75c"
 metafile = true
 
 [[files]]
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "15d78c9077742dce0b1363b03fe9a9d173da5c5632df3ec771597d51e0760eff"
+hash = "8b5e5a2517cd2d62a627c8092c8f1fad250e4600833c38fffd7f7fbbfdd063d9"
 metafile = true
 
 [[files]]
@@ -1091,7 +1091,7 @@ metafile = true
 
 [[files]]
 file = "mods/sgjourney.pw.toml"
-hash = "29c2be4ccbb1bbdc9f82004314b46f5b8d04d2e9f8d71dd6cf03c15537182a14"
+hash = "3195b4a64184064a2acca782ece11f867fe0b5a225da8222f03e3d127ae976f5"
 metafile = true
 
 [[files]]
