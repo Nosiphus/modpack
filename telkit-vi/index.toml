@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "73d90770fec52004bf84b55550eab68419e6d5516435ee7029f075e0e918b74d"
+hash = "e6bd159c443fa29cb2a1f1cb3886d4155a1ec0f0399873b5ef01125bedbd7046"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "53cab5fa2673d632335ea9417071a288d8a84a93940bad5bb8da9e3bcda6dae7"
+hash = "ff08d4752ce82d0020cffa420a147a95ab2cf695f71cc5a9a4cddd0898be09c0"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "350357b34feae2f0971d114ba856e4915e508efec110eea5ebdeac419d515e08"
+hash = "5931025bb6c50fa9064bd6c3c3ca51afb4119535bd77d8cc01b6509e53a9abc1"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
+hash = "6828b28c310ae427da625473c55b79eb0c7ca42acc76591948644af0c04e3933"
 metafile = true
 
 [[files]]
@@ -646,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "c4b3c54fbb7bbebaa1ed3d61bd6fd72663f05ca538d00c0044bfee7064ff9431"
+hash = "17ed80a0fb8716e279cb04664a7038cfa659f878e51915b61fcd7dd35a7920be"
 metafile = true
 
 [[files]]
@@ -776,7 +776,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
-hash = "22b982604f203537c178d4f252abcb6714eab082d19a6d57d327056a79b41ec0"
+hash = "21fd5aa24c3dcd3da912d6f0fd37df905c108bf613a18bafe9bb97ee2576b42c"
 metafile = true
 
 [[files]]
@@ -806,7 +806,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "14fc787461cc4464d476454c0d06b7ecbc988e5582d51d527a43a450be9de92d"
+hash = "cc903ca450e9667ad5a951110f6e84f22c9e52635bf39321ca4294bc8313797e"
 metafile = true
 
 [[files]]
@@ -921,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "70aeba11f46b3e2928d1b70cee6bbb8586f64b0c11feb798ea88a5dad3ac36dd"
+hash = "3beaec64e65d45d58b168215e8e215dfb000d03be1891684d66bb6d12cb75d8d"
 metafile = true
 
 [[files]]
@@ -1041,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/sgjourney.pw.toml"
-hash = "14cf15f45896381e00aadae4ba915fb2e8725b84ae25b386676c046d80e27402"
+hash = "a43d71612d95f07c631076da5b4e664fee16c20f900a9851acbbf74fef3596c0"
 metafile = true
 
 [[files]]
