@@ -1,13 +1,13 @@
 name = "Electrodynamics"
-filename = "electrodynamics-1.21.1-1.0.12.jar"
+filename = "electrodynamics-1.21.1-1.0.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xmhmr70o/versions/BMeMBz7b/electrodynamics-1.21.1-1.0.12.jar"
+url = "https://cdn.modrinth.com/data/xmhmr70o/versions/slCZTp4L/electrodynamics-1.21.1-1.0.13.jar"
 hash-format = "sha512"
-hash = "ce2999928969949899ade7ca79af455fd688407f2d1918ab27bebe0b55a7e25b437b344f6bb84ed9bb49caf774956d8f9bda1b34258b4516a201de1bbc8b69c4"
+hash = "061b239552f20dfe652090777b198b9932630449eff2d0380d16a81e7d4d6ee0dd54cad644a5a7748dcc5dd63f8a5084a0ebde3445a3a170828208ff29ab41d6"
 
 [update]
 [update.modrinth]
 mod-id = "xmhmr70o"
-version = "BMeMBz7b"
+version = "slCZTp4L"
