@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "638b17bdaa711a1be9d0c842607196923797e06e36b30f1b46bd2c4946bf9a8f"
+hash = "dbb568807ab27f7be76111f0a540e367cb702915dae8020b6d3edfb92a9e1776"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "d438d05c61167c95de2b282bb3839a290f819f70c9d313c5e61177d69a29c704"
+hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
 
 [[files]]
@@ -421,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "6e6e089e208a0f1309fd704a2733e644c86ecce953b4ec31e7d0f1bdef6005d4"
+hash = "8e83d6344bba3711337872275843631ec1046884d44b1b579f3c4566448c3697"
 metafile = true
 
 [[files]]
@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "e52ab9500aecebd3868d0c221b5fa35ce5a7fd9168136dd67c748f816add417e"
+hash = "944be63450453e84eb60f3fa965e70dab2c6605646703517acc15f2eca5cdacf"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "7f837101645afe275564c75605e3950352db2e3dc18e0ebcf7460bac272afde4"
+hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6828b28c310ae427da625473c55b79eb0c7ca42acc76591948644af0c04e3933"
+hash = "48b746cb623c16a8cee88ec0d7d42233d74d97b9cf92d662f121633723d50876"
 metafile = true
 
 [[files]]
@@ -641,12 +641,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "efcc335852f09bbf66eafd1a20f42403cdd9e64a51dd660211ce4fb717734598"
+hash = "03ca69cbe1fce33ca267e62ba30679545c116e8eaf43b7e7d65495d5e7910629"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "17ed80a0fb8716e279cb04664a7038cfa659f878e51915b61fcd7dd35a7920be"
+hash = "fad5f139a9d3f6678b599d1539f0769a5ebe1d9673201a120566ea37c45b9155"
 metafile = true
 
 [[files]]
@@ -801,12 +801,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
+hash = "9127392b5239785d4e090d5528cb728b3243d91148f54d0d990c329c1569e361"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b91cb844a09b8a4accd27d3d2882f37aec5cef58e7b43b315da65ee8caf9e957"
+hash = "6e3829e3de78efb1490e738fcc66b1ab7869d8f5a67400ca6028a001d347eebf"
 metafile = true
 
 [[files]]
@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "540a93ddc6e3a03d042bfcb3f4c17e6fd3e494a2de4949ae1cdb28fa74e8efeb"
+hash = "b6ba7635f023cc68cf3c486c95a656d400265fbd1a20b12368d679f081c0f3a9"
 metafile = true
 
 [[files]]
@@ -866,7 +866,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "d64c22ac984bbf2e2d3a1f6e9d1124b362994842a4600b6702f66fb7285e4cb9"
+hash = "12603240b49ceb36479d6239fe8c2a5d65a2755758773321406704e62b0c73bc"
 metafile = true
 
 [[files]]
@@ -921,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "fef0f208b748b2a3a996abccc09f81b686a2b5688a161d1fa10fbc1cc42535a6"
+hash = "5bab8b80cca422e923206b9e8cb031b1c08d86a637f515d3699ef3d6f79485b8"
 metafile = true
 
 [[files]]
@@ -1076,7 +1076,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
+hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
 metafile = true
 
 [[files]]
@@ -1106,7 +1106,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "45e4281b8a230daad7484b17eda0caa7fd803b94fc373fe92fcf9bf34f61ec55"
+hash = "1346aad3f6eddc018c4298efab1d5f1f3e5c4a183378157011907eb6f3519e65"
 metafile = true
 
 [[files]]
@@ -1136,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "mods/voltaic.pw.toml"
-hash = "52d822ac67c6fcece5ac299f10a5316f06f8ef5090996ba0ae389f69eab63303"
+hash = "27645fd773dff44b90c84a80f1ebd1878a889a1f04fcb777aacca626ec30727c"
 metafile = true
 
 [[files]]
@@ -1186,7 +1186,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodwalkers.pw.toml"
-hash = "1b1c07ce0721814f8960ea6723c5ab784585b17a3c144faf9d10d5cf72e6dfd1"
+hash = "586f45d4da11d38540937358eda26023ff864db657e2bf102a8e84ec2575cf86"
 metafile = true
 
 [[files]]
