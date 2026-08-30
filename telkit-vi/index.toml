@@ -520,6 +520,11 @@ hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
 metafile = true
 
 [[files]]
+file = "mods/fairylights.pw.toml"
+hash = "b737f1d74dea3ef79a452bb0b307f01254976797c466389f009e395ce5c23c2f"
+metafile = true
+
+[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
 metafile = true
