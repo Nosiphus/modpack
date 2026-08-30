@@ -305,6 +305,16 @@ hash = "bf0c5cf4279509496b9763b7f04449862fbc7277da2c7d368c8caa439c7c3e65"
 metafile = true
 
 [[files]]
+file = "mods/chisels-bits-shader-compat-unofficial.pw.toml"
+hash = "3bc37d36e002016c2e969cff6147a1ecf464b54266eafb88597a84ec482ea532"
+metafile = true
+
+[[files]]
+file = "mods/chisels-bits.pw.toml"
+hash = "999fb82c0dfdf70535fcdb4883e07535c6c8a15fee9cbdebb2468430bb23fb13"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
