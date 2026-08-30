@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "087b984c703bc0a880c1ff23af385763d2d46805df343786ed0dfde2db17455a"
+hash = "8deb837b809d08f7404272724493483fefa08733ba2795a7e075d275e257fe00"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -112,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "8bafc5468bec8981b56f381e9eef66e067aad74c89cd409366f5edfa79c1e588"
+metafile = true
+
+[[files]]
+file = "mods/adorn.pw.toml"
+hash = "c22422ea6561d13d3ff7c3f8735e1c3ac7afa59755f39b7c17fba280e2d49414"
 metafile = true
 
 [[files]]
@@ -717,6 +722,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "52019f01292cb860fa135485f941fff42f97910267bf122f2f797e31109bb93f"
+metafile = true
+
+[[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "b9c4ccbf05a9002ebdb8981caad8b2442fa851f9cea33699d41ea334938c8df0"
 metafile = true
 
 [[files]]
