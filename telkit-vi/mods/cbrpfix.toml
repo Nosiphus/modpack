@@ -1,0 +1,8 @@
+name = "CBRPFix"
+filename = "cbrpfix-2026.09.02.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/refs/heads/main/cbrpfix/1.21.1/cbrpfix-2026.09.02.jar"
+hash-format = "sha1"
+hash = "2692f32e50dfafb6771e001d3bc02cc98a70759d"
