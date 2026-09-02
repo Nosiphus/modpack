@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "c5bb130a9bc6f565c90f5ceeec03bee73a4eaae801a7e44364941dff8b8502d4"
+hash = "e451f77f4af19a516d9d77a3b84a99f05e028cde6fc4c71dd31a2467e5154186"
 metafile = true
 
 [[files]]
@@ -1255,7 +1255,7 @@ hash = "8d9082f6733b405c553611213f6210f4306bed4fcfdb5f2de177eb6818f93f8d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.9 + EuphoriaPatches_1.9.3.txt"
+file = "shaderpacks/ComplementaryUnbound_r5.9 + EuphoriaPatches_1.10.0.txt"
 hash = "e4a38ab75f7bf5ad686b77aedcd590af948f10b64891efc7ebbc89e666d6e2d4"
 
 [[files]]
