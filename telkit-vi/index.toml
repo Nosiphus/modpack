@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "c3ee24a83edf77d15fef01d40dd9dd6bc33f7124f56665a1cf0e9c18298e9f93"
+hash = "1157aac4815512bc8798429585d315b8fe4ec86df809adcb0fe7b65bef4678e9"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -325,6 +325,11 @@ hash = "999fb82c0dfdf70535fcdb4883e07535c6c8a15fee9cbdebb2468430bb23fb13"
 metafile = true
 
 [[files]]
+file = "mods/chloride.pw.toml"
+hash = "3a6a82de82d8767521b6da37d8a2bed2513e58c45e347a23e0d53803839f0a62"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -530,16 +535,6 @@ hash = "a3d47e3c301ed2359820c2083dcddec8240a5d692a016c42a74eecc1193772e1"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "556fddf5f52f49d9acf41e4db737e5431c1b45e60f5e0c04ca1de70b01dd1d15"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "c78c2d26feb460adb112cda9ec5073f8968298f1d215eb8679fd67f55f3c3124"
-metafile = true
-
-[[files]]
 file = "mods/fairylights.pw.toml"
 hash = "b737f1d74dea3ef79a452bb0b307f01254976797c466389f009e395ce5c23c2f"
 metafile = true
@@ -666,7 +661,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3c513e51d7c76336af827569fb3107417b77d75dd6da9485a88ed5715bdc3647"
+hash = "9f9089654842dfabaf55536ef603bdb475a201ea7cf934a6998a94b7f032421a"
 metafile = true
 
 [[files]]
@@ -897,6 +892,16 @@ metafile = true
 [[files]]
 file = "mods/nuclear-science.pw.toml"
 hash = "12603240b49ceb36479d6239fe8c2a5d65a2755758773321406704e62b0c73bc"
+metafile = true
+
+[[files]]
+file = "mods/nuit-interop.pw.toml"
+hash = "ac3bdd1e1683f83c938ff9531b17eed15b21beaf83d48c0da9b86ddb9f756c94"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "c32eb08631cb2ddea9074777d55a5e5b5f4032842de1408de75d92096cd81fba"
 metafile = true
 
 [[files]]
