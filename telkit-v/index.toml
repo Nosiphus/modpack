@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "60f90ec8c007b0ab1321b5b3ca78e75efcdaec63575d1060cd596c440c83d0dc"
+hash = "611e88adfe6cb11781fb4301e98c21b2f6c7ca1df96d6e1d13773294a4da4e3c"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -131,12 +131,12 @@ metafile = true
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
-hash = "b9d359ff0ac7b099dbf535f0cb985c7665c84be884765ba416bd3da03725c6fd"
+hash = "edab0c671868e2bd7938ffe24c1d0592fae2e383024173fdf46c2be0432a5600"
 metafile = true
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
-hash = "145b382d93c2671ba400140a7268d422d081a795c2d15869460edb4dfc452f7d"
+hash = "d94f5fd662671e6f6f4bda5d89234aded7461a8a90d9f9fe3d5b8a7f17c25b54"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "12c4913f51659fc1c0978004f411d9d9b878f589367e4fbe17ca5da60acbbce8"
+hash = "3532dc27491200e1b87b5d94e155e082e6aa868e4d13ac3436fe87f9ff92487d"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "55f8316d2d00790e3e9bd1285a328706ef35e8fd2070e0248496bf9720f3f328"
+hash = "0ed5972ecb5fcc0c91662e295d5a267f5b4604868d882f0a59cc8e3cf66c3980"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b6bad0dc31bec26203bced18c111495357a1708404d21c4ce71ead00142aa5ad"
+hash = "500994943714a6522f38a9dccd0240cdeb167c6d75c3551afa2b4b360f265903"
 metafile = true
 
 [[files]]
@@ -526,12 +526,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "aa2a1abbccb92ccc4ba3a5a70d24edcd1e39a035f15fb9ba49c27f270a5e74e3"
+hash = "14993a7a1930194e6def9a876a6db48bc182fa2b65b230037564296bdd573075"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "5bc50b4a82fe28c69c18f191102e1cb2e4ff7193ec082280a41d582ddcbac2f2"
+hash = "ec5c2c99a644a2b1d31bfe8d3d8205a6a169b7399b8255ae0a0a99cff7aa6bd9"
 metafile = true
 
 [[files]]
@@ -541,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "86f22c060515383ff35358f596c655cdcf3e11070af708495c4356e562c0442a"
+hash = "02849c979c0068b092ff47a325c4b17fd3db63e7da127706b14362488f30f867"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "43047913a70e93c0b7abc8dfecb6b994b4fe1b7082d527b80aba4f6e7c452f7d"
+hash = "8aaadbbc7c1433255894254d24bafb7eede0ab4ae1994e16a85ef29cf3153a7a"
 metafile = true
 
 [[files]]
@@ -841,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "90e9f697e0538de8d5d4189233b07d1e9f6d45986ce812a66b84379acc32a8e1"
+hash = "f35748c9b332d0ff68203197dd648b9daf9b8e1c4060a3222d3e91cd08860637"
 metafile = true
 
 [[files]]
@@ -851,17 +851,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1f862d7186e52e9bc96c4ec19ab62d2af9fffdd5dc056176f4be7ae4015345c0"
+hash = "685d7c61f7d5e1c16e3de6f7e16e090c0355cf38e7d416b730093d4dc239d9d2"
 metafile = true
 
 [[files]]
 file = "mods/more-slabs-stairs-and-walls.pw.toml"
 hash = "4638edccb8207ab92a7ebe3124ef54c37538e47c0a3eba48683bdcb97262cacf"
-metafile = true
-
-[[files]]
-file = "mods/mrcrayfish-furniture-mod.pw.toml"
-hash = "3d3a8cd6517c5804bd1ce2e4e05197ef40d33ed04c26b448c3eba6ac2b25321b"
 metafile = true
 
 [[files]]
@@ -896,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "88379823d95e8fd06def214c8c587e9d591779c6a1a98a8eb09347a5865bf604"
+hash = "0ae7281f1a5726f5b40fc8b4a8a07c5724242688202dd77f5b51c09773fd2a7e"
 metafile = true
 
 [[files]]
@@ -956,7 +951,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "8d3d9fd64c708e36dd1680697399c8ef8dbda11f865f09e9976b145792afb008"
+hash = "ea8571ba9dc8e74bad5e4257d50e9bb80d02be8f3d5de7fe3dede969e26fa15c"
 metafile = true
 
 [[files]]
@@ -1236,12 +1231,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "d83565316e1c316410a967d94a02bfa42f08ce2c58e5eeaf71812510aebece53"
+hash = "e43bc121fe74e5bcd730b5593d4c74cb1ec43b83fe4bb3d51efd637e23e9a5bd"
 metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "ff646e2f218fe9b5094b835855949b70f3f528f0d12ce2401455f60ee9017dbb"
+hash = "1dc6ca31c7b6912c494caa2a4f5f9f7250af50fbeb9ce9141ae9b741f9861987"
 metafile = true
 
 [[files]]
@@ -1266,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "c3eba652dc6171b61da48f284a6f650d083a373493579eeb2361c6e1e5891172"
+hash = "cc034e17ab39074a0777faef1aaa8a1f1225f6a87db0e9ebbb887fab00ed6afe"
 metafile = true
 
 [[files]]
@@ -1285,10 +1280,10 @@ hash = "f11066dc72d06a1a77e00625578957ba78b36d13386cc4fa9b3b13b7be926ed6"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3.txt"
-hash = "e4a38ab75f7bf5ad686b77aedcd590af948f10b64891efc7ebbc89e666d6e2d4"
+file = "shaderpacks/ComplementaryUnbound_r5.9.1 + EuphoriaPatches_1.10.1.txt"
+hash = "27a8ef366bf779492a686ab333b703c0a0bac290c4d1028e4443bcf3b105738c"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
+hash = "a77ad8415551594d437c8a700131028fe6ec870dd524d3c966cd8042d0d30171"
 metafile = true
