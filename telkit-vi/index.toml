@@ -270,6 +270,11 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
+file = "mods/buildcraft-community-edition.pw.toml"
+hash = "00ab3d4c014f3e028af8da608f8e9fafaafc39d4f016341afe09415237a7120a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "8eeaf5023a8c5978f68ecd71d09ac46516167111ab2f46ab2c3909b8f9283f92"
 metafile = true
@@ -636,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "306c6a05c47046994a065bd8a461bd1ba1a7a8187f267c35ddf81c0a3041ed98"
+hash = "7d70498110a01e9c0004ed9a239fee4eed2704e03bcb46596baa7c4d6596d081"
 metafile = true
 
 [[files]]
