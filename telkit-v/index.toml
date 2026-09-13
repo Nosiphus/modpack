@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "f4216fe5a1aa2c7fa7d9ba03425096372f1b227892c2a78447d190fc22156dc0"
+hash = "5f2372d0191c0c6412051ef3d17831c23868a54f6886045ab37385a8789b600e"
 metafile = true
 
 [[files]]
@@ -891,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "0ae7281f1a5726f5b40fc8b4a8a07c5724242688202dd77f5b51c09773fd2a7e"
+hash = "43e360a2a2017999f37fe8fc87fd29ad1c26235cb1a2396f4df21d465cb80166"
 metafile = true
 
 [[files]]
@@ -1261,7 +1261,7 @@ metafile = true
 
 [[files]]
 file = "mods/yogmod.pw.toml"
-hash = "cc034e17ab39074a0777faef1aaa8a1f1225f6a87db0e9ebbb887fab00ed6afe"
+hash = "a08ef8a755d711daca2716cd40131476cd1122a047411a71e98a249a6a995c70"
 metafile = true
 
 [[files]]
