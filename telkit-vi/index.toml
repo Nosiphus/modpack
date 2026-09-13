@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "99af02871fad625e01741851de09412e5906ea9000bed297672940b3c823200c"
+hash = "0e06a4882a44f5e5e2017364e9d34ba5a19bf7be25b6397f723bc680c894746e"
 metafile = true
 
 [[files]]
@@ -1216,7 +1216,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "cac52c97555fa01954361e2b9371cbc03303ccaaf7b964a86b7621b78126103b"
+hash = "763e2b15b3ffc404a7cfa770fa63d1928d8c18bbca8325a7ca09c6a8a0f87b98"
 metafile = true
 
 [[files]]
