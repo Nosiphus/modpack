@@ -744,6 +744,11 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
+file = "mods/cooks-collection.pw.toml"
+hash = "c23bb1ceda4ddd62205f4b367e1b96de06372e83ea5a3cdd98668ccd9abab57a"
+metafile = true
+
+[[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
 hash = "0f24d3112418b31cf86b84d0ded37decc9dbd50cc229cec632547458c01ffdca"
 metafile = true
@@ -914,16 +919,6 @@ hash = "a245469cf91e7f3c8aec3b0f5ad3d79b1846ac0696543f892b426faea5f91cab"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "66cd31c151a67a27df2d13bccb9a2b3f4244e6bcbf77f36e980b9f05e0c2535f"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "df290f726482169aeeef719b34051d2d41d415abff5884713a940da7cc17107e"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
@@ -1081,6 +1076,16 @@ metafile = true
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
 hash = "055ad34dc23cd7d1c46c616d878c9aecd8c72ddc3a1516215997142bdd02e7f9"
+metafile = true
+
+[[files]]
+file = "mods/nuit-interop.pw.toml"
+hash = "ac3bdd1e1683f83c938ff9531b17eed15b21beaf83d48c0da9b86ddb9f756c94"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "ad40f3032e14c5410443ba82e01d745fef93afdb51cc73cfef2c20250bcb211c"
 metafile = true
 
 [[files]]
