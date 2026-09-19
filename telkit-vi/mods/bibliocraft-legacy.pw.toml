@@ -1,13 +1,13 @@
 name = "Bibliocraft Legacy"
-filename = "bibliocraft-1.21.1-1.6.5.jar"
+filename = "bibliocraft-1.21.1-1.6.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eiXYWB7J/versions/3dbo5f7U/bibliocraft-1.21.1-1.6.5.jar"
+url = "https://cdn.modrinth.com/data/eiXYWB7J/versions/XlDfbWrV/bibliocraft-1.21.1-1.6.6.jar"
 hash-format = "sha512"
-hash = "c2b532b75214a66211f3c4edae37733c81f4490de95cc9b84bcfa68a5e6b383e6111648087744c08640314b4c0a0e3b7d125aead8ebf1c76079d7db6e8eaa972"
+hash = "045809410aff17152d89554a11a78adbdcf5e524c23440f5468690948e557436abce85513e1888c123c080157a3cd8c0e0a3b447e4328280d90ddd096c5af41c"
 
 [update]
 [update.modrinth]
 mod-id = "eiXYWB7J"
-version = "3dbo5f7U"
+version = "XlDfbWrV"
