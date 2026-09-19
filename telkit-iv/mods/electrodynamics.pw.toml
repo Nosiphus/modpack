@@ -1,13 +1,13 @@
 name = "Electrodynamics"
-filename = "Electrodynamics-1.19.2-1.0.12.jar"
+filename = "Electrodynamics-1.19.2-1.0.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xmhmr70o/versions/ppjCr0jG/Electrodynamics-1.19.2-1.0.12.jar"
+url = "https://cdn.modrinth.com/data/xmhmr70o/versions/SuiMXKAg/Electrodynamics-1.19.2-1.0.14.jar"
 hash-format = "sha512"
-hash = "4b0c8d0287d9895f63fef704fc722338057ef8100d48d3ec4b4289fef8855f82459c7cbb7f6e41b7b89d54d261214eb643baab994b34a8c99e7a48c169432f7c"
+hash = "5f941f7906404c21e7c5b6f08be6626cb54445f8ae3493b538d39e735d31470133b58cd9146e2639deec9aa015cc6c8bc07f9465f268a60f8646687539b87cb9"
 
 [update]
 [update.modrinth]
 mod-id = "xmhmr70o"
-version = "ppjCr0jG"
+version = "SuiMXKAg"

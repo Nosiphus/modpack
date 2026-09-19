@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "7593ca7c8fde377c4069749abd7351e3172af972bfeaced42fdf9e5af8b3b392"
+hash = "91a0a4ad31d8992d7ac102004036e2681588988767e6cb4920e81dc859417da1"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "dc2591fe8f830edd2f2fc226fb6c256037ab14e59e9c16a41ab917b1f7425a16"
+hash = "4a3ce3dad943a15f19f2b15e0b7b045f628cfeed114fa551a03ab0570474245a"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "7dd7eb798ee80e1357b6463cc511190d1408e4eb4dc72f169ca4ceea8594d8bf"
+hash = "1d9a17569458bc0908530b090806eac91592208c99cc553c0a35fd825bddac18"
 metafile = true
 
 [[files]]
@@ -455,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "3e3d31d34c5ab6b2e845d5d6aab4e7b1c3d146f54b57bec21eac6cc11c6a1848"
+hash = "9f3212eca7b42b8b3d8d31e0057b8d308ffc6f5df3c0372250c51e6a85e6ca80"
 metafile = true
 
 [[files]]
@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "5bc50b4a82fe28c69c18f191102e1cb2e4ff7193ec082280a41d582ddcbac2f2"
+hash = "ca2ded2f5fb9f51a87284e6309d3d50d70123cfe030a715e583c19dc8a5960d3"
 metafile = true
 
 [[files]]
@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "27037a863717c94e4d59ff0cd9425bdc77f5540d70b8c0c089207304dabce5df"
+hash = "b71a68b1e6df2d2b7683cbdd9330caa6327222a445af00c7d4e4022cf967dcb8"
 metafile = true
 
 [[files]]
@@ -790,7 +790,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "edf25456345dcd60d21cd8646f10dd9bde22de4e559e1de351462b9126f50c4e"
+hash = "ef290d5ad84d825ad34affd5a03cbf8da0b0d9d6541bdd6e509f2e48a55242d3"
 metafile = true
 
 [[files]]
@@ -1020,7 +1020,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "61fc45da1a272e8171876e2ba96ed3d5155ddab8ceb4c0f8a79be5a97daf5283"
+hash = "3071768d0b58a4d56382af97714edbd611ba106d050b290462eb7938a7990f76"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/voltaic.pw.toml"
-hash = "6a4cd2c3a2ec0476d07502e180012842ec8716b86effd766601e99fbbb25e624"
+hash = "6fbc7d0a63b83f412a1c37b1ab5e417850a2f7c627b3ba4179f2cf5b1ca5a99f"
 metafile = true
 
 [[files]]
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "cc05558abc2b32d4bd6b29faf026b4afbc30de9d350861365d61146fb20368c3"
+hash = "2fc91f3c41b43ec479d9a8fdf04cded6c8184c2baae275dd7625950be14d8d2f"
 metafile = true
 
 [[files]]
@@ -1149,10 +1149,10 @@ hash = "011207ebcc93651ca50c4844336d078d9466b99f6ca39b7a130b47aad66b3a7a"
 metafile = true
 
 [[files]]
-file = "shaderpacks/ComplementaryUnbound_r5.8.1 + EuphoriaPatches_1.9.3.txt"
-hash = "2aeb215c4f0eb8e2a0afd0e6674db56a79d5c25eea7bcb49f0e53f3c8a7c5e75"
+file = "shaderpacks/ComplementaryUnbound_r5.9.3 + EuphoriaPatches_1.10.5.txt"
+hash = "27a8ef366bf779492a686ab333b703c0a0bac290c4d1028e4443bcf3b105738c"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
+hash = "1a3d3663c44dc21e227c39c42ea9b5e3c4f3b2e3b5272ed55b45da9e247a46d7"
 metafile = true
