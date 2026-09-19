@@ -1,13 +1,13 @@
 name = "Mekanism Community Edition"
-filename = "Mekanism-Community-Edition-1.7.10-9.10.48-ALL.jar"
+filename = "Mekanism-Community-Edition-1.7.10-9.10.51-Core.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/toGHjw6t/versions/kCTKoKS2/Mekanism-Community-Edition-1.7.10-9.10.48-ALL.jar"
+url = "https://cdn.modrinth.com/data/toGHjw6t/versions/tPQbQY4g/Mekanism-Community-Edition-1.7.10-9.10.51-Core.jar"
 hash-format = "sha512"
-hash = "cc4df8abaaca4463ed60eac84cf67681c608f769e823f0654388041fbc1b6a75078b4345cafb431d832485e85913a92ea0fcb44b43c8f7e0931c5534ba90ea64"
+hash = "4decb25e1c2ef2b318077f981342513831ab38ce50203a5a5bd15a354cde7a8ed7ce5c83da6e2456b52dbd7b0f0770450f8bb8c1e1bc7318a3bdf0ff6997131d"
 
 [update]
 [update.modrinth]
 mod-id = "toGHjw6t"
-version = "kCTKoKS2"
+version = "tPQbQY4g"

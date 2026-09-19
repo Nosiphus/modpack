@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "39fc816c52f12cc10b6b197fa220391e97092c72b290dbb553b7612a4b58f8fb"
+hash = "3236aeaa30cbef7dba1b1efd95ed7b48a3f06bb76fc7828cd5609e36ef9090d1"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "e2fe2d4b8fd519416dfbc9475d6eea0a85b1ec8634a17cf9d9f52bfcf7c9dfe7"
+hash = "bfe526eb551819945b2fb6063b1cfaf835e4c4e45d6ca6741578dffb5c0f5f02"
 metafile = true
 
 [[files]]
@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/mekanism-community-edition.pw.toml"
-hash = "3a68ec8e39363c833750711c3a1967bdf5a2943463bad34f7d272230f009ee26"
+hash = "65e5d335d9e71f28a5caa9168382c24a681d7da640d4f71d1778bcb7a32467d9"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "ffa83070416afffa6de1a2c2b1f451ba078348419bcfbc8c8394d4e3d11da784"
+hash = "1b53b3a822a425f380d5f2fe8411e0fc56f6443731b31320b2e12559e918f682"
 metafile = true
 
 [[files]]
