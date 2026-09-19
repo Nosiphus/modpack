@@ -208,7 +208,7 @@ customization {
   y = -21
   scale = 1.0
   alignment = left
-  value = Telkit II: Saturday, August 15, 2026
+  value = Telkit II: Saturday, September 19, 2026
 }
 
 customization {
@@ -283,4 +283,3 @@ customization {
   action = movebutton
   y = 135
 }
-
