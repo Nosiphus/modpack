@@ -1,13 +1,13 @@
 name = "FabricSkyBoxes Interop"
-filename = "fsb-interop-1.4.0+mc1.21-build.54.jar"
+filename = "nuit-interop-neoforge-1.0.0-beta.5+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/A3n8pliV/fsb-interop-1.4.0%2Bmc1.21-build.54.jar"
+url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/ix5pdiKO/nuit-interop-neoforge-1.0.0-beta.5%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "70b9e8d34eebc93e2428f30f796939b2f724ae74ef9d739441a1463218b7829dc8c0a36b9e3eb8fae8381d5c1f3c5ef1da5b68694b66ae81a2ec5c2b5b031e82"
+hash = "5d3f62e288dd7ed98894e18d7a4264bd8114281c40c478f75910c9457d0529187e56a4520548cb1b9b286af317fa358b1cb3b55e5fd6915eb68593e336ad3393"
 
 [update]
 [update.modrinth]
 mod-id = "HpdHOPOp"
-version = "A3n8pliV"
+version = "ix5pdiKO"
