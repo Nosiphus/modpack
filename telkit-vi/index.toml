@@ -906,7 +906,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuit.pw.toml"
-hash = "d9a2987328b54072fe174658ab5266eedccba8722f425c7756e4226b9746e51a"
+hash = "ad40f3032e14c5410443ba82e01d745fef93afdb51cc73cfef2c20250bcb211c"
 metafile = true
 
 [[files]]
