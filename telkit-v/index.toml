@@ -62,7 +62,7 @@ hash = "91d9f1c636b1843530b47b0a1acee9bffba1dfe952ba2c878484be859dfd1eba"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit V.txt"
-hash = "a6ef004d93861457e496a87914cf7f9f995fa91c33ef3d1235d700689a7f5cc1"
+hash = "8d894a69beb8eb5c86b6e2fb6c4e816faa0d69f976f566405515db3a8ea5e699"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -521,7 +521,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "502887ffcbc61146d96662765857806076d30a8b6e7a833818efeb785f1effd8"
+hash = "800b6813a4e585b88132921308577c7f1b81fcebdfd03273986be38c5b2fb290"
 metafile = true
 
 [[files]]
@@ -792,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "0d48dec6e4adc2e7d683208cac4298bc22979fc8a354ae560cf10870e9a86d38"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
 metafile = true
 
 [[files]]
