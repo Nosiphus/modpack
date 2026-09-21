@@ -1154,6 +1154,11 @@ hash = "25fdaaf01546f4083aa00f85b6c1c4b67434f6d068d3e1725d4437576ca34a7a"
 metafile = true
 
 [[files]]
+file = "mods/tacz-1.21.1.pw.toml"
+hash = "64a5ad1bbb2ca9e94053e4e6b7f0e5d762c2c7bea7674c168a6819e5782a99d6"
+metafile = true
+
+[[files]]
 file = "mods/techreborn.pw.toml"
 hash = "9025e5c9f5032ed316208c509e44f7f3e93d3eb5f3a9379a78eda815ff643acc"
 metafile = true
