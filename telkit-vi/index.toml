@@ -5,6 +5,10 @@ file = "config/amendments-client.toml"
 hash = "fcad1c927a6cbe536b6b90ae8dc4c10b2a605750169c2ce25f090c9f25290411"
 
 [[files]]
+file = "config/buildcraftenergy-common.toml"
+hash = "61e7ef7b7fc96093019048f588ee73f52958d257b590bfdebc50373f8ac66858"
+
+[[files]]
 file = "config/computercraft-client.toml"
 hash = "787c0712015dbc567d336f281416478a692ff1360687ae78c51542f64e63fe33"
 
@@ -38,7 +42,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "b84917c92cb81f6ad0e3468035bb33353c7ae7cb4d0b237c50b63a01f27aa3e4"
+hash = "2f3e0ee6a750d3a3cf751fa1ea1f57789ea5d73dd99bafd399824c4e3cee8afe"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -666,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2a740b39e014011fa33d9e169a4ded38d68dd8da6f244a17a4df4fd38c865613"
+hash = "0ed46de75b8891a05c5fbfe3a140b0a980f81483d0d489acd8253c0b7cf108b7"
 metafile = true
 
 [[files]]
@@ -836,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "edb547e58b65190e1b7e85f015a52667a2306adf05abe4d089ac1f25dd389e8c"
+hash = "7bc20264f0874457c08927af84def007cd5ed2caeee9d736cab1f92d8ea8d6ec"
 metafile = true
 
 [[files]]
