@@ -5,10 +5,6 @@ file = "config/amendments-client.toml"
 hash = "fcad1c927a6cbe536b6b90ae8dc4c10b2a605750169c2ce25f090c9f25290411"
 
 [[files]]
-file = "config/buildcraftenergy-common.toml"
-hash = "61e7ef7b7fc96093019048f588ee73f52958d257b590bfdebc50373f8ac66858"
-
-[[files]]
 file = "config/computercraft-client.toml"
 hash = "787c0712015dbc567d336f281416478a692ff1360687ae78c51542f64e63fe33"
 
@@ -42,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "2f3e0ee6a750d3a3cf751fa1ea1f57789ea5d73dd99bafd399824c4e3cee8afe"
+hash = "22cdec7da02b366881f6b85e5163769cf3c2f2bf7f07ffc9105c9f06d63e198f"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -140,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
-hash = "bb6f1ed9e7a09d936a0a8028d3332eb0b892f8fddfdf1d46ef0bd71b8d1ebb21"
+hash = "c71a37f05849d41b3b2a883c55afc4d32de7e05beff02b6f94a833be0c59635c"
 metafile = true
 
 [[files]]
@@ -440,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "7a164150e18506d4574474a4479b9c4e22fa9debbf79ac4f0d21c04a5adeee5d"
+hash = "2108ab41dd9a48a7a5ac62b89c4cbe152983f71d6aa406b3dce0dfc0a1be486c"
 metafile = true
 
 [[files]]
@@ -475,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "c3e0dd6a4bac728f3f892616af7e78ce363df113b0fe11daf95f17a32d68ef1a"
+hash = "6d3e312dbf8db12dd1b6fb3bd1d29f210ab48024a0b2ebdf02fd32c265955c5d"
 metafile = true
 
 [[files]]
@@ -520,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "9448043e083a2e45e77de4d88c628155ae174b37ea2ebfc3efe237fcdc956302"
+hash = "30d6875d934c57d5827f29f35ca77efc72a21df361ad3d578b93e7e137a39654"
 metafile = true
 
 [[files]]
@@ -670,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "0ed46de75b8891a05c5fbfe3a140b0a980f81483d0d489acd8253c0b7cf108b7"
+hash = "4727f9eca761440a318177abe0916e5d1cbff3bdaa0ad5904be3a2b00bc44049"
 metafile = true
 
 [[files]]
@@ -1135,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "mods/ssrd.pw.toml"
-hash = "4bbf94f1237308aaa6bbc4916596be61dfca73be82b12b5d49f9650fdb30689b"
+hash = "58b467eaccd4e1db7f1b62d64f818bf903bc7cd3237c211b88c1eee834940c01"
 metafile = true
 
 [[files]]
@@ -1145,7 +1141,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "51c911d05e42b074fea01a74cb05050fa15164eed8a5d137cf0f64ecc16ed861"
+hash = "68ef590d29c127c6b38d81662edfa45a2e1339d38f60aee345e31164c7c10017"
 metafile = true
 
 [[files]]
