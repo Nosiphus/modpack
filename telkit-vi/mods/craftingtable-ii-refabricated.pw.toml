@@ -1,0 +1,13 @@
+name = "CraftingTable II Refabricated"
+filename = "craftingtableiifabric-neoforge-2.0.0-1.21.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gnSVsvlY/versions/m04WpQKj/craftingtableiifabric-neoforge-2.0.0-1.21.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "bbda1551ecae71a30d7c26fee0f8d74bac143186af30ffd0abd394603b682cdd85e719797162376fc0df0c51b56ddad7f776eba5bf8e4360606e62be9a5e7f83"
+
+[update]
+[update.modrinth]
+mod-id = "gnSVsvlY"
+version = "m04WpQKj"

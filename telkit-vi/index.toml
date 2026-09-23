@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "22cdec7da02b366881f6b85e5163769cf3c2f2bf7f07ffc9105c9f06d63e198f"
+hash = "9b16ae45ffc926881582dc7a91c2ad0c298f8385539ec8555d78eaff19c8bf43"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -392,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/crafted-core.pw.toml"
 hash = "e050794e933174b7ecbad14a1459c54d77f80f7c19dbfe3e11a59e68d6d30ac1"
+metafile = true
+
+[[files]]
+file = "mods/craftingtable-ii-refabricated.pw.toml"
+hash = "c43dc683bededc6a90299ffcbe16b40203faffd09ea019231d05a814941f6071"
 metafile = true
 
 [[files]]
@@ -1152,6 +1157,11 @@ metafile = true
 [[files]]
 file = "mods/tacz-1.21.1.pw.toml"
 hash = "64a5ad1bbb2ca9e94053e4e6b7f0e5d762c2c7bea7674c168a6819e5782a99d6"
+metafile = true
+
+[[files]]
+file = "mods/tc-wireless-redstone.pw.toml"
+hash = "8f5034aba14ba673357434ff88242b6b79f0cbc8179f0e29958172de7ded25c0"
 metafile = true
 
 [[files]]
