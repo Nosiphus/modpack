@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "9b16ae45ffc926881582dc7a91c2ad0c298f8385539ec8555d78eaff19c8bf43"
+hash = "d2eb92225bd37606276e626718342122195bb00f9cb7953abbc85df2d0ab3b84"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -881,7 +881,7 @@ metafile = true
 
 [[files]]
 file = "mods/northstar-redux.pw.toml"
-hash = "346c1c1da99ce9376735bf8b4d55e160b24ad2935e23b066c2900770c4181e11"
+hash = "99a253829321625f67fdd2cacee857c4c4569c9a6a14e7adb0eed6ca7ea02dd3"
 metafile = true
 
 [[files]]
