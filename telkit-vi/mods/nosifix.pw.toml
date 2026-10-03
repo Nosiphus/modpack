@@ -1,0 +1,13 @@
+name = "NosiFix"
+filename = "nosifix-neoforge-2026.09.27-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec5e8f5b141bb8dff408c36fe239a4638d05e09a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8995348
+project-id = 1715316
