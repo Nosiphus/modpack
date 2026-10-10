@@ -1,13 +1,13 @@
 name = "Put A Plug In it! (PAPI)"
-filename = "papi-neoforge-1.21.1-1.2.1.jar"
+filename = "papi-neoforge-1.21.1-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xedaBnSm/versions/k2bRvJqS/papi-neoforge-1.21.1-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/xedaBnSm/versions/Fuex2ZXs/papi-neoforge-1.21.1-1.3.0.jar"
 hash-format = "sha512"
-hash = "9b90bea4c9e8eaafd3f4e6abff2d9bc405fe48293ffd2be1abeded4ad9182d0c20b95ad9f7fc2cf78844d237af5ec2bf1f34ebebdd6091e9b1e91c876304e3bf"
+hash = "c7a5ef9b7485cf622cb054273a95f8cbbf5be0577da0fc22b0adb2def9286ae5c5b8fa3f4a78e5bca266cba65b34b2ca4d3a4c144ad5a62584bc1effa0a564c4"
 
 [update]
 [update.modrinth]
 mod-id = "xedaBnSm"
-version = "k2bRvJqS"
+version = "Fuex2ZXs"
