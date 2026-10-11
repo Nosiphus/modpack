@@ -896,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "b072655409a6139adaed2c41c9edf765173ca964040949ee2203317b87d1bc34"
+hash = "b021a4b0afbcb8da1f12372ccfca0a69e297770bfc12fcf739f52df6f38aa2b2"
 metafile = true
 
 [[files]]
@@ -1141,7 +1141,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "8724b945555d1ab19925eec06d9d031f1d8a1f73e2e33bddfdea4ed7240b1c0b"
+hash = "fe531405512c4dc9d4466c79a064f8b5598bc10b1c19a69b8f5bd889c12eb317"
 metafile = true
 
 [[files]]

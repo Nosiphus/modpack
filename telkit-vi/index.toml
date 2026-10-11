@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "20eee73cffcd55bfe041b16bbc3adc64c38859bf928486bf1db1368b6dba2058"
+hash = "6d937e4bbf525c3d446fb1fc37cc9909a5a5cbecbd4f4451872bf94dbc06d986"
 metafile = true
 
 [[files]]
@@ -891,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "d496cabfcf4132e7a4f22577ea761943eaabfa95c470261483ce0867d1e03718"
+hash = "c671541ddb420389944e35811d5a0f1a3867d26afbe9b8477ad249fe0f3462b1"
 metafile = true
 
 [[files]]
@@ -1151,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "25fdaaf01546f4083aa00f85b6c1c4b67434f6d068d3e1725d4437576ca34a7a"
+hash = "bf713100ba85cf1db91eaea22fd0d325994d58f64e16c402b199aa07891c0338"
 metafile = true
 
 [[files]]
