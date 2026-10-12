@@ -13,6 +13,10 @@ file = "buildcraft/config/buildcraft.cfg"
 hash = "4a94d1e054ce155ebabd7748526ca9c1c0826721e6190b8f0678583977fbd852"
 
 [[files]]
+file = "config/BlockHelper.cfg"
+hash = "000a364dbb79f0201636d1046ab97f960e3c93dbf0a6e17c18d1414c3f6ab4d0"
+
+[[files]]
 file = "config/ModLoader.cfg"
 hash = "39be4fbce25c011e40212890de3b719fa792f85f11d112b0f65bea10a42ec4f8"
 
@@ -31,6 +35,16 @@ hash = "e0018cad5317814e7163387531a20c814eea2d803afe961f4dc94c702f4b1700"
 [[files]]
 file = "config/mod_RedPowerWiring.cfg"
 hash = "3d2bdae2934b771d42653c0d38d51b8f44f3612f0b543dc16ddde80d47e5090c"
+
+[[files]]
+file = "mods/block-helper-client.toml"
+hash = "6e246c6c950d5c3b87a2ed9d9ef2bce90123c5bd5d2eeea812600d6b0898189c"
+metafile = true
+
+[[files]]
+file = "mods/block-helper-server.toml"
+hash = "8bbad114babd7ad868e62ec230530dd387163442e728f7b2c85c181096b8cc3a"
+metafile = true
 
 [[files]]
 file = "mods/buildcraft-builders-client.toml"
