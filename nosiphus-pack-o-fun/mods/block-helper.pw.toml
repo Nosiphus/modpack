@@ -1,0 +1,13 @@
+name = "Block Helper"
+filename = "BlockHelper-1.4.7-2.0.0-pre14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CiDIVfkf/versions/akn68T1S/BlockHelper-1.4.7-2.0.0-pre14.jar"
+hash-format = "sha512"
+hash = "c8857d942c6a642f47ccdad90b524923b2b3c51018968fdc43fbdff8bb116338150eba2b60178d8b8fa911ab8553a3cc117cac9f5aacfa179fcec74f8f5fb7f8"
+
+[update]
+[update.modrinth]
+mod-id = "CiDIVfkf"
+version = "akn68T1S"

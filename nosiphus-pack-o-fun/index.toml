@@ -222,6 +222,11 @@ hash = "42adf13731a44aef7cc830f76b3eac76f6c5ea22c6387fd2c5f0ffd3288b8461"
 metafile = true
 
 [[files]]
+file = "mods/block-helper.pw.toml"
+hash = "d8e1ea39ddfcaebe1868bd39e9ddf919c39607dd5958958daa79ef87887c0b19"
+metafile = true
+
+[[files]]
 file = "mods/bspkrscore.pw.toml"
 hash = "e7e039581fc9bbe07c6764aceff40cc7115e4b6f7e686163c80485cb77cc7998"
 metafile = true
