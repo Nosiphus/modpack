@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "b7444f24e0e8ed5503c53ccd1de388004833eff3bdf9303f2ff3e376f0acc351"
+hash = "462a5c4b3d8b9320da08d6eacfb5fb6fbd5e270bcd437edecb44709c6344efd6"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/assembly-lines.pw.toml"
-hash = "731dee4b78e505302907d16299bfb4380b92d7a38df60647059c288cdc901d87"
+hash = "81a20035a7c8f80642163cb987d174246bab7ad5725f0de8579886dfaa29e343"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "ff08d4752ce82d0020cffa420a147a95ab2cf695f71cc5a9a4cddd0898be09c0"
+hash = "681ac6b5b73ed2e9ba63ffb1787e7c78c5f8aabe967fecf4f544a7d35e0b71c0"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/blastcraft.pw.toml"
-hash = "6eae226f1195184eceed02158dced8226d9a92f14e65d18d2438bae67c33b2fe"
+hash = "48c04d6b7c00360c4db807c25b428a2c10f432745007ac049034c4df3efd5011"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/electrodynamics.pw.toml"
-hash = "944be63450453e84eb60f3fa965e70dab2c6605646703517acc15f2eca5cdacf"
+hash = "1b4b9f1817a2c3a23b8feb3cc2662317fa90a2e936e712053a9e5e0e22bf4dc3"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8bc018284b753276f8e3510101852809bcccdad31a7ae17847df210c71a2c512"
+hash = "cfc4d1bcc1ff43a45933e05db06fe8e2e607b01304ec4810544b6d7179668b54"
 metafile = true
 
 [[files]]
@@ -901,7 +901,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuclear-science.pw.toml"
-hash = "12603240b49ceb36479d6239fe8c2a5d65a2755758773321406704e62b0c73bc"
+hash = "95a4878433a2ec836dce409806bc2a1d01935fdc72afc7ce9a2597e5e9a7e421"
 metafile = true
 
 [[files]]
@@ -956,7 +956,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "d8c433e94f2c8e5838e8937d7a162fe834e966f1f9640a563db5060a3011b2f4"
+hash = "1762970777e293ba6d7a6a7b43dde2ac87604820e0fd90dd712beb744d068266"
 metafile = true
 
 [[files]]
@@ -966,7 +966,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f54e19ec4d32f64f985900fc2da5579769937dff081167d48bec11932198b55f"
+hash = "d36bf94e82375fddcba1cdad47305b6d251e164610eb7053c8bd6439904d821e"
 metafile = true
 
 [[files]]
@@ -1151,7 +1151,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "bf713100ba85cf1db91eaea22fd0d325994d58f64e16c402b199aa07891c0338"
+hash = "b88bbb62ccc2222c4736899745678d83e2dff37bf29ceff94cca94a90a7b68fe"
 metafile = true
 
 [[files]]
@@ -1161,7 +1161,7 @@ metafile = true
 
 [[files]]
 file = "mods/tc-wireless-redstone.pw.toml"
-hash = "8f5034aba14ba673357434ff88242b6b79f0cbc8179f0e29958172de7ded25c0"
+hash = "b2de3ee3a0f1d8c5392b0b35ac197b2870c4809b76d074b8e7b3192394bf53c4"
 metafile = true
 
 [[files]]
@@ -1191,12 +1191,12 @@ metafile = true
 
 [[files]]
 file = "mods/voltaic.pw.toml"
-hash = "27645fd773dff44b90c84a80f1ebd1878a889a1f04fcb777aacca626ec30727c"
+hash = "8cf3aebe060faed8b6e879579e66b4620d6b0b62f633bdeaa43b730941f2191e"
 metafile = true
 
 [[files]]
 file = "mods/vs-hose-connectors.pw.toml"
-hash = "46069ad081cfd2d618704d060aca18241a3022c5f1b9afd3855f92bddb79567c"
+hash = "52c86942f80b262807611743be5991c4dfe2df66041a6503a46266d9e7ed4b96"
 metafile = true
 
 [[files]]

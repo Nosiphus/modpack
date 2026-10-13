@@ -1,13 +1,13 @@
 name = "TC Wireless Redstone"
-filename = "TC-Redstone-1.21.1-Neoforge-3.2.5.jar"
+filename = "TC-Redstone-1.21.1-Neoforge-3.2.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rMlghquR/versions/2JInjRqt/TC-Redstone-1.21.1-Neoforge-3.2.5.jar"
+url = "https://cdn.modrinth.com/data/rMlghquR/versions/3yfasze8/TC-Redstone-1.21.1-Neoforge-3.2.6.jar"
 hash-format = "sha512"
-hash = "18679237c173a343ef6e039c58a821d2fbfaf7b9180feea7b736baeadd114c8acbc9a672ae420643099da07348869d59e19e75fbbd88da0981c666d82d2d4154"
+hash = "ad589b85016a4ee555e4afd293fc6a69fa5057147101816d2f972b41ea35284a292029e6035d7437aaacca4cb948bfdc282d3dcd15e95662954b4646c9bddaba"
 
 [update]
 [update.modrinth]
 mod-id = "rMlghquR"
-version = "2JInjRqt"
+version = "3yfasze8"
