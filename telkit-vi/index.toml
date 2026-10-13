@@ -101,6 +101,10 @@ file = "config/mca.json"
 hash = "00b84b847ea3eb02332396511aa373ab743d14e2dd62b9c87099e1f1c1e87f6c"
 
 [[files]]
+file = "config/voltaic-common.toml"
+hash = "b16efd25fd19eafc2963084391ed04662bc2ebd46cf9d5c1866ac1c974448969"
+
+[[files]]
 file = "config/xkdeco-common.yaml"
 hash = "8e4db7eb58acef82dad415a8940ddfcd0266e7dffeb624f0fadf4758adeb969c"
 
@@ -477,11 +481,6 @@ metafile = true
 [[files]]
 file = "mods/drink-beer-refill.pw.toml"
 hash = "e48c58c6c2c660f7c45e7cfad3339317fee2edef0207a069b361134282f50cfa"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-electricity.pw.toml"
-hash = "2dd0dbe4b0e915990502f03ed870e484636e2425ec96a24066b339d634fc620f"
 metafile = true
 
 [[files]]
