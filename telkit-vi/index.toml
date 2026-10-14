@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/ballistix.pw.toml"
-hash = "681ac6b5b73ed2e9ba63ffb1787e7c78c5f8aabe967fecf4f544a7d35e0b71c0"
+hash = "2f5bdceca2ed3831b968b51329b6aa7c58ac226e79add8e19bc1d6d3c1be8150"
 metafile = true
 
 [[files]]
@@ -635,7 +635,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2863a3b187723e1f69ed2ad2b2c3d834e8442468a1347c80df5b310e243c8753"
+hash = "4601b9be31b6e131dca8a148c974d015444bcac7c82fcb66fbd8751a67933a5d"
 metafile = true
 
 [[files]]
@@ -965,7 +965,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d36bf94e82375fddcba1cdad47305b6d251e164610eb7053c8bd6439904d821e"
+hash = "d8746d3dd79faddbcdcf81b8cddfabcd91f7832625e6dc9cc18f997e3dd43237"
 metafile = true
 
 [[files]]
