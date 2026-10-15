@@ -1,13 +1,13 @@
 name = "Blastcraft"
-filename = "blastcraft-1.21.1-0.7.0.jar"
+filename = "blastcraft-1.21.1-0.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qzSqkQKb/versions/i1MFAE4T/blastcraft-1.21.1-0.7.0.jar"
+url = "https://cdn.modrinth.com/data/qzSqkQKb/versions/80eFBw5o/blastcraft-1.21.1-0.8.0.jar"
 hash-format = "sha512"
-hash = "20bf6ce0de090b963cd88738e8b8024e1f939796c85f6eb3bf26915397938f6fd3a63d1c9a43dbb39bc2d89e97cbf94b223f944177a92ba47f5c55bce05a9dd8"
+hash = "075c6b34942e7b4bac4fb56a11fc586b817a42ba950df9ec4e0fb78f4332cd0398fe5e293c7992eee397481bfb423297b2242a47bae1447b15827d3ac6beebf3"
 
 [update]
 [update.modrinth]
 mod-id = "qzSqkQKb"
-version = "i1MFAE4T"
+version = "80eFBw5o"
