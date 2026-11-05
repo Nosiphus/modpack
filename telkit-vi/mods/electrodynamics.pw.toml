@@ -1,13 +1,13 @@
 name = "Electrodynamics"
-filename = "electrodynamics-1.21.1-1.1.0.jar"
+filename = "electrodynamics-1.21.1-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xmhmr70o/versions/PIMi40Ga/electrodynamics-1.21.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/xmhmr70o/versions/NX8yAjYd/electrodynamics-1.21.1-1.1.1.jar"
 hash-format = "sha512"
-hash = "39d38f90966c38d929388c34427c2133f587858b2b3c4b8b0bd3e3a8b652fec51cfac96f5ca41ee598bebd7bb0a10102d8aeb4fde6ddef90f78370ec6da99e96"
+hash = "4264ffb53948c075e99a3fdcef2717a3404db1a6985725cdd3b9ea26c761021725ebb41b4555d69c41da8e4e20becb74535d3b88f7ca9f87ef3db1539af9e763"
 
 [update]
 [update.modrinth]
 mod-id = "xmhmr70o"
-version = "PIMi40Ga"
+version = "NX8yAjYd"
