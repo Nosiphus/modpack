@@ -1210,12 +1210,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "c6400cbca1fe48cfcdf3bb0b643b5be549247a3bc7468cf0db6707ecce9510f6"
+hash = "53f929c6520cea13b42c18f06d5ada5e1e384f63e9e37a31dc51c2c573af1717"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "da8d2961cd4074dd2a18a9f584946a7ed4c4611ebc4b674fad07c68f3ab969df"
+hash = "b8000c56fed6058912fcd5c75323279701a339b0f22ffb97ed089b937050530c"
 metafile = true
 
 [[files]]
