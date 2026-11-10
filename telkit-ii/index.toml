@@ -381,11 +381,6 @@ hash = "dc32b2c0fa87f2c8c98b799e4029da1c42e05f98fbe8740a08e82ae99a280b2e"
 metafile = true
 
 [[files]]
-file = "mods/fermiumbooter.pw.toml"
-hash = "0a6e9dae4194af5b2921a7d3a984fa9dcdff3dcbdbd9c74690ee0ecf9e4ce95a"
-metafile = true
-
-[[files]]
 file = "mods/flans-mod-5-5-2.pw.toml"
 hash = "57a81047beb80155f0fa3807f8e9655f627ca251cc954f7bd19dc8dd9d74fcb8"
 metafile = true
