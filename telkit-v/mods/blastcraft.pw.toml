@@ -1,13 +1,13 @@
 name = "Blastcraft"
-filename = "Blastcraft-1.20.1-0.6.2.jar"
+filename = "Blastcraft-1.20.1-0.8.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qzSqkQKb/versions/GPx1sTl5/Blastcraft-1.20.1-0.6.2.jar"
+url = "https://cdn.modrinth.com/data/qzSqkQKb/versions/YK74moRY/Blastcraft-1.20.1-0.8.0.jar"
 hash-format = "sha512"
-hash = "5c87caf8229a3fd6aae4ca9cd4bfac2a51a540a240811bd46ecef6617c0764ec057991b4c6ebf30d3429b8e04ea5214b7ca2b03ca1a215dcecb4eca05f412ede"
+hash = "8c2d5cfe1091343f88c80e70678944983208374211cb0e471b2188be3ef3a9936c40586c59074d98f98bbdc3b6a2cc1132b67a5a05270050b75f56e00d5ee7c4"
 
 [update]
 [update.modrinth]
 mod-id = "qzSqkQKb"
-version = "GPx1sTl5"
+version = "YK74moRY"

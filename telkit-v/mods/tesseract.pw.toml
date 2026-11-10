@@ -1,13 +1,13 @@
 name = "Tesseract"
-filename = "tesseract-1.0.38-forge-mc1.20.1.jar"
+filename = "tesseract-1.0.40-forge-mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OUhp5O2m/versions/fXBaz8Ea/tesseract-1.0.38-forge-mc1.20.1.jar"
-hash-format = "sha1"
-hash = "a2e7df699ae5af2576973f3ee194194cd1576181"
+url = "https://cdn.modrinth.com/data/OUhp5O2m/versions/iCwAMP7h/tesseract-1.0.40-forge-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "8b881315cd339ecbd92455471dfe9c2af804aeefca4c80f09d5ceb59a12a1177e79ce6e304b4c46366e3aded1353fd8d23c22ace0be47c5f2b77bf429bcfdc0e"
 
 [update]
 [update.modrinth]
 mod-id = "OUhp5O2m"
-version = "fXBaz8Ea"
+version = "iCwAMP7h"
