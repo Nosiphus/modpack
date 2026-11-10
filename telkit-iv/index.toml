@@ -54,7 +54,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit IV.txt"
-hash = "0962b1a96d34d62822a347a711a42d14d1ed5b42633cfb5fbddc29f63ea636fb"
+hash = "b00818cf8a372d32f531af8a401261f7d0eda9690fe941f8b6a83d30191d316a"
 
 [[files]]
 file = "config/fancymenu/images/nosiphus.png"
@@ -150,7 +150,7 @@ hash = "78ee46a96edccd650e2cd5479c654ed50b049f06c673d0b86c17c249b1b0cd64"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "4a3ce3dad943a15f19f2b15e0b7b045f628cfeed114fa551a03ab0570474245a"
+hash = "233ebed5777f69aa5ab792990acf8a1e0f460d82deadea82dc547184c185c8d2"
 metafile = true
 
 [[files]]
@@ -570,7 +570,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "498e6d6c5a447b08b8d46828ea02ce3af557e463277c52a4fcb4ee79db82e89e"
+hash = "f0515fc514ec7f4adbc48a1d10b688380181b49e68414245a41b5ec2379f757b"
 metafile = true
 
 [[files]]
@@ -1015,7 +1015,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "347d25ea12ba46cd6e88a8401b072a05b47e948926e2ef2c3b829345521e9cb2"
+hash = "ae1ef606e07234e1b1c2bf9e4a613b5f1d6cf70877b243442dcc46f03e745be8"
 metafile = true
 
 [[files]]
@@ -1035,7 +1035,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract.pw.toml"
-hash = "28cf53c29654aff251471db691543399078104a247ba00068b69f1852ca6ee72"
+hash = "c418482d190ece0f9e58ec2f2a50ce3464bff5fe0a22b996d156835f5fd7d77c"
 metafile = true
 
 [[files]]
@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "2fc91f3c41b43ec479d9a8fdf04cded6c8184c2baae275dd7625950be14d8d2f"
+hash = "6f2f5275df212f06038c67e0965f0afb7347fc493d5b346c6cf2a7275b0424d4"
 metafile = true
 
 [[files]]
@@ -1125,7 +1125,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "1bc0876139588ab6e6138be6c2e89ef77fff79d9578e8dec2f4cd4eb4f4f3de4"
+hash = "c3080fa0d8b7c0190f63262a20da5403315ec78b23edb7cbd8487967b6e8b8f9"
 metafile = true
 
 [[files]]

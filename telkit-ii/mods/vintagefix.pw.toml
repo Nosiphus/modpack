@@ -1,13 +1,13 @@
 name = "VintageFix"
-filename = "vintagefix-0.7.1.jar"
+filename = "vintagefix-0.7.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e6vNsbAm/versions/rdPtgrFV/vintagefix-0.7.1.jar"
+url = "https://cdn.modrinth.com/data/e6vNsbAm/versions/CutuuVKA/vintagefix-0.7.2.jar"
 hash-format = "sha512"
-hash = "4a89558e21f06c28109d4c95124878a1282b8624ab810d9a9b703f829b7448f30568bde07b2b91970f7a6603161c7d1adc6ad0c92f4c56385a220c3f7040d522"
+hash = "2e9e4734e38169c5f2ae815be47d4de5710c019ec70923b2c8f3fcaf7f55672630e4895391fac05c29313b2b592749dfd4b9dee35f353e8e9030ea869a42aac9"
 
 [update]
 [update.modrinth]
 mod-id = "e6vNsbAm"
-version = "rdPtgrFV"
+version = "CutuuVKA"
