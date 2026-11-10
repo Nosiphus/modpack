@@ -506,8 +506,8 @@ hash = "3a4dca5c54b1e8632f6171b5913e2d72b7931016e78bd1066d4651d509bc50f1"
 metafile = true
 
 [[files]]
-file = "mods/mixinbooter.pw.toml"
-hash = "64c098577c1b6d6c379c1787d7c2498fb00f4046985b29cb0c7b0caf2c22d6fd"
+file = "mods/mixin-booter.pw.toml"
+hash = "5484d462b4a0a9c2d1fe8a9b68ea83bdee8a04e8b837fbae628187b4a123afac"
 metafile = true
 
 [[files]]
