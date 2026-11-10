@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "c2ee8fa436add53eca50c6664583b638bdbc3e601eddd50db06e54f147a030ab"
+hash = "99e23cccbe4f4d2feca07129974413968e47599cf040383bba6d5d9e6252c062"
 metafile = true
 
 [[files]]
