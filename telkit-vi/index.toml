@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "e89ea76d5fd80950f0ea8dbb5f92085f82635a0b0f8a2234643c41cc31c81986"
+hash = "76498e45407bd6c06d1697e424410e391c70ced7f46e3326921c79a7bdec6c51"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+hash = "21347d7f9c96cebacb7238dbef2670e2906a11572606016c8184e9485947dacc"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft-community-edition.pw.toml"
-hash = "05be01a3cccc5a91f849179127ab2cc3ec0269fdd239c6b6eb534a6185bc1b3c"
+hash = "1078aae1c6ff41a1035580218efee87698f80962231b996875e71a1bd7872f68"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "08612b6318bc0d73c67557a3edf2d8999341eacd7f628fd249f267d1811a5f8b"
+hash = "d518db51c2502b5b04d6ca4add6a2b3e862a0af15e7a65f0ab83180778adb604"
 metafile = true
 
 [[files]]
@@ -1150,7 +1150,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c7e7206384e1d5ab7caecc643dda50dae1886312e0aeca5aaef8852bb6b11b4e"
+hash = "6b7fe7dddd1ae7b41e2de7ef622981a2a1daad26c9a164e084c8aeffb47e8c30"
 metafile = true
 
 [[files]]
@@ -1220,7 +1220,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones-sable.pw.toml"
-hash = "c452c85bb210ec721793610924e61bd11d7c67b46815ac49106fd851dc1e877c"
+hash = "bbd6bfe1d01c35b7d689aba2eb759e5e232791f8cdcf986af6e94f881bf3813a"
 metafile = true
 
 [[files]]
