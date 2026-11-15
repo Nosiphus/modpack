@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "76498e45407bd6c06d1697e424410e391c70ced7f46e3326921c79a7bdec6c51"
+hash = "df4e50e20040d6f6649853d2d1c437160a1e27b83acac78447a7ba974d9d3f04"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildcraft-community-edition.pw.toml"
-hash = "1078aae1c6ff41a1035580218efee87698f80962231b996875e71a1bd7872f68"
+hash = "fe92bac7f1de4db922da43e9818a8b49f3b335bb60af7677ca013db0b0289290"
 metafile = true
 
 [[files]]
@@ -1225,7 +1225,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "2dad5577c5ec5e73bb3d5cec8da606e3b72e384207c9291a25e1ae96fd20bb70"
+hash = "870219130f6ab3005d0ed77ff73070074bd2780f09ef67f57d5d9a2199b40e9f"
 metafile = true
 
 [[files]]
