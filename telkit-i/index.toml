@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "25ec0164caea2933a026944aa7e703a848937902066ce3ec9de17c2094725744"
+hash = "afd5f3130e9ab26ee3fafca286de6c735510312faf4aeaebe2c2b3f6ef3b9094"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -417,6 +417,11 @@ hash = "9f7ce5006c20c9ca4b4b295cfe431243025d3e196d7c049e3183c7949824043f"
 metafile = true
 
 [[files]]
+file = "mods/mantle.pw.toml"
+hash = "abcc2bdcbc87d3dc3d798f19311035242bd44a3eb8d244856e032fce7a83be5b"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-community-edition-generators.pw.toml"
 hash = "7dd7da6b02ba5c1f6281275f1c4f7647ef30bfd812e9649de6320bbe4c220c06"
 metafile = true
@@ -634,6 +639,16 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.pw.toml"
 hash = "52c5a415a7bc071332ef8c791d4b97910cfba93c527c9f8aabfc05af63d30321"
+metafile = true
+
+[[files]]
+file = "mods/tinkersconstruct.pw.toml"
+hash = "15988e3942ae3058abd97bf82e502004f5e4bf815a061e8a689a11c8460009e0"
+metafile = true
+
+[[files]]
+file = "mods/tinkersmechworks.pw.toml"
+hash = "f7c9bd369c6dc0ef19d67cc566551b7d965618c356a18a94f29d9e90e4f05102"
 metafile = true
 
 [[files]]
