@@ -407,6 +407,11 @@ hash = "39d9308bfe35fd3eee9bb266a50e939accd09f1dd8cde84858fae5dff6948940"
 metafile = true
 
 [[files]]
+file = "mods/liteloaderloader.pw.toml"
+hash = "35485493cd181d28521274bd7d9e63ff04b13610415dc282d9161cb327c3606b"
+metafile = true
+
+[[files]]
 file = "mods/malisisdoors.pw.toml"
 hash = "9f7ce5006c20c9ca4b4b295cfe431243025d3e196d7c049e3183c7949824043f"
 metafile = true
