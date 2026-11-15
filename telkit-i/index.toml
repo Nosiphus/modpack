@@ -83,7 +83,7 @@ hash = "514cc7b53fe2ac89597ed8082db7c5ca8d6779fc9be4a1bae8ee8681057de1e5"
 
 [[files]]
 file = "config/WTP.cfg"
-hash = "3595194c3c46e1af44e6e016b3bba28beaa7c97adc570b56a41e86aaf4e2df24"
+hash = "25ec0164caea2933a026944aa7e703a848937902066ce3ec9de17c2094725744"
 
 [[files]]
 file = "config/bspkrsCore.cfg"
@@ -133,22 +133,22 @@ metafile = true
 
 [[files]]
 file = "mods/1.7.10/forge-multipart.toml"
-hash = "3b6e1238e4f62dba86243abe70500096783fd96cd020d7b7be091a8a6a8fc652"
+hash = "76607de94f096155880ddb30bf8c0e6c1f62c6fd1ae741063f1670c22d76059f"
 metafile = true
 
 [[files]]
-file = "mods/1.7.10/forge-relocation-fmp-plugin.pw.toml"
-hash = "77bb5648462430529e91ad93b0f9924b4161d9cd9bcc0d29568d63186915d2bf"
+file = "mods/1.7.10/forge-relocation-fmp-plugin.toml"
+hash = "9d260d2787426f8af1cab62a13985c96c0f9c72a166e4b797067ee6b931581be"
 metafile = true
 
 [[files]]
-file = "mods/1.7.10/forge-relocation.pw.toml"
-hash = "a961f4745299a1b16ba7ea3d697c704b2fb1170bd4507dd56f646aafade7afa2"
+file = "mods/1.7.10/forge-relocation.toml"
+hash = "6d6c699a0263a2f285e97b6b2d6cd2ac2d02fe91d7f0b5bbb162833276d5eff6"
 metafile = true
 
 [[files]]
-file = "mods/1.7.10/mrtjpcore.pw.toml"
-hash = "365d0ae319b5bfff4b50ab29b3a8590a9203aebd4ead94f7344e18c4337ae886"
+file = "mods/1.7.10/mrtjpcore.toml"
+hash = "3a5778a62e3f49ef1a920095e8d8350862e8102efd1f6e18cfd5b70fcc7fba30"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/balkons-weaponmod-legacy.pw.toml"
-hash = "99e23cccbe4f4d2feca07129974413968e47599cf040383bba6d5d9e6252c062"
+hash = "c2ee8fa436add53eca50c6664583b638bdbc3e601eddd50db06e54f147a030ab"
 metafile = true
 
 [[files]]
@@ -207,6 +207,11 @@ hash = "d510ae7625952487821377dadaa74959e22fe1b77d0071ec2d71875a8852355b"
 metafile = true
 
 [[files]]
+file = "mods/bugtorch.pw.toml"
+hash = "7c8817dd4e5a5dd88e8055ceba1ed6410a7e33826d028ace5907c5f492c88169"
+metafile = true
+
+[[files]]
 file = "mods/buildcraft-compat.pw.toml"
 hash = "eec4ca82ed84814a7e3378509d943a2eae07cada92ff173faa8bfeb7d719138b"
 metafile = true
@@ -228,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/codechickencore-unofficial.pw.toml"
-hash = "9753fe7b16d45a1c3ec44de1ccbe5433f881cedaa11006a4eb6ceaad2b55c151"
+hash = "8b0248cedea94a258f0bd184b36043f476e569f9b923e6f994e371a21bf7f547"
 metafile = true
 
 [[files]]
@@ -483,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughitems-unofficial.pw.toml"
-hash = "6ce7a9d1c24e5667e0ee0121340a7252d7eb016425e3631e3473d31c7cb5d0ce"
+hash = "793ab074a3bcd1357e09f51f2062428c00e5f5c54326076ca7bbe60972c4ae07"
 metafile = true
 
 [[files]]
@@ -542,38 +547,8 @@ hash = "9248653b48def52bff5755e6652a4821d1a6774808616d5723dbf7bbdf9f7977"
 metafile = true
 
 [[files]]
-file = "mods/project-red-compat.pw.toml"
-hash = "988aa1be6d8d25c5386d3ecb725360b1d97f9acf78b512a1c2e8d60311f5f532"
-metafile = true
-
-[[files]]
-file = "mods/project-red-core.pw.toml"
-hash = "e2c2abf9b9bb95ef5cf4f7c1a82d270c407657509831543f07e67eb3ac833316"
-metafile = true
-
-[[files]]
-file = "mods/project-red-expansion.pw.toml"
-hash = "bdc4bacc7fe9a77f7ce68c8d5f51c90d6071a28aefa2a8291f678e9cb005164c"
-metafile = true
-
-[[files]]
-file = "mods/project-red-exploration.pw.toml"
-hash = "d164fd75445b5347e0a8b6adf8e1194da45db884768f5093db0383e0a2536077"
-metafile = true
-
-[[files]]
-file = "mods/project-red-fabrication.pw.toml"
-hash = "8a4d94a0998498240d5d7a082cb286dec3a95d888e7ec4348862af5d27261d6c"
-metafile = true
-
-[[files]]
-file = "mods/project-red-illumination.pw.toml"
-hash = "04fd6d7217ed863f8cea08283babf5e12ab68bb8ac23697d02331e602eb11ee5"
-metafile = true
-
-[[files]]
-file = "mods/project-red-integration.pw.toml"
-hash = "7b9ecd33cd38232420ab71684a943538c8fb04aee92f4fe20d6878d749eaf61b"
+file = "mods/project-red.toml"
+hash = "5b03f24bcb55224c0b77aabf2763af096da3303aeb885c6ac8952f914d0a42e3"
 metafile = true
 
 [[files]]

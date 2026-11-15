@@ -1,0 +1,8 @@
+name = "Project Red"
+filename = "ProjRed-4.13.1-GTNH.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ProjectRed/releases/download/4.13.1-GTNH/ProjRed-4.13.1-GTNH.jar"
+hash-format = "sha1"
+hash = "08da7ad6668e1179d1cd6445f4c0f6d3ee364e64"
