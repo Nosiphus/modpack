@@ -593,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/thaumcraft-nei-plugin-patched.pw.toml"
-hash = "4e585032e4a92e24454f65aea1e2dbdfdbdecb8f06d11169b8e279828ea2fbf0"
+hash = "8f8529014d313035a23aaca3a9e8bfd4de912b382ef2dbc6c406da5956c5af88"
 metafile = true
 
 [[files]]
