@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IZJSgKZe/versions/2.4.2/Decocraft-2.4.2_1.7.10.jar"
-hash-format = "sha1"
-hash = "c938c6ed83627ef2160bc77b94a766e3d570e077"
+hash-format = "sha512"
+hash = "9165cb971d16a445e241f7e7e3475601bcea296d39d8c792d450e9f1465442bbd56e8a86fe80ebc33e67dcda0d447e93fafbcf4428997f83f889cc4bf00e068a"
 
 [update]
 [update.modrinth]

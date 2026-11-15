@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LUTnCekN/versions/nOg9prbL/tubestuff-59.0.4.jar"
-hash-format = "sha1"
-hash = "ab47fc5a2922ab29e7548ec52842e28d69409791"
+hash-format = "sha512"
+hash = "845cfa87de2b45946560406bb8b25075eba620eb5b7ac3144fcddb52b9008f4d07124cb69a24135f9c06f85019f91e6882e27c0ef8d5eb7146f3c0bf7db6a945"
 
 [update]
 [update.modrinth]

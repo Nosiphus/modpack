@@ -1,0 +1,8 @@
+name = "NosLabs Custom Blocks"
+filename = "noslabs-1.7.10.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/refs/heads/main/noslabs-custom-blocks/1.7.10/noslabs-1.7.10.jar"
+hash-format = "sha256"
+hash = "d8ea3f3f26dbcc17360ffec4395db30d76e63b49216510a2159ff0fdfba94fc8"

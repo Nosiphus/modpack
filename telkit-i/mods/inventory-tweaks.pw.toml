@@ -1,13 +1,15 @@
-name = "Inventory Tweaks [1.12 only] "
-filename = "InventoryTweaks-1.59-dev-152.jar"
+name = "inventory-tweaks"
+filename = "inventorytweaks-1.7.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3643e09b93e66c5690de7b9c3daa62da7789e7f5"
-mode = "metadata:curseforge"
+url = "https://github.com/GTNH-Museum/inventory-tweaks/releases/download/1.7.1/inventorytweaks-1.7.1.jar"
+hash-format = "sha256"
+hash = "55a50668db810173901a23f6790cc1d521b9228e4472c50a84e733f07fe3cff7"
 
 [update]
-[update.curseforge]
-file-id = 2210792
-project-id = 223094
+[update.github]
+branch = "master"
+regex = "^inventorytweaks-[0-9.]+(?:-GTNH)?\\.jar$"
+slug = "GTNH-Museum/inventory-tweaks"
+tag = "1.7.1"

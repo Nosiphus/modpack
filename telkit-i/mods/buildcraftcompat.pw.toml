@@ -1,0 +1,15 @@
+name = "BuildCraftCompat"
+filename = "buildcraft-compat-7.2.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/BuildCraftCompat/releases/download/7.2.0/buildcraft-compat-7.2.0.jar"
+hash-format = "sha256"
+hash = "6abb9b5184446d840408eb523fb6d81e24754c85fd44eede4cb5f176eb5acfcf"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^buildcraft-compat-[0-9.]+(?:-GTNH)?\\.jar$"
+slug = "GTNewHorizons/BuildCraftCompat"
+tag = "7.2.0"

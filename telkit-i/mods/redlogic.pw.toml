@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dYL6N6xo/versions/4d1lifVP/redlogic-59.1.13.jar"
-hash-format = "sha1"
-hash = "ab0581fa909daa8e089ac4cf4b423b597175c589"
+hash-format = "sha512"
+hash = "f2ed9b4c09d55c2fc81d4b4d86e9d89c857f278b35b34b7e688035e0b7cad7d38335e9321dcd1026ed86e597a6b6ea4cd670af55ad17fb45a2e9f8a19481928d"
 
 [update]
 [update.modrinth]

@@ -1,0 +1,13 @@
+name = "Hodgepodge"
+filename = "hodgepodge-2.8.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6QQe8Ldy/versions/KvlHWgYO/hodgepodge-2.8.3.jar"
+hash-format = "sha512"
+hash = "218053f130403902e1260621cf8cc884abf08ba915d597a4759a8e0023ae504c3de47680c6e5b2d4997ce31fb2c2b71ad884fd6d97fbabd56b237801db39d8b2"
+
+[update]
+[update.modrinth]
+mod-id = "6QQe8Ldy"
+version = "KvlHWgYO"

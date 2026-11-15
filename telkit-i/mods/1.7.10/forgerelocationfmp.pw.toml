@@ -1,0 +1,15 @@
+name = "ForgeRelocationFMP"
+filename = "ForgeRelocationFMP-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/ForgeRelocationFMP/releases/download/0.3.0/ForgeRelocationFMP-0.3.0.jar"
+hash-format = "sha256"
+hash = "57a090eda392c39a0d6ded5dbe003c3524047655f7b6b33be79cd87545fb75c5"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^ForgeRelocationFMP-[0-9.]+\\.jar$"
+slug = "GTNewHorizons/ForgeRelocationFMP"
+tag = "0.3.0"

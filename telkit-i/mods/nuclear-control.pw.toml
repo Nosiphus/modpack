@@ -1,0 +1,15 @@
+name = "Nuclear-Control"
+filename = "IC2NuclearControl-2.8.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/GTNewHorizons/Nuclear-Control/releases/download/2.8.1/IC2NuclearControl-2.8.1.jar"
+hash-format = "sha256"
+hash = "65603a5377381c32d65e13bc6915ec98496c37e4776f5ad407c4df5401fad9e2"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^IC2NuclearControl-[0-9.]+(?:-GTNH)?\\.jar$"
+slug = "GTNewHorizons/Nuclear-Control"
+tag = "2.8.1"

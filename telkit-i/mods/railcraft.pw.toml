@@ -1,13 +1,15 @@
 name = "Railcraft"
-filename = "Railcraft_1.7.10-9.12.2.1.jar"
+filename = "Railcraft-9.18.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1c7283767376aebcac41d97739f36765c8357d97"
-mode = "metadata:curseforge"
+url = "https://github.com/GTNewHorizons/Railcraft/releases/download/9.18.1/Railcraft-9.18.1.jar"
+hash-format = "sha256"
+hash = "7f17174641d20940895e4cbfaa020d9d66ce287be750fff026c8c5ce0127cefa"
 
 [update]
-[update.curseforge]
-file-id = 2458987
-project-id = 51195
+[update.github]
+branch = "master"
+regex = "^Railcraft-[0-9.]+(?:-GTNH)?\\.jar$"
+slug = "GTNewHorizons/Railcraft"
+tag = "9.18.1"

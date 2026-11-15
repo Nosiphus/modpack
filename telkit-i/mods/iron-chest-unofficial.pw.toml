@@ -1,13 +1,13 @@
 name = "Iron Chest Unofficial"
-filename = "IronChest-6.1.13.jar"
+filename = "IronChest-6.2.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6ecde95b3dc3c2f73213980686b136cd09b999e8"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/VNJFvdp5/versions/k4ghtMzk/IronChest-6.2.0.jar"
+hash-format = "sha512"
+hash = "eb0d57833df724f6895110faa23c7fcda2cc4c3661f347ebe88edd49e97dea6bd1a07fe0e59129f91ea57fa7bca4c871576a5fdeb18d01ac6206d2e09b802607"
 
 [update]
-[update.curseforge]
-file-id = 8076504
-project-id = 1095442
+[update.modrinth]
+mod-id = "VNJFvdp5"
+version = "k4ghtMzk"

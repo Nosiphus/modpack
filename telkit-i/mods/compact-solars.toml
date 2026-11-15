@@ -3,6 +3,6 @@ filename = "CompactSolars-1.7.10-4.4.41.316-universal.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Nosiphus/legacy-mods/raw/main/compact-solars/1.7.10/CompactSolars-1.7.10-4.4.41.316-universal.jar"
-hash-format = "sha1"
-hash = "7d00c5f57235cd907187d162014ff9e4f531d62e"
+url = "https://github.com/Nosiphus/legacy-mods/raw/refs/heads/main/compact-solars/1.7.10/CompactSolars-1.7.10-4.4.41.316-universal.jar"
+hash-format = "sha256"
+hash = "45c270e1a3df1646bdc4bff3c1159cf3dea609258a28374fa12ccc5412b91c42"

@@ -3,6 +3,6 @@ filename = "Thaumcarpentry-0.0.1.5-1.7.10.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Nosiphus/legacy-mods/raw/main/thaumcarpentry/1.7.10/Thaumcarpentry-0.0.1.5-1.7.10.jar"
-hash-format = "sha1"
-hash = "7e02e820e7882cbfd164be8202b61c1667b77760"
+url = "https://github.com/Nosiphus/legacy-mods/raw/refs/heads/main/thaumcarpentry/1.7.10/Thaumcarpentry-0.0.1.5-1.7.10.jar"
+hash-format = "sha256"
+hash = "5aebb96e808e8f75bc4b363b21dc8d3fa8989d244bb6d5a4f20596450ed26a00"
