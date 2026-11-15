@@ -352,6 +352,11 @@ hash = "c9e0b89f9e636cba2cd40a2a95627e492ddd585672d9a8372d709ca6ea3bbba0"
 metafile = true
 
 [[files]]
+file = "mods/gtnhlib.pw.toml"
+hash = "01c2047436d2e08599c1a3129304abc689b0ae4167517ac5548c7c9e10f26cc9"
+metafile = true
+
+[[files]]
 file = "mods/hats.pw.toml"
 hash = "d9f0ffbbc7e489a1729ea1db007cf589dc28495210a8640175dc415f26e2b65e"
 metafile = true
@@ -402,13 +407,8 @@ hash = "2e27c004a295107a50d13f971dac0f5d5b81851fd3933a25a6a08a2763ac1a5e"
 metafile = true
 
 [[files]]
-file = "mods/malisiscore.pw.toml"
-hash = "4b41a8eb5c73f765d22e35e9893f477bdd220903f3cf338bfa3151dfd56cd457"
-metafile = true
-
-[[files]]
-file = "mods/malisisdoors.pw.toml"
-hash = "6d781cd762ff20876b2624930258c8a63ec8a9a0826005c973842201729faf25"
+file = "mods/malisisdoors.toml"
+hash = "c6199a8528619add2700b067e51f27300755b96654fe2f1228290008202ba838"
 metafile = true
 
 [[files]]
