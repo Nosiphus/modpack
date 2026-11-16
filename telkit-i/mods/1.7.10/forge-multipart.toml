@@ -1,0 +1,8 @@
+name = "Forge Multipart"
+filename = "ForgeMultipart-1.7.10-1.2.0.347-universal.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nosiphus/legacy-mods/raw/main/forge-multipart/1.7.10/ForgeMultipart-1.7.10-1.2.0.347-universal.jar"
+hash-format = "sha1"
+hash = "4194ddc2bbbe7d09fb6497cf076e659be0e3731f"

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/r7tyeVvQ/versions/tc473jXB/ComputerCraft1.75.jar"
-hash-format = "sha512"
-hash = "40556600281eb375586cc95280feeb622928e2ad1365018a45af96111efc31c81016e6049629739f6213a04a703b65bbb5b8dcae1230af47326bd446ca661204"
+hash-format = "sha1"
+hash = "33831bf257d88a4e2a52da10e56c9a950a07c441"
 
 [update]
 [update.modrinth]

@@ -1,0 +1,8 @@
+name = "DaFlight"
+filename = "mod_DaFlight_2.4.r9_mc1.7.10.litemod"
+side = "client"
+
+[download]
+url = "https://github.com/DaFlight/DaFlightLiteloader/releases/download/Latest/mod_DaFlight_2.4.r9_mc1.7.10.litemod"
+hash-format = "sha1"
+hash = "d683c0d65870ae030d1a1d4a9d83276479b6c10d"

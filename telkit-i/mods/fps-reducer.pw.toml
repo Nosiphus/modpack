@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/iZ10HXDj/versions/KkQ36LBj/FpsReducer-mc1.7.10-1.10.3.jar"
-hash-format = "sha512"
-hash = "46d7dd2ebd2ed35ef61f1cae53a8fe58a3fd8d28f0267dfd999041e3df4e67e656e3cdaef76bc139419dc6df78b4dde059306ccc9569e2b1302ee4feb103a51d"
+hash-format = "sha1"
+hash = "05782dc663eec3a38c920400f96c43e8c8be6dcb"
 
 [update]
 [update.modrinth]

@@ -1,15 +1,13 @@
 name = "MalisisDoors"
-filename = "malisisdoors-1.20.0-GTNH.jar"
+filename = "malisisdoors-1.7.10-1.13.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/MalisisDoors/releases/download/1.20.0-GTNH/malisisdoors-1.20.0-GTNH.jar"
-hash-format = "sha256"
-hash = "d88b3d1764f4e13a2f30098b08c2db5ee1d10a8ab1099a104f62599f92980357"
+hash-format = "sha1"
+hash = "807b996f029ea3e09dd578c1d97f8ea95ecf49f9"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^malisisdoors-[0-9.]+-GTNH\\.jar$"
-slug = "GTNewHorizons/MalisisDoors"
-tag = "1.20.0-GTNH"
+[update.curseforge]
+file-id = 2284380
+project-id = 223891

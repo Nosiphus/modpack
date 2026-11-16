@@ -1,15 +1,13 @@
 name = "EnderCore"
-filename = "endercore-0.6.0.jar"
+filename = "EnderCore-1.7.10-0.2.0.40_beta.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/EnderCore/releases/download/0.6.0/endercore-0.6.0.jar"
-hash-format = "sha256"
-hash = "a2a8a912614cc04185154053e7522e51467d14579ccc98fd7fc73ad075293358"
+hash-format = "sha1"
+hash = "f8fd9953d5dacc7ec684221157e8a4066d1960af"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^endercore-[0-9.]+(?:-GTNH)?\\.jar$"
-slug = "GTNewHorizons/EnderCore"
-tag = "0.6.0"
+[update.curseforge]
+file-id = 4671288
+project-id = 231868

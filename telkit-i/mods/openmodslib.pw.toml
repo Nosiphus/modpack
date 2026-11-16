@@ -1,15 +1,13 @@
 name = "OpenModsLib"
-filename = "OpenModsLibs-0.10.15.jar"
+filename = "OpenModsLib-1.7.10-0.10.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/OpenModsLib/releases/download/0.10.15/OpenModsLibs-0.10.15.jar"
-hash-format = "sha256"
-hash = "b9bd3adacea71cb2c4c52143d513d2570fd33e9d5ac7a071c7e94edbfb1ed283"
+hash-format = "sha1"
+hash = "208922b8f7983aa2a0ad21fae3459439a6a79e95"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^OpenModsLibs-[0-9.]+\\.jar$"
-slug = "GTNewHorizons/OpenModsLib"
-tag = "0.10.15"
+[update.curseforge]
+file-id = 2765573
+project-id = 228815

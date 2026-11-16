@@ -1,15 +1,13 @@
 name = "MrTJPCore"
-filename = "MrTJPCore-1.4.1.jar"
+filename = "MrTJPCore-1.1.0.33-universal.jar"
 side = "both"
 
 [download]
-url = "https://github.com/GTNewHorizons/MrTJPCore/releases/download/1.4.1/MrTJPCore-1.4.1.jar"
-hash-format = "sha256"
-hash = "1db8c710ab0cdcb7aa4236fe483d68841fd5690d02a75fc978e1b45ca8b4de50"
+hash-format = "sha1"
+hash = "298e36a519b4c4466c82dcc95e6343579090b13a"
+mode = "metadata:curseforge"
 
 [update]
-[update.github]
-branch = "master"
-regex = "^MrTJPCore-[0-9.]+\\.jar$"
-slug = "GTNewHorizons/MrTJPCore"
-tag = "1.4.1"
+[update.curseforge]
+file-id = 2279413
+project-id = 229002

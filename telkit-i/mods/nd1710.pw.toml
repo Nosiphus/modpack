@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/YRBOv8ax/versions/oH3EUhNk/neodymium-mc1.7.10-0.4.3-unofficial.jar"
-hash-format = "sha512"
-hash = "b5a42fe3bc4180450e7bf228566806a9ea639d221ff1679d434f5dfe1a891b4258127fbf5910315be27ad6412e1898b5c81f9bdb958fc44c31724e1ca6803e69"
+hash-format = "sha1"
+hash = "1a3bb0c418ab0b3e4c9b38c553f097ccdc407227"
 
 [update]
 [update.modrinth]

@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/FlansMods/FlansMod/releases/download/v4.10.0/Flan.s.Mod-1.7.10-4.10.0.jar"
-hash-format = "sha256"
-hash = "e9114cfd7ca39b96a32cc622f62ec43dd445a15d8dd7f9ce675930f4bfccdf8b"
+hash-format = "sha1"
+hash = "72b0f7cd4cd1a22e634ef2a36992e71781d2a6cb"
