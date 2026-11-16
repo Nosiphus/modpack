@@ -1105,7 +1105,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "3f227d1a8d6fd5ec64280173965653a4c426bbc2d45054c7ad462fa7bf729554"
+hash = "dcb7e97ce31857dd53a4e97688a26f71b9605f5e42fa32ee6b4dbfba9a8b3cc7"
 metafile = true
 
 [[files]]
