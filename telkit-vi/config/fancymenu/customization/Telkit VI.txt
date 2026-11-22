@@ -688,7 +688,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 36502c92-986e-4957-9d56-49f92c17cd19-1707145805496
-  [executable_action_instance:70323ad7-a3e0-42c5-ab0d-2327de8d4d93-1707145805496][action_type:openlink] = https://www.nosiphus.com/minecraft/modpacks/telkit-v
+  [executable_action_instance:70323ad7-a3e0-42c5-ab0d-2327de8d4d93-1707145805496][action_type:openlink] = https://www.nosiphus.com/minecraft/modpacks/telkit-vi
   [executable_block:36502c92-986e-4957-9d56-49f92c17cd19-1707145805496][type:generic] = [executables:70323ad7-a3e0-42c5-ab0d-2327de8d4d93-1707145805496;]
   underline_label_on_hover = false
   transparent_background = false
@@ -775,7 +775,7 @@ element {
 
 element {
   interactable = true
-  source = Telkit VI: Sunday, November 15, 2026%n%Newest PureBDcraft Patch Collection: Thursday, November 5, 2026
+  source = Telkit VI: Saturday, November 21, 2026%n%Newest PureBDcraft Patch Collection: Thursday, November 5, 2026
   source_mode = direct
   shadow = true
   enable_scrolling = false
@@ -2625,4 +2625,3 @@ vanilla_button {
   automated_button_clicks = 0
   is_hidden = false
 }
-
