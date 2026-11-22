@@ -799,6 +799,11 @@ hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "f1fecbcbee6806a14efb3bd38ccf10166b48004967fbe72b6c31224e5e9fc5ea"
+metafile = true
+
+[[files]]
 file = "mods/mffs.pw.toml"
 hash = "cbb97d208992ad82e0fb557d6cf082b37da03e57f3afcc2c29472d8e73a0bf62"
 metafile = true
