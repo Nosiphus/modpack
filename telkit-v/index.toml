@@ -695,6 +695,11 @@ hash = "73a93b4330ade2e4507fb5673f1a794c74c1a1bb4abf1c53212af95480a264fe"
 metafile = true
 
 [[files]]
+file = "mods/kelvin-vs.pw.toml"
+hash = "2e044c5679d9c5e9112b8567069f6c8bd180d32743067c96348ffcda6d66b964"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "5f1195cdbdc820a5e98e5d845d8879194334fcaddeaa04d60e1f610687f681a3"
 metafile = true
