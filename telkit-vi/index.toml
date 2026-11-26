@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "96f73cff6eb6ca4d4b1bedffa083970d04b51457db1dc63a98aa934bfa4e0c6d"
+hash = "0058933d8c4f7f49bffee81799feb68d557e3b805dcbd48a0263c81acd707a11"
 metafile = true
 
 [[files]]
@@ -895,7 +895,7 @@ metafile = true
 
 [[files]]
 file = "mods/nosiphus-furniture-mod.pw.toml"
-hash = "ceef1ff3b1764b759d1afd10d0da58d6aad3ff5eff29477f786ba800bc46ad07"
+hash = "85a0f3466df9639f71de3168b74e3df01966251e1230b88867d6d72a430a1662"
 metafile = true
 
 [[files]]
