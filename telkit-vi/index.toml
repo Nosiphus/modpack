@@ -38,7 +38,7 @@ hash = "5858563a55b6f41825d5c45779d17a2af51ac97fc74bd7d746bfed02e5fcff26"
 
 [[files]]
 file = "config/fancymenu/customization/Telkit VI.txt"
-hash = "0a94abaca49f83fa841b6a4fbf221c9f90a2af236d70e19e7dd194e83c66cb5d"
+hash = "a0a17d08a59afdce3405a7a4da0ff52fc1f5f1fac3aeb244d628407938c42539"
 
 [[files]]
 file = "config/fancymenu/customization/chat_screen_layout.txt"
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
+hash = "c4f2a9678acf67122dbe6d8bc8c641503cc274305a3d62d86d6ba20d5fb28154"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "0a933e834f0f816c326d0abeafaf1aa60310e2a5bc89bc67826cd1ffffce19c9"
+hash = "90c779c96cbee752edc819258caaa6912d8decaff4befc66a0ec170b24a3fdd1"
 metafile = true
 
 [[files]]
